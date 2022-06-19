@@ -2,4 +2,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: About SKSS
     url: /about-skss/school-history
-    sublinks: []
+    sublinks:
+      - title: Principal's Message
+        url: /about-skss/principals-message
