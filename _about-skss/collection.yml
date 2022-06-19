@@ -1,9 +1,0 @@
-collections:
-  about-skss:
-    output: true
-    order:
-      - School History.md
-      - Principal's Message.md
-      - Vision, Mission and Values.md
-      - School Song.md
-      - Contact Us.md
