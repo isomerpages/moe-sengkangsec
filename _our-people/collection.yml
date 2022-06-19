@@ -2,5 +2,6 @@ collections:
   our-people:
     output: true
     order:
+      - School Advisory Committee/.keep
       - Steering Committee.md
       - Our People.md
