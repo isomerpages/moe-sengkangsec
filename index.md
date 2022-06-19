@@ -9,13 +9,6 @@ sections:
   - hero:
       title: Seng Kang Secondary School
       background: /images/hero-banner.png
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
