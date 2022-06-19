@@ -1,4 +1,5 @@
 collections:
   about-skss:
     output: true
-    order: []
+    order:
+      - Yeet/.keep
