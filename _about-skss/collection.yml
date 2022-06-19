@@ -2,5 +2,6 @@ collections:
   about-skss:
     output: true
     order:
+      - Vision, Mission and Values.md
       - Principal's Message.md
       - School History.md
