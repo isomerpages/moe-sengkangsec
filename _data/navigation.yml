@@ -26,4 +26,10 @@ links:
         url: /achievements/staff-achievements
   - title: Curriculum
     url: /curriculum/instructional-programme-ip
-    sublinks: []
+    sublinks:
+      - title: Instructional Programme
+        url: /curriculum/instructional-programme-ip
+      - title: Applied Learning Programme
+        url: /curriculum/applied-learning-programme-alp
+      - title: Learning For Life Programme
+        url: /curriculum/learning-for-life-programme-llp
