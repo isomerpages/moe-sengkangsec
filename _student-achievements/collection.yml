@@ -2,5 +2,6 @@ collections:
   student-achievements:
     output: true
     order:
+      - Our CCA Achievements/Our CCA Achievements.md
       - Our CCA Achievements/.keep
       - Student Achievements.md
