@@ -15,3 +15,8 @@ links:
         url: /about-skss/our-people
       - title: Contact Us
         url: /about-skss/contact-us
+  - title: Achievements
+    url: /achievements/school-achievements
+    sublinks:
+      - title: School Achievements
+        url: /achievements/school-achievements
