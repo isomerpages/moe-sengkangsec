@@ -1,2 +1,5 @@
 logo: /images/isomer-logo.svg
-links: []
+links:
+  - title: About SKSS
+    url: /about-skss/school-history
+    sublinks: []
