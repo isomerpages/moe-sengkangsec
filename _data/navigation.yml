@@ -3,5 +3,7 @@ links:
   - title: About SKSS
     url: /about-skss/school-history
     sublinks:
+      - title: School History
+        url: /about-skss/school-history
       - title: Principal's Message
         url: /about-skss/principals-message
