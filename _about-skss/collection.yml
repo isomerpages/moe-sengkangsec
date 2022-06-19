@@ -2,4 +2,5 @@ collections:
   about-skss:
     output: true
     order:
+      - Principal's Message.md
       - School History.md
