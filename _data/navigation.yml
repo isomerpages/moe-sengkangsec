@@ -24,3 +24,6 @@ links:
         url: /achievements/student-achievements
       - title: Staff Achievements
         url: /achievements/staff-achievements
+  - title: Curriculum
+    url: /curriculum/instructional-programme-ip
+    sublinks: []
