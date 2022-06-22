@@ -11,4 +11,5 @@ description: ""
 **Lyrics:** Mr Roger Jenkins<br>
 **Music By:** Miss Eunice Lee
 
-![](/images/ABOUT%20SKSS/School%20Song.png)
+<img src="/images/ABOUT%20SKSS/School%20Song.png"  
+     style="width:80%">
