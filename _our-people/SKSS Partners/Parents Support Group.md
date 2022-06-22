@@ -60,3 +60,11 @@ If you are interested to join the PSG, please sign up using the following form:Â
 
 <img src="/images/ABOUT%20SKSS/PSG%20Member%20QR%20Code.png"  
      style="width:25%">
+		 
+
+**<font size=5>Teacher in Charge Contact List</font>**<br>
+For more information on Parents in Partnership Programme or Parent Support Group, please contact the following teacher-in-charge.
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#B0B0B0;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#B0B0B0">Name</span></th><th style="background-color:#B0B0B0;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#B0B0B0">Email Address</span></th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Mr Pan Jingliu</span></td><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#21088A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><a href="mailto:zurinawati_jumahat@moe.edu.sg"><span style="text-decoration:none;color:#21088A">pan_jingliu@moe.edu.sg</span></a></td></tr></tbody></table>
+
+**<font size=5>SKSS PSG Ignite & Unite</font>**<br>
+An effort from SKSS to keep all PSG parents stay connected, ignited and united, SKSS PSG Ignite & Unite was launched to share ideas which we can inspire, ignite and excite one another till the PSG parents meet face to face in SKSS again.
