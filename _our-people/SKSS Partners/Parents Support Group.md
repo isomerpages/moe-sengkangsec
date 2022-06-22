@@ -70,4 +70,7 @@ For more information on Parents in Partnership Programme or Parent Support Group
 **<font size=5>SKSS PSG Ignite & Unite</font>**<br>
 An effort from SKSS to keep all PSG parents stay connected, ignited and united, SKSS PSG Ignite & Unite was launched to share ideas which we can inspire, ignite and excite one another till the PSG parents meet face to face in SKSS again.
 
-<img src="/images/Principals%20Message%202022%20March.jpg" style="width:183px;height:240px;margin-left:15px;" align = "left">
+<img src="/images/ABOUT%20SKSS/Angelina%20Cathlyn%20s1-5.jpeg" style="width:220px;height:240px;margin-right:15px;" align = "left">
+
+
+Angelina Cathlyn s1-5 baking chocolate chip cookies for her family 💕💕posted by daddy Benny
