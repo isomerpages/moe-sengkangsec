@@ -9,7 +9,8 @@ third_nav_title: SKSS Partners
 
 **<font size=5>Parents Support Group</font>**
 
-![](/images/ABOUT%20SKSS/Parents%20Support%20Group.png)
+<img src="/images/ABOUT%20SKSS/Parents%20Support%20Group.png"  
+     style="width:40%">
 
 **<font size=5>Vision</font>**<br>
 To partner with every parent in developing each child holistically and effectively.
@@ -59,7 +60,7 @@ The PSG members can be involved in various activities over the course of each ac
 If you are interested to join the PSG, please sign up using the following form: [https://tinyurl.com/SKSSPSG2021](https://tinyurl.com/SKSSPSG2021)
 
 <img src="/images/ABOUT%20SKSS/PSG%20Member%20QR%20Code.png"  
-     style="width:25%">
+     style="width:20%">
 		 
 
 **<font size=5>Teacher in Charge Contact List</font>**<br>
