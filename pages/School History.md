@@ -8,8 +8,7 @@ description: ""
 
 **<font size="5">School History</font>**
 
-Our Beginning: A New Secondary School in Sengkang New Town
-
+Our Beginning: A New Secondary School in Sengkang New Town <br>
 Seng Kang Secondary School was established on 04 January 1999, making it the first secondary school in the Sengkang housing estate.
 
 The school was first located in the former premises of Hai Sing Girls’ High at 1192 Upper Serangoon Road until 12 March 1999, before it moved to its present site at 10 Compassvale Lane. The school was built at a cost of $23 million, on 3 hectares of land. It was officially opened by Mr Lee Yock Suan, the then Minister for Information and the Arts on 14 July 2001.
