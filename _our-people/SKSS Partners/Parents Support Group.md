@@ -57,3 +57,6 @@ The PSG members can be involved in various activities over the course of each ac
 
 **<font size=5>PSG Members Registration Link</font>**<br>
 If you are interested to join the PSG, please sign up using the following form: [https://tinyurl.com/SKSSPSG2021](https://tinyurl.com/SKSSPSG2021)
+
+<img src="/images/ABOUT%20SKSS/PSG%20Member%20QR%20Code.png"  
+     style="width:25%">
