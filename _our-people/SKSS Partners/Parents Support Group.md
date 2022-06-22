@@ -68,3 +68,5 @@ For more information on Parents in Partnership Programme or Parent Support Group
 
 **<font size=5>SKSS PSG Ignite & Unite</font>**<br>
 An effort from SKSS to keep all PSG parents stay connected, ignited and united, SKSS PSG Ignite & Unite was launched to share ideas which we can inspire, ignite and excite one another till the PSG parents meet face to face in SKSS again.
+
+<img src="/images/Principals%20Message%202022%20March.jpg" style="width:183px;height:240px;margin-left:15px;" align = "left">
