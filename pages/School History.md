@@ -31,3 +31,4 @@ Seng Kang Secondary School held its official opening on the 14th of July 2001. T
 
 ![](/images/School%20History/Sch-Crest_hi.png)
 
+The anchor represents the Sengkang district which was once a harbour. It also signifies the school’s determination to anchor to its beliefs. The anchor and rope combine to form the initials of the school, Seng Kang Secondary. At the base of the anchor is the school motto, ‘Breakthrough’ which reflects the undaunting and tireless spirit of the school in its continuous search for new ideas to improve itself.
