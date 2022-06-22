@@ -72,5 +72,31 @@ An effort from SKSS to keep all PSG parents stay connected, ignited and united, 
 
 <img src="/images/ABOUT%20SKSS/Angelina%20Cathlyn%20s1-5.jpeg" style="width:220px;height:240px;margin-right:15px;" align = "left">
 
-
 Angelina Cathlyn s1-5 baking chocolate chip cookies for her family 💕💕posted by daddy Benny
+<br><br><br><br><br>
+
+<img src="/images/ABOUT%20SKSS/Clarence%202-3.jpeg" style="width:220px;height:240px;margin-right:15px;" align = "left">
+
+Video chatting with Mother/Granny for updates. Posted by Sally (Clarence S2-3)
+<br><br><br><br><br>
+
+<img src="/images/ABOUT%20SKSS/s2-3%20Shanice.jpeg" style="width:220px;height:280px;margin-right:15px;" align = "left">
+
+A simple heart shape cupcake with lots of laughter ❤️❤️posted by Ivy, mummy of S2-3 Shanice & Shania 😊
+<br><br><br><br><br><br>
+
+<img src="/images/ABOUT%20SKSS/Sheyenne%20s2-5.jpg" style="width:200px;height:350px;margin-right:15px;" align = "left">
+
+Sheyenne S2-5 and sister preparing lunch together. Posted by mum Susan
+<br><br><br><br><br><br><br><br><br>
+
+
+<img src="/images/ABOUT%20SKSS/Xavier%20S2-1.jpeg" style="width:220px;height:350px;margin-right:15px;" align = "left">
+Master Chef Markus and Son Xavier (S2-1) 👏🏻👏🏻👏🏻👏🏻👍🏻👍🏻
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<img src="/images/ABOUT%20SKSS/Mdm%20Sheela.jpeg" style="width:220px;height:220px;margin-right:15px;" align = "left">
+Bonding Activity with my daughter. Paper plate painting for home deco😀 Posted by PSG Teacher Mdm Sheela
+
+
+
