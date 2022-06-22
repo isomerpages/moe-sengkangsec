@@ -102,7 +102,7 @@ Bonding Activity with my daughter. Paper plate painting for home deco😀 Posted
 <img src="/images/ABOUT%20SKSS/Mrs%20Betsy%20Tan.png" style="width:300px;height:220px;margin-right:15px;" align = "left">
 My bonding activity with my girl. Posted by PSG Teacher IC Mrs Betsy Tan
 
-<br><br><br><br><br>
+<br><br><br><br>
 **<font size=5>Event Photos</font>**
 
 INSERT SLIDE SHOW HERE
