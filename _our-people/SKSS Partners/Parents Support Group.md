@@ -97,3 +97,6 @@ Master Chef Markus and Son Xavier (S2-1) 👏🏻👏🏻👏🏻👏🏻👍�
 <img src="/images/ABOUT%20SKSS/Mdm%20Sheela.jpeg" style="width:220px;height:220px;margin-right:15px;" align = "left">
 Bonding Activity with my daughter. Paper plate painting for home deco😀 Posted by PSG Teacher Mdm Sheela
 
+<br>
+<img src="/images/ABOUT%20SKSS/Mrs%20Betsy%20Tan.png" style="width:300px;height:220px;margin-right:15px;" align = "left">
+My bonding activity with my girl. Posted by PSG Teacher IC Mrs Betsy Tan
