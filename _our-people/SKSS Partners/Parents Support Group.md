@@ -93,7 +93,7 @@ Sheyenne S2-5 and sister preparing lunch together. Posted by mum Susan
 
 <img src="/images/ABOUT%20SKSS/Xavier%20S2-1.jpeg" style="width:220px;height:350px;margin-right:15px;" align = "left">
 Master Chef Markus and Son Xavier (S2-1) 👏🏻👏🏻👏🏻👏🏻👍🏻👍🏻
-<br><br><br><br><br><br><br><br><br><br><br><br>
-<br>
+<br><br><br><br><br><br><br><br><br><br>
 <img src="/images/ABOUT%20SKSS/Mdm%20Sheela.jpeg" style="width:220px;height:220px;margin-right:15px;" align = "left">
 Bonding Activity with my daughter. Paper plate painting for home deco😀 Posted by PSG Teacher Mdm Sheela
+
