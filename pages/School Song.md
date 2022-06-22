@@ -8,8 +8,7 @@ description: ""
 
 **<font size="5">School Song</font>**
 
-**Lyrics:** Mr Roger Jenkins
-
+**Lyrics:** Mr Roger Jenkins<br>
 **Music By:** Miss Eunice Lee
 
 ![](/images/ABOUT%20SKSS/School%20Song.png)
