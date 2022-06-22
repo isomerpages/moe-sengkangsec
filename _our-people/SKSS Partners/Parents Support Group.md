@@ -10,7 +10,7 @@ third_nav_title: SKSS Partners
 **<font size=5>Parents Support Group</font>**
 
 <img src="/images/ABOUT%20SKSS/Parents%20Support%20Group.png"  
-     style="width:40%">
+     style="width:35%">
 
 **<font size=5>Vision</font>**<br>
 To partner with every parent in developing each child holistically and effectively.
