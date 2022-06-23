@@ -56,6 +56,8 @@ On August 18th 2021, we are delighted that our dancers was featured in the news 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 **<font size=5>Best Budding Writers' Award 2019</font>**
 
+Our SKY from class 1-3, Sakinah Banu clinched Best Budding Writers' Award at National Level Nanum Oru Padaipali - Gold Award!
+
 ![](/images/Achievements/Sakinah%20Banu%201-3%202019.jpg)
 
 **<font size=5>Asia Oceania Geographical Society - Earth Observatory Observatory of Singapore (EOS) International Geoscience Challenge 2019</font>**
