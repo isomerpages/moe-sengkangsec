@@ -51,9 +51,9 @@ Five students, their names as follow: **Mohammed Aiman Zulkhair Bin Mohammed Go
 
 On August 18th 2021, we are delighted that our dancers was featured in the news for their resilience and commitment in training for their NDP Celebrations Performance. [Low Yi Jing, the President of the Dance CCA was interviewed and featured on the TV on Channel 8](https://sengkangsec.moe.edu.sg/qql/slot/u159/2019/Achievements/Student%20Achievements/NDP%202021/SKY%20Dancers%20NDP2021.mp4), an article on Straits Time. Our 10 dancers selected for the performance was also featured on Channel News Asia. Please look out for our dancers on TV where they will be featured at the NDP Celebrations this Saturday.
 
-<img src="/images/Achievements/SKY%20Dancers%20NDP2021%20a.jpeg" style="width:300px;height:400px;margin-right:15px;" align = "left">
+<img src="/images/Achievements/SKY%20Dancers%20NDP2021%20a.jpeg" style="width:400px;height:500px;margin-right:15px;" align = "left">
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 **<font size=5>Best Budding Writers' Award 2019</font>**
 
 ![](/images/Achievements/Sakinah%20Banu%201-3%202019.jpg)
