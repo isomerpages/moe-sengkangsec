@@ -47,6 +47,7 @@ Five students, their names as follow: **Mohammed Aiman Zulkhair Bin Mohammed Go
 
 **<font size=5>Dancers at National Day Parade 2021</font>**
 
-<img src="/images/Achievements/SKY%20Dancers%20NDP2021.jpeg" style="width:180px;height:320px;margin-left:15px;" align = "right">
+<img src="/images/Achievements/SKY%20Dancers%20NDP2021.jpeg" style="width:250px;height:600px;margin-left:15px;" align = "right">
 
 On August 18th 2021, we are delighted that our dancers was featured in the news for their resilience and commitment in training for their NDP Celebrations Performance. [Low Yi Jing, the President of the Dance CCA was interviewed and featured on the TV on Channel 8](https://sengkangsec.moe.edu.sg/qql/slot/u159/2019/Achievements/Student%20Achievements/NDP%202021/SKY%20Dancers%20NDP2021.mp4), an article on Straits Time. Our 10 dancers selected for the performance was also featured on Channel News Asia. Please look out for our dancers on TV where they will be featured at the NDP Celebrations this Saturday.
+![](/images/Achievements/SKY%20Dancers%20NDP2021%20a.jpeg)
