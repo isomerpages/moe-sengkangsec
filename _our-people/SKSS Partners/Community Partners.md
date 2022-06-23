@@ -20,3 +20,22 @@ It takes a village to achieve better health together and that village begins wit
   
 
 As part of the Seng Kang village,, Seng Kang Secondary School becomes one of the official partners with the SKH and SKCH in mid 2018. Since then, we actively participate in the hospital's various key events and our students volunteer in aspects in helping the hospitals to build a healthier community in the North-East of Singapore.
+
+**<font size=5>Community Partners Flagship Programme</font>**
+
+
+**SchoolARTS@SK Campus**<br>
+SKH believes we can harness the restorative and recuperative power of the arts to help patients, staff and members of the community heal better. As such SKH incorporates the arts holistically into their approach to patient care with the healing process.
+
+Our talented students made their contributions by putting up lunchtime concerts at SKH, performing a repertoire of songs which help to boost the health of the patients and visitors.
+
+  
+
+**Values in Action @ SKCH**<br>
+Our students showed their kindness and concern to the patients at Sengkang Community Hospital by volunteering at the wards. The students aim is to engage the patients actively and liven up the atmosphere in the wards by inviting patients to participate in various activities which the students have provided. These activities often bring joy to patients and provide aid in their recovery process.
+
+**<font size=5>Teacher in Charge Contact List</font>**
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#B0B0B0;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#B0B0B0">Name</span></th><th style="background-color:#B0B0B0;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#B0B0B0">Email Address</span></th></tr></thead><tbody><tr><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Ms Debbie Gan</span></td><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#21088A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><a href="mailto:gan_wei_chin_debbie@moe.edu.sg"><span style="text-decoration:none;color:#21088A">gan_wei_chin_debbie@moe.edu.sg</span></a></td></tr><tr><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Mr Leong Kok Wai</span></td><td style="background-color:#EAEAEA;border-color:black;border-style:solid;border-width:1px;color:#21088A;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><a href="mailto:leong_kok_wai@moe.edu.sg"><span style="text-decoration:none;color:#21088A">leong_kok_wai@moe.edu.sg</span></a></td></tr></tbody></table>
+
+
+Insert Slide Show Here
