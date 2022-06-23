@@ -90,13 +90,13 @@ My future looks like this. I am rushing around my bedroom, snatching essentials 
 
 I have no idea what lies ahead for me. I have neither a plan nor a sure-fire goal for my future. The future is an ominous expanse of infinite possibilities. Every single moment beyond the one I currently exist in, is a mystery. I am an open-minded person, I believe in the idea that anything is possible. And because of this, every bad thing is also possible. That is why I have written my future like this, with the good, the bad and the ugly. I am not trying to jinx myself with the incredibly undesirable possibilities I have written, I know things will not always go my way. Or maybe they will. Either way, it is perfectly fine to be wary of the future. Ultimately, it is not what one will do in the future that counts, what counts is what one does now. Now, am I ready for my future? No, I am not. Yet at the same time, I have never been more ready for anything
 
-<img src="/images/Achievements/Roiel%20Michael%20T%20Alemania.png" style="width:183px;height:320px;margin-right:15px;" align = "left">
+<img src="/images/Achievements/Roiel%20Michael%20T%20Alemania.png" style="width:230px;height:420px;margin-right:15px;" align = "left">
 
 Written by:
 
 Roiel Michael T. Alemania  
 Class 4-2 (2018)
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 **<font size=5>Against All Odds</font>**
 
