@@ -31,4 +31,22 @@ We also like to congratulate Siti Nur Zhafirah, Company Leader of the Girl Guide
 
 Congratulations Darrell and Zhafirah! SKSS is very proud of your achievements & all the best in your future pursuits.
 
-![](/images/Achievements/Darrell%20Wee.png)
+![](/images/Achievements/Darrell%20Wee.png)![](/images/Achievements/Darrell.jpg)
+![](/images/Achievements/Siti%20Nur%20Zhafirah.png)
+![](/images/Achievements/Siti%20Nur%20Zhafirah.jpg)
+
+**<font size=5>Nutri-Booster Competition</font>**
+
+This year, the Nutrition and Food Science Department participated in the Nutri-Booster Competition 2021 organised by Science  
+Centre Singapore and Republic Polytechnic. The objective of the competition was to create one nutritious dish and one dietary supplement for the individual stated in the given scenario to boost overall health  
+  
+
+Five students, their names as follow: **Mohammed Aiman Zulkhair Bin Mohammed Goh Dong Ce, Cipher Loh Yu Wei, Kyran Vaanisri D/O Parameswaran Tan Jing Hui, Karrise** from Secondary 3-7 represented our school in the competition. The SKSS team emerged Champions for the competition and did the school proud! Congratulations to the team!
+
+![](/images/Achievements/Nutri%20booster%20comp.png)![](/images/Achievements/Nutri%20booster%20comp%202.jpg)
+
+**<font size=5>Dancers at National Day Parade 2021</font>**
+
+<img src="/images/Achievements/SKY%20Dancers%20NDP2021.jpeg" style="width:180px;height:320px;margin-left:15px;" align = "right">
+
+On August 18th 2021, we are delighted that our dancers was featured in the news for their resilience and commitment in training for their NDP Celebrations Performance. [Low Yi Jing, the President of the Dance CCA was interviewed and featured on the TV on Channel 8](https://sengkangsec.moe.edu.sg/qql/slot/u159/2019/Achievements/Student%20Achievements/NDP%202021/SKY%20Dancers%20NDP2021.mp4), an article on Straits Time. Our 10 dancers selected for the performance was also featured on Channel News Asia. Please look out for our dancers on TV where they will be featured at the NDP Celebrations this Saturday.
