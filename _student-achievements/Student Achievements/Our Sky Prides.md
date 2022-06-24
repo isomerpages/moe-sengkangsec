@@ -25,7 +25,7 @@ third_nav_title: Student Achievements
 
 <p><a href="https://www.facebook.com/SENGKANGSEC/posts/2669090069797878">
 <img align="left" style="width:75%" src="/images/Achievements/Raishyan%20Football.jpg">
-</a></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>><br>><br>
+</a></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 **<font size="5">Award Recipients 2019</font>**
 
