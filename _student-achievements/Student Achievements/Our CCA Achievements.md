@@ -30,7 +30,7 @@ third_nav_title: Student Achievements
 
 
 
-<img align="left" style="width:75%" src="/images/Achievements/uniform%20groups%202017.png"><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img align="left" style="width:72%" src="/images/Achievements/uniform%20groups%202017.png"><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
