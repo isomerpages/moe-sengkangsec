@@ -4,8 +4,8 @@ permalink: /student-achievements/Our-CCA-Achievements
 description: ""
 third_nav_title: Student Achievements
 ---
-&gt;![](/images/About%20us.jpg)
-&gt;Achievements
+>![](/images/About%20us.jpg)
+>Achievements
 
 **<font size="6">Our CCA Achievements</font>**
 
