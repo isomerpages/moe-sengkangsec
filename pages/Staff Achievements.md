@@ -64,8 +64,6 @@ Ms Sazryna Lee Samsudin received the AST Academy Awards 2019.
      style="width:65%">
 
 
-
-
 **<font size=5>MOE Service Excellence Award 2019
 </font>**
 
@@ -82,12 +80,15 @@ Mdm Chennakesavalu Sheela, Mdm Rengasamy Manonmani and Mr Sivakumar Duraisamy
 **Physical Education Sports Teachers Academy (PESTA)**  
 Mr Louis Ho J Yen
 
-![](/images/Achievements/Staff%20Achievements%209.jpeg)
+<img src="/images/Achievements/Staff%20Achievements%209.jpeg"  
+     style="width:65%">
+
 
 **53rd RELC International Conference 2018**
 <br>Mdm Cynthia Yow & Ms Charlotte Tan
 
-![](/images/Achievements/Staff%20Achievements%2010.jpeg)
+<img src="/images/Achievements/Staff%20Achievements%2010.jpeg"  
+     style="width:65%">
 
 
 **<font size=5>MOE Service Excellence Award 2018
@@ -98,10 +99,15 @@ Mr Louis Ho J Yen
 **<font size=5>Outstanding Physical Education Teacher (OPETA) Award 2017
 </font>**<br>
 Mr Louis Ho (HOD/PE & CCA) received the Outstanding Physical Education Teacher (OPETA) Award by the Singapore Physical Education Association.
-![](/images/Achievements/Staff%20Achievements%2012.jpg)
+
+<img src="/images/Achievements/Staff%20Achievements%2012.jpg"  
+     style="width:65%">
 
 
 **<font size=5>Singapore Malay Teachers Cooperative Ltd Book Prize
 </font>**<br>
 Mdm Sakinah Binte Ismail was awarded for Best Performance in Malay Language and Literature in the Bachelor of Arts (Education) including a Distinction or Credit in the final Practicum
-![](/images/Achievements/Staff%20Achievements%2013.png)
+
+<img src="/images/Achievements/Staff%20Achievements%2013.png"  
+     style="width:65%">
+
