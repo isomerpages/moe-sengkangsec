@@ -79,3 +79,27 @@ Mdm Chennakesavalu Sheela, Mdm Rengasamy Manonmani and Mr Sivakumar Duraisamy
 **Sharing of Co-Curricular Programmes & Games Approach in PE Teaching.** **Total Education Concept, School Health Development and Games Approach;** **Teaching in Physical** **Education – The Singapore Experience at University of Macau 2018,** <br>
 **Physical Education Sports Teachers Academy (PESTA)**  
 Mr Louis Ho J Yen
+
+![](/images/Achievements/Staff%20Achievements%209.jpeg)
+
+**53rd RELC International Conference 2018**
+<br>Mdm Cynthia Yow & Ms Charlotte Tan
+
+![](/images/Achievements/Staff%20Achievements%2010.jpeg)
+
+
+**<font size=5>MOE Service Excellence Award 2018
+</font>**
+
+![](/images/Achievements/Staff%20Achievements%2011.png)
+
+**<font size=5>Outstanding Physical Education Teacher (OPETA) Award 2017
+</font>**<br>
+Mr Louis Ho (HOD/PE & CCA) received the Outstanding Physical Education Teacher (OPETA) Award by the Singapore Physical Education Association.
+![](/images/Achievements/Staff%20Achievements%2012.jpg)
+
+
+**<font size=5>Singapore Malay Teachers Cooperative Ltd Book Prize
+</font>**<br>
+Mdm Sakinah Binte Ismail was awarded for Best Performance in Malay Language and Literature in the Bachelor of Arts (Education) including a Distinction or Credit in the final Practicum
+![](/images/Achievements/Staff%20Achievements%2013.png)
