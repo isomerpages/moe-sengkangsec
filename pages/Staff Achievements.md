@@ -61,7 +61,7 @@ Mdm Afiqah Liyana, Mdm Nur Sufriena Binte Suhaini, Ms Kathleen Kwan Ruiyun, Mdm 
 **<font size=5>AST Academy Awards 2019</font>**<br>
 Ms Sazryna Lee Samsudin received the AST Academy Awards 2019.
 <img src="/images/Achievements/Staff%20Achievements%207.jpeg"  
-     style="width:65%" align = "left"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+     style="width:65%" align = "left"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 **<font size=5>MOE Service Excellence Award 2019
@@ -81,14 +81,14 @@ Mdm Chennakesavalu Sheela, Mdm Rengasamy Manonmani and Mr Sivakumar Duraisamy
 Mr Louis Ho J Yen
 
 <img src="/images/Achievements/Staff%20Achievements%209.jpeg"  
-     style="width:65%" align = "left"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+     style="width:65%" align = "left"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 **53rd RELC International Conference 2018**
 <br>Mdm Cynthia Yow & Ms Charlotte Tan
 
 <img src="/images/Achievements/Staff%20Achievements%2010.jpeg"  
-     style="width:65%" align = "left"><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+     style="width:65%" align = "left"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 **<font size=5>MOE Service Excellence Award 2018
@@ -102,7 +102,7 @@ Mr Louis Ho (HOD/PE & CCA) received the Outstanding Physical Education Teacher (
 
 <img src="/images/Achievements/Staff%20Achievements%2012.jpg"  
      style="width:65%" align = "left">
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 **<font size=5>Singapore Malay Teachers Cooperative Ltd Book Prize
 </font>**<br>
