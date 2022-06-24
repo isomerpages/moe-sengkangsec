@@ -6,7 +6,7 @@ description: ""
 >![](/images/About%20us.jpg)
 >About SKSS
 
-**<font size=5>Our People</font>**
+**<font size=6>Our People</font>**
 
 **<font size=5>Form Teachers</font>**
 
