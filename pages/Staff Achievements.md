@@ -32,7 +32,7 @@ description: ""
 
 <img src="/images/Achievements/Staff%20Achievements%206.jpg" 
      style="width:50%" align = "left">
-		 <br> <br> <br> <br> <br> <br> <br><br><br>
+		 <br> <br> <br> <br> <br> <br> <br><br><br><br>
 
 
 **<font size=5>SKSS CCA Merit Award</font>**
@@ -68,3 +68,14 @@ Ms Sazryna Lee Samsudin received the AST Academy Awards 2019.
 </font>**
 
 ![](/images/Achievements/Staff%20Achievements%208.png)
+
+**<font size=5>Professional Development Sharing 2018
+</font>**
+
+**12th World Tamil Teachers' Conference 2018**  
+Mdm Chennakesavalu Sheela, Mdm Rengasamy Manonmani and Mr Sivakumar Duraisamy  
+  
+
+**Sharing of Co-Curricular Programmes & Games Approach in PE Teaching.** **Total Education Concept, School Health Development and Games Approach;** **Teaching in Physical** **Education – The Singapore Experience at University of Macau 2018,** <br>
+**Physical Education Sports Teachers Academy (PESTA)**  
+Mr Louis Ho J Yen
