@@ -25,7 +25,8 @@ third_nav_title: Student Achievements
 
 **Girl Guides 2019 Baden Powell Award (BPA) Facebook Post (Click!)**
 <p><a href="https://www.facebook.com/SENGKANGSEC/photos/a.872440072796229/3282341378472741/?type=3">
-<img src="/images/Achievements/CCA%20Achievement%20Facebook%20Post.jpg">
+<img src="/images/Achievements/CCA%20Achievement%20Facebook%20Post.jpg"
+		 style="width:50%">
 </a></p>
 
 ![](/images/Achievements/uniform%20groups%202017.png)
