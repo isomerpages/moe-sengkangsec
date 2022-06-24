@@ -109,4 +109,4 @@ Mr Louis Ho (HOD/PE & CCA) received the Outstanding Physical Education Teacher (
 Mdm Sakinah Binte Ismail was awarded for Best Performance in Malay Language and Literature in the Bachelor of Arts (Education) including a Distinction or Credit in the final Practicum
 
 <img src="/images/Achievements/Staff%20Achievements%2013.png"  
-     style="width:65%">
+     style="width:65%" align = "left">
