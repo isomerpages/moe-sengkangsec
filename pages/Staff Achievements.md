@@ -56,3 +56,15 @@ Mdm Afiqah Liyana, Mdm Nur Sufriena Binte Suhaini, Ms Kathleen Kwan Ruiyun, Mdm 
   
 **Conduct of EMPS Workshop for CL Teachers in Singapore 2019**
 <br>Mr Thong Wee Sin
+
+
+**<font size=5>AST Academy Awards 2019</font>**<br>
+Ms Sazryna Lee Samsudin received the AST Academy Awards 2019.
+
+![](/images/Achievements/Staff%20Achievements%207.jpeg)
+
+
+**<font size=5>MOE Service Excellence Award 2019
+</font>**
+
+![](/images/Achievements/Staff%20Achievements%208.png)
