@@ -32,7 +32,7 @@ description: ""
 
 <img src="/images/Achievements/Staff%20Achievements%206.jpg" 
      style="width:50%" align = "left">
-		 <br> <br> <br> <br> <br> <br> <br>
+		 <br> <br> <br> <br> <br> <br> <br><br><br>
 
 
 **<font size=5>SKSS CCA Merit Award</font>**
