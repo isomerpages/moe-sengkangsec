@@ -30,8 +30,9 @@ description: ""
 
 **<font size=5>MOE Service Excellence Award 2020</font>**
 
-<img src="/images/Achievements/Staff%20Achievements%206.jpg"  
-     style="width:50%">
+<img src="/images/Achievements/Staff%20Achievements%206.jpg" 
+     style="width:50%" align = "left">
+		 <br> <br> <br> <br> <br> <br> <br>
 
 
 **<font size=5>SKSS CCA Merit Award</font>**
