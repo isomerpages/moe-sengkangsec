@@ -60,8 +60,10 @@ Mdm Afiqah Liyana, Mdm Nur Sufriena Binte Suhaini, Ms Kathleen Kwan Ruiyun, Mdm 
 
 **<font size=5>AST Academy Awards 2019</font>**<br>
 Ms Sazryna Lee Samsudin received the AST Academy Awards 2019.
+<img src="/images/Achievements/Staff%20Achievements%207.jpeg"  
+     style="width:65%">
 
-![](/images/Achievements/Staff%20Achievements%207.jpeg)
+
 
 
 **<font size=5>MOE Service Excellence Award 2019
