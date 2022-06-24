@@ -28,7 +28,7 @@ third_nav_title: Student Achievements
 <img align="left" style="width:50%" src="/images/Achievements/CCA%20Achievement%20Facebook%20Post.jpg">
 </a></p><br><br><br><br><br><br><br><br>
 
-![](/images/Achievements/uniform%20groups%202017.png)
+
 
 <img align="left" style="width:60%" src="/images/Achievements/uniform%20groups%202017.png"><br><br><br><br><br><br><br>
 
