@@ -19,4 +19,3 @@ third_nav_title: Student Achievements
 
 
 **Uniformed Group CCA**
-
