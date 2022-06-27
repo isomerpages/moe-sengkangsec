@@ -26,3 +26,40 @@ Through a vibrant sports culture, our school seeks to develop active and healthy
   
 ***<font size=5>“Leaders through Sports and Outdoor Adventure.”</font>***<br>
 For those with a passion for Sports and Outdoor Adventure, there are programmes such as the Sports Leaders Programme and Outdoor Adventure Learning (OAL) Programme to help students develop their leadership skills to lead their peers in the various level-wide programmes. They will serve as role models and be ambassadors of healthy and active living. They will play a key role in building an active and inclusive community.
+
+**<font size=6>LLP Programme / Key Approaches</font>**<br>
+**<font size=5>Stronger through Sports Science</font>**<br>
+1. Basic Sports Science Programme
+
+2. Sports Science Programme for CCA
+
+3. O Level Exercise and Sports Science (For selected Upper Secondary Students)
+
+  
+**<font size=5>Leadership Development through Sports & Outdoor Adventure</font>**<br>
+
+1. Sports Leaders Programme
+
+2. Outdoor Adventure Leaders Programme
+
+3. Outdoor Adventure Learning Camps 
+
+  
+**<font size=5>Active & Inclusive Community</font>**<br>
+
+1. Healthy Lifestyle Programme
+
+2. Sports Fiesta (All)  / Sports Carnival (Sec 1-3)
+
+3. Outreach at Sports Events (Primary School / External Events) 
+
+  
+**<font size=5>KEY REFERENCES</font>**<br>  
+
+SKSS PE & SPORTS Instagram<br>
+[https://www.instagram.com/sksssports/?hl=en](https://www.instagram.com/sksssports/?hl=en)
+
+  
+
+SKSS PE & SPORTS Webpage<br>
+[https://sites.google.com/skss.edu.sg/sksspesports/home?authuser=0](https://sites.google.com/skss.edu.sg/sksspesports/home?authuser=0)
