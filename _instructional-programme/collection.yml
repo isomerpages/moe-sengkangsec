@@ -2,12 +2,12 @@ collections:
   instructional-programme:
     output: true
     order:
-      - Timetable & Assessment.md
-      - Design & Aesthetics/.keep
-      - Humanities.md
-      - Science.md
-      - English Language & Literature Department.md
-      - Mathematics.md
       - Instructional Programme (IP).md
+      - English Language & Literature Department.md
       - Mother Tongue/.keep
       - Mother Tongue/Mother Tongue.md
+      - Mathematics.md
+      - Science.md
+      - Humanities.md
+      - Design & Aesthetics/.keep
+      - Timetable & Assessment.md
