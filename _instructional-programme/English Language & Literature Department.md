@@ -4,6 +4,6 @@ permalink: /curriculum/instructional-programme-ip/english-language-and-literatur
 description: ""
 ---
 >![](/images/Curriculum/Curriculum.jpg)
->Curriculum
+>Instructional Programme (IP)
 
 **<font size=6>English Language & Literature Department</font>**
