@@ -17,4 +17,4 @@ The ALP is interdisciplinary in nature and makes use of the Design Thinking Fram
 
 <img src="/images/Curriculum/ALP2.png" style="width:300px;height:240px;margin-left:15px;" align = "right">
 
-<img src="/images/Curriculum/ALP1.png" style="width:300px;height:240px;margin-left:0px;" align = "left">
+<img src="/images/Curriculum/ALP1.png" style="width:400px;height:240px;margin-left:0px;" align = "left">
