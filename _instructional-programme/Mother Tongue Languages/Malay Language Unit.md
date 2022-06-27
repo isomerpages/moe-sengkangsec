@@ -4,7 +4,7 @@ permalink: /curriculum/instructional-programme/mother-tongue-languages/malay-lan
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
->![](/images/Curriculum/Curriculum.jpg)
+![](/images/Curriculum/Malay%20Language%203.png)>![](/images/Curriculum/Curriculum.jpg)
 >Mother Tongue Languages
 
 **<font size=6>Malay Language Unit</font>**
@@ -27,3 +27,5 @@ third_nav_title: Mother Tongue Languages
 *   2 students, Nur Hazwani and Nur Khalishah were appointed as Rakan Bahasa (Malay Language Student Ambassadors) for 2021.
 *   Our student ambassadors went through virtual training sessions and competed in the NewsMaker competition, a national competition where they produced a 2-minute video about “Malay Legends and Folklore” in Malay language.
 *   Collaboration with N1 Cluster schools to organise the Karnival Dunia Melayu as well as Malay Language online workshops for students.
+
+![](/images/Curriculum/Malay%20Language%201.png)![](/images/Curriculum/Malay%20Language%202.png)![](/images/Curriculum/Malay%20Language%203.png)
