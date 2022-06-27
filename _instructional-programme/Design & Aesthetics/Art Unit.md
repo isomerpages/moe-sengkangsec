@@ -27,3 +27,7 @@ Basic Photography was introduced to give the students greater exposure to art ou
 The Art students are exposed to a wide range of art mediums and skills to prepare them for their national examinations and aid in their personal growth.<br>
 In the studio, they are encouraged to express their individual thoughts and share constructive feedback to help each other grow. 
 The Printmaking and Ceramics Module was reintroduced to the upper secondary students to expose students to hands-on art making and to help them develop their skills by exploring a myriad of art techniques.
+
+![](/images/Curriculum/Art%201.png)
+![](/images/Curriculum/Art%202.png)
+![](/images/Curriculum/Art%203.png)
