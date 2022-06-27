@@ -9,4 +9,6 @@ description: ""
 **<font size=6>Instructional Programme (IP)</font>**
 
 ![](/images/Curriculum/Subjects%201.png)
-English Language&nbsp;&nbsp;&nbsp; Mother Tongue &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mathematics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science
+English Language&nbsp;&nbsp;&nbsp;Mother Tongue &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mathematics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science<br>& Literature
+
+![](/images/Curriculum/Subjects%202.png)
