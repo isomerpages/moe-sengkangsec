@@ -12,3 +12,4 @@ description: ""
 English Language&nbsp;&nbsp;&nbsp;Mother Tongue &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mathematics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science<br>& Literature
 
 ![](/images/Curriculum/Subjects%202.png)
+Physical Education  Humanities  Design & Aesthetics  Timetable & Assessment
