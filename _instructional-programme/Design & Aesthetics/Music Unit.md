@@ -9,7 +9,7 @@ third_nav_title: Design & Aesthetics
 
 **<font size=6>Music Unit</font>**
 
-![](/images/Curriculum/COURSE%20(Music,%20EBS%20_%20FN-min.jpg)
+![](/images/Curriculum/music.jpg)
 
 **<font size=5>Beliefs</font>**
 
