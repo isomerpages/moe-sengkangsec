@@ -4,7 +4,7 @@ permalink: /curriculum/instructional-programme/mother-tongue-languages/malay-lan
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-![](/images/Curriculum/Malay%20Language%203.png)>![](/images/Curriculum/Curriculum.jpg)
+>![](/images/Curriculum/Curriculum.jpg)
 >Mother Tongue Languages
 
 **<font size=6>Malay Language Unit</font>**
