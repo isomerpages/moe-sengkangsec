@@ -78,3 +78,7 @@ Video link for group project: [https://www.youtube.com/watch?v=lk4OfcTMvJ4](htt
 Group project: _How green is Singapore’s CBD?_<br>
 Students: Wong Tze Hanz (2-4), Mohamed Aseem (2-4), Jeganath Deepapriyan (2-4)<br>
 Video link for group project: [https://www.youtube.com/watch?v=jk9QpEh2VK0](https://www.youtube.com/watch?v=jk9QpEh2VK0)
+
+![](/images/Curriculum/Humanities%201.png)
+![](/images/Curriculum/Humanities%202.png)
+![](/images/Curriculum/Humanities%203.png)
