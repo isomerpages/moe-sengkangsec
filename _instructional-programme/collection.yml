@@ -2,4 +2,5 @@ collections:
   instructional-programme:
     output: true
     order:
+      - Mother Tongue/.keep
       - Instructional Programme (IP).md
