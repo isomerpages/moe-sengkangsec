@@ -51,9 +51,7 @@ For those with a passion for Sports and Outdoor Adventure, there are programmes 
 
 2. Sports Fiesta (All)  / Sports Carnival (Sec 1-3)
 
-3. Outreach at Sports Events (Primary School / External Events) 
-
-  
+3. Outreach at Sports Events (Primary School / External Events) 
 **<font size=5>KEY REFERENCES</font>**<br>  
 
 SKSS PE & SPORTS Instagram<br>
