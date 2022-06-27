@@ -25,3 +25,6 @@ This interdisciplinary approach is unique as it aligns the various school progra
 
   
 **<font size=5>Achievements and Recognition</font>**
+![](/images/Curriculum/Science%201.png)
+![](/images/Curriculum/Science%202.png)
+![](/images/Curriculum/Science%203.png)
