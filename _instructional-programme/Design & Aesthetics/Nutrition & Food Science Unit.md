@@ -37,3 +37,8 @@ During the 3 month long competition, our students had to complete a nutrition ca
   
 
 We would like to commend the students for demonstrating resourcefulness and tenacity during the competition. We would also like to thank Ms Kho Hui Han for her guidance throughout the competition.
+
+
+![](/images/Curriculum/Food%20Nutrition%201.png)
+![](/images/Curriculum/Food%20Nutrition%202.png)
+![](/images/Curriculum/Food%20Nutrition%203.png)
