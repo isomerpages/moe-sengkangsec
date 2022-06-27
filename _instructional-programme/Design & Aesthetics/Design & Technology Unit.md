@@ -30,6 +30,7 @@ Our curriculum is based on three main justifications for design in general educa
 *    Secondary 2 students learn through manipulating IKEA blocks. These serve as an inspiration for their Animagine project, where they promote the importance of saving endangered animals. 
 
 *   In 2020, the Secondary 3 students had the chance to design their SKY Learning Space. They had the autonomy to create a more conducive and creative learning environment. <br>
+
 **Learning through Exploration with Everyday Objects**
 
 The learning of technologies in upper secondary is very abstract and engaging for many students new to this topic. It is designed as a tactile learning experience as students tinker with everyday products such as nail clippers and can openers. Lessons are scaffolded and students construct their knowledge and understanding on how mechanisms work, while they ‘play’ with the product and watch slow motion video clips. For electronics, students get to tinker with real circuits and learn through disassembling products. 
