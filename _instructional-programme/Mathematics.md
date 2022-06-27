@@ -43,3 +43,7 @@ estimate the number of balls that were enclosed in a clear display case. In anot
 Structured baseline remediation programme is planned for all levels to assist students to achieve expected competencies in core mathematics skills. 
 
 The Covid-19 pandemic has presented some challenges for teaching mathematics as teachers were forced to continue lessons in a fully remote learning approach.  However, relevant mathematics resources were collated quickly and implemented to achieve effective online teaching during Home Based Learning.
+
+![](/images/Curriculum/Math%201.png)
+
+![](/images/Curriculum/Math%202.png)
