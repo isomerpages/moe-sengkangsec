@@ -30,3 +30,7 @@ third_nav_title: Mother Tongue Languages
 *   Participation in Budding Writers’ and Actors’ National Level Competition organised by MOE. Attainment of Certificates of Accomplishment.
 *   Collaborated with PMTT & MTTs and executed Tamil Cultural and Literacy Project. Lead Teacher, Mdm Rosina Bakam, shared at the National Platform for the Tamil Teachers’ fraternity.
 *   Recognised by AST for conducting ‘Connecting the Dots for Diverse Learners’. Facilitation for Tamil Language, Teacher Leaders, which was led by Lead Teacher Mdm Rosina.
+
+![](/images/Curriculum/Tamil%201.png)
+![](/images/Curriculum/Tamil%202.png)
+![](/images/Curriculum/Tamil%203.png)
