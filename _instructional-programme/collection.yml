@@ -2,7 +2,6 @@ collections:
   instructional-programme:
     output: true
     order:
-      - Physical Education.md
       - Instructional Programme (IP).md
       - English Language & Literature Department.md
       - Mother Tongue Languages/.keep
@@ -10,5 +9,6 @@ collections:
       - Mathematics.md
       - Science.md
       - Humanities.md
+      - Physical Education.md
       - Design & Aesthetics/.keep
       - Timetable & Assessment.md
