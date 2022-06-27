@@ -45,24 +45,16 @@ The Secondary Two Historical Investigation project required students to investig
 
   
 
-#### Secondary Three Geographical Investigation & Inquiry: Virtual Coastal Investigation
-
-  
-
+**Secondary Three Geographical Investigation & Inquiry: Virtual Coastal Investigation**<br>
 In this new innovative Inquiry-based project, the Secondary Three Geography students conducted their physical geographical investigations and inquiry on the coastal formations and phenomenon along the coasts of Singapore through various visual-audio platforms. In a safe indoor adapted environment, the students were given the opportunity to explore the various stations to learn about Singapore’s coastal surroundings through the use of virtual sensory fieldwork. 
 
   
 
-#### Secondary Three Historical Investigation & Inquiry: Using Historical Sources and Evidence to Evaluate Stalin’s Leadership of the Soviet Union
-
-  
-
+**Secondary Three Historical Investigation & Inquiry: Using Historical Sources and Evidence to Evaluate Stalin’s Leadership of the Soviet Union**<br>
 The students explored the topic ‘Stalin’s rule over the Soviet Union’ through the study of various historical evidence. Working in groups, the students analysed textual and pictorial sources, including propaganda posters and political cartoons, to understand how Stalin ruled the Soviet Union and the impact of his rule on the country and its people. Through this approach, the students also developed their source-based skills such as making inferences, drawing comparisons, detecting bias and evaluating reliability.
 
   
-
-Achievements and Recognition
-----------------------------
+**<font size=5>Achievements and Recognition</font>**
 
 With the guidance of Ms Kathleen Kwan, our Geography team of Tong Mao Gen, Mogens of Secondary 4-1, Darryl Mok Kai Lun, Jolie Ong Vee Voon and Ho Xuan Ying, Evelyn of Secondary 4-2, took part in the NUS Geography Challenge 2021, an annual competition jointly organised by the NUS Department of Geography and the NUS Geographical Society.  Darryl Mok further brought honours to the school with him clinching one of the Individual Bronze awards.
 
@@ -77,17 +69,12 @@ The AOGS-EOS International Geoscience Challenge 2021 is part of the organization
 Despite the constraints posed by safe management measures on their research preparation, we are proud that both teams gave their best, and they motivated and encouraged one other to stay focused throughout this competition. We would like to acknowledge all of their incredible efforts to prepare the research proposals, posters, videos, and the final presentation. Excellent work, students!
 
   
+**<font size=5>AOGS 2021 Projects</font>**
 
-#### AOGS 2021 Projects
-
-Group project: _Where are feral pigeons commonly found in Singapore?_
-
-Students: Mau Si Qi Queena (2-4), Sai Xin Yee (2-4), Amrita Ram (2-4)
-
+Group project: _Where are feral pigeons commonly found in Singapore?_<br>
+Students: Mau Si Qi Queena (2-4), Sai Xin Yee (2-4), Amrita Ram (2-4)<br>
 Video link for group project: [https://www.youtube.com/watch?v=lk4OfcTMvJ4](https://www.youtube.com/watch?v=lk4OfcTMvJ4)
 
-Group project: _How green is Singapore’s CBD?_
-
-Students: Wong Tze Hanz (2-4), Mohamed Aseem (2-4), Jeganath Deepapriyan (2-4)
-
+Group project: _How green is Singapore’s CBD?_<br>
+Students: Wong Tze Hanz (2-4), Mohamed Aseem (2-4), Jeganath Deepapriyan (2-4)<br>
 Video link for group project: [https://www.youtube.com/watch?v=jk9QpEh2VK0](https://www.youtube.com/watch?v=jk9QpEh2VK0)
