@@ -1,4 +1,5 @@
 collections:
   instructional-programme:
     output: true
-    order: []
+    order:
+      - Instructional Programme (IP).md
