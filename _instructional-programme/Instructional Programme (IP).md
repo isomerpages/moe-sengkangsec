@@ -8,4 +8,5 @@ description: ""
 
 **<font size=6>Instructional Programme (IP)</font>**
 
-<img src="/images/Curriculum/eng.jpg" style="width:160px;height:120px;margin-left:15px;" align = "left">
+![](/images/Curriculum/Subjects%201.png)
+English Language&nbsp;&nbsp;&nbsp; Mother Tongue &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mathematics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science
