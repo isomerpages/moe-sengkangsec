@@ -34,9 +34,7 @@ The Mathematics department aims to develop students to be independent and self-s
   
 **<font size=5>Joy of Learning</font>**
 
-To sustain interest in Mathematics and to ignite the joy of learning, mini-competitions and fun events are organized for the whole school.  In one event, staff and students were invited to
-
-estimate the number of balls that were enclosed in a clear display case. In another event, a Mathematics Easter Egg Hunt was organized, whereby participants hunt for the Easter eggs and solve the mathematics questions.
+To sustain interest in Mathematics and to ignite the joy of learning, mini-competitions and fun events are organized for the whole school.  In one event, staff and students were invited to estimate the number of balls that were enclosed in a clear display case. In another event, a Mathematics Easter Egg Hunt was organized, whereby participants hunt for the Easter eggs and solve the mathematics questions.
 
 **<font size=5>Support and Enrichment</font>**
 
