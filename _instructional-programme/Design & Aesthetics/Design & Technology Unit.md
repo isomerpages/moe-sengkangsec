@@ -39,3 +39,7 @@ The learning of technologies in upper secondary is very abstract and engaging fo
 
 *   Learning through Exploration with Everyday Objects was one of the Keynote Presentations at the SKSS Learning Festival 2020.
 *   The Learning through Play project was the recipient of the Coyote Fund.
+
+![](/images/Curriculum/D%20and%20T%201.png)
+![](/images/Curriculum/D%20and%20T%202.png)
+![](/images/Curriculum/D%20and%20T%203.png)
