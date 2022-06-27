@@ -2,7 +2,7 @@ collections:
   instructional-programme:
     output: true
     order:
-      - Example Title.md
+      - Timetable & Assessment.md
       - Design & Aesthetics/.keep
       - Humanities.md
       - Science.md
