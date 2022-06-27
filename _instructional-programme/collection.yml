@@ -2,6 +2,6 @@ collections:
   instructional-programme:
     output: true
     order:
-      - Mother Tongue/Example Title.md
+      - Mother Tongue/Mother Tongue.md
       - Mother Tongue/.keep
       - Instructional Programme (IP).md
