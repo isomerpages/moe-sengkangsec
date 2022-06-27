@@ -44,9 +44,7 @@ All Levels - Outdoor Education (OE) and Basic Sports Science (BSS)
 To further develop our students’ diverse talents in sports, the school offers Exercise and Sports Science (ESS) as a GCE ‘O’ Level subject. ESS is an interdisciplinary applied subject where students learn about Sports Science and develop an understanding of Sports Sociology. Through the study of ESS, students develop inter-disciplinary thinking, enabling them to be better stronger athletes, tougher individuals and better learners. 
 
   
-
-Key Events
-----------
+**<font size=5>Key Events</font>**
 
 _"Building an active and inclusive community"_ 
 
