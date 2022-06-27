@@ -9,6 +9,8 @@ third_nav_title: Design & Aesthetics
 
 **<font size=6>Art Unit</font>**
 
+![](/images/Curriculum/ART%20dept.jpg)
+
 **<font size=5>Beliefs</font>**
 
 We are dedicated to developing self-directed learners and critical thinkers. Their determination to create profoundly personal and technically competent works of art is of utmost importance. 
