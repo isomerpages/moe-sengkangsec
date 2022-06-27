@@ -35,9 +35,7 @@ Our curriculum is based on three main justifications for design in general educa
 The learning of technologies in upper secondary is very abstract and engaging for many students new to this topic. It is designed as a tactile learning experience as students tinker with everyday products such as nail clippers and can openers. Lessons are scaffolded and students construct their knowledge and understanding on how mechanisms work, while they ‘play’ with the product and watch slow motion video clips. For electronics, students get to tinker with real circuits and learn through disassembling products. 
 
   
-
-Achievements and Recognition
-----------------------------
+**<font size=5>Achievements and Recognition</font>**
 
 *   Learning through Exploration with Everyday Objects was one of the Keynote Presentations at the SKSS Learning Festival 2020.
 *   The Learning through Play project was the recipient of the Coyote Fund.
