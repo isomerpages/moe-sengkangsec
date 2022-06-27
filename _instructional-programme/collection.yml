@@ -2,6 +2,7 @@ collections:
   instructional-programme:
     output: true
     order:
+      - Design & Aesthetics/.keep
       - Humanities.md
       - Science.md
       - English Language & Literature Department.md
