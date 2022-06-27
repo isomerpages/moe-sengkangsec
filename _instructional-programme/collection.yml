@@ -2,6 +2,7 @@ collections:
   instructional-programme:
     output: true
     order:
+      - English Language & Literature Department.md
       - Math.md
       - Instructional Programme (IP).md
       - Mother Tongue/.keep
