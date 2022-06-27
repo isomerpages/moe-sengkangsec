@@ -22,3 +22,6 @@ Our Music curriculum aims to equip students with musical understanding and encou
 **<font size=5>Achievements and Recognition</font>**
 
 Mr Gerald Teh, in collaboration with the Singapore Teachers’ Academy for the Arts, published his critical inquiry project, ‘The Impact of Differentiated Tasks on Student Motivation, in the e-publication, ‘Sounding the Teaching V: Technology and Inclusion in Pedagogy’.
+
+![](/images/Curriculum/Music%201.png)
+![](/images/Curriculum/Music%202.png)
