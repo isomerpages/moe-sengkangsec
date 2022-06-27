@@ -35,4 +35,6 @@ links:
         url: /curriculum/learning-for-life-programme-llp
   - title: Co-Curriculum
     url: /co-curriculum/co-curricular-activities-cca
-    sublinks: []
+    sublinks:
+      - title: Co-Curricular Activities (CCA)
+        url: /co-curriculum/co-curricular-activities-cca
