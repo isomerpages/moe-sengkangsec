@@ -2,5 +2,6 @@ collections:
   parenting-resources:
     output: true
     order:
+      - COVID 19 Vaccination For Students.md
       - Parents Gateway.md
       - Parenting Resources.md
