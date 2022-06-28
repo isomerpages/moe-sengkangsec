@@ -2,4 +2,5 @@ collections:
   parenting-resources:
     output: true
     order:
+      - Parents Gateway.md
       - Parenting Resources.md
