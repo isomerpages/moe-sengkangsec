@@ -20,7 +20,7 @@ description: ""
 8.  [Student Learning Space (SLS) Instructions](https://drive.google.com/a/skss.edu.sg/file/d/1osfoa8EtCAToVNjwdoCS0ux2jXdUKSxa/view?usp=sharing)
 9.  [Parents Gateway Guide](https://moe-sengkangsec-staging.netlify.app/useful-links-1/parenting-resources)
 10. [Student ICT site](https://sites.google.com/moe.edu.sg/skss-student-ict/hbl)  
-11. [Personalised Digital Learning Programme (PDLP)](https://sites.google.com/moe.edu.sg/skss-pdlp/home) Site
+11. [Personalised Digital Learning Programme (PDLP)Site](https://sites.google.com/moe.edu.sg/skss-pdlp/home) 
 12.  [ICT Account Help Form](https://form.gov.sg/5e40b45c90a6810012db9175)
 13.  [Bulletin Special Edition](/files/SKSS%20Bulletin%20Special%20Edition%2027%20July%202021.pdf)
 14. [Group Personal Accident](https://www.income.com.sg/studentgpa)
