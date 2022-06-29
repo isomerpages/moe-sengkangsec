@@ -15,4 +15,4 @@ In 2021, the Discussion of Contemporary Issues (CI) became a regular feature in 
 
 The inaugural Student Voices Campaign was also implemented school-wide in our attempts to provide a platform for student ownership and to build a caring and enabling school. The student leaders were trained to conduct the lesson as well as collate and present their findings and suggestions for improvements to the Student Development Committee for endorsement before the actual implementation was carried out.
 
-**<font size=7>INSERT SLIDE SHOW HERE</FONT>**
+**<font size=7>INSERT SLIDE SHOW HERE</font>**
