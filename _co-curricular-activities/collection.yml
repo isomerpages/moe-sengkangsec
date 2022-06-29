@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Physical Sports/Football.md
       - Physical Sports/Basketball.md
       - Physical Sports/Badminton.md
       - Physical Sports/.keep
