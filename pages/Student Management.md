@@ -50,5 +50,44 @@ The Model Class Award is awarded to the most deserving class of each level to re
   
 This year, the model class award for the respective levels are 1-4, 2-4, 3-2 and 4-6.
 
+<br>
+
 **<font size=7>INSERT SLIDE SHOW HERE</font>**<br>
 
+<br>
+
+**<font size=5>SKSS Scholarships for Students
+</font>**
+
+There are scholarships available for students of SKSS to apply for. Since 2019, the total number of scholarships awarded has been rising steadily, from 7 in 2019 to 23 in 2021. Up to 10 scholarships from each category will be awarded to deserving students. The types of scholarships and their key eligibility criteria are as follows:
+
+  
+
+**1) Dato’ Seri Dr Derek Goh Bak Heng Academic Scholarship ($500)**<br>
+PSLE score ≤ 16 and all subjects must be score AL 5 or better
+
+  
+
+**2) SAC Sports Scholarship ($300)** <br>
+Member of sports CCA in primary school <br>
+_**or**_ school representative in a sport in primary school<br>
+_**and**_ join an SKSS sports CCA<br>
+**_and_** PSLE score ≤ 18 and three subjects must score AL 5 or better
+
+  
+
+**3) SAC Performing Arts Scholarship ($300)** <br>
+Member of performing arts CCA in primary school<br>
+**_or_** school representative in performing arts in primary school<br>
+**_or_** has background in the performing arts <br>
+**_and_** join SKSS performing arts CCA<br>
+_**and**_ PSLE score ≤ 18 and three subjects must score AL 5 or better
+
+  
+
+**4) SAC Character & Leadership Scholarship ($300)** <br>
+Outstanding primary school achievements as a student leader 
+<br>**_and/or_** school representative<br>
+**_and_** PSLE score ≤ 18 and three subjects must score AL 5 or better
+
+**<font size=5>2021 MOE Edusave Character Awards</font>**
