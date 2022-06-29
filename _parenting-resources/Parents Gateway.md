@@ -16,7 +16,7 @@ description: ""
 
 <br>
 
-<img src="/images/Parents%20Gateway%20GIF.gif" style="width:230px;height:500px;margin-right:10px;" align = "left"> "Why should you stay logged in?"Parents must stay logged in to receive Push NotificationsParents' SingPass ID and Password will not be stored in the app. <br> <br><br><br><br><br><br><br><br><br><br>
+<img src="/images/Parents%20Gateway%20GIF.gif" style="width:250px;height:500px;margin-right:10px;" align = "left"> "Why should you stay logged in?"Parents must stay logged in to receive Push NotificationsParents' SingPass ID and Password will not be stored in the app. <br> <br><br><br><br><br><br><br><br><br><br>
 
 **<font size=5>Please click on the link to view pdf</font>**
 
