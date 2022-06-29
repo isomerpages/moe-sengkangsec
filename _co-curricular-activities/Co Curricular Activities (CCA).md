@@ -4,7 +4,7 @@ permalink: /co-curriculum/co-curricular-activities-cca
 description: ""
 ---
 >![](/images/About%20us.jpg)
->Co-Curricular Activities (CCA)
+>Co-Curriculum
 
 **<font size=6>Co-Curricular Activities (CCA)</font>**
 
