@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Uniformed Groups/.keep
       - Physical Sports/.keep
       - Physical Sports/Badminton.md
       - Physical Sports/Basketball.md
