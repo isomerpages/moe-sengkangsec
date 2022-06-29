@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Physical Sports/.keep
       - Performing Arts Group/.keep
       - Performing Arts Group/Choir (SKY Chorale).md
       - Performing Arts Group/Guzheng Ensemble.md
