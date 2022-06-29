@@ -12,3 +12,5 @@ third_nav_title: Values in Action
 **<font size=5>Newspaper Collection
 </font>**
 
+![](/images/CCE/VIA%201.png)
+![](/images/CCE/VIA%202.png)
