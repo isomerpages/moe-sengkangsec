@@ -34,9 +34,9 @@ Seng Kang Girl Guides is awarded Gold for our unit award 2018. This is our 16th 
 
 **Baden-Powell Award**<br>
 The Baden Powell Award (BPA) is the highest award given out by our Chief Commissioner to a Girl Guide.<br>
-Awardee for 2019:
-1) Fernandez Marielle Jane Reyes (4-1)
-2) Subikshaa Dharmalingam (4-4)
+Awardee for 2019:<br>
+1) Fernandez Marielle Jane Reyes (4-1)<br>
+2) Subikshaa Dharmalingam (4-4)<br>
 3) Rudra Devi (4-4)
 
   
