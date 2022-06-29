@@ -29,6 +29,15 @@ The committee believes that leadership can be learnt and all students can be a l
 
 <font size=7>INSERT SLIDE SHOW HERE</font>
 
-<font size=5>Our Guiding Framework</font>
+**<font size=5>Our Guiding Framework</font>**
 ![](/images/Student%20Leadership%20Development/framework_V3.png)
 
+**<font size=5>Our Programme Highlights
+</font>**<br>
+SKSS Student Leadership Development has two broad areas of focus, namely
+
+**(i) School-wide Student Leadership Development Curriculum**<br>
+Guided by the school’s desired student outcomes and the SLC practices, the school-wide Student Leadership Development Curriculum is designed in a spiral manner. The curriculum aims to establish a common language of leadership across the school and equip all students with the fundamentals to be leaders of self.  
+
+**(ii) Specialised programmes for SKSS Student Leaders Board**
+![](/images/Student%20Leadership%20Development/SLB_V2.png)
