@@ -27,7 +27,11 @@ The committee believes that leadership can be learnt and all students can be a l
 (c) Student Leaders' Training Camp<br>
 (d) Student Leaders' Monthly Meeting/Training
 
+<br>
+
 <font size=7>INSERT SLIDE SHOW HERE</font>
+
+<br>
 
 **<font size=5>Our Guiding Framework</font>**
 ![](/images/Student%20Leadership%20Development/framework_V3.png)
