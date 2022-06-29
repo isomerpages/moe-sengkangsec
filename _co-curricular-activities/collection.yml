@@ -2,4 +2,5 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Example Title.md
       - Co Curricular Activities (CCA).md
