@@ -65,7 +65,8 @@ The Peer Support Leaders are the heart of the students, as they assist in cultiv
 **03\. Sports Leaders** <br>
 The Sports Leaders are the energizers who serve the school in creating a vibrant, inclusive and active learning environment for the students. They encourage students to be healthy and active youths by hosting regular unstructured play sessions. They also help to plan and organise Sports events within the school and participate in outreach activities at Primary Schools, as umpires and other sports officials. The Sports Leaders are enthusiastic advocates of the school’s Learning for Life Programme - building character through sports and outdoor adventure learning.
 
-![](/images/Student%20Leadership%20Development/SLD%203.png)
+<img src="/images/Student%20Leadership%20Development/SLD%203.png"  
+     style="width:80%">
 
 **<font size=5>Affirmation and Recognition</font>**
 ![](/images/Student%20Leadership%20Development/SLD%204.png)<br>
