@@ -6,6 +6,8 @@ description: ""
 >![](/images/About%20us.jpg)
 >Co-Curriculum
 
+**<font size=6>Character and Citizenship Education (CCE)</font>**<br>
+
 **<font size=5>Beliefs</font>**<br>
 “The content of your character is your choice. <br>
 Day by day, what you think and what you do, is who you become”
