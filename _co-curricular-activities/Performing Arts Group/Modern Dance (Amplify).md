@@ -14,8 +14,8 @@ Seng Kang Modern Dance, Amplify, aims to develop students' lifelong interest and
 
   
 **<font size=5>Achievements and Accolades</font>**<br>
-* 2019 Singapore Youth Festival Arts Presentation: Certificate of Distinction
-* 2017 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment
+2019 Singapore Youth Festival Arts Presentation: Certificate of Distinction
+2017 Singapore Youth Festival Arts Presentation: Certificate of Accomplishment
 
   
 **<font size=5>CCA Training Sessions</font>**<br>
