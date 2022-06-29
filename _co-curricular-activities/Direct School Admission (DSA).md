@@ -38,24 +38,16 @@ The selection criteria and process for the talent areas will be updated from ear
 
   
 
-#### Application (5 May 2022, 11am to 1 June 2022, 3pm)
-
+**Application (5 May 2022, 11am to 1 June 2022, 3pm)**<br>
 Application open for all Primary Six Students, Returning Singaporeans, Permanent Residents and Foreign Students.
-
-  
 
 Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
 
-  
-
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
-
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they selected for from year 1-4. 
 
   
-
-#### Selection Criteria 
-
+**Selection Criteria** <br>
 Good track record of performance in relevant Sports CCA or relevant external competition\*.
 
   
@@ -78,8 +70,7 @@ Physical skills (Technique, agility, speed), Sports Specific Skills & Game Play,
 
 Others: Leadership Positions held in relevant CCA.
 
-#### Selection Process (27 June to 29 July 2022)
-
+**Selection Process (27 June to 29 July 2022)**<br>
 All shortlisted applicants will be informed of their trial dates and interview during this period. Selection will be made based on the following:
 
   
@@ -96,7 +87,6 @@ Part 3: Interview for shortlisted candidates based on outcome of Sports Trials.�
 
 Details of the Sports trials and interview will be released at a later date. All shortlisted students are required to attend an interview. **Only shortlisted students who applied via the MOE DSA (Sec) Portal will be considered**. For more details, please go to www.moe.gov.sg/dsa-sec . 
 
-  
 
 Register at [https://go.gov.sg/skssdsasports-indicationofinterest](https://go.gov.sg/skssdsasports-indicationofinterest) to receive updates and indicate your interest in the SKSS Sports DSA Online Seminar on **20 May, Friday, 6pm - 7pm**.
 
@@ -106,14 +96,12 @@ Note: Both Child/Ward and Parents/Guardian are invited.  
 
   
 
-#### Update Selection Outcome (13-15 September)
-
+**Update Selection Outcome (13-15 September)**<br>
 Shortlisted candidates will be notified by 15 Sept 2022 if they have been given a Confirmed Offer, put on the Waiting List or if the school is unable to offer them a place.
 
   
 
-#### School Preference Submission (31 Oct – 4 Nov)
-
+**School Preference Submission (31 Oct – 4 Nov)**<br>
 Students who receive at least one DSA-Sec offer (including from SOTA) will receive email and SMS notification via Postman.gov.sg on the School Preference Submission at the end of Oct 2022. **Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to three school preferences.** 
 
   
@@ -126,10 +114,8 @@ DSA Sec offers not taken up will be considered as lapsed at the end of the Schoo
 
   
 
-#### **Contact Persons for more enquiries:**
-
-Mr Louis Ho (Head of Department PE/CCA) at  [ho\_j\_yen\_louis@moe.edu.sg](mailto:ho_j_yen_louis@moe.edu.sg)  
-
+**Contact Persons for more enquiries:**<br>
+Mr Louis Ho (Head of Department PE/CCA) at [ho\_j\_yen\_louis@moe.edu.sg](mailto:ho_j_yen_louis@moe.edu.sg)  <br>
 Ms Sandra Loke (School Admin Staff) at [Loke\_Low\_ying@moe.edu.sg](mailto:Loke_Low_ying@moe.edu.sg)
 
 School Email Address: [skss@moe.edu.sg](mailto:skss@moe.edu.sg), Office Tel: 63887258
@@ -156,34 +142,28 @@ We hope to hear from you soon. 
 
   
 
-#### Useful Weblinks
+**Useful Weblinks**
+
+
+SKSS LLP - Building Character through Sports & Outdoor Adventure<br>
+[https://moe-sengkangsec-staging.netlify.app/curriculum/learning-for-life-programme-llp](https://moe-sengkangsec-staging.netlify.app/curriculum/learning-for-life-programme-llp)
 
   
 
-SKSS LLP - Building Character through Sports & Outdoor Adventure
-
-[https://sengkangsec.moe.edu.sg/curriculum/learning-for-life-programme-llp](https://sengkangsec.moe.edu.sg/curriculum/learning-for-life-programme-llp)
-
-  
-
-SKSS Sports & Outdoor Adventure Webpage
-
+SKSS Sports & Outdoor Adventure Webpage<br>
 [https://sites.google.com/skss.edu.sg/sksspesports/home](https://sites.google.com/skss.edu.sg/sksspesports/home)
 
   
 
-SKSS Sports Instagram
-
+SKSS Sports Instagram<br>
 [https://www.instagram.com/sksssports/](https://www.instagram.com/sksssports/)
 
   
 
-DSA-Sec Main Webpage
-
+DSA-Sec Main Webpage<br>
 [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
   
 
-DSA-Sec School Finder
-
+DSA-Sec School Finder<br>
 [https://go.gov.sg/dsa-secschfinder](https://go.gov.sg/dsa-secschfinder)
