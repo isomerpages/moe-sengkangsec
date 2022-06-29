@@ -2,5 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs & Societies/.keep
       - Co Curricular Activities (CCA).md
       - Direct School Admission (DSA).md
