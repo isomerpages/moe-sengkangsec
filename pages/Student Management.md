@@ -91,3 +91,9 @@ Outstanding primary school achievements as a student leader 
 **_and_** PSLE score ≤ 18 and three subjects must score AL 5 or better
 
 **<font size=5>2021 MOE Edusave Character Awards</font>**
+
+<br>
+
+**<font size=7>INSERT SLIDE SHOW HERE</font>**<br>
+
+<br>
