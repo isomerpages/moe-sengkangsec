@@ -24,10 +24,10 @@ We value teamwork, unity, discipline and commitment. Each member is encouraged t
 
   
 **<font size=5>Achievements and Accolades</font>**<br>
-*   2019 Singapore Youth Festival Arts Presentation - Certificate of Distinction <br>
-*   2018 Raffles Arts Festival - Bronze Award<br>
-*   2017 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment<br>
-*   2015 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment
+2019 Singapore Youth Festival Arts Presentation - Certificate of Distinction <br>
+2018 Raffles Arts Festival - Bronze Award<br>
+2017 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment<br>
+2015 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment
 
   
 **<font size=5>CCA Training Sessions</font>**<br>
