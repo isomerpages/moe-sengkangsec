@@ -13,7 +13,7 @@ description: ""
 b. Pupil Birth Certificate  <br>c. Father and Mother NRIC  
 d. Parent’s Marriage Certificates (for Malay pupils)    
   
- **2. If the parents are overseas during the period of Sec 1 registration, can the child register via a proxy and do the parents need to produce any documentary proof?**   <br>Yes (Please provide details of documentary proof)    
+**2. If the parents are overseas during the period of Sec 1 registration, can the child register via a proxy and do the parents need to produce any documentary proof?**   <br>Yes (Please provide details of documentary proof)    
   
 **3. If both parents and child are overseas during the period of Sec 1 registration and only the appointed proxies have all the relevant documents, will the school allow the child to register?**     
 Yes (Provide more details on buying of uniforms/textbooks/getting secondary one registration folder upon returning Singapore etc. or proxy to collect folder)  
