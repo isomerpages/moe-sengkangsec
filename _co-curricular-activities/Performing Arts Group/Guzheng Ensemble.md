@@ -41,3 +41,4 @@ Fridays 3.00pm to 6.00pm
 **Instructor**
 <br>Ms Chng Lee Na
 
+![](/images/CCA/Guzheng%201.png)![](/images/CCA/Guzheng%202.png)
