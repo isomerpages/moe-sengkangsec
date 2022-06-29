@@ -44,3 +44,11 @@ These small-group workshops imparted strategies to teachers to help students wit
 
 ![](/images/Student%20Management/Student%20Management%201.png)![](/images/Student%20Management/Student%20Management%202.png)
 ![](/images/Student%20Management/Student%20Management%203.png)
+
+**<font size=5>Model Class Award 2021</font>**<br>
+The Model Class Award is awarded to the most deserving class of each level to recognise excellent and consistent efforts in displaying the best attendance, behaviour and grooming.  
+  
+This year, the model class award for the respective levels are 1-4, 2-4, 3-2 and 4-6.
+
+**<font size=7>INSERT SLIDE SHOW HERE</font>**<br>
+
