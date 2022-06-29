@@ -28,3 +28,7 @@ The committee believes that leadership can be learnt and all students can be a l
 (d) Student Leaders' Monthly Meeting/Training
 
 <font size=7>INSERT SLIDE SHOW HERE</font>
+
+<font size=5>Our Guiding Framework</font>
+![](/images/Student%20Leadership%20Development/framework_V3.png)
+
