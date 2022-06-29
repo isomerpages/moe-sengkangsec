@@ -58,7 +58,9 @@ The Student Council assumes the highest level of Student Leadership in Seng Kang
 **02. Peer Support Leaders**<br>
 The Peer Support Leaders are the heart of the students, as they assist in cultivating a caring and enabling school environment and strengthen the network of positive relationships, which have a positive impact on student achievement and well-being. They help to keep a lookout for students, showing empathy to reach-out those who may feel lonely and isolated. They are also patient to provide a listening ear and support to students who may be in distress, influencing them to be more optimistic. The Peer Support Leaders are our ambassadors of peer support relations - encouraging Peer Bonding, Peer Helping and Peer Influencing.
 
-![](/images/Student%20Leadership%20Development/SLD%202.png)
+<img src="/images/Student%20Leadership%20Development/SLD%202.png"  
+     style="width:80%">
+
 
 **03\. Sports Leaders** <br>
 The Sports Leaders are the energizers who serve the school in creating a vibrant, inclusive and active learning environment for the students. They encourage students to be healthy and active youths by hosting regular unstructured play sessions. They also help to plan and organise Sports events within the school and participate in outreach activities at Primary Schools, as umpires and other sports officials. The Sports Leaders are enthusiastic advocates of the school’s Learning for Life Programme - building character through sports and outdoor adventure learning.
