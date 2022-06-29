@@ -10,7 +10,7 @@ third_nav_title: Values in Action
 **<font size=6>Values in Action</font>**<br>
 
 <img src="/images/CCE/Service%20Learning%20Framework.jpg"  
-     style="width:75%">
+     style="width:50%">
 		 
 Service Learning forms a large part of the Values in Action Efforts at Seng Kang Secondary School.
 
