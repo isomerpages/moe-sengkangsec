@@ -41,3 +41,4 @@ Fridays 2.30pm to 6.30pm
 **Conductress**  
 Ms Jacintha Tan
 
+![](/images/CCA/Symphonic%20Band.png)
