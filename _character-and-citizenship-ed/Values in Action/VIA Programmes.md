@@ -8,3 +8,7 @@ third_nav_title: Values in Action
 >Co-Curriculum
 
 **<font size=6>VIA Programmes</font>**<br>
+
+**<font size=5>Newspaper Collection
+</font>**
+
