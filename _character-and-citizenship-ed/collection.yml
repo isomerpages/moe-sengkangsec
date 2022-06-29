@@ -2,6 +2,7 @@ collections:
   character-and-citizenship-ed:
     output: true
     order:
+      - Internationalisation Programme/.keep
       - Values in Action/.keep
       - National Education.md
       - Character and Citizenship Education (CCE).md
