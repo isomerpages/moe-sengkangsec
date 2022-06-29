@@ -2,10 +2,10 @@ collections:
   character-and-citizenship-ed:
     output: true
     order:
-      - Sexuality Education.md
-      - Cyber Wellness.md
-      - Education & Career Programme.md
-      - Internationalisation Programme/.keep
-      - Values in Action/.keep
-      - National Education.md
       - Character and Citizenship Education (CCE).md
+      - National Education.md
+      - Values in Action/.keep
+      - Internationalisation Programme/.keep
+      - Education & Career Programme.md
+      - Cyber Wellness.md
+      - Sexuality Education.md
