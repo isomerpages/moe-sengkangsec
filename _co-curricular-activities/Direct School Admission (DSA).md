@@ -134,7 +134,7 @@ Do register at [https://go.gov.sg/skssdsasports-indicationofinterest](https://g
 
   
 
-[Click here for FAQ on DSA at SKSS](https://sengkangsec.moe.edu.sg/qql/slot/u159/2019/Co-Curriculum/CCA/DSA/Frequently%20Asked%20Question%20DSA.pdf). 
+[Click here for FAQ on DSA at SKSS](/files/CCA/Frequently%20Asked%20Question%20DSA.pdf). 
 
   
 
