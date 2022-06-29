@@ -8,10 +8,10 @@ description: ""
 
 **<font size=6>Frequently Asked Questions (FAQ)</font>**
 
-**1\. What are the documents to bring during Sec 1 registration?**  a. Report Book  
- b. Pupil Birth Certificate  
- c. Father and Mother NRIC  
- d. Parent’s Marriage Certificates (for Malay pupils)    
+**1\. What are the documents to bring during Sec 1 registration?** <br>
+ a. Report Book  
+b. Pupil Birth Certificate  <br>c. Father and Mother NRIC  
+d. Parent’s Marriage Certificates (for Malay pupils)    
   
  **2. If the parents are overseas during the period of Sec 1 registration, can the child register via a proxy and do the parents need to produce any documentary proof?**   Yes (Please provide details of documentary proof)    
   
@@ -76,4 +76,4 @@ Students who opted to study a third language do not automatically qualify for en
 
 **13\. Where do I get further information on Parents Gateway?**
 
-[Please click here to access Parents Gateway guide.](https://sengkangsec.moe.edu.sg/useful-links-1/parenting-resources/parents-gateway)
+[Please click here to access Parents Gateway guide.](https://moe-sengkangsec-staging.netlify.app/useful-links-1/parenting-resources/parents-gateway)
