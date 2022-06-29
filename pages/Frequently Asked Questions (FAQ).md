@@ -19,7 +19,7 @@ d. Parent’s Marriage Certificates (for Malay pupils)  
 Yes (Provide more details on buying of uniforms/textbooks/getting secondary one registration folder upon returning Singapore etc. or proxy to collect folder)  
   
 **4. Does school provide school bus?**
-<br>No school bus services for secondary school.  Public Transport: SBS 27, 80, 82, 83, 86, 87, 88, 89, 119, 156, 159, 163, 372, 965 MRT Station: Seng Kang, Ranggung LRT.  
+<br>No school bus services for secondary school.  Public Transport: SBS 27, 80, 82, 83, 86, 87, 88, 89, 119, 156, 159, 163, 372, 965 <br>MRT Station: Seng Kang, Ranggung LRT.  
   
 **5. What are the school operating hours?**
 <br>Our school operational hours are from 7.00am to 6.00pm. Our General office operates from 7.00am to 6.00pm.   We are open from Monday to Friday and are closed on Saturday, Sunday & Public Holidays.  
