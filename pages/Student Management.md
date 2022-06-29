@@ -41,3 +41,6 @@ An online workshop was conducted via Zoom as part of the school’s Professional
 
 **3\. Focused Group Discussion to Support Students with Dyslexia**<br>
 These small-group workshops imparted strategies to teachers to help students with Dyslexia. These strategies, which teachers tried out at the workshops, include the teaching of morphemes and the use of word maps and semantic gradients.
+
+![](/images/Student%20Management/Student%20Management%201.png)![](/images/Student%20Management/Student%20Management%202.png)
+![](/images/Student%20Management/Student%20Management%203.png)
