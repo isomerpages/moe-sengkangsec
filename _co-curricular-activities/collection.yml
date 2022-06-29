@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Performing Arts Group/English Drama.md
       - Performing Arts Group/Modern Dance (Amplify).md
       - Performing Arts Group/Guzheng Ensemble.md
       - Performing Arts Group/Choir (SKY Chorale).md
