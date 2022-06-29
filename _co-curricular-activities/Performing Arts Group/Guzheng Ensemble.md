@@ -30,13 +30,8 @@ We value teamwork, unity, discipline and commitment. Each member is encouraged t
 *   2015 Singapore Youth Festival Arts Presentation - Certificate of Accomplishment
 
   
-
-CCA Training Sessions
----------------------
-
-Wednesdays 3.30pm to 6.00pm
-
+**<font size=5>CCA Training Sessions</font>**<br>
+Wednesdays 3.30pm to 6.00pm <br>
 Fridays 3.00pm to 6.00pm
 
-Teachers-In-Charge
-------------------
+**<font size=5>Teachers-In-Charge</font>**<br>
