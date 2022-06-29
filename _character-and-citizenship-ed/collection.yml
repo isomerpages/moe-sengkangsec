@@ -2,6 +2,7 @@ collections:
   character-and-citizenship-ed:
     output: true
     order:
+      - Education & Career Programme.md
       - Internationalisation Programme/.keep
       - Values in Action/.keep
       - National Education.md
