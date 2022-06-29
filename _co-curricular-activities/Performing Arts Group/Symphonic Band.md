@@ -31,12 +31,13 @@ The Symphonic Band, affectionately known as SKY Band, provides a nurturing envir
 *   July 2018: SKSS Speech Day
 *   March 2018: SKSS Record-Breaking Event
 
-CCA Training Sessions
----------------------
-
-Wednesdays 3.30pm to 6.30pm
-
+**<font size=5>CCA Training Sessions</font>**<br>
+Wednesdays 3.30pm to 6.30pm<br>
 Fridays 2.30pm to 6.30pm
 
-Teachers-in-charge
-------------------
+**<font size=5>Teachers-in-charge</font>**<br>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">Name/Designation</span></th><th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">Email Address</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Ms Loh Yoke Ling (OIC)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">loh_yoke_ling@moe.edu.sg</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Ms Nivashini (2IC)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">nivashini_mohandasan@moe.edu.sg</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mr Andrew Chan</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">chan_wu_siong_andrew@moe.edu.sg</td></tr></tbody></table>
+
+**Conductress**  
+Ms Jacintha Tan
+
