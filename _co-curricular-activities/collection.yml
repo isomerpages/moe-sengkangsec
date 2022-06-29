@@ -2,12 +2,12 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Performing Arts Group/Symphonic Band.md
-      - Performing Arts Group/English Drama.md
-      - Performing Arts Group/Modern Dance (Amplify).md
-      - Performing Arts Group/Guzheng Ensemble.md
-      - Performing Arts Group/Choir (SKY Chorale).md
       - Performing Arts Group/.keep
+      - Performing Arts Group/Choir (SKY Chorale).md
+      - Performing Arts Group/Guzheng Ensemble.md
+      - Performing Arts Group/Modern Dance (Amplify).md
+      - Performing Arts Group/English Drama.md
+      - Performing Arts Group/Symphonic Band.md
       - Clubs & Societies/Media Services Club.md
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/.keep
