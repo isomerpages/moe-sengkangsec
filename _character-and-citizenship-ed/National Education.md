@@ -6,6 +6,6 @@ description: ""
 >![](/images/About%20us.jpg)
 >Co-Curriculum
 
-**<font size=5>National Educaion</font>**<br>
+**<font size=5>National Education</font>**<br>
 
 Coming soon......
