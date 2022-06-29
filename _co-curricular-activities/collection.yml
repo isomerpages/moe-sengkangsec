@@ -2,5 +2,5 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Example Title.md
+      - Direct School Admission (DSA).md
       - Co Curricular Activities (CCA).md
