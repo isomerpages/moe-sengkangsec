@@ -11,3 +11,19 @@ third_nav_title: Internationlisation Programme
 
 **<font size=5>Sec 3 Vietnam Trip 2014
 </font>**
+
+![](/images/CCE/Sec%203%20Overseas%201.png)
+
+**<font size=5>Sec 3 Hanoi Trip 2014</font>**
+
+![](/images/CCE/Sec%203%20Overseas%202.png)
+
+**<font size=5>Sec 3 China Trip 2014</font>**
+
+![](/images/CCE/Sec%203%20Overseas%203.png)
+
+**Missing Poster PDFs for** <br>
+Sec 3 Vietnam Trip Poster 2013<br>
+Sec 3 China Trip Poster 2013<br>
+Sec 3 Malaysia Trip Poster 2013
+
