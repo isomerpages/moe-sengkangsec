@@ -23,10 +23,8 @@ The school adopts MOE’s Cyber Wellness Framework in educating our students on 
 
 Ø  KS1: Use of head-heart-hands approach<br>
               Head (Sense-Think): Knowledge (CCE lessons, workshops)<br>
-              Heart (Sense-Think-Act): Experience (Values)
-
-Hand (Act): Outreach/advocacy (Ambassadors Programme, Intensive Programme for targeted students)
-
+              Heart (Sense-Think-Act): Experience (Values)<br>
+Hand (Act): Outreach/advocacy (Ambassadors Programme, Intensive Programme for targeted students)<br>
 Ø  KS2: Leveraging on partners (Touch Community Services, MetoYou Cybercare, Media Literacy Council)<br>
 Ø  KS3: Close monitoring of programmes (Refer to OPAL resources and training guidebook provided by Guidance Branch) <br>
 Ø  KS4: Evaluation of programme (feedback and assessment)<br>
