@@ -84,11 +84,11 @@ b.    Character and Citizenship Education (CCE)
 
   
 
-11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**](https://sengkangsec.moe.edu.sg/qql/slot/u159/2019/Co-Curriculum/CCE/Sexuality%20Education/Annex%20A.pdf). The completed form is to be submitted by 14/02/2022. 
+11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**](/files/Annex%20A.pdf). The completed form is to be submitted by 14/02/2022. 
 
   
 
-12. Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**](https://sengkangsec.moe.edu.sg/qql/slot/u159/2019/Co-Curriculum/CCE/Sexuality%20Education/Annex%20B.pdf).  The completed form is to be submitted by 14/02/2022.
+12. Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**](/files/Annex%20B.pdf).  The completed form is to be submitted by 14/02/2022.
 
   
 
@@ -96,6 +96,4 @@ b.    Character and Citizenship Education (CCE)
 
   
 
-14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements. 
-
- 
+14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
