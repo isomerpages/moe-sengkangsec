@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Seng Kang Secondary School
-      background: /images/hero-banner.png
+      background: /images/Homepage GIF.gif
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -16,4 +15,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
