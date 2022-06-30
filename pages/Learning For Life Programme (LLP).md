@@ -8,7 +8,7 @@ description: ""
 
 **<font size=6>Learning For Life Programme (LLP)</font>**<br>
 **<font size=5>LLP - Building Character through Sports and Outdoor Adventure</font>**<br>
-Click **here** for more information on Sports DSA at Seng Kang Secondary School.
+Click [here](https://moe-sengkangsec-staging.netlify.app/co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa) for more information on Sports DSA at Seng Kang Secondary School.
 
 ***<font size=5>“Stronger Athletes, Tougher Individuals and Better Learners.”</font>***<br>
 Sports and Outdoor Adventure are key platforms for character building and leadership development. They play a key role in building an inclusive community of active and healthy individuals. SKSS’s Learning for Life Programme aims to equip students with the knowledge to be critical and inventive thinker, the skills to be a competent and confident leader, the attitude to be gracious and cultured citizens and to be healthy and active youth. The programme seeks to nurture students to be learners for life by enabling them to be stronger athletes, tougher individuals and better learners. 
