@@ -14,7 +14,9 @@ third_nav_title: Internationlisation Programme
 **MISSION:**<br>
 To provide opportunities for SKY Achievers to construct new knowledge through transformation of their experience by feeling, reflecting, thinking and applying knowledge by doing.
 
-![](/images/CCE/experiential%20learning%201.jpg)
+<img src="/images/CCE/experiential%20learning%201.jpg"  
+     style="width:60%">
+
 
 **Learning Journey**<br>
 Through learning journeys, our aims are to enhance our students in the learning and development of various subjects as they would be able to internalize many concepts learnt in the textbook. In addition, it provides opportunities for our students to construct their own knowledge through exploration and discovery. As such, the school has organized many inter-disciplinary and multi-disciplinary learning journeys. Learning journeys also provide our students’ opportunities to develop their leadership and character.
