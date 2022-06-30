@@ -107,3 +107,5 @@ My bonding activity with my girl. Posted by PSG Teacher IC Mrs Betsy Tan
 
 <img src="/images/PSG%20Slideshow%202.gif"  
      style="width:75%">
+		 
+![](/images/PSG%20Slideshow%203.gif)
