@@ -15,7 +15,7 @@ third_nav_title: Internationlisation Programme
 To provide opportunities for SKY Achievers to construct new knowledge through transformation of their experience by feeling, reflecting, thinking and applying knowledge by doing.
 
 <img src="/images/CCE/experiential%20learning%201.jpg"  
-     style="width:60%">
+     style="width:55%">
 
 
 **Learning Journey**<br>
