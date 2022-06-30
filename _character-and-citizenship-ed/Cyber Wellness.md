@@ -16,7 +16,8 @@ The aim of the Cyber Wellness programme is to develop Seng Kang Youths’ instin
 Safe and responsible use & Respect for self and others  
 The school adopts MOE’s Cyber Wellness Framework in educating our students on Cyber Wellness. This framework focuses on three key processes: Sense, Think and Act.
 
-![](/images/CCE/Cyberwellness.png)
+<img src="/images/CCE/Cyberwellness.png"  
+     style="width:75%">
 
 **<font size=5>Key Strategies</font>**<br>
 
