@@ -31,7 +31,7 @@ Here’s to our ‘Next Breakthrough’!
 
 **<font size=5>2017</font>**
 
-**<font size=7>Insert Slide Show Here</font>**
+![](/images/School%20Achievement%202%20GIF.gif)
 
 2017 was a fruitful year for the school. Accolades in CCA continued. The feather in the cap was when SKSS Girls Guides achieved not only another Unit Gold Award but also a harvest of 4 Guides getting the individual Baden Powell Award.
 
