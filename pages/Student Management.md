@@ -52,7 +52,7 @@ This year, the model class award for the respective levels are 1-4, 2-4, 3-2 and
 
 <br>
 
-**<font size=7>INSERT SLIDE SHOW HERE</font>**<br>
+![](/images/SM%20(1)%20GIF.gif)
 
 <br>
 
@@ -94,6 +94,6 @@ Outstanding primary school achievements as a student leader 
 
 <br>
 
-**<font size=7>INSERT SLIDE SHOW HERE</font>**<br>
+![](/images/SM%20(2)%20GIF.gif)
 
 <br>
