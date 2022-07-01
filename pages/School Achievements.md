@@ -16,10 +16,10 @@ The school has also been conferred the NS Mark (Gold) Accreditation as well as t
 
 **<font size=5>2021</font>**
 
-![](/images/Achievements/School%20Achievements%202.png)
+![](/images/Achievements/School%20Achievements%202.png)<br>
 
 
-**<font size=7>Insert Slide Show Here</font>**
+![](/images/School%20Achievement%201%20GIF.gif)<br>
 
 On 15 February 2018, a historical event was held with the entire school community participating in the Lunar New Year Mass Lo Hei (a Singaporean Chinese New Year tradition of tossing the Chinese raw fish salad which bodes good fortune and blessings).
 
