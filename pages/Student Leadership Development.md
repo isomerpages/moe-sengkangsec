@@ -29,7 +29,7 @@ The committee believes that leadership can be learnt and all students can be a l
 
 <br>
 
-<font size=7>INSERT SLIDE SHOW HERE</font>
+![](/images/SLD%20GIF.gif)
 
 <br>
 
