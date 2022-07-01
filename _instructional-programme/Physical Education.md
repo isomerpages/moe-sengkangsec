@@ -56,4 +56,4 @@ Students across all levels are taught a myriad of sports skills and the key aspe
 *   Sports Science and Outdoor Adventure Resilience Programme
 
 
-INSERT SLIDE SHOW HERE
+![](/images/PE%20GIF.gif)
