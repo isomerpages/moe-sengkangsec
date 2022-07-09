@@ -4,8 +4,8 @@ permalink: /about-skss/our-people/skss-partners/parents-support-group
 description: ""
 third_nav_title: SKSS Partners
 ---
-&gt;![](/images/About%20us.jpg)
-&gt;About SKSS
+>![](/images/About%20us.jpg)
+>About SKSS
 
 **<font size="6">Parents Support Group</font>**
 
