@@ -3,8 +3,8 @@ title: School Achievements
 permalink: /achievements/school-achievements
 description: ""
 ---
-&gt;![](/images/About%20us.jpg)
-&gt;Achievements
+>![](/images/About%20us.jpg)
+>Achievements
 
 **<font size="6">School Achievements</font>**
 
