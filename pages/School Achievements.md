@@ -3,23 +3,23 @@ title: School Achievements
 permalink: /achievements/school-achievements
 description: ""
 ---
->![](/images/About%20us.jpg)
->Achievements
+&gt;![](/images/About%20us.jpg)
+&gt;Achievements
 
-**<font size=6>School Achievements</font>**
+**<font size="6">School Achievements</font>**
 
-<iframe width="802" height="315" src="https://www.youtube.com/embed/VNYDp5tH3o8" title="Seng Kang Secondary School Corporate Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Seng Kang Secondary School Corporate Video" src="https://www.youtube.com/embed/VNYDp5tH3o8" height="315" width="802"></iframe>
 
 The school has also been conferred the NS Mark (Gold) Accreditation as well as the Total Defence Award, under the category of National Service Advocate Award for Organizations 2019. This is a national pinnacle award presented by the Ministry of Defence and the Ministry of Home Affairs to recognize our school for our excellent processes in role modelling the importance of Total Defence and National Education, as well as our good HR practices in supporting NS.
 
 ![](/images/Achievements/School%20Achievements%201.png)
 
-**<font size=5>2021</font>**
+**<font size="5">2021</font>**
 
 ![](/images/Achievements/School%20Achievements%202.png)<br>
 
 
-![](/images/School%20Achievement%201%20GIF.gif)<br>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQUONLvAzdjvQVIIhqRbduePwEND6cNdenoNIzMJrYz1OPOO7uNcx75AUE8WO_xwGVb-T39c2tnuuQ3/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe><br>
 
 On 15 February 2018, a historical event was held with the entire school community participating in the Lunar New Year Mass Lo Hei (a Singaporean Chinese New Year tradition of tossing the Chinese raw fish salad which bodes good fortune and blessings).
 
@@ -29,19 +29,19 @@ These feats were made possible only through a strong and united spirit of collab
 
 Here’s to our ‘Next Breakthrough’!
 
-**<font size=5>2017</font>**
+**<font size="5">2017</font>**
 
 ![](/images/School%20Achievement%202%20GIF.gif)
 
-2017 was a fruitful year for the school. Accolades in CCA continued. The feather in the cap was when SKSS Girls Guides achieved not only another Unit Gold Award but also a harvest of 4 Guides getting the individual Baden Powell Award.
+2017 was a fruitful year for the school. Accolades in CCA continued.&nbsp;The feather in the cap was when SKSS Girls Guides achieved not only another Unit Gold Award but also a harvest of 4 Guides getting the individual Baden Powell Award.
 
   
 
-On 12 May 2017, the school had the honour to host a Guinness World Record event with the unwavering support of SKSS’ SAC Vice-Chairman, Dato’ Seri Dr Toh Soon Huat. He arranged for one of the school’s community partners, Sian Chay Medical Institution, to hold its Guinness Record Event of the World’s Largest Artificial Flower Bouquet in the school hall.
+On 12 May 2017, the school had the honour to host a Guinness World Record event with the unwavering support of SKSS’ SAC Vice-Chairman, Dato’ Seri Dr Toh Soon Huat. He arranged for one of the school’s community partners, Sian Chay Medical Institution, to hold its&nbsp;Guinness Record Event of the World’s Largest Artificial Flower Bouquet in the school hall.
 
   
 
-The record-breaking flower bouquet was made up of a total of 41,249 blooms of carnations, in the shape of a giant heart measuring 13m across and 9.5m in depth. Thereafter, the school staff and student volunteers helped to distribute the artificial carnations to mothers in the neighbourhood to celebrate Mothers’ Day. 
+The record-breaking flower bouquet was made up of a total of 41,249 blooms of carnations, in the shape of a giant heart measuring 13m across and 9.5m in depth. Thereafter, the school staff and student volunteers helped to distribute the artificial carnations to mothers in the neighbourhood to celebrate Mothers’ Day.&nbsp;
 
   
 
