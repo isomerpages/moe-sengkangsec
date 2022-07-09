@@ -4,8 +4,8 @@ permalink: /about-skss/our-people/skss-partners/community-partners
 description: ""
 third_nav_title: SKSS Partners
 ---
-&gt;![](/images/About%20us.jpg)
-&gt;About SKSS
+>![](/images/About%20us.jpg)
+>About SKSS
 
 **<font size="6">Community Partners</font>**
 
