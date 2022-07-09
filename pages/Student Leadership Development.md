@@ -3,8 +3,8 @@ title: Student Leadership Development
 permalink: /co-curriculum/student-leadership-development
 description: ""
 ---
-&gt;![](/images/About%20us.jpg)
-&gt;Co-Curriculum
+>![](/images/About%20us.jpg)
+>Co-Curriculum
 
 **<font size="6">Student Leadership Development</font>**
 
