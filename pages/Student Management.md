@@ -52,7 +52,7 @@ This year, the model class award for the respective levels are 1-4, 2-4, 3-2 and
 
 <br>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSpFlsMD97w3Y7GNdKvstL3CUM7iUU2uQrpfYJ9mF5B8YlfbLnB7w7qecJw2IN6W2jg5F5eoh84Dvcw/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSpFlsMD97w3Y7GNdKvstL3CUM7iUU2uQrpfYJ9mF5B8YlfbLnB7w7qecJw2IN6W2jg5F5eoh84Dvcw/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 <br>
 
@@ -94,6 +94,6 @@ Outstanding primary school achievements as a student leader&nbsp;
 
 <br>
 
-![](/images/SM%20(2)%20GIF.gif)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQoMhC__6D-PZcV7nbMOlV5IwrXowbzcX38WXcNXHdWKUtH4ANBLvQBG37smPe_M6e6OtlwumPP63Ym/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 <br>
