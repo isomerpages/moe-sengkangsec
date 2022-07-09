@@ -3,8 +3,8 @@ title: Student Management
 permalink: /co-curriculum/student-management
 description: ""
 ---
-&gt;![](/images/About%20us.jpg)
-&gt;Co-Curriculum
+>![](/images/About%20us.jpg)
+>Co-Curriculum
 
 **<font size="6">Student Management</font>**
 
