@@ -8,7 +8,7 @@ description: ""
 
 **<font size="6">School Achievements</font>**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Seng Kang Secondary School Corporate Video" src="https://www.youtube.com/embed/VNYDp5tH3o8" height="315" width="802"></iframe>
+<iframe width="802" height="315" src="https://www.youtube.com/embed/VNYDp5tH3o8" title="Seng Kang Secondary School Corporate Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 The school has also been conferred the NS Mark (Gold) Accreditation as well as the Total Defence Award, under the category of National Service Advocate Award for Organizations 2019. This is a national pinnacle award presented by the Ministry of Defence and the Ministry of Home Affairs to recognize our school for our excellent processes in role modelling the importance of Total Defence and National Education, as well as our good HR practices in supporting NS.
 
@@ -19,7 +19,7 @@ The school has also been conferred the NS Mark (Gold) Accreditation as well as t
 ![](/images/Achievements/School%20Achievements%202.png)<br>
 
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQUONLvAzdjvQVIIhqRbduePwEND6cNdenoNIzMJrYz1OPOO7uNcx75AUE8WO_xwGVb-T39c2tnuuQ3/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe><br>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQUONLvAzdjvQVIIhqRbduePwEND6cNdenoNIzMJrYz1OPOO7uNcx75AUE8WO_xwGVb-T39c2tnuuQ3/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe><br>
 
 On 15 February 2018, a historical event was held with the entire school community participating in the Lunar New Year Mass Lo Hei (a Singaporean Chinese New Year tradition of tossing the Chinese raw fish salad which bodes good fortune and blessings).
 
@@ -31,7 +31,7 @@ Here’s to our ‘Next Breakthrough’!
 
 **<font size="5">2017</font>**
 
-![](/images/School%20Achievement%202%20GIF.gif)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQc-eflxd7mT2wF6kjCIW8prxUtEUcsrmYCnVrqmTqdwV6Hk7dWFamcZInyYuN1UAoZqMErZ6eMWRSX/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 2017 was a fruitful year for the school. Accolades in CCA continued.&nbsp;The feather in the cap was when SKSS Girls Guides achieved not only another Unit Gold Award but also a harvest of 4 Guides getting the individual Baden Powell Award.
 
