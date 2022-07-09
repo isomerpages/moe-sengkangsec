@@ -3,8 +3,8 @@ title: Character and Citizenship Education (CCE)
 permalink: /co-curriculum/character-and-citizenship-education-cce
 description: ""
 ---
-&gt;![](/images/About%20us.jpg)
-&gt;Co-Curriculum
+>![](/images/About%20us.jpg)
+>Co-Curriculum
 
 **<font size="6">Character and Citizenship Education (CCE)</font>**<br>
 
