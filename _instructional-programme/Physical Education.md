@@ -3,8 +3,8 @@ title: Physical Education
 permalink: /curriculum/instructional-programme-ip/physical-education
 description: ""
 ---
-&gt;![](/images/Curriculum/Curriculum.jpg)
-&gt;Instructional Programme (IP)
+>![](/images/Curriculum/Curriculum.jpg)
+>Instructional Programme (IP)
 
 **<font size="6">Physical Education</font>**
 
