@@ -3,7 +3,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 ---
 >![](/images/About%20us.jpg)
->About SKSS
+>SKSS
 
 **<font size=5>Terms of Use</font>**
 
