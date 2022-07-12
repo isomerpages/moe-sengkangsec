@@ -3,7 +3,7 @@ title: Privacy Statement
 permalink: /privacy/
 ---
 >![](/images/About%20us.jpg)
->About SKSS
+>SKSS
 
 **<font size=5>Privacy Statement</font>**
 
