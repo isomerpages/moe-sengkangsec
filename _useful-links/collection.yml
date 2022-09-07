@@ -4,7 +4,7 @@ collections:
     order:
       - Students and Parents.md
       - Teachers.md
-      - Announcements.md
       - Frequently Asked Questions (FAQ).md
-      - Events.md
       - Calendar.md
+      - Events.md
+      - Announcements.md
