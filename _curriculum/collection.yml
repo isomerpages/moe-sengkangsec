@@ -2,5 +2,5 @@ collections:
   curriculum:
     output: true
     order:
-      - Learning For Life Programme (LLP).md
       - Applied Learning Programme (ALP).md
+      - Learning For Life Programme (LLP).md
