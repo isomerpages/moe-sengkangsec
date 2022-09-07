@@ -2,5 +2,5 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Student Management.md
       - Student Leadership Development.md
+      - Student Management.md
