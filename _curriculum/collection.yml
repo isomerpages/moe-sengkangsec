@@ -1,4 +1,5 @@
 collections:
   curriculum:
     output: true
-    order: []
+    order:
+      - Learning For Life Programme (LLP).md
