@@ -2,5 +2,6 @@ collections:
   useful-links:
     output: true
     order:
+      - Frequently Asked Questions (FAQ).md
       - Events.md
       - Calendar.md
