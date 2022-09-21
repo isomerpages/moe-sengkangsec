@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main Page/skss site test.gif
+      background: /images/Main Page/skss site test2.gif
   - infobar:
       title: Announcements
       button: Click here
