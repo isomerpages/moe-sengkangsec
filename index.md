@@ -7,10 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage GIF 4.gif
+      background: /images/Main Page/skss site test.gif
   - infobar:
       title: Announcements
       button: Click here
       url: /announcements
 ---
-
