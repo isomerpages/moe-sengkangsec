@@ -25,3 +25,4 @@ The focus of the department’s core curriculum in English Language and Literatu
 
 ![](/images/Curriculum/EL%201.png)
 ![](/images/Curriculum/EL%202.png)
+![](/images/Curriculum/EL%203.png)
