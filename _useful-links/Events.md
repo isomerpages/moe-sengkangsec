@@ -4,8 +4,6 @@ permalink: /useful-links-1/events/
 description: ""
 ---
 
->![](/images/About%20us.jpg)
->Useful Links
 
 **<font size=6>Events</font>**
 
