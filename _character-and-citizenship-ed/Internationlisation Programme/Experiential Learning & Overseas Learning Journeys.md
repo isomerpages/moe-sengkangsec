@@ -1,11 +1,9 @@
 ---
 title: Experiential Learning & Overseas Learning Journeys
-permalink: /co-curriculum/character-and-citizenship-education-cce/internationlisation-programme/exp-learning
+permalink: /co-curriculum/character-and-citizenship-education-cce/internationlisation-programme/exp-learning/
 description: ""
 third_nav_title: Internationlisation Programme
 ---
->![](/images/About%20us.jpg)
->Co-Curriculum
 
 **<font size=6>Experiential Learning & Overseas Learning Journeys</font>**<br>
 
