@@ -3,8 +3,6 @@ title: Sexuality Education
 permalink: /co-curriculum/character-and-citizenship-education-cce/sexuality-education/
 description: ""
 ---
-
-
 **<font size=6>Sexuality Education</font>**<br>
 
 **<font size=5>MOE Sexuality Education in Schools</font>**<br>
@@ -34,7 +32,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 **<font size=5>Overview of Seng Kang Secondary School's Sexuality Education Programme for 2022
 </font>**<br>
 
-4.     Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools) for more information on the scope of Sexuality Education in the school curriculum. <font size=6>(LINK DOESNT WORK)</font>
+4.     Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum. 
 
 5.    The subjects that incorporate topics on sexuality include:<br>
 a.    Science<br>
