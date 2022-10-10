@@ -15,11 +15,9 @@ links:
         url: /about-skss/our-people
       - title: Contact Us
         url: /about-skss/contact-us
-  - title: Achievements
-    url: /achievements/school-achievements
+  - title: News
+    url: /achievements/news
     sublinks:
-      - title: School Achievements
-        url: /achievements/school-achievements
       - title: Student Achievements
         url: /achievements/student-achievements
       - title: Staff Achievements
@@ -47,10 +45,10 @@ links:
   - title: Useful Links
     url: /useful-links-1/students-parents
     sublinks:
-      - title: Teachers
-        url: /useful-links-1/teachers
       - title: Parenting Resources
         url: /useful-links-1/parenting-resources
+      - title: Teachers
+        url: /useful-links-1/teachers
       - title: "Frequently Asked Questions "
         url: /useful-links-1/frequently-asked-questions-faq
       - title: Calendar
