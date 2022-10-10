@@ -1,14 +1,12 @@
 ---
 title: Mathematics
-permalink: /curriculum/instructional-programme-ip/mathematics
+permalink: /curriculum/instructional-programme-ip/mathematics/
 description: ""
 ---
->![](/images/Curriculum/Curriculum.jpg)
->Instructional Programme (IP)
+
 
 **<font size=6>Mathematics</font>**
 
-![](/images/Curriculum/Seng%20Kang_Department_Mathematics.jpg)
 
 **<font size=5>Beliefs</font>**
 
