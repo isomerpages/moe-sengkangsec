@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main Page/skss site test2.gif
+      background: /images/Website Banner Design 1.png
       button: Announcements
       url: /announcements
 ---
