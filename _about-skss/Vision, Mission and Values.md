@@ -4,8 +4,6 @@ permalink: /about-skss/vision-mission-and-values/
 description: ""
 ---
 
->![](/images/About%20us.jpg)
->ABOUT SKSS
 
 **<font size=5>Vision, Mission and Values</font>**
 
