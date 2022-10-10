@@ -3,8 +3,6 @@ title: Cyber Wellness
 permalink: /co-curriculum/character-and-citizenship-education-cce/cyber-wellness/
 description: ""
 ---
-
-
 **<font size=6>Cyber Wellness
 </font>**<br>
 
