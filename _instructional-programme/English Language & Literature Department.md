@@ -23,5 +23,5 @@ The focus of the department’s core curriculum in English Language and Literatu
 *   Alternative Assessments for Secondary 1 to 3 students, including non-traditional modes of assessment, like video podcasts and group choral reading.
 
 
-![](/images/Curriculum/Math%201.png)
-
+![](/images/Curriculum/EL%201.png)
+![](/images/Curriculum/EL%202.png)
