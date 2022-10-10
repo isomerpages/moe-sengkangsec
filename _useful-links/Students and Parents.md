@@ -4,9 +4,6 @@ permalink: /useful-links-1/students-parents/
 description: ""
 ---
 
->![](/images/About%20us.jpg)
->Useful Links
-
 **<font size=6>Students/Parents</font>**
 
 1.  [Stay Well to Stay Strong: A Resource Portal on Mental and Physical Health for Parents and Students](https://www.healthhub.sg/programmes/170/StayWell)  
@@ -14,7 +11,7 @@ description: ""
 2.  [MOE Website](http://www.moe.gov.sg/)
 3.  [DSA Information](https://moe-sengkangsec-staging.netlify.app/co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa)
 4.  [Parent Kit: Supporting your child during HBL](/files/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL-1%201.pdf)
-5.  [Schoolbag: The Education News Site](https://www.schoolbag.sg/)
+5.  [Schoolbag: The Education News Site](https://www.schoolbag.edu.sg/)
 6. [Google Classroom](http://classroom.google.com/)  
     
 7.  [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login) 
