@@ -4,8 +4,6 @@ permalink: /about-skss/principals-message/
 description: ""
 ---
 
->![](/images/About%20us.jpg)
->About SKSS
 
 **<font size=5>Principal's Message</font>**<br>
 **Let Your Dreams Set Sail!**
@@ -31,4 +29,3 @@ Thank you. 
 
 **Mr Koh Yiak Kheng   
 Principal**
-
