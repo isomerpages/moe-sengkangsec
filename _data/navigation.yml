@@ -29,6 +29,8 @@ links:
     sublinks:
       - title: Instructional Programme
         url: /curriculum/instructional-programme-ip
+      - title: National Digital Literacy Prog
+        url: /curriculum/NDLP
       - title: Applied Learning Programme
         url: /curriculum/applied-learning-programme-alp
       - title: Learning For Life Programme
@@ -55,5 +57,3 @@ links:
         url: /useful-links-1/frequently-asked-questions-faq
       - title: Calendar
         url: /useful-links-1/calendar
-      - title: Events
-        url: /useful-links-1/events
