@@ -4,9 +4,6 @@ permalink: /about-skss/school-song/
 description: ""
 ---
 
->![](/images/About%20us.jpg)
->ABOUT SKSS
-
 **<font size="5">School Song</font>**
 
 **Lyrics:** Mr Roger Jenkins<br>
