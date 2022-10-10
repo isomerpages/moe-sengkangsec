@@ -1,14 +1,12 @@
 ---
 title: Humanities
-permalink: /curriculum/instructional-programme-ip/humanities
+permalink: /curriculum/instructional-programme-ip/humanities/
 description: ""
 ---
->![](/images/Curriculum/Curriculum.jpg)
->Instructional Programme (IP)
+
 
 **<font size=6>Humanities</font>**
 
-![](/images/Curriculum/Seng%20Kang_Department_Humanities.jpg)
 
 **<font size=5>Beliefs</font>**
 
