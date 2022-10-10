@@ -1,10 +1,9 @@
 ---
 title: Sexuality Education
-permalink: /co-curriculum/character-and-citizenship-education-cce/sexuality-education
+permalink: /co-curriculum/character-and-citizenship-education-cce/sexuality-education/
 description: ""
 ---
->![](/images/About%20us.jpg)
->Co-Curriculum
+
 
 **<font size=6>Sexuality Education</font>**<br>
 
@@ -29,7 +28,7 @@ description: ""
 
 (iv)     Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones. 
 
-You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education) for more information on MOE Sexuality Education. <font size=6>(LINK DOESNT WORK)</font>
+You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education. 
 
   
 **<font size=5>Overview of Seng Kang Secondary School's Sexuality Education Programme for 2022
