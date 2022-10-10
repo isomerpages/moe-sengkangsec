@@ -1,11 +1,10 @@
 ---
 title: Student Achievements
-permalink: /achievements/student-achievements
+permalink: /achievements/student-achievements/
 description: ""
 third_nav_title: Student Achievements
 ---
->![](/images/About%20us.jpg)
->Achievements
+
 
 **<font size=6>Student Achievements</font>**
 
