@@ -3,8 +3,6 @@ title: Education & Career Programme
 permalink: /co-curriculum/character-and-citizenship-education-cce/education-n-career-programme/
 description: ""
 ---
->![](/images/About%20us.jpg)
->Co-Curriculum
 
 **<font size=6>Education & Career Programme
 </font>**<br>
