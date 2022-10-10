@@ -4,8 +4,6 @@ permalink: /co-curriculum/character-and-citizenship-education-cce/internationlis
 description: ""
 third_nav_title: Internationlisation Programme
 ---
-
-
 **<font size=6>Sec 3 Overseas Cultural Immersion Programme</font>**<br>
 
 
@@ -35,4 +33,3 @@ third_nav_title: Internationlisation Programme
 
 ![](/images/CCE/Sec%203%20Overseas%206.png)
 ![](/images/CCE/Sec%203%20Overseas%207.png)
-
