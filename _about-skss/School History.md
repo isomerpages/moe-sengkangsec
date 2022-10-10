@@ -3,7 +3,6 @@ title: School History
 permalink: /about-skss/school-history/
 description: ""
 ---
-
 **<font size="5">School History</font>**
 
 Our Beginning: A New Secondary School in Sengkang New Town <br>
@@ -15,7 +14,7 @@ The school started with a teaching staff of 4 Heads of Departments (HODs) and 10
 
 The school’s first Mission statement: ‘The Seng Kang Secondary School pupil is morally upright, thinks creatively and puts family, school and nation before self.’
 
-Click [here](/files/sch%20archictecture%20photos1999_LatestVersion.pdf)to read more about the SKSS Architectural Building.
+Click [here](/files/sch%20archictecture%20photos1999_LatestVersion.pdf) to read more about the SKSS Architectural Building.
 
 ![](/images/School%20History/School%20History%201.png)
 
