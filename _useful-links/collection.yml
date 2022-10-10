@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Lost and Found Information.md
       - Students and Parents.md
       - Teachers.md
       - Frequently Asked Questions (FAQ).md
