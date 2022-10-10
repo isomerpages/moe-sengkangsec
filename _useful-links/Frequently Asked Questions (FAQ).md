@@ -3,8 +3,6 @@ title: Frequently Asked Questions (FAQ)
 permalink: /useful-links-1/frequently-asked-questions-faq/
 description: ""
 ---
-
-
 **<font size=6>Frequently Asked Questions (FAQ)</font>**
 
 **1\. What are the documents to bring during Sec 1 registration?** <br>
