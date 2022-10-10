@@ -1,14 +1,12 @@
 ---
 title: Physical Education
-permalink: /curriculum/instructional-programme-ip/physical-education
+permalink: /curriculum/instructional-programme-ip/physical-education/
 description: ""
 ---
->![](/images/Curriculum/Curriculum.jpg)
->Instructional Programme (IP)
+
 
 **<font size="6">Physical Education</font>**
 
-![](/images/Curriculum/Seng%20Kang_Department_Physical%20Education.jpg)
 
 **<font size="5">Beliefs</font>**
 
