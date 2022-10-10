@@ -1,12 +1,10 @@
 ---
 title: Malay Language Unit
-permalink: /curriculum/instructional-programme-ip/mother-tongue/malay-language-unit
+permalink: /curriculum/instructional-programme-ip/mother-tongue/malay-language-unit/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
 
->![](/images/Curriculum/Curriculum.jpg)
->Mother Tongue Languages
 
 **<font size=6>Malay Language Unit</font>**
 
