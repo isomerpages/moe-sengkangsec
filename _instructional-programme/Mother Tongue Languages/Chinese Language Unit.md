@@ -1,12 +1,10 @@
 ---
 title: Chinese Language Unit
-permalink: /curriculum/instructional-programme-ip/mother-tongue/chinese-language-unit
+permalink: /curriculum/instructional-programme-ip/mother-tongue/chinese-language-unit/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
 
->![](/images/Curriculum/Curriculum.jpg)
->Mother Tongue Languages
 
 **<font size=6>Chinese Language Unit</font>**
 
