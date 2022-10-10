@@ -1,15 +1,14 @@
 ---
 title: Music Unit
-permalink: /curriculum/instructional-programme-ip/design-and-aesthetics/music-unit
+permalink: /curriculum/instructional-programme-ip/design-and-aesthetics/music-unit/
 description: ""
 third_nav_title: Design & Aesthetics
 ---
->![](/images/Curriculum/Curriculum.jpg)
->Design & Aesthetics
+
 
 **<font size=6>Music Unit</font>**
 
-![](/images/Curriculum/music.jpg)
+
 
 **<font size=5>Beliefs</font>**
 
