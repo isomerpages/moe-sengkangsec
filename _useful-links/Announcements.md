@@ -4,8 +4,6 @@ permalink: /announcements/
 description: ""
 ---
 
->![](/images/About%20us.jpg)
->Announcements
 
 
 **2021 GCE O & N-Level Graduation Certificate Collection**<br>
