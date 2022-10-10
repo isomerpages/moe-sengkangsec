@@ -1,12 +1,9 @@
 ---
 title: Tamil Language Unit
-permalink: /curriculum/instructional-programme-ip/mother-tongue/tamil-language-unit
+permalink: /curriculum/instructional-programme-ip/mother-tongue/tamil-language-unit/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-
->![](/images/Curriculum/Curriculum.jpg)
->Mother Tongue Languages
 
 **<font size=6>Tamil Language Unit</font>**
 
