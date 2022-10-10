@@ -1,11 +1,10 @@
 ---
 title: Design & Aesthetics
-permalink: /curriculum/instructional-programme-ip/design-and-aesthetics
+permalink: /curriculum/instructional-programme-ip/design-and-aesthetics/
 description: ""
 third_nav_title: Design & Aesthetics
 ---
->![](/images/Curriculum/Curriculum.jpg)
->Instructional Programme (IP)
+
 
 **<font size=6>Design & Aesthetics</font>**
 
