@@ -3,8 +3,7 @@ title: Teachers
 permalink: /useful-links-1/teachers/
 description: ""
 ---
->![](/images/About%20us.jpg)
->Useful Links
+
 
 **<font size=6>Teachers</font>**
 
@@ -22,4 +21,3 @@ description: ""
 12.  [Fault Report Form](https://goo.gl/forms/whOmnAFygp99i1QN2)
 13. [IT/AV Equipment Request Form](https://forms.gle/swfoS77ETRnwmDGw5)
 14.  [Group Personal Accident (GPA)](/files/GPA%20Product%20Fact%20Sheet%202022.pdf)
-
