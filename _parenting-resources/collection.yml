@@ -2,7 +2,6 @@ collections:
   parenting-resources:
     output: true
     order:
-      - Lost and Found Information.md
       - Parenting Resources.md
       - Parents Gateway.md
       - COVID 19 Vaccination For Students.md
