@@ -1,15 +1,14 @@
 ---
 title: Art Unit
-permalink: /curriculum/instructional-programme-ip/design-and-aesthetics/art-unit
+permalink: /curriculum/instructional-programme-ip/design-and-aesthetics/art-unit/
 description: ""
 third_nav_title: Design & Aesthetics
 ---
->![](/images/Curriculum/Curriculum.jpg)
->Design & Aesthetics
+
 
 **<font size=6>Art Unit</font>**
 
-![](/images/Curriculum/ART%20dept.jpg)
+
 
 **<font size=5>Beliefs</font>**
 
