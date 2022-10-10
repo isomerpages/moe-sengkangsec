@@ -1,14 +1,12 @@
 ---
 title: Science
-permalink: /curriculum/instructional-programme-ip/science
+permalink: /curriculum/instructional-programme-ip/science/
 description: ""
 ---
->![](/images/Curriculum/Curriculum.jpg)
->Instructional Programme (IP)
+
 
 **<font size=6>Science</font>**
 
-![](/images/Curriculum/Seng%20Kang_Department_Science.jpg)
 
 **<font size=5>Beliefs</font>**
 
