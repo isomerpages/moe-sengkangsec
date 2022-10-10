@@ -1,6 +1,6 @@
 ---
 title: Education & Career Programme
-permalink: /co-curriculum/character-and-citizenship-education-cce/education-n-career-programme
+permalink: /co-curriculum/character-and-citizenship-education-cce/education-n-career-programme/
 description: ""
 ---
 >![](/images/About%20us.jpg)
@@ -19,8 +19,9 @@ ECG Lessons Overview for 2019
 To provide additional support for students to make informed choices about post-secondary education and career choices, our ECG Counsellor is stationed at the school every Thursday. Under the facilitation of the ECG Counsellor, students would explore subject choices, post-secondary education options or find out more about their career interests, strengths and passions.
 
 **<font size=5>ECG Related Links</font>**<br>
-[https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/education-and-career-guidance](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/education-and-career-guidance)  
-[https://www.myskillsfuture.sg/content/student/en/secondary.html](https://www.myskillsfuture.sg/content/student/en/secondary.html)  
+1. [https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview)
+2. [https://www.myskillsfuture.gov.sg/content/student/en/secondary.html](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
+
 
 **<font size=5>Teachers in charge</font>**<br>
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">Name/Designation</span></th><th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">Email Address</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mdm Wee Shen Sze</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">wee_shen_sze@moe.edu.sg</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Ms Pan Miaohua</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">pan_miaohua@schools.gov.sg</td></tr></tbody></table>
