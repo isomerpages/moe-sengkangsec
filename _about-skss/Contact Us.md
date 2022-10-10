@@ -4,9 +4,6 @@ permalink: /about-skss/contact-us/
 description: ""
 ---
 
->![](/images/About%20us.jpg)
->About SKSS
-
 **<font size=5>Contact Us</font>**
 
 Phone: 6388 7258 <br>
