@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - National Digital Literacy Programme.md
       - Applied Learning Programme (ALP).md
       - Learning For Life Programme (LLP).md
