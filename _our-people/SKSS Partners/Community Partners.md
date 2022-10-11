@@ -1,11 +1,10 @@
 ---
 title: Community Partners
-permalink: /about-skss/our-people/skss-partners/community-partners
+permalink: /about-skss/our-people/skss-partners/community-partners/
 description: ""
 third_nav_title: SKSS Partners
 ---
->![](/images/About%20us.jpg)
->About SKSS
+
 
 **<font size="6">Community Partners</font>**
 
