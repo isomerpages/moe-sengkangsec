@@ -4,8 +4,6 @@ permalink: /curriculum/learning-for-life-programme-llp/
 description: ""
 ---
 
->![](/images/Curriculum/Curriculum.jpg)
->Curriculum
 
 **<font size=6>Learning For Life Programme (LLP)</font>**<br>
 **<font size=5>LLP - Building Character through Sports and Outdoor Adventure</font>**<br>
