@@ -1,11 +1,10 @@
 ---
 title: Alumni
-permalink: /about-skss/our-people/skss-partners/alumni
+permalink: /about-skss/our-people/skss-partners/alumni/
 description: ""
 third_nav_title: SKSS Partners
 ---
->![](/images/About%20us.jpg)
->About SKSS
+
 
 **<font size="6">Alumni</font>**
 
