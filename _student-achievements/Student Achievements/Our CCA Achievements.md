@@ -1,11 +1,10 @@
 ---
 title: Our CCA Achievements
-permalink: /student-achievements/Our-CCA-Achievements
+permalink: /student-achievements/Our-CCA-Achievements/
 description: ""
 third_nav_title: Student Achievements
 ---
->![](/images/About%20us.jpg)
->Achievements
+
 
 **<font size="6">Our CCA Achievements</font>**
 
