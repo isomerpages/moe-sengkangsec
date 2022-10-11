@@ -36,4 +36,4 @@ description: ""
 6. [Personalised Digital Learning Programme (PDLP)Site](https://sites.google.com/moe.edu.sg/skss-pdlp/home) 
 7.  [Group Personal Accident](https://www.income.com.sg/studentgpa)
 8.  [Bulletin Special Edition](/files/SKSS%20Bulletin%20Special%20Edition%2027%20July%202021.pdf)
-9.  Lost and Found Information
+9.  [Lost and Found Information](/files/Lost%20and%20Found%20Information.pdf)
