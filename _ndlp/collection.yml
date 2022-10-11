@@ -2,4 +2,5 @@ collections:
   ndlp:
     output: true
     order:
+      - Device Management Application.md
       - Device Information Kits.md
