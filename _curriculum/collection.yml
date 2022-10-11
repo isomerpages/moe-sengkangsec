@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - NDLP/.keep
-      - National Digital Literacy Programme.md
       - Applied Learning Programme (ALP).md
       - Learning For Life Programme (LLP).md
