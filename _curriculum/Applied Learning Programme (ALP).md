@@ -4,8 +4,6 @@ permalink: /curriculum/applied-learning-programme-alp/
 description: ""
 ---
 
->![](/images/Curriculum/Curriculum.jpg)
->Curriculum
 
 **<font size=6>Applied Learning Programme (ALP)</font>**<br>
 Seng Kang Secondary School’s Applied Learning Programme (ALP) aims to ignite students’ interest in the field of “Health Science and Technology” by creating opportunities to allow them to explore technology to develop solutions towards better living.
@@ -18,4 +16,4 @@ The ALP is interdisciplinary in nature and makes use of the Design Thinking Fram
 
 <img src="/images/Curriculum/ALP2.png" style="width:300px;height:240px;margin-left:0px;" align = "right">
 
-<img src="/images/Curriculum/ALP1.png" style="width:400px;height:240px;margin-left:0px;" align = "left">
+<img src="/images/Curriculum/ALP1.png" style="width:300px;height:240px;margin-left:0px;" align = "left">
