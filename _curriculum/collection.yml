@@ -2,9 +2,9 @@ collections:
   curriculum:
     output: true
     order:
-      - NDLP/.keep
-      - NDLP/National Digital Literacy Programme.md
-      - NDLP/Device Information Kits.md
-      - NDLP/Device Management Application.md
+      - National Digital Literacy Prog/.keep
+      - National Digital Literacy Prog/National Digital Literacy Programme.md
+      - National Digital Literacy Prog/Device Information Kits.md
+      - National Digital Literacy Prog/Device Management Application.md
       - Applied Learning Programme (ALP).md
       - Learning For Life Programme (LLP).md
