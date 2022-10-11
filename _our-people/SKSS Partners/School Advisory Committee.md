@@ -1,11 +1,10 @@
 ---
 title: School Advisory Committee
-permalink: /about-skss/our-people/skss-partners/school-advisory-committee
+permalink: /about-skss/our-people/skss-partners/school-advisory-committee/
 description: ""
 third_nav_title: SKSS Partners
 ---
->![](/images/About%20us.jpg)
->About SKSS
+
 
 **<font size=6>School Advisory Commitee</font>**
 
