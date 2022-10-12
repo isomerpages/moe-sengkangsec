@@ -1,5 +1,4 @@
 collections:
   parenting-resources:
     output: true
-    order:
-      - Parenting Resources.md
+    order: []
