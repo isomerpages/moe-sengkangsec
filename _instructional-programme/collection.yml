@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Instructional Programme (IP).md
-      - English Language & Literature Department.md
       - Mother Tongue Languages/.keep
       - Mother Tongue Languages/Malay Language Unit.md
       - Mother Tongue Languages/Chinese Language Unit.md
