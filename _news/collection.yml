@@ -4,7 +4,6 @@ collections:
     order:
       - Achievements MAIN/.keep
       - Achievements MAIN/School Achievements.md
-      - Achievements MAIN/Staff Achievements.md
       - Student Achievements/.keep
       - Student Achievements/Our CCA Achievements.md
       - Student Achievements/Our Sky Prides.md
