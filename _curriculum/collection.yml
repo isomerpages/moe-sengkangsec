@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Science.md
       - English Language & Literature Department.md
       - Humanities.md
       - Instructional Programme/Timetable & Assessment.md
