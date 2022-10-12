@@ -2,17 +2,17 @@ collections:
   curriculum:
     output: true
     order:
+      - Instructional Programme/.keep
       - Instructional Programme/Instructional Programme (IP).md
-      - Instructional Programme/Nutrition & Food Science Unit.md
+      - Instructional Programme/English Language & Literature Department.md
       - Instructional Programme/Mathematics.md
       - Instructional Programme/Science.md
-      - Instructional Programme/English Language & Literature Department.md
       - Instructional Programme/Humanities.md
       - Instructional Programme/Physical Education.md
-      - Instructional Programme/Art Unit.md
+      - Instructional Programme/Nutrition & Food Science Unit.md
       - Instructional Programme/Design & Technology Unit.md
+      - Instructional Programme/Art Unit.md
       - Instructional Programme/Music Unit.md
-      - Instructional Programme/.keep
       - Instructional Programme/Timetable & Assessment.md
       - National Digital Literacy Prog/.keep
       - National Digital Literacy Prog/National Digital Literacy Programme.md
