@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Parenting Resources/Parenting Resources.md
       - Parenting Resources/Parents Gateway.md
       - Parenting Resources/COVID 19 Vaccination For Students.md
       - Parenting Resources/.keep
