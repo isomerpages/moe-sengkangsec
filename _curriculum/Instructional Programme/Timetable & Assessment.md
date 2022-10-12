@@ -6,9 +6,6 @@ third_nav_title: Instructional Programme
 ---
 
 
->![](/images/Curriculum/Curriculum.jpg)
->Instructional Programme (IP)
-
 **<font size=6>Timetable & Assessment</font>**
 
 **<font size=5>Timetable & Schedule</font>**
