@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Art Unit.md
       - Instructional Programme (IP).md
       - Mathematics.md
       - Physical Education.md
