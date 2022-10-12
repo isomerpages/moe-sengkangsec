@@ -1,5 +1,4 @@
 collections:
   our-people:
     output: true
-    order:
-      - SKSS Partners/.keep
+    order: []
