@@ -2,9 +2,9 @@ collections:
   about-skss:
     output: true
     order:
-      - Our People/Steering Committee.md
-      - Our People/Our People.md
       - Our People/.keep
+      - Our People/Our People.md
+      - Our People/Steering Committee.md
       - School History.md
       - Principal's Message.md
       - Vision, Mission and Values.md
