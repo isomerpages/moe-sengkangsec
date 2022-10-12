@@ -9,4 +9,5 @@ sections:
   - hero:
       button: Announcements
       url: /announcements
+      background: /images/Website Banner Design.png
 ---
