@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Instructional Programme/Malay Language Unit.md
       - Instructional Programme/.keep
       - Instructional Programme/Instructional Programme (IP).md
       - Instructional Programme/English Language & Literature Department.md
