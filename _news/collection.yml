@@ -2,12 +2,12 @@ collections:
   news:
     output: true
     order:
-      - Announcements.md
+      - Achievements MAIN/.keep
       - Achievements MAIN/School Achievements.md
       - Achievements MAIN/Staff Achievements.md
-      - Achievements MAIN/.keep
-      - Events.md
+      - Student Achievements/.keep
       - Student Achievements/Our CCA Achievements.md
       - Student Achievements/Our Sky Prides.md
-      - Student Achievements/.keep
       - Student Achievements/Student Achievements.md
+      - Events.md
+      - Announcements.md
