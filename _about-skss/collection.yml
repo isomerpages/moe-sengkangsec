@@ -2,6 +2,7 @@ collections:
   about-skss:
     output: true
     order:
+      - Our People/Parents Support Group.md
       - Our People/Alumni.md
       - Our People/Community Partners.md
       - Our People/.keep
