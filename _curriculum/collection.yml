@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Instructional Programme/Music Unit.md
       - Instructional Programme/.keep
       - Instructional Programme/Timetable & Assessment.md
       - Design & Technology Unit.md
