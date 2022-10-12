@@ -2,6 +2,7 @@ collections:
   character-and-citizenship-ed:
     output: true
     order:
+      - CCE/Cyber Wellness.md
       - CCE/Sexuality Education.md
       - CCE/Education & Career Programme.md
       - CCE/National Education.md
