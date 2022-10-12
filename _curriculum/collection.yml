@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Instructional Programme (IP).md
       - Mathematics.md
       - Physical Education.md
       - Science.md
