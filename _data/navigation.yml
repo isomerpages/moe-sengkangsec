@@ -24,6 +24,10 @@ links:
         url: /achievements/staff-achievements
       - title: Events
         url: /news/events
+      - title: School Achievements
+        url: /achievements/school-achievements/
+      - title: Announcements
+        url: /announcements/
   - title: Curriculum
     url: /curriculum/instructional-programme-ip
     sublinks:
