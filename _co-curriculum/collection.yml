@@ -2,5 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
+      - CCA/.keep
       - Student Leadership Development.md
       - Student Management.md
