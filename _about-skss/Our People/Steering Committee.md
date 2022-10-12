@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Our People
 ---
 
->![](/images/About%20us.jpg)
->About SKSS
 
 **<font size=6>Steering Committee</font>**
 
