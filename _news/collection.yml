@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - Achievements MAIN/.keep
       - Events.md
       - Student Achievements/Our CCA Achievements.md
       - Student Achievements/Our Sky Prides.md
