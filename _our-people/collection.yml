@@ -2,7 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Our People.md
       - Steering Committee.md
       - SKSS Partners/.keep
       - SKSS Partners/School Advisory Committee.md
