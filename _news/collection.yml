@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Events.md
+      - Achievements/Our Sky Prides.md
       - Achievements/.keep
       - Achievements/Student Achievements.md
