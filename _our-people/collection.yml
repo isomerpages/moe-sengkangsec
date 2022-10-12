@@ -2,7 +2,6 @@ collections:
   our-people:
     output: true
     order:
-      - Steering Committee.md
       - SKSS Partners/.keep
       - SKSS Partners/School Advisory Committee.md
       - SKSS Partners/Parents Support Group.md
