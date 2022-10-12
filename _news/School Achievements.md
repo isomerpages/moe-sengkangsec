@@ -5,10 +5,6 @@ description: ""
 ---
 
 
-
->![](/images/About%20us.jpg)
->Achievements
-
 **<font size="6">School Achievements</font>**
 
 <iframe width="802" height="315" src="https://www.youtube.com/embed/VNYDp5tH3o8" title="Seng Kang Secondary School Corporate Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
