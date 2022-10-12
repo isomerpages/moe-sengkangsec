@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Our CCA Achievements.md
       - Staff Achievements.md
       - School Achievements.md
