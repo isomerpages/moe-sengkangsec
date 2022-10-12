@@ -4,10 +4,7 @@ permalink: /curriculum/instructional-programme-ip/english-language-and-literatur
 description: ""
 third_nav_title: Instructional Programme
 ---
-
-
-
-**<font size=6>English Language & Literature Department</font>**
+**<font size=6>English Language & Literature </font>**
 
 **<font size=5>Beliefs</font>**
 
