@@ -2,6 +2,7 @@ collections:
   character-and-citizenship-ed:
     output: true
     order:
+      - CCE/National Education.md
       - CCE/Character and Citizenship Education (CCE).md
       - CCE/.keep
       - Values in Action/.keep
