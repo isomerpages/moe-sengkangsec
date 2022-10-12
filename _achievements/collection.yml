@@ -1,5 +1,4 @@
 collections:
   achievements:
     output: true
-    order:
-      - School Achievements.md
+    order: []
