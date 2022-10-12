@@ -1,5 +1,4 @@
 collections:
   instructional-programme:
     output: true
-    order:
-      - Mother Tongue Languages/.keep
+    order: []
