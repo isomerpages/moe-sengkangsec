@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Nutrition & Food Science Unit.md
       - Art Unit.md
       - Instructional Programme (IP).md
       - Mathematics.md
