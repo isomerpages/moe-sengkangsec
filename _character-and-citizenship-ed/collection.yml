@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCE/.keep
-      - Character and Citizenship Education (CCE).md
       - National Education.md
       - Values in Action/.keep
       - Values in Action/Values in Action.md
