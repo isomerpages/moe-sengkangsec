@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Instructional Programme/Timetable & Assessment.md
       - Instructional Programme/.keep
       - National Digital Literacy Prog/.keep
       - National Digital Literacy Prog/National Digital Literacy Programme.md
