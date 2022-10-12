@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - Staff Achievements.md
       - Achievements MAIN/.keep
       - Achievements MAIN/School Achievements.md
       - Student Achievements/.keep
