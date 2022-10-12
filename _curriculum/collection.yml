@@ -2,12 +2,12 @@ collections:
   curriculum:
     output: true
     order:
-      - Instructional Programme/Tamil Language Unit.md
-      - Instructional Programme/Chinese Language Unit.md
-      - Instructional Programme/Malay Language Unit.md
       - Instructional Programme/.keep
       - Instructional Programme/Instructional Programme (IP).md
       - Instructional Programme/English Language & Literature Department.md
+      - Instructional Programme/Tamil Language Unit.md
+      - Instructional Programme/Chinese Language Unit.md
+      - Instructional Programme/Malay Language Unit.md
       - Instructional Programme/Mathematics.md
       - Instructional Programme/Science.md
       - Instructional Programme/Humanities.md
