@@ -18,13 +18,17 @@ Congratulations to SKSS for receiving the Partnership Award from CDAC for our 20
 Congratulations to the SKY Symphonic Band for a very successful grand performance at the Istana held on 17 July 2022. Our band was specially identified and selected by MOE to put this performance at the Istana Open House.
 ![](/images/Achievements/SKSS%20Band%20@%20Istana%20(2).jpeg)
 
+![](/images/Achievements/LLP%20SportsCares.png)
+
 **<font size="5">2021</font>**
 
 ![](/images/Achievements/School%20Achievements%202.png)<br>
 
 **<font size="5">2018</font>**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQUONLvAzdjvQVIIhqRbduePwEND6cNdenoNIzMJrYz1OPOO7uNcx75AUE8WO_xwGVb-T39c2tnuuQ3/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe><br>
-![](/images/Achievements/LLP%20SportsCares.png)
+
+
+
 On 15 February 2018, a historical event was held with the entire school community participating in the Lunar New Year Mass Lo Hei (a Singaporean Chinese New Year tradition of tossing the Chinese raw fish salad which bodes good fortune and blessings).
 
 On 23 March, the school organised a Record-breaking Event in line with the school’s 20th Anniversary celebrations, held at the Seng Kang Sports Complex.Together, the school staff and students not only broke one but three Singapore records: the ‘Largest display of paper sailboats’, ‘Largest Tabata display’ and ‘Most number of push balls kept in the air’.
