@@ -3,8 +3,6 @@ title: Staff Achievements
 permalink: /achievements/staff-achievements/
 description: ""
 ---
-
-
 **<font size=6>Staff Achievements</font>**
 
 **<font size=5>ESRI Singapore's Young Scholar Award: Mr Noah Zhang</font>**
