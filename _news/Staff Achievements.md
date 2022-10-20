@@ -5,10 +5,6 @@ description: ""
 ---
 
 
-
->![](/images/About%20us.jpg)
->Achievements
-
 **<font size=6>Staff Achievements</font>**
 
 **<font size=5>ESRI Singapore's Young Scholar Award: Mr Noah Zhang</font>**
