@@ -12,6 +12,7 @@ Congratulations, Mr Jason Ang in conduting an open classroom experience on 8th J
 ![](/images/Achievements/NZ%20teachers%20sharing.png)
 
 **NIE Redesigning Pedagogy International Conference (RPIC) 2022</font>**
+
 Congratulations, Mr Noah Zhang and Ms Sazryna!
 (assisting) for their presentation at NIE’s Redesigning Pedagogy International Conference (RPIC) 2022  
   
