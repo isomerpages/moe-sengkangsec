@@ -4,16 +4,19 @@ permalink: /achievements/student-achievements/our-sky-prides/
 description: ""
 third_nav_title: Student Achievements
 ---
-
-
-
-
-
 **<font size="6">Our SKY Prides</font>**
+
+**<font size="5">Design & Technology Awards 2022</font>**
+
+Congratulations to our SKY prides for attaining 3 D&T awards out of 29 winning entries. 1) Creative aesthetics, 2) Creative adaptation and 3) Creative innovation!
+
+![](/images/Achievements/DT%201.png)
+![](/images/Achievements/DT%202.png)
 
 **<font size="5">Tokyo 2020 Paralympic Games: Maximillian Tan Chern</font>**
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Singapore equestrian rider Maximillian Tan is all smiles as he scores 61.588 | Paralympics 2020" src="https://www.youtube.com/embed/Cufekaf266M" height="388" width="690"></iframe>
+
 
 **<font size="5">Award Recipients 2021</font>**
 
