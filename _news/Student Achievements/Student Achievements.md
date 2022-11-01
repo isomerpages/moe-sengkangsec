@@ -6,6 +6,25 @@ third_nav_title: Student Achievements
 ---
 **<font size=6>Student Achievements</font>**
 
+**<font size=5>SYF Art Exhibition 2022</font>**
+
+Heartiest congratulations to Lim Yu Xiang from class 3-8. His artwork has been selected for exhibition at the National Museum for this year's Singapore Youth Festival (SYF) Art Exhibition!   
+  
+Based on this year's theme of 'Artist and Sustainability', Lim Yu Xiang created works to bring awareness of how useful plastics can be in fashion.   
+  
+The exhibition is on at the National Museum from 13 -25 July. Do drop by for a visit to support or view via the online display [here](https://www.syf.gov.sg/art-exhibition/the-online-art-gallery-2022).
+
+
+
+**<font size=5>North Zone Schools Chinese Speech Competition 2022</font>**
+
+On 01 July Friday, the annual North Zone Schools (Primary/Secondary) Chinese Speech Competition was held at Evergreen Secondary whereby it was highly competitive with many schools taking part, such as Singapore Chinese Girls' School and CHIJ St Nicholas Girls' School.
+
+
+We are pleased to announce that our school's student, Lok Zhi Jia from class 2-7 managed to clinch Third Placing with her strong effort and confident display of her story-telling. Congratulations to her once again for this amazing feat!
+
+![](/images/Achievements/North%20Zone%20Schools%20Chinese%20Speech%20Competition%202022.png)
+
 **<font size=5>The ignITE Challenge 2021</font>**
 
 The ignITE Challenge 2021 was organised by the Institute of Technical Education (ITE). This challenge is an annual competition that introduces students to technical skills and fosters a deeper understanding of courses offered by ITE.
