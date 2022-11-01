@@ -6,6 +6,14 @@ third_nav_title: Student Achievements
 ---
 **<font size=6>Student Achievements</font>**
 
+**<font size=5>Young Reporter News Challenge 2022</font>**
+
+We are happy to share that our team of Chinese Language students who participated in the National News Reporting Competition organised by Mediacorp won both Best Reporter and Reporter News Awards categories on 30th July 2022.   
+  
+Read more on 8World online site,  [Young Reporter News Challenge 2022](https://www.8world.com/so-young/young-reporter-news-challenge-fresh-news-sengkang-secondary-school-1869996)
+
+![](/images/Achievements/Young%20reporters%20news%20challenge%2022.png)
+
 **<font size=5>SYF Art Exhibition 2022</font>**
 
 Heartiest congratulations to Lim Yu Xiang from class 3-8. His artwork has been selected for exhibition at the National Museum for this year's Singapore Youth Festival (SYF) Art Exhibition!   
@@ -14,7 +22,7 @@ Based on this year's theme of 'Artist and Sustainability', Lim Yu Xiang created 
   
 The exhibition is on at the National Museum from 13 -25 July. Do drop by for a visit to support or view via the online display [here](https://www.syf.gov.sg/art-exhibition/the-online-art-gallery-2022).
 
-
+![](/images/Achievements/SYF%20Art%20Challenge%2022.png)
 
 **<font size=5>North Zone Schools Chinese Speech Competition 2022</font>**
 
