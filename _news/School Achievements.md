@@ -18,7 +18,13 @@ Congratulations to SKSS for receiving the Partnership Award from CDAC for our 20
 Congratulations to the SKY Symphonic Band for a very successful grand performance at the Istana held on 17 July 2022. Our band was specially identified and selected by MOE to put this performance at the Istana Open House.
 ![](/images/Achievements/SKSS%20Band%20@%20Istana%20(2).jpeg)
 
+**<font size="5">LLP Sports Outreach</font>**
 ![](/images/Achievements/LLP%20SportsCares.png)
+
+![](/images/Achievements/LLP%20XINMIN%20PRI.png)
+
+**<font size="5">Unleash the Roar</font>**
+![](/images/Achievements/LLP%20Unleash%20the%20roar.png)
 
 **<font size="5">2021</font>**
 
