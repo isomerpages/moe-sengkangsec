@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Instructional Programme/.keep
-      - Instructional Programme/Instructional Programme (IP).md
       - Instructional Programme/English Language & Literature.md
       - Instructional Programme/Tamil Language Unit.md
       - Instructional Programme/Chinese Language Unit.md
