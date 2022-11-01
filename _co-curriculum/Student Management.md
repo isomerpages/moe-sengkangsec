@@ -4,8 +4,6 @@ permalink: /co-curriculum/student-management/
 description: ""
 ---
 
->![](/images/About%20us.jpg)
->Co-Curriculum
 
 **<font size="6">Student Management</font>**
 
@@ -46,14 +44,14 @@ These small-group workshops imparted strategies to teachers to help students wit
 ![](/images/Student%20Management/Student%20Management%201.png)![](/images/Student%20Management/Student%20Management%202.png)
 ![](/images/Student%20Management/Student%20Management%203.png)
 
-**<font size="5">Model Class Award 2021</font>**<br>
+**<font size="5">Model Class Award 2022</font>**<br>
 The Model Class Award is awarded to the most deserving class of each level to recognise excellent and consistent efforts in displaying the best attendance, behaviour and grooming.  
   
-This year, the model class award for the respective levels are 1-4, 2-4, 3-2 and 4-6.
+This year, the model class award for the respective levels are 1-3, 2-4, 3-2 and 4-2.
 
 <br>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSpFlsMD97w3Y7GNdKvstL3CUM7iUU2uQrpfYJ9mF5B8YlfbLnB7w7qecJw2IN6W2jg5F5eoh84Dvcw/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYyttfuECtZATtCUy6g0gRR42wl2MeBXBt6yZPWdYFlbWcdHHc7N6BMztJSJuBV6HP-yx7PJHWYYG7/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 
 <br>
 
@@ -95,6 +93,6 @@ Outstanding primary school achievements as a student leader&nbsp;
 
 <br>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQoMhC__6D-PZcV7nbMOlV5IwrXowbzcX38WXcNXHdWKUtH4ANBLvQBG37smPe_M6e6OtlwumPP63Ym/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQoMhC__6D-PZcV7nbMOlV5IwrXowbzcX38WXcNXHdWKUtH4ANBLvQBG37smPe_M6e6OtlwumPP63Ym/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 <br>
