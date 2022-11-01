@@ -130,8 +130,6 @@ Class 4-2 (2018)
 
 Seng Kang Secondary School has been a Special Needs Resource School since our inception. With strong dedicated support from the school, many of our special needs students have learnt to overcome their challenges and made impressive breakthroughs against all odds.
 
-  
-
 Since the school’s inception in 1999, the Special Needs Education Programme has always been an important aspect of the school’s culture. It was designated as the Resource Centre for Autism as early as the year 2000, as its focus on character development and values inculcation was believed to be able to provide the optimal support network and nurturing environment for our students with Special Needs. Their presence in our everyday lives have also provided the typically developing students and the school as a whole an opportunity to develop compassion and care for others who have different needs and require greater support.
 
-<font size=6>Insert Video Here</font>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Singapore equestrian rider Maximillian Tan is all smiles as he scores 61.588 | Paralympics 2020" src="https://www.youtube.com/embed/gMsGO4C5tpI" height="388" width="690"></iframe>
