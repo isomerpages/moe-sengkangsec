@@ -5,6 +5,20 @@ description: ""
 ---
 **<font size=6>Staff Achievements</font>**
 
+**North Zone Open Classroom: Mr Jason Ang</font>**
+
+Congratulations, Mr Jason Ang in conduting an open classroom experience on 8th July 2022 and sharing with a lead teacher from Xin Min Secondary School, colleagues from Seng Kang Secondary School and ETD.
+
+![](/images/Achievements/NZ%20teachers%20sharing.png)
+
+**NIE Redesigning Pedagogy International Conference (RPIC) 2022</font>**
+Congratulations, Mr Noah Zhang and Ms Sazryna!
+(assisting) for their presentation at NIE’s Redesigning Pedagogy International Conference (RPIC) 2022  
+  
+Congratulations, Mr Khyber Singh and Ms Susan Lim for their presentation at NIE’s Redesigning Pedagogy International Conference (RPIC) 2022. Their papers are on redesigning the curriculum, to develop designerly dispositions and supporting diverse learners in the application of technology, using everyday objects.
+
+![](/images/Achievements/RPIC%20Sharing.png)
+
 **<font size=5>ESRI Singapore's Young Scholar Award: Mr Noah Zhang</font>**
 
 ![](/images/Achievements/Staff%20Achievements%201.png)
