@@ -16,7 +16,7 @@ links:
       - title: Contact Us
         url: /about-skss/contact-us
   - title: News
-    url: /achievements/news
+    url: /announcements/
     sublinks:
       - title: School Achievements
         url: /achievements/school-achievements/
