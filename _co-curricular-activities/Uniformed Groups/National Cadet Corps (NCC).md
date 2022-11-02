@@ -4,7 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-cca/uniformed-groups/national
 description: ""
 third_nav_title: Uniformed Groups
 ---
-**<font size=6>National Cadet Corps (NCC)</font>**
 
 **<font size=5>CCA Beliefs</font>**<br>
 The NCC (Land) Company of Seng Kang Secondary school prides itself on inculcating the values of 'Courage' and 'Comradeship' to all cadets. The idea of being "fearless" echoes through our ranks. It signifies the desire and determination to rise above all challenges and having the desire and resilience to always excel and exceed expectations.
