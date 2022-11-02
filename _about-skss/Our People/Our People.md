@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Our People
 ---
 
-
-**<font size=6>Our People</font>**
-
 **<font size=5>Form Teachers</font>**
 
 ![](/images/ABOUT%20SKSS/22%20FT%20S1.png)
