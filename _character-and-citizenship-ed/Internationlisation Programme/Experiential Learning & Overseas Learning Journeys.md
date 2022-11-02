@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Internationlisation Programme
 ---
 
-**<font size=6>Experiential Learning & Overseas Learning Journeys</font>**<br>
-
 **<font size=5>Experiential learning at SKSS</font>**<br>
 
 **MISSION:**<br>
