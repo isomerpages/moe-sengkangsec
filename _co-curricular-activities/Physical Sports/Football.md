@@ -4,8 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-cca/physical-sports/football/
 description: ""
 third_nav_title: Physical Sports
 ---
-
-
 **<font size=6>Football</font>**
 
 **<font size=5>CCA Beliefs</font>**<br>
