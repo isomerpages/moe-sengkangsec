@@ -4,8 +4,6 @@ permalink: /useful-links-1/parenting-resources/
 description: ""
 third_nav_title: Parenting Resources
 ---
-
-
 **<font size=5>2022 Secondary 1 Books and Uniform Sales</font>**<br>
 [Instructions for Purchase of Textbook and Stationery.pdf](/files/Instructions%20for%20Purchase%20of%20Textbook%20and%20Stationery.pdf) <br>
 [SKSS Sec 1 Booklists 2022 Express.pdf](/files/SKSS%20Sec%201%20Booklists%202022%20Express.pdf) <br>
