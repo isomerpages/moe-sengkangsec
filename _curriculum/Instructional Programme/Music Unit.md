@@ -4,7 +4,6 @@ permalink: /curriculum/instructional-programme-ip/design-and-aesthetics/music-un
 description: ""
 third_nav_title: Instructional Programme
 ---
-
 **<font size=5>Beliefs</font>**
 
 At Seng Kang Secondary School, we believe that every student is able to appreciate music and engage in the art of music-making regardless of their background or experience. Our Music curriculum is designed to make musical learning as authentic as possible as we feel that Music should be treated as an applicable skill rather than simply content knowledge.
