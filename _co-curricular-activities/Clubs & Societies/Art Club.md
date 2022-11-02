@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Clubs & Societies
 ---
 
-
-**<font size=6>Art Club</font>**
-
 **<font size=5>CCA Beliefs</font>**<br>
 The Art Club provides its members with the opportunities to express themselves creatively through taking part in art competitions to help boost their artistic confidence. It also creates various opportunities for talented SKY to showcase their artistic abilities outside of their regular curriculum. 
 
