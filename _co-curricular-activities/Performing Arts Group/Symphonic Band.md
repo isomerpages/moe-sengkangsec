@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Performing Arts Group
 ---
 
-
-**<font size=6>Symphonic Band</font>**
-
 **<font size=5>CCA Beliefs</font>**<br>
 The Symphonic Band, affectionately known as SKY Band, provides a nurturing environment for band members to enhance their interest and knowledge in music. Our mission is to cultivate in students the aptitude for making music, and to foster essential life skills and values, such as teamwork, resilience and discipline.
 
