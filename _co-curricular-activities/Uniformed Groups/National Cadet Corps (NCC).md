@@ -4,8 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-cca/uniformed-groups/national
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
 **<font size=6>National Cadet Corps (NCC)</font>**
 
 **<font size=5>CCA Beliefs</font>**<br>
