@@ -6,10 +6,6 @@ third_nav_title: Instructional Programme
 ---
 
 
-**<font size=6>Design & Technology Unit</font>**
-
-
-
 **<font size=5>Beliefs</font>**
 
 Through the teaching and learning of Design & Technology (D&T), we are committed to equip every child with the ability to solve real-world problems. Every child is engaged with activities, which allow them to use the design thinking process to improve life.
