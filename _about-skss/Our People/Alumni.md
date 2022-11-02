@@ -6,9 +6,6 @@ third_nav_title: Our People
 ---
 
 
-
-**<font size="6">Alumni</font>**
-
 **<font size="5">Vision</font>**<br>
 To connect and engage Seng Kang graduates and build collegiality in building the Seng Kang Secondary School spirit.
 
