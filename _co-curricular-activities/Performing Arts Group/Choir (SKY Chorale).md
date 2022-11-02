@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Performing Arts Group
 ---
 
-
-**<font size=6>Choir (SKY Chorale)</font>**
-
 **<font size=5>CCA Beliefs</font>**<br>
 The SKY Chorale participates actively in various internal and external performances with the objective of building character and gaining exposure to performing through experiencing different choral settings. The SKY Chorale also participates in local and international chorale exchanges and collaborations, providing a platform for the choir to learn from other chorale groups and enthusiasts in our continuous pursuit for excellence. We believe that with a passion for singing and an unwavering commitment, the SKY Chorale experience will be an unforgettable and amazing chapter in our secondary school lives.
 
