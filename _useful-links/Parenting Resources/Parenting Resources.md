@@ -4,7 +4,6 @@ permalink: /useful-links-1/parenting-resources/
 description: ""
 third_nav_title: Parenting Resources
 ---
-**<font size=6>Parenting Resources</font>**
 
 
 **<font size=5>2022 Secondary 1 Books and Uniform Sales</font>**<br>
