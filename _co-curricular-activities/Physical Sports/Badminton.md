@@ -1,11 +1,10 @@
 ---
 title: Badminton
-permalink: /co-curriculum/co-curricular-activities-cca/physical-sports/badminton
+permalink: /co-curriculum/co-curricular-activities-cca/physical-sports/badminton/
 description: ""
 third_nav_title: Physical Sports
 ---
->![](/images/About%20us.jpg)
->Co-Curriculum
+
 
 **<font size=6>Badminton</font>**
 
