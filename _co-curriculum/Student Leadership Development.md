@@ -4,8 +4,6 @@ permalink: /co-curriculum/student-leadership-development/
 description: ""
 ---
 
->![](/images/About%20us.jpg)
->Co-Curriculum
 
 **<font size="6">Student Leadership Development</font>**
 
