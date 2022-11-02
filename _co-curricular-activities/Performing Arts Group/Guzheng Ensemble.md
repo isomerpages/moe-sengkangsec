@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Performing Arts Group
 ---
 
-
-**<font size=6>Guzheng Ensemble</font>**
-
 **<font size=5>CCA Beliefs</font>**<br>
 SKSS Guzheng Ensemble is a closely-knitted community of students, teachers-in-charge and instructor. Students are bonded together by their common appreciation of music. Our CCA goals are:
 
