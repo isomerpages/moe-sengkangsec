@@ -4,7 +4,6 @@ permalink: /curriculum/instructional-programme-ip/timetable-and-assessment/
 description: ""
 third_nav_title: Instructional Programme
 ---
-**<font size=6>Timetable & Assessment</font>**
 
 **<font size=5>Timetable & Schedule</font>**
 
