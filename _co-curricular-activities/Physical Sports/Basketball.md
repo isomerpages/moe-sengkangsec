@@ -1,11 +1,10 @@
 ---
 title: Basketball
-permalink: /co-curriculum/co-curricular-activities-cca/physical-sports/basketball
+permalink: /co-curriculum/co-curricular-activities-cca/physical-sports/basketball/
 description: ""
 third_nav_title: Physical Sports
 ---
->![](/images/About%20us.jpg)
->Co-Curriculum
+
 
 **<font size=6>Basketball</font>**
 
