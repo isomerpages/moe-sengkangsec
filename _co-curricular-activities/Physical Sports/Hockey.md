@@ -1,11 +1,10 @@
 ---
 title: Hockey
-permalink: /co-curriculum/co-curricular-activities-cca/physical-sports/Hockey
+permalink: /co-curriculum/co-curricular-activities-cca/physical-sports/Hockey/
 description: ""
 third_nav_title: Physical Sports
 ---
->![](/images/About%20us.jpg)
->Co-Curriculum
+
 
 **<font size=6>Hockey</font>**
 
