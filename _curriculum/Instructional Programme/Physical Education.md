@@ -6,8 +6,6 @@ third_nav_title: Instructional Programme
 ---
 
 
-**<font size="6">Physical Education</font>**
-
 
 **<font size="5">Beliefs</font>**
 
