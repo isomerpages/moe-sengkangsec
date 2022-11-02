@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Physical Sports
 ---
 
-
-**<font size=6>Hockey</font>**
-
 **<font size=5>CCA Beliefs</font>**<br>
 The Hockey CCA at Seng Kang Secondary School aims not only to provide students with hockey playing skills, but it also places great emphasis on the character building of every player. This is done through team bonding camps, overseas training trips and mental skills training sessions. Students who enrol in the CCA are given the opportunity to participate in friendly matches and tournaments.
 
