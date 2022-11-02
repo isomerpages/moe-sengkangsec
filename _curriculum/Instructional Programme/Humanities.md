@@ -4,8 +4,6 @@ permalink: /curriculum/instructional-programme-ip/humanities/
 description: ""
 third_nav_title: Instructional Programme
 ---
-
-
 **<font size=5>Beliefs</font>**
 
 Quality and Innovation – The Way to Success
