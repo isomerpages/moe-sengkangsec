@@ -6,8 +6,6 @@ third_nav_title: Physical Sports
 ---
 
 
-**<font size=6>Basketball</font>**
-
 **<font size=5>CCA Beliefs</font>**<br>
 We believe in developing our student athletes to embody the school values of Respect, Resilience, Integrity, Self-discipline and Excellence, as well as to display sportsmanship. We encourage our students to persevere when faced with challenging and tough situations, and to build their mental dexterity. 
 
