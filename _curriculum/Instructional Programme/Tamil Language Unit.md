@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Instructional Programme
 ---
 
-**<font size=6>Tamil Language Unit</font>**
-
 **<font size=5>Beliefs</font>**
 
 *   The Tamil Language Unit strives to nurture our students to be confident and competent users of the Tamil Language.
