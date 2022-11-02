@@ -5,8 +5,6 @@ description: ""
 third_nav_title: CCA
 ---
 
->![](/images/About%20us.jpg)
->Co-Curriculum
 
 **<font size=6>Direct School Admission (DSA)</font>**<br>
 
