@@ -1,11 +1,10 @@
 ---
 title: Art Club
-permalink: /co-curriculum/co-curricular-activities-cca/clubs-n-societies/art-club
+permalink: /co-curriculum/co-curricular-activities-cca/clubs-n-societies/art-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
->![](/images/About%20us.jpg)
->Co-Curriculum
+
 
 **<font size=6>Art Club</font>**
 
