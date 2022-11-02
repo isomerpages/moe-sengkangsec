@@ -1,11 +1,10 @@
 ---
 title: Choir (SKY Chorale)
-permalink: /co-curriculum/co-curricular-activities-cca/performing-arts-group/choir-sky-chorale
+permalink: /co-curriculum/co-curricular-activities-cca/performing-arts-group/choir-sky-chorale/
 description: ""
 third_nav_title: Performing Arts Group
 ---
->![](/images/About%20us.jpg)
->Co-Curriculum
+
 
 **<font size=6>Choir (SKY Chorale)</font>**
 
