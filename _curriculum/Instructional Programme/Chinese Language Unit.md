@@ -6,10 +6,6 @@ third_nav_title: Instructional Programme
 ---
 
 
-
-**<font size=6>Chinese Language Unit</font>**
-
-
 **<font size=5>Beliefs</font>**
 
 *   The Chinese Language Unit strives to nurture our students to be confident and competent users of the Chinese Language.
