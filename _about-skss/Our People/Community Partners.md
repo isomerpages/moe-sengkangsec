@@ -6,9 +6,6 @@ third_nav_title: Our People
 ---
 
 
-
-**<font size="6">Community Partners</font>**
-
 **<font size="5">Sengkang General Hospital (SKH) and Sengkang Community Hospital (SKCH)</font>**
 
 <img align="right" style="width:300px;height:200px;margin-left:15px;" src="/images/ABOUT%20SKSS/SKH-SKCH.png">
