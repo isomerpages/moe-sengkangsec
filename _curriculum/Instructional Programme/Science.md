@@ -6,11 +6,6 @@ third_nav_title: Instructional Programme
 ---
 
 
-
-
-**<font size=6>Science</font>**
-
-
 **<font size=5>Beliefs</font>**
 
 To engage, enthuse and inspire students to become active and confident learners in a scientific world, the Science Department employs Inquiry-based Learning (IBL) pedagogies and implements various programmes. The Science lessons focus on developing critical and inventive thinking skills in our students so they are able to relate scientific concepts that they have learnt to real life. Moreover, the Science teachers are constantly upgrading themselves to better their craft so that they can design the best lesson experiences for the students to get them interested in and even pursue a career in Science. 
