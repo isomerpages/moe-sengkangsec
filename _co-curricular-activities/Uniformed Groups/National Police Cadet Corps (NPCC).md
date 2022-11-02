@@ -1,13 +1,10 @@
 ---
 title: National Police Cadet Corps (NPCC)
-permalink: /co-curriculum/co-curricular-activities-cca/uniformed-groups/national-police-cadet-corps-npcc
+permalink: /co-curriculum/co-curricular-activities-cca/uniformed-groups/national-police-cadet-corps-npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
->![](/images/About%20us.jpg)
->Co-Curriculum
 
-**<font size=6>National Police Cadet Corps (NPCC)</font>**
 
 **<font size=5>CCA Beliefs</font>**<br>
 In the National Police Cadet Corps, our cadets are exposed to a myriad of opportunities and learning experiences to develop themselves to become civic-minded citizens and community leaders. From completing theoretical courses on crime prevention and anti-narcotics to practical applications under the Community Safety and Security Programme and the Police Youth Ambassador Programme, cadets undergo rigorous training to build their confidence and skills. We firmly believe in the development of each cadet, in terms of their character, leadership and resilience, and aim to inculcate in them a spirit of service to the school and the community.
