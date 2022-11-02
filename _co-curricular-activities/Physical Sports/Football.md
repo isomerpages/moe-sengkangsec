@@ -4,7 +4,7 @@ permalink: /co-curriculum/co-curricular-activities-cca/physical-sports/football/
 description: ""
 third_nav_title: Physical Sports
 ---
-**<font size=6>Football</font>**
+
 
 **<font size=5>CCA Beliefs</font>**<br>
 We believe that character education forms the basis of a good education. We embrace and inculcate important values in our footballers such as:
