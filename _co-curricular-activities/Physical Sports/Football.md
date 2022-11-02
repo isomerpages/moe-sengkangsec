@@ -1,11 +1,10 @@
 ---
 title: Football
-permalink: /co-curriculum/co-curricular-activities-cca/physical-sports/football
+permalink: /co-curriculum/co-curricular-activities-cca/physical-sports/football/
 description: ""
 third_nav_title: Physical Sports
 ---
->![](/images/About%20us.jpg)
->Co-Curriculum
+
 
 **<font size=6>Football</font>**
 
