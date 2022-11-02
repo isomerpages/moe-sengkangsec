@@ -1,11 +1,10 @@
 ---
 title: English Drama
-permalink: /co-curriculum/co-curricular-activities-cca/performing-arts-group/english-drama
+permalink: /co-curriculum/co-curricular-activities-cca/performing-arts-group/english-drama/
 description: ""
 third_nav_title: Performing Arts Group
 ---
->![](/images/About%20us.jpg)
->Co-Curriculum
+
 
 **<font size=6>English Drama</font>**
 
