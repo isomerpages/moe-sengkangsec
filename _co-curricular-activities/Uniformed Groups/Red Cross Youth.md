@@ -6,8 +6,6 @@ third_nav_title: Uniformed Groups
 ---
 
 
-**<font size=6>Red Cross Youth</font>**
-
 **<font size=5>CCA Beliefs</font>**<br>
 The Seng Kang Red Cross Youth is involved in a variety of humanitarian programmes that integrate character building, leadership, essential life-saving skills and blood donation knowledge, local community service and overseas humanitarian projects in its curriculum, with the Red Cross ethos and service to humanity as a core focus. Our Red Cross Youths are groomed to become adaptable and resilient citizens with a strong sense of civic responsibility.
 
