@@ -1,11 +1,10 @@
 ---
 title: Media Services Club
-permalink: /co-curriculum/co-curricular-activities-cca/clubs-n-societies/media-services-club
+permalink: /co-curriculum/co-curricular-activities-cca/clubs-n-societies/media-services-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
->![](/images/About%20us.jpg)
->Co-Curriculum
+
 
 **<font size=6>Media Services Club</font>**
 
