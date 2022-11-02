@@ -4,7 +4,6 @@ permalink: /achievements/student-achievements/our-sky-prides/
 description: ""
 third_nav_title: Student Achievements
 ---
-**<font size="6">Our SKY Prides</font>**
 
 **<font size="5">Design & Technology Awards 2022</font>**
 
