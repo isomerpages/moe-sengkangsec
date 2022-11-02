@@ -3,8 +3,6 @@ title: Student Management
 permalink: /co-curriculum/student-management/
 description: ""
 ---
-
-
 **<font size="6">Student Management</font>**
 
 **<font size="5">Beliefs</font>**
