@@ -1,11 +1,10 @@
 ---
 title: Girl Guides
-permalink: /co-curriculum/co-curricular-activities-cca/uniformed-groups/girl-guides
+permalink: /co-curriculum/co-curricular-activities-cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
->![](/images/About%20us.jpg)
->Co-Curriculum
+
 
 **<font size=6>Girl Guides</font>**
 
