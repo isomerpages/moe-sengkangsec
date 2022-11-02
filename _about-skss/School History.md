@@ -3,7 +3,6 @@ title: School History
 permalink: /about-skss/school-history/
 description: ""
 ---
-**<font size="5">School History</font>**
 
 Our Beginning: A New Secondary School in Sengkang New Town <br>
 Seng Kang Secondary School was established on 04 January 1999, making it the first secondary school in the Sengkang housing estate.
