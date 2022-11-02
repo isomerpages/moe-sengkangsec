@@ -1,11 +1,10 @@
 ---
 title: Netball
-permalink: /co-curriculum/co-curricular-activities-cca/physical-sports/netball
+permalink: /co-curriculum/co-curricular-activities-cca/physical-sports/netball/
 description: ""
 third_nav_title: Physical Sports
 ---
->![](/images/About%20us.jpg)
->Co-Curriculum
+
 
 **<font size=6>Netball</font>**
 
