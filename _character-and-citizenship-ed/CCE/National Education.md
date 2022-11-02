@@ -6,7 +6,4 @@ third_nav_title: CCE
 ---
 
 
-
-**<font size=6>National Education</font>**<br>
-
 Coming soon......
