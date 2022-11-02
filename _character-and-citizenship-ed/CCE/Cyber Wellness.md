@@ -5,8 +5,6 @@ description: ""
 third_nav_title: CCE
 ---
 
-**<font size=6>Cyber Wellness
-</font>**<br>
 
 **<font size=5>Aim</font>**<br>
 The aim of the Cyber Wellness programme is to develop Seng Kang Youths’ instinct to protect and empower him to take responsibility for his own well-being in cyberspace. As Learners for Life, they will be equipped with positive online skills and behaviour.
