@@ -5,10 +5,6 @@ description: ""
 ---
 
 
-**<font size="6">Student Leadership Development</font>**
-
-**<font size="5">Student Leadership Development</font>**
-
 **Our Vision**<br>
 Student leaders aim to be the bridge for the student body, serving the school in the spirit of unity.
 
