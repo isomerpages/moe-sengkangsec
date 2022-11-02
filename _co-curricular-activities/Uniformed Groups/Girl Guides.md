@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 
-
-**<font size=6>Girl Guides</font>**
-
 **<font size=5>CCA Beliefs</font>**<br>
 Girl Guides activities are planned with the 5-Point Programme as the foundation. Covering an array of skills and knowledge, Guides complete the various clauses to earn their badges. They also participate in competitions held on a division or national scale. These provide valuable opportunities for talent discovery. 
 
