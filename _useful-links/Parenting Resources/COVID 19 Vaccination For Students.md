@@ -4,9 +4,6 @@ permalink: /useful-links-1/parenting-resources/covid-19-vaccination-for-students
 description: ""
 third_nav_title: Parenting Resources
 ---
-
-
-
 Dear Parents/Guardians,  
 
 MOE is commencing COVID-19 vaccination for students in schools and Institutes of Higher Learning (IHLs) as part of the national vaccination exercise. 
