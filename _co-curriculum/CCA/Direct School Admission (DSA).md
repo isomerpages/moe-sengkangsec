@@ -5,9 +5,6 @@ description: ""
 third_nav_title: CCA
 ---
 
-
-**<font size=6>Direct School Admission (DSA)</font>**<br>
-
 **<font size=5>2022 Direct School Admission (For 2023 Secondary 1 intake)</font>**<br>
 
 **Building Character through Sports & Outdoor Adventure**<br>
