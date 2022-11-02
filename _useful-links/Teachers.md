@@ -4,9 +4,6 @@ permalink: /useful-links-1/teachers/
 description: ""
 ---
 
-
-**<font size=6>Teachers</font>**
-
 1.  [Home Site](https://sites.google.com/moe.edu.sg/skss/home)
 2.  [MOE iCON Email](https://icon.moe.edu.sg/)
 3.  [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)
