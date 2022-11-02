@@ -4,8 +4,6 @@ permalink: /curriculum/instructional-programme-ip/mathematics/
 description: ""
 third_nav_title: Instructional Programme
 ---
-
-
 **<font size=5>Beliefs</font>**
 
 In Seng Kang Secondary School, teachers apply a range of strategies and approaches to deliver the understanding of Mathematical concepts and help students find motivation and meaning in learning mathematics. Through instructions, reasoning, problem-solving, and discourse, teachers support students in making sense of mathematics concepts and encourage perseverance in the productive struggle to solve mathematics problems. 
