@@ -4,7 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-cca/performing-arts-group/eng
 description: ""
 third_nav_title: Performing Arts Group
 ---
-
 **<font size=5>CCA Beliefs</font>**<br>
 The English Drama Club is an inclusive CCA for all looking to find their place in this messy, grey and confusing world. From controversial social issues to interpersonal relationships, we seek to provide our students with opportunities to explore a wide range of issues. Hopefully, such opportunities will allow them to negotiate and develop their acting skills while equipping them with the skills needed to navigate social bonds and relationships. We aim for all club members to develop holistically through an appreciation of the performing arts.
 
