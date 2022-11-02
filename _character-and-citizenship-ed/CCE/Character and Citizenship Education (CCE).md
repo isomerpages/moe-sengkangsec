@@ -5,10 +5,6 @@ description: ""
 third_nav_title: CCE
 ---
 
-
-
-**<font size="6">Character and Citizenship Education (CCE)</font>**<br>
-
 **<font size="5">Beliefs</font>**<br>
 “The content of your character is your choice.&nbsp;<br>
 Day by day, what you think and what you do, is who you become”
