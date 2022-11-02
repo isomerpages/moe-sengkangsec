@@ -4,8 +4,6 @@ permalink: /about-skss/principals-message/
 description: ""
 ---
 
-
-**<font size=5>Principal's Message</font>**<br>
 **Let Your Dreams Set Sail!**
 <img src="/images/ABOUT%20SKSS/Principal.png" style="width:170px;height:300px;margin-left:15px;" align = "right">
 
