@@ -5,12 +5,6 @@ description: ""
 third_nav_title: Parenting Resources
 ---
 
->![](/images/About%20us.jpg)
->Parenting Resources
-
-**<font size=6>COVID-19 Vaccination For Students</font>**
-
-**<font size=5>COVID-19 Vaccination For Students</font>**
 
 
 Dear Parents/Guardians,  
