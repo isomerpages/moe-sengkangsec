@@ -3,7 +3,7 @@ title: Staff Achievements
 permalink: /achievements/staff-achievements/
 description: ""
 ---
-**<font size=6>Staff Achievements</font>**
+
 
 **North Zone Open Classroom: Mr Jason Ang</font>**
 
