@@ -20,6 +20,14 @@ Should there be a need to send the device for immediate repairs, or queries abou
 
 ![](/images/NDLP/34-device-support-04.jpg)
 
+**<font size=5>**Device info Kit for Acer R752TN**</font>**
+
+Sec 1 students (2022) owns the Acer R752TN PLD. Should there be a need to send the device for immediate repairs, or queries about the device, insurance and warranty, you may contact the device contractor from Acer Singapore Pte Ltd directly.
+
+![](/images/NDLP/41-acer-device-support-02.png)
+![](/images/NDLP/41-acer-device-support-03.png)
+![](/images/NDLP/41-acer-device-support-04.png)
+
 **<font size=5>**Standard Operating Procedure**</font>**
 
 **Reporting of Device Issues (hardware issues and damages)**
