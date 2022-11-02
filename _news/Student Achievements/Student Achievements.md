@@ -4,7 +4,6 @@ permalink: /achievements/student-achievements/
 description: ""
 third_nav_title: Student Achievements
 ---
-**<font size=6>Student Achievements</font>**
 
 **<font size=5>Young Reporter News Challenge 2022</font>**
 
