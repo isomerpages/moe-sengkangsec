@@ -4,7 +4,6 @@ permalink: /co-curriculum/character-and-citizenship-education-cce/internationlis
 description: ""
 third_nav_title: Internationlisation Programme
 ---
-**<font size=6>Sec 3 Overseas Cultural Immersion Programme</font>**<br>
 
 
 **<font size=5>Sec 3 Vietnam Trip 2014
