@@ -6,11 +6,6 @@ third_nav_title: Instructional Programme
 ---
 
 
-
-
-**<font size=6>Humanities</font>**
-
-
 **<font size=5>Beliefs</font>**
 
 Quality and Innovation – The Way to Success
