@@ -6,8 +6,6 @@ third_nav_title: Physical Sports
 ---
 
 
-**<font size=6>Badminton</font>**
-
 **<font size=5>CCA Beliefs</font>**<br>
 We aim to achieve a balanced and well-rounded education beyond school level, to inculcate sound moral values and fair play, to develop strength of character, and to foster team spirit amongst our members. Badminton is a fast paced sport which requires not only agility and power but also high mental endurance. Seng Kang Badminton’s vision is to equip our athletes with skills and techniques that a good badminton player should have. At the same time, we hope to instil character building through fair play and sportsmanship so that our students will be prepared to take on any new challenges in various modes of play and competitions.  
 
