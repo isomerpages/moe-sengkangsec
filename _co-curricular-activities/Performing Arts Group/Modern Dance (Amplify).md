@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Performing Arts Group
 ---
 
-
-**<font size=6>Modern Dance - Amplify</font>**
-
 **<font size=5>CCA Beliefs</font>**<br>
 Seng Kang Modern Dance, Amplify, aims to develop students' lifelong interest and passion in dance and a strong sense of identity as an Amplify member. Our weekly training provides students with opportunities to develop their dance techniques, skills and creativity in choreographing various dance genres and moves. Through dance, we hope that our students will become more confident in expressing and communicating their ideas, as well as develop resilience as they strive for excellence.
 
