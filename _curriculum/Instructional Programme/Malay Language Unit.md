@@ -5,10 +5,6 @@ description: ""
 third_nav_title: Instructional Programme
 ---
 
-
-
-**<font size=6>Malay Language Unit</font>**
-
 **<font size=5>Beliefs</font>**
 
 *   The Malay Language Unit strives to nurture our students to be confident and competent users of the Malay Language.
