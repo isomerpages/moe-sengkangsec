@@ -6,8 +6,6 @@ third_nav_title: Physical Sports
 ---
 
 
-**<font size=6>Netball</font>**
-
 **<font size=5>CCA Beliefs</font>**<br>
 We aim to nurture leadership characteristics, promote physical development and encourage positive attitude amongst our members. Students are provided with various platforms to develop their skills, form strong bonds with their peers and ultimately reach their fullest potential. The team strongly believes in the values of respect, resilience and responsibility, both on and off the court. The team trains twice a week, focusing on ball-handling skills, physical stamina and agility. The team also learns how to make quick decisions and think critically amidst a game by engaging in discussion and execution of strategic play during CCA. 
 
