@@ -76,7 +76,7 @@ For students whose PLDs are under repair, you may loan a PLD until your PLD is r
 
 **Technical Support:**
 
-17\. The ICT Help Desk is the first point of contact for the repair of the PLD. Details are as follows:
+16\. The ICT Help Desk is the first point of contact for the repair of the PLD. Details are as follows:
 
 Operating Days: Mondays to Fridays
 
