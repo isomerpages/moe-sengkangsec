@@ -3,13 +3,9 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+**Open House 2022**<br>
 
-
-
-
-**2021 GCE O & N-Level Graduation Certificate Collection**<br>
-
-Class of 2021 can collect your testimonials from the school. Walk-in is opened weekdays from 6 June to 5 July 2022 between 9.00am to 4.00pm. From 6th July 2022 onwards, please kindly call the school at 63887258 to arrange an appointment for collection. Thank you.
+The SKSS Open House is back, and we look forward to meeting you in person at our school! Remember to save the date in your calendars with us - 19 November 2022 (Saturday) from 8am to 12pm. Stay tuned for more information in the coming weeks!
 
 ------
 
