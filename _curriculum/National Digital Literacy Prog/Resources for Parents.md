@@ -17,25 +17,25 @@ Parent Kit on Cyber Wellness for Your Child. Click
 
 ------
 
-MOE Cyber Wellness Programme
+MOE Cyber Wellness Programme. Click
 
 ------
 
-SchoolBag - Keeping our teens safe online
+SchoolBag - Keeping our teens safe online. Click
 
 ------
 
-National Library’s Learning & Information Literacy Resources
+National Library’s Learning & Information Literacy Resources. Click
 
 ------
 
-TOUCH Community Services
+TOUCH Community Services. Click
 
 ------
 
-DMA Parent Guide - Option A
+DMA Parent Guide - Option A. Click
 
 ------
 
 
-DMA Parent Guide - Option B
+DMA Parent Guide - Option B. Click
