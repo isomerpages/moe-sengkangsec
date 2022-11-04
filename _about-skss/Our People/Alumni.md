@@ -4,8 +4,6 @@ permalink: /about-skss/our-people/skss-partners/alumni/
 description: ""
 third_nav_title: Our People
 ---
-
-
 **<font size="5">Vision</font>**<br>
 To connect and engage Seng Kang graduates and build collegiality in building the Seng Kang Secondary School spirit.
 
