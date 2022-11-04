@@ -5,6 +5,8 @@ description: ""
 ---
 **2022 Graduation Ceremony: Realise your Inner Star**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yL3IP449WUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ------
 
 **23rd Anniversary and Awards Ceremony**
