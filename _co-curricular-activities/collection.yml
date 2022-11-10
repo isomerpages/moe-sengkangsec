@@ -1,0 +1,24 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Art Club.md
+      - Clubs & Societies/Media Services Club.md
+      - Performing Arts Group/.keep
+      - Performing Arts Group/Choir (SKY Chorale).md
+      - Performing Arts Group/Guzheng Ensemble.md
+      - Performing Arts Group/Modern Dance (Amplify).md
+      - Performing Arts Group/English Drama.md
+      - Performing Arts Group/Symphonic Band.md
+      - Physical Sports/.keep
+      - Physical Sports/Badminton.md
+      - Physical Sports/Basketball.md
+      - Physical Sports/Football.md
+      - Physical Sports/Hockey.md
+      - Physical Sports/Netball.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/National Cadet Corps (NCC).md
+      - Uniformed Groups/National Police Cadet Corps (NPCC).md
+      - Uniformed Groups/Red Cross Youth.md

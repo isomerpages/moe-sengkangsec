@@ -1,0 +1,28 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Instructional Programme/.keep
+      - Instructional Programme/English Language & Literature.md
+      - Instructional Programme/Tamil Language Unit.md
+      - Instructional Programme/Chinese Language Unit.md
+      - Instructional Programme/Malay Language Unit.md
+      - Instructional Programme/Mathematics.md
+      - Instructional Programme/Science.md
+      - Instructional Programme/Humanities.md
+      - Instructional Programme/Physical Education.md
+      - Instructional Programme/Nutrition & Food Science Unit.md
+      - Instructional Programme/Design & Technology Unit.md
+      - Instructional Programme/Art Unit.md
+      - Instructional Programme/Music Unit.md
+      - Instructional Programme/Timetable & Assessment.md
+      - National Digital Literacy Prog/.keep
+      - National Digital Literacy Prog/National Digital Literacy Programme.md
+      - National Digital Literacy Prog/Device Information Kits.md
+      - National Digital Literacy Prog/Device Management Application(DMA).md
+      - National Digital Literacy Prog/Acceptable Use Policy.md
+      - National Digital Literacy Prog/Use of PLD in School.md
+      - National Digital Literacy Prog/Resources for Parents.md
+      - National Digital Literacy Prog/ICT Help Desk.md
+      - Applied Learning Programme (ALP).md
+      - Learning For Life Programme (LLP).md
