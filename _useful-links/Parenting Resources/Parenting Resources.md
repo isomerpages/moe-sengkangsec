@@ -22,7 +22,7 @@ third_nav_title: Parenting Resources
 2.  [MOE Parent Kit](https://www.moe.gov.sg/parentkit)
 3.  [Schoolbag: The Education News Site](https://www.schoolbag.edu.sg/)
 4.  [Parents Gateway Guide](https://moe-sengkangsec-staging.netlify.app/useful-links-1/parenting-resources)
-5.  [Student ICT site](https://sites.google.com/moe.edu.sg/skss-student-ict/hbl) 
+5.  [Student ICT site](https://sites.google.com/moe.edu.sg/skss-student-ict/home) 
 6. [Personalised Digital Learning Programme (PDLP)Site](https://sites.google.com/moe.edu.sg/skss-pdlp/home) 
 7.  [Group Personal Accident](https://www.income.com.sg/studentgpa)
 8.  [Bulletin Special Edition](/files/SKSS%20Bulletin%20Special%20Edition%2027%20July%202021.pdf)
