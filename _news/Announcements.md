@@ -7,10 +7,10 @@ description: ""
 
 The SKSS Open House is back, and we look forward to meeting you in person at our school! Remember to save the date in your calendars with us - 19 November 2022 (Saturday) from 8am to 12pm. Stay tuned for more information in the coming weeks!
 
-------
+------ 
 
 
-[**Sports DSA 2022 (For 2023 Sec 1 Intake) Updates**](https://moe-sengkangsec-staging.netlify.app/co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa)
+[**SKSS 25th Anniversary Song Writing and Logo Design**](https://docs.google.com/presentation/d/1i7H1mAlxSLKObw9LplQYOLUptFwmG1JYjvgS_qaolrI/edit#slide=id.gcec4d27072_0_0)
 
 Click on the link above for more information.
 
