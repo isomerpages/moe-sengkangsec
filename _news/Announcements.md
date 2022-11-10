@@ -10,7 +10,7 @@ The SKSS Open House is back, and we look forward to meeting you in person at our
 ------ 
 
 
-[**SKSS 25th Anniversary Song Writing and Logo Design**](https://docs.google.com/presentation/d/1i7H1mAlxSLKObw9LplQYOLUptFwmG1JYjvgS_qaolrI/edit#slide=id.gcec4d27072_0_0)
+[**SKSS 25th Anniversary Song Writing and Logo Design Competition**](https://docs.google.com/presentation/d/1i7H1mAlxSLKObw9LplQYOLUptFwmG1JYjvgS_qaolrI/edit#slide=id.gcec4d27072_0_0)
 
 Deadline 15 December 2022. Click on the link above for more information. 
 
