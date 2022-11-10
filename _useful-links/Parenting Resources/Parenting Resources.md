@@ -9,7 +9,7 @@ third_nav_title: Parenting Resources
 [SKSS Sec 1 Booklists 2022 Express.pdf](/files/SKSS%20Sec%201%20Booklists%202022%20Express.pdf) <br>
 [SKSS Sec 1 Booklists 2022 Normal Academic.pdf](/files/SKSS%20Sec%201%20Booklists%202022%20Normal%20Academic.pdf) <br>
 [SKSS Sec 1 Booklists 2022 Normal Technical.pdf](/files/SKSS%20Sec%201%20Booklists%202022%20Normal%20Technical.pdf) <br>
-[D Sec 1 Uniform Sales.pdf](/files/D%20Sec%201%20Uniform%20Sales.pdf)
+[ Sec 1 Uniform Sales.pdf](/files/D%20Sec%201%20Uniform%20Sales.pdf)
 
 **<font size=5>2022 Secondary 2 to 5 Books and Uniform Sales</font>**<br>
 [Secondary 2 to 5 Textbook & Stationery List](/files/SKSS%20S2-S5%202021%20Textbook%20and%20Stationery%20list.pdf)<br>
