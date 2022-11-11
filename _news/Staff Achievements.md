@@ -3,9 +3,7 @@ title: Staff Achievements
 permalink: /achievements/staff-achievements/
 description: ""
 ---
-
-
-**North Zone Open Classroom: Mr Jason Ang</font>**
+**North Zone Open Classroom: Mr Jason Ang**
 
 Congratulations, Mr Jason Ang in conduting an open classroom experience on 8th July 2022 and sharing with a lead teacher from Xin Min Secondary School, colleagues from Seng Kang Secondary School and ETD.
 
