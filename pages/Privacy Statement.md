@@ -3,10 +3,6 @@ title: Privacy Statement
 permalink: /privacy/
 description: ""
 ---
-
-
-
-
 1\. This is Seng Kang Secondary School’s website. Thank you for examining our privacy statement.
 
   
