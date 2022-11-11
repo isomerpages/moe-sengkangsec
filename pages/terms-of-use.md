@@ -2,10 +2,7 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
->![](/images/About%20us.jpg)
->SKSS
 
-**<font size=5>Terms of Use</font>**
 
 1\. This is Seng Kang Secondary School’s website. Thank you for examining our privacy statement.
 
