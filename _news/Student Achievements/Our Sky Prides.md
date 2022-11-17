@@ -4,7 +4,6 @@ permalink: /achievements/student-achievements/our-sky-prides/
 description: ""
 third_nav_title: Student Achievements
 ---
-
 **<font size="5">Design & Technology Awards 2022</font>**
 
 Congratulations to our SKY prides for attaining 3 D&T awards out of 29 winning entries. 1) Creative aesthetics, 2) Creative adaptation and 3) Creative innovation!
