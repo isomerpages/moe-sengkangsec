@@ -9,4 +9,5 @@ sections:
   - hero:
       button: Announcements
       url: /announcements
+      background: /images/Main Page/Social Media (1).png
 ---
