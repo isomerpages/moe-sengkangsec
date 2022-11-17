@@ -3,9 +3,9 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-**Open House 2022**<br>
+[**Open House 2022**](https://sites.google.com/moe.edu.sg/open-house-2022/home)
 
-The SKSS Open House is back, and we look forward to meeting you in person at our school! Remember to save the date in your calendars with us - 19 November 2022 (Saturday) from 8am to 12pm. Stay tuned for more information in the coming weeks!
+This Saturday (19 Nov), come join us at Seng Kang Secondary School’s Open House 2022! We promise an exciting morning with us as you join our informative tours, play our fun games, and watch our engaging performances. You also have a chance to ask all your burning questions when you chat with our staff and students. What’s more, you will bring home a limited edition gift upon completion of a series of simple quests. See you there this Saturday, anytime between 8am and noon!
 
 ------ 
 
