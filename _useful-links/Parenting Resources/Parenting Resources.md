@@ -11,7 +11,7 @@ third_nav_title: Parenting Resources
 [SKSS Sec 1 Booklists 2022 Normal Technical.pdf](/files/SKSS%20Sec%201%20Booklists%202022%20Normal%20Technical.pdf) <br>
 [ Sec 1 Uniform Sales.pdf](/files/D%20Sec%201%20Uniform%20Sales.pdf)
 
-**<font size=5>2022 Secondary 2 to 5 Books and Uniform Sales</font>**<br>
+**<font size=5>2022 Secondary 2 to Secondary 5 Books and Uniform Sales</font>**<br>
 [Secondary 2 to Secondary 5 Textbook & Stationery List](/files/Resources%20for%20parents/Textbook%20sch%20uniform/SKSS%20S2-S5%20Textbooks%20and%20Stationery%20List.pdf)<br>
 [Secondary 2 to 5 Instruction for Yr 2022](/files/SKSS%20S2-S5%20Textbook%20and%20Stationery%20instruction%202022.pdf)<br>
 [Book Sale Schedule](/files/Instructions%20for%20Purchase%20of%20Textbooks%20&%20Stationery.pdf) (Popular)<br>
