@@ -6,9 +6,6 @@ third_nav_title: Our People
 ---
 
 
-
-**<font size="6">Parents Support Group</font>**
-
 <img src="/images/ABOUT%20SKSS/Parents%20Support%20Group.png" style="width:35%">
 
 **<font size="5">Vision</font>**<br>

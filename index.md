@@ -9,5 +9,12 @@ sections:
   - hero:
       button: Announcements
       url: /announcements
-      background: /images/Website Banner Design.png
+      background: /images/Website Banner Design 2.png
+      key_highlights:
+        - title: "open house "
+          description: ""
+          url: https://go.gov.sg/skssopenhouse
+        - title: School uniform & textbook information
+          description: ""
+          url: /useful-links-1/parenting-resources/
 ---

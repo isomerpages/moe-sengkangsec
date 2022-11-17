@@ -1,11 +1,9 @@
 ---
-title: Privacy Statement
-permalink: /privacy/
+title: Terms of Use
+permalink: /terms-of-use/
+description: ""
 ---
->![](/images/About%20us.jpg)
->SKSS
 
-**<font size=5>Privacy Statement</font>**
 
 
 1\. This is Seng Kang Secondary School’s website. Thank you for examining our privacy statement.

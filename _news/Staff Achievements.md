@@ -3,15 +3,13 @@ title: Staff Achievements
 permalink: /achievements/staff-achievements/
 description: ""
 ---
-
-
-**North Zone Open Classroom: Mr Jason Ang</font>**
+**North Zone Open Classroom: Mr Jason Ang**
 
 Congratulations, Mr Jason Ang in conduting an open classroom experience on 8th July 2022 and sharing with a lead teacher from Xin Min Secondary School, colleagues from Seng Kang Secondary School and ETD.
 
 ![](/images/Achievements/NZ%20teachers%20sharing.png)
 
-**NIE Redesigning Pedagogy International Conference (RPIC) 2022</font>**
+**NIE Redesigning Pedagogy International Conference (RPIC) 2022**
 
 Congratulations, Mr Noah Zhang and Ms Sazryna!
 (assisting) for their presentation at NIE’s Redesigning Pedagogy International Conference (RPIC) 2022  
