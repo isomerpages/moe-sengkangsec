@@ -28,6 +28,6 @@ Click on the link above for more information.
 
 ---
 
-[**Travel Declaration via PG**](/files/Resources%20for%20parents/Instructions_for_Travel_Declaration_on_PG.pdf)
+[**Travel Declaration via PG**][](/files/Resources%20for%20parents/Instructions_for_Travel_Declaration_on_PG.pdf)
 
 Step-by-step guide to Travel Declaration and Update of Particulars on Parents Gateway mobile app
