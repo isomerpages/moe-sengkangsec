@@ -1,5 +1,5 @@
 title: Home
-url: ""
+url: https://www.sengkangsec.moe.edu.sg
 favicon: /images/Sengkang sec logo.png
 colors:
   primary-color: "#41bbd8"
@@ -52,7 +52,7 @@ plugins:
 staging: https://moe-sengkangsec-staging.netlify.app
 prod: https://moe-sengkangsec-prod.netlify.app
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
