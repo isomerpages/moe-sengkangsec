@@ -10,14 +10,14 @@ sections:
       button: Announcements
       url: /announcements
       background: /images/Website Banner Design 2.png
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      key_highlights:
+        - title: "open house "
+          description: ""
+          url: https://go.gov.sg/skssopenhouse
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
 ---
