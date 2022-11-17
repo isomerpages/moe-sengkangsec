@@ -33,12 +33,12 @@ links:
     sublinks:
       - title: Instructional Programme
         url: /curriculum/instructional-programme-ip/english-language-and-literature-department/
-      - title: National Digital Literacy Prog
-        url: /curriculum/NDLP
       - title: Applied Learning Programme
         url: /curriculum/applied-learning-programme-alp
       - title: Learning For Life Programme
         url: /curriculum/learning-for-life-programme-llp
+      - title: National Digital Literacy Prog
+        url: /curriculum/NDLP
   - title: Co-Curriculum
     url: /co-curriculum/co-curricular-activities-cca
     sublinks:
