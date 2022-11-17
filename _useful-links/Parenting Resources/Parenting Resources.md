@@ -12,10 +12,10 @@ third_nav_title: Parenting Resources
 [ Sec 1 Uniform Sales.pdf](/files/D%20Sec%201%20Uniform%20Sales.pdf)
 
 **<font size=5>2022 Secondary 2 to 5 Books and Uniform Sales</font>**<br>
-[Secondary 2 to 5 Textbook & Stationery List](/files/SKSS%20S2-S5%202021%20Textbook%20and%20Stationery%20list.pdf)<br>
+[Secondary 2 to Secondary 5 Textbook & Stationery List](/files/Resources%20for%20parents/Textbook%20sch%20uniform/SKSS%20S2-S5%20Textbooks%20and%20Stationery%20List.pdf)<br>
 [Secondary 2 to 5 Instruction for Yr 2022](/files/SKSS%20S2-S5%20Textbook%20and%20Stationery%20instruction%202022.pdf)<br>
 [Book Sale Schedule](/files/Instructions%20for%20Purchase%20of%20Textbooks%20&%20Stationery.pdf) (Popular)<br>
-[School Uniform Sale Schedule](/files/SKSS%20Uniform%20sale%20schedule%202021.pdf) (Student Mart)<br>
+[School Uniform Sale Schedule](/files/Resources%20for%20parents/Textbook%20sch%20uniform/Student%20Mart%20School%20Uniform%202022.pdf)(Student Mart)
 
 **<font size=5>Other Useful Links</font>**<br>
 1.  [Stay Well to Stay Strong: A Resource Portal on Mental and Physical Health for Parents and Students](https://www.healthhub.sg/programmes/170/StayWell)  
