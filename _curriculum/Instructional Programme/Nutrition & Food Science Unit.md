@@ -5,12 +5,6 @@ description: ""
 third_nav_title: Instructional Programme
 ---
 
-
-
-
-**<font size=6>Nutrition & Food Science Unit</font>**
-
-
 **<font size=5>Beliefs</font>**
 
 The Nutrition & Food Science Unit is committed to developing the knowledge, skills and attitudes required by the students to succeed in the  21st century. The focus is on improving the lives of those around them through knowledge in nutrition and health, food literacy and food science. We utilise the Inquiry-based Learning pedagogy, which enables the students to relate and apply knowledge learnt to real-life situations. The cyclical process engages the students with tasks that lead to intellectual exploration, explanation of information and application of ideas.
