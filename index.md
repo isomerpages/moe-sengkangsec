@@ -14,10 +14,7 @@ sections:
         - title: "open house "
           description: ""
           url: https://go.gov.sg/skssopenhouse
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: School uniform & textbook information
+          description: ""
+          url: /useful-links-1/parenting-resources/
 ---
