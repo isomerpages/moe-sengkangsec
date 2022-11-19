@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - Instructional Programme.md
+      - Curriculum.md
       - Instructional Programme/.keep
       - Instructional Programme/English Language & Literature.md
       - Instructional Programme/Tamil Language Unit.md
