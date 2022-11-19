@@ -1,9 +1,10 @@
 ---
-title: Instructional Programme
-permalink: /curriculum/Instructional-Programme/IP/
+title: Curriculum
+permalink: /curriculum/curriculum/
 description: ""
-third_nav_title: Instructional Programme
 ---
+
+
 
 [Instructional Programme](https://www.sengkangsec.moe.edu.sg/curriculum/instructional-programme-ip/english-language-and-literature-department/)
 
