@@ -288,7 +288,7 @@ You may wish to refer to the [checklist](Checklist%20for%20submitting%20FAS%20ap
 
 -------------
 
-**Start of 2023 – Important Information for Parents and Students**
+##### **Start of 2023 – Important Information for Parents and Students**
 
 To ensure you are well prepared for the start of your Secondary school journey with us, please note the following information.
 
