@@ -87,11 +87,11 @@ Click [here](/files/Resources%20for%20parents/S1%20Registration%202023/SKSS%20Un
 
 -&nbsp;&nbsp;&nbsp; submit via e-FAS form [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas) or
 
--&nbsp;&nbsp;&nbsp; obtain a copy of the application form from the General Office, or download a copy . Upon completion, please submit the hardcopy application form and the required supporting documents to the General Office.
+-&nbsp;&nbsp;&nbsp; obtain a copy of the application form from the General Office, or download a copy [here](/files/Resources%20for%20parents/S1%20Registration%202023/MOE%20FAS%20Application%20Form%20Sep%202022.pdf). Upon completion, please submit the hardcopy application form and the required supporting documents to the General Office.
 
-You may wish to refer to the [checklist](Checklist%20for%20submitting%20FAS%20application%202023.pdf)&nbsp; on the required documents that needs to be submitted with your child application.
+You may wish to refer to the [checklist](/files/Resources%20for%20parents/S1%20Registration%202023/Checklist%20for%20submitting%20FAS%20application%202023.pdf)&nbsp; on the required documents that needs to be submitted with your child application.
 
-(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please approach our staff at **6388 7258** for enquiries before you purchase the textbooks or uniforms. You may also click [here](MOE%20FAS%20pamphlet%20EL%20for%20schools.pdf)&nbsp; for more information on Financial Assistance Scheme (FAS) 2023.
+(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please approach our staff at **6388 7258** for enquiries before you purchase the textbooks or uniforms. You may also click [here](/files/Resources%20for%20parents/S1%20Registration%202023/MOE%20FAS%20pamphlet%20EL%20for%20schools.pdf)&nbsp; for more information on Financial Assistance Scheme (FAS) 2023.
 
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Appeal for Transfer Out (for Serious Medical Conditions Cases)**
 
