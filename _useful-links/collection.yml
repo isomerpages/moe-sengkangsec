@@ -2,10 +2,11 @@ collections:
   useful-links:
     output: true
     order:
-      - Parenting Resources/Parenting Resources.md
-      - Parenting Resources/Parents Gateway.md
-      - Parenting Resources/COVID 19 Vaccination For Students.md
-      - Parenting Resources/.keep
+      - Parents/2023 Secondary 1 Posting & Registration Information.md
+      - Parents/Parenting Resources.md
+      - Parents/Parents Gateway.md
+      - Parents/COVID 19 Vaccination For Students.md
+      - Parents/.keep
       - Teachers.md
       - Frequently Asked Questions (FAQ).md
       - Calendar.md

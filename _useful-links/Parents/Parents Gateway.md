@@ -2,8 +2,9 @@
 title: Parents Gateway
 permalink: /useful-links-1/parenting-resources/parents-gateway/
 description: ""
-third_nav_title: Parenting Resources
+third_nav_title: Parents
 ---
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PCM5o8jAncc" title="MOE Parents Gateway" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
