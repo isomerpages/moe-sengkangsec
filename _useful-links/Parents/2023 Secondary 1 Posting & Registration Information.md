@@ -296,7 +296,7 @@ To ensure you are well prepared for the start of your Secondary school journey w
 
 **Daily reporting time:**
 
-Students are to be seated and do silent reading with their classes at the parade square, hall or classrooms in an orderly manner for assembly by **7:25 am&nbsp;every Monday, Tuesday, Wednesday and Friday and 8:35 am on Thursday.**
+Students are to be seated and do silent reading with their classes at the parade square, hall or classrooms in an orderly manner for assembly by **7:25 am**;every Monday, Tuesday, Wednesday and Friday and **8:35 am** on Thursday.
 
 **Dismissal time:**
 
