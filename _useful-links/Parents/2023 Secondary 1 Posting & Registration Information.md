@@ -165,3 +165,5 @@ The school will get in touch with you via PG or phone call or email with regard 
 6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **School Uniforms, School Textbooks and Learning Materials**
 
 To ensure a smooth and pleasant purchase experience, we strongly encourage parents to make online purchase from the respective goods and service providers. The details are as follows:
+
+
