@@ -23,7 +23,7 @@ Dear Parents/ Guardians and Secondary 1 students
 
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Full Subject-Based Banding (FSBB)**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Purpose of FSBB**
+**Purpose of FSBB**
 
 Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students.
 
