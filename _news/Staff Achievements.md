@@ -100,7 +100,7 @@ Mdm Chennakesavalu Sheela, Mdm Rengasamy Manonmani and Mr Sivakumar Duraisamy
   
 
 **<font size=5>Sharing of Co-Curricular Programmes & Games Approach in PE Teaching </font>**
-Total Education Concept, School Health Development and Games Approach; Teaching in Physical Education – The Singapore Experience at University of Macau 2018, <br>Physical Education Sports Teachers Academy (PESTA)
+Total Education Concept, School Health Development and Games Approach; Teaching in Physical Education – The Singapore Experience at University of Macau 2018, Physical Education Sports Teachers Academy (PESTA)
 Mr Louis Ho J Yen
 
 <img src="/images/Achievements/Staff%20Achievements%209.jpeg"  
