@@ -3,13 +3,21 @@ title: Staff Achievements
 permalink: /achievements/staff-achievements/
 description: ""
 ---
-**North Zone Open Classroom: Mr Jason Ang**
+#### MOE Service Excellence Award 2022 Winners
+
+|    <br>Award Category 	|    <br>MOE Service Excellence Award (MSEA)                                                      	|
+|-----------------------	|-------------------------------------------------------------------------------------------------	|
+| Platinum              	| Mr Seah Wei Liang<br> Mdm Yap Ling Ling                                                                 	|
+| Gold                  	| Mdm Aw Jui<br>Mdm Norhashimah Hamzah<br>Mdm Ramah Rahim<br>Mr Seah Wei Liang                                   	|
+| Silver                	| Ms Sandra Loke<br>Mr Mohamed Halid<br>Mr Sapii Dasuki<br>Mdm Shaheeda Abdul Aziz Pallot<br>Mr Zhang Hua'an Noah 	|
+
+#### North Zone Open Classroom: Mr Jason Ang
 
 Congratulations, Mr Jason Ang in conduting an open classroom experience on 8th July 2022 and sharing with a lead teacher from Xin Min Secondary School, colleagues from Seng Kang Secondary School and ETD.
 
 ![](/images/Achievements/NZ%20teachers%20sharing.png)
 
-**NIE Redesigning Pedagogy International Conference (RPIC) 2022**
+#### NIE Redesigning Pedagogy International Conference (RPIC) 2022
 
 Congratulations, Mr Noah Zhang and Ms Sazryna!
 (assisting) for their presentation at NIE’s Redesigning Pedagogy International Conference (RPIC) 2022  
@@ -18,23 +26,23 @@ Congratulations, Mr Khyber Singh and Ms Susan Lim for their presentation at NIE
 
 ![](/images/Achievements/RPIC%20Sharing.png)
 
-**<font size=5>ESRI Singapore's Young Scholar Award: Mr Noah Zhang</font>**
+#### ESRI Singapore's Young Scholar Award: Mr Noah Zhang
 
 ![](/images/Achievements/Staff%20Achievements%201.png)
 
-**<font size=5>2021 Teachers Conference & Excel Festival: Hockey CCA</font>**
+#### 2021 Teachers Conference & Excel Festival: Hockey CCA
 
 ![](/images/Achievements/Staff%20Achievements%202.png)
 
-**<font size=5>North Division Commissioner: Ms Jenny Shea</font>**
+#### North Division Commissioner: Ms Jenny Shea
 
 ![](/images/Achievements/Staff%20Achievements%203.png)
 
-**<font size=5>N1 Cluster Ideas Bank 2021 1st Prize : EL Department</font>**
+#### N1 Cluster Ideas Bank 2021 1st Prize : EL Department
 
 ![](/images/Achievements/Staff%20Achievements%204.png)
 
-**<font size=5>N1 Cluster Ideas Bank 2021 3rd Prize: PE Department</font>**
+#### N1 Cluster Ideas Bank 2021 3rd Prize: PE Department
 
 ![](/images/Achievements/Staff%20Achievements%205.png)
 
