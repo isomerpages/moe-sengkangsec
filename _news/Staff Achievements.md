@@ -91,40 +91,43 @@ Ms Sazryna Lee Samsudin received the AST Academy Awards 2019.
 #### Professional Development Sharing 2018
 
 
-**12th World Tamil Teachers' Conference 2018**  
+##### 12th World Tamil Teachers' Conference 2018  
 Mdm Chennakesavalu Sheela, Mdm Rengasamy Manonmani and Mr Sivakumar Duraisamy  
   
 
-**Sharing of Co-Curricular Programmes & Games Approach in PE Teaching.** **Total Education Concept, School Health Development and Games Approach;** **Teaching in Physical** **Education – The Singapore Experience at University of Macau 2018,** <br>
-**Physical Education Sports Teachers Academy (PESTA)**  
+##### Sharing of Co-Curricular Programmes & Games Approach in PE Teaching. Total Education Concept, School Health Development and Games Approach; Teaching in Physical Education – The Singapore Experience at University of Macau 2018, <br>
+Physical Education Sports Teachers Academy (PESTA)
 Mr Louis Ho J Yen
 
 <img src="/images/Achievements/Staff%20Achievements%209.jpeg"  
-     style="width:65%" align = "left"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+     style="width:65%" align = "left"><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-**53rd RELC International Conference 2018**
-<br>Mdm Cynthia Yow & Ms Charlotte Tan
+##### 53rd RELC International Conference 2018
+Mdm Cynthia Yow & Ms Charlotte Tan
 
 <img src="/images/Achievements/Staff%20Achievements%2010.jpeg"  
      style="width:65%" align = "left"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-**<font size=5>MOE Service Excellence Award 2018
-</font>**
+#### MOE Service Excellence Award 2018
 
-![](/images/Achievements/Staff%20Achievements%2011.png)
+|    <br>Award Category 	|    <br>MOE Service Excellence Award (MSEA)                          	|
+|-----------------------	|---------------------------------------------------------------------	|
+| Gold                  	| Mdm Nurfazilah                                                      	|
+| Silver                	| Ms Chong Li Ping<br>Mdm Shahida<br>Mdm Suziliana<br>Ms Siti Khalsom 	|
 
-**<font size=5>Outstanding Physical Education Teacher (OPETA) Award 2017
-</font>**<br>
+
+#### Outstanding Physical Education Teacher (OPETA) Award 2017
+
 Mr Louis Ho (HOD/PE & CCA) received the Outstanding Physical Education Teacher (OPETA) Award by the Singapore Physical Education Association.
 
 <img src="/images/Achievements/Staff%20Achievements%2012.jpg"  
      style="width:65%" align = "left">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-**<font size=5>Singapore Malay Teachers Cooperative Ltd Book Prize
-</font>**<br>
+#### Singapore Malay Teachers Cooperative Ltd Book Prize
+
 Mdm Sakinah Binte Ismail was awarded for Best Performance in Malay Language and Literature in the Bachelor of Arts (Education) including a Distinction or Credit in the final Practicum
 
 <img src="/images/Achievements/Staff%20Achievements%2013.png"  
