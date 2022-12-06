@@ -26,6 +26,14 @@ Congratulations, Mr Khyber Singh and Ms Susan Lim for their presentation at NIE
 
 ![](/images/Achievements/RPIC%20Sharing.png)
 
+**<font size=5> MOE Service Excellence Award 2021 Winners</font>**
+
+|    <br>Award Category 	|    <br>MOE Service Excellence Award (MSEA)        	|
+|-----------------------	|---------------------------------------------------	|
+| Platinum              	| Mr Vincent Lee                                    	|
+| Gold                  	| Mr Jackie Ong<br>Mdm Shahida<br>Mdm Yap Ling Ling 	|
+| Silver                	| Mdm Aw Jui<br>Mdm Norhashimah<br>Mdm Ramah        	|
+
 **<font size=5>ESRI Singapore's Young Scholar Award: Mr Noah Zhang</font>**
 
 ![](/images/Achievements/Staff%20Achievements%201.png)
