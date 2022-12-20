@@ -44,7 +44,7 @@ English Language, Mother Tongue Languages, Mathematics and Science will continue
 
 The common learning experience through the mixed form classes creates a valuable setting for students to mingle, build meaningful friendships, and appreciate different perspectives. It can also help reduce the inadvertent labelling associated with streaming.
 
- To find out more about FSBB, you can visit [https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html).
+To find out more about FSBB, you can watch this [video](https://youtu.be/EW2gVfgZKKM) or visit [https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html).
 
 Parents whose child is eligible to take subjects at a more demanding level will receive the SBB acceptance form(s) via PG. Please note that you may receive up to 4 forms depending on the number of subjects your child is eligible for. You will need to submit the acceptance form(s) by **27 December 2022**.
 
