@@ -13,7 +13,9 @@ Dear Parents/ Guardians and Secondary 1 students
 
 3\. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Online Registration Portal**
 
-(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Go to [https://go.gov.sg/s1registration-ay2023](https://go.gov.sg/s1registration-ay2023) . The online registration will open on Registration Day, **a day after the S1 School Posting results.**
+(a)           Go to [https://go.gov.sg/sksss1registrationformay2023](https://go.gov.sg/sksss1registrationformay2023). The online registration will open on Registration Day, **22 December 2022 (Thursday).**
+
+
 
 
 (b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The registration takes about 15 minutes. Please complete all fields.
