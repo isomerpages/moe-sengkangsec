@@ -13,7 +13,9 @@ Dear Parents/ Guardians and Secondary 1 students
 
 3\. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Online Registration Portal**
 
-(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Go to [https://go.gov.sg/s1registration-ay2023](https://go.gov.sg/s1registration-ay2023) . The online registration will open on Registration Day, **a day after the S1 School Posting results.**
+(a)           Go to [https://go.gov.sg/sksss1registrationformay2023](https://go.gov.sg/sksss1registrationformay2023). The online registration will open on Registration Day, **22 December 2022 (Thursday).**
+
+
 
 
 (b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The registration takes about 15 minutes. Please complete all fields.
@@ -36,19 +38,19 @@ From 2024, Secondary 1 students will be able to offer subjects at three levels: 
 
 The Secondary One students will be grouped in mixed form classes, comprising students from different courses of study.&nbsp;Students will attend lessons in the form classes for the following subjects: Character and Citizenship Education, Music, Physical Education, Art, Design &amp; Technology, as well as Food and Consumer Education.
 
-English Language, Mother Tongue Languages, Mathematics and Science will continue to be offered at Express, Normal (Academic) and Norma (Technical) level. The criteria for taking these subjects at a more demanding level from the start of Secondary One is based on students’ PSLE AL Score for each subject. Students will be grouped in different classes based on their subject level for each subject.
+English Language, Mother Tongue Languages, Mathematics and Science will continue to be offered at Express, Normal (Academic) and Normal (Technical) level. The criteria for taking these subjects at a more demanding level from the start of Secondary One is based on students’ PSLE AL Score for each subject. Students will be grouped in different classes based on their subject level for each subject.
 
 
 
 The common learning experience through the mixed form classes creates a valuable setting for students to mingle, build meaningful friendships, and appreciate different perspectives. It can also help reduce the inadvertent labelling associated with streaming.
 
- To find out more about FSBB, you can visit [https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html).
+To find out more about FSBB, you can watch this [video](https://youtu.be/EW2gVfgZKKM) or visit [https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html).
 
 Parents whose child is eligible to take subjects at a more demanding level will receive the SBB acceptance form(s) via PG. Please note that you may receive up to 4 forms depending on the number of subjects your child is eligible for. You will need to submit the acceptance form(s) by **27 December 2022**.
 
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Outcome of Application to offer Non Mother Tongue Languages/ Higher Mother Tongue / 3rd Language**
 
-The school will get in touch with you via PG or phone call or email with regard to the outcome of your application **a day after the S1 School Posting results**.
+The school will get in touch with you via PG or phone call or email with regard to the outcome of your application **from 22 November onwards**.
 
 6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **School Uniforms, School Textbooks and Learning Materials**
 
@@ -59,13 +61,13 @@ To ensure a smooth and pleasant purchase experience, we strongly encourage paren
 
 Click the following links for Sec 1 booklist and instructions for the purchase of textbooks and learning materials
 
-[Instructions for purchase of books](/files/Resources%20for%20parents/S1%20Registration%202023/SKSS%20Purchase%20of%20Books%20Instruction%20Sheet%20Sec%201%202023.pdf)
+[Instructions for purchase of books](/files/Resources%20for%20parents/S1%20Registration%202023/SKSS%20Purchase%20of%20Books%20Instruction%20Sheet%20Sec%201%202023_Updated.pdf)
 
-[Sec 1 Express](/files/Resources%20for%20parents/S1%20Registration%202023/SKSS%20S1%202023%20Express%20(G3)%20Booklist.pdf)
+[Sec 1 Express](/files/Resources%20for%20parents/S1%20Registration%202023/SKSS%20S1%202023%20Express%20(G3)%20Booklist_Updated.pdf)
 
-[Sec 1 Normal Academic](/files/Resources%20for%20parents/S1%20Registration%202023/SKSS%20S1%202023%20Normal%20Academic%20(G2)%20Booklist.pdf)
+[Sec 1 Normal Academic](/files/Resources%20for%20parents/S1%20Registration%202023/SKSS%20S1%202023%20Normal%20Academic%20(G2)%20Booklist_Updated.pdf)
 
-[Sec 1 Normal Technical](/files/Resources%20for%20parents/S1%20Registration%202023/SKSS%20S1%202023%20Normal%20Technical%20(G1)%20Booklist.pdf)
+[Sec 1 Normal Technical](/files/Resources%20for%20parents/S1%20Registration%202023/SKSS%20S1%202023%20Normal%20Technical%20(G1)%20Booklist_Updated.pdf)
 
 **Note:** Please note that due to high delivery volume during festive season, home delivery may take longer for your items to be delivered.
 
@@ -77,7 +79,7 @@ Click the following links for Sec 1 booklist and instructions for the purchase o
 * School tie
 * School polo T-shirt
 
-Click [here](/files/Resources%20for%20parents/S1%20Registration%202023/SKSS%20Uniform%20sale%20schedule%20Y22.pdf) for instructions for the purchase of school uniform
+Click [here](/files/Resources%20for%20parents/S1%20Registration%202023/SKSS%20Uniform%20sale%20schedule%20Y22_Updated.pdf) for instructions for the purchase of school uniform
 
 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Application for MOE Financial Assistance Scheme (FAS) for 2023**
 
@@ -107,7 +109,7 @@ You may wish to refer to the [checklist](/files/Resources%20for%20parents/S1%20R
 
 (c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students successfully allocated to their DSA school will not be allowed to transfer to another school. They are expected to honour their commitment to the allocated DSA school for the entire duration of the programme.
 
-(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please visit [https://go.gov.sg/skssay2023appeal](https://go.gov.sg/skssay2023appeal) to complete the online Transfer Form and submit the necessary supporting documents by **Tuesday, 27 December 2022, 11:59 pm.**
+(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please visit ([https://go.gov.sg/sksss1transferinformay2023](https://go.gov.sg/sksss1transferinformay2023)) to complete the online Transfer Form and submit the necessary supporting documents by **Tuesday, 27 December 2022, 11:59 pm.**
 
 (e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Your appeal is deemed to be unsuccessful if you do not hear from the school by 13 January 2023. Reason(s) for the outcomes of your appeal will not be disclosed.
 
