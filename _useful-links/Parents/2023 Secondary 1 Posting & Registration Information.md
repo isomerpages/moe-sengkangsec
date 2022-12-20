@@ -50,7 +50,7 @@ Parents whose child is eligible to take subjects at a more demanding level will 
 
 5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Outcome of Application to offer Non Mother Tongue Languages/ Higher Mother Tongue / 3rd Language**
 
-The school will get in touch with you via PG or phone call or email with regard to the outcome of your application **a day after the S1 School Posting results**.
+The school will get in touch with you via PG or phone call or email with regard to the outcome of your application **from 22 November onwards**.
 
 6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **School Uniforms, School Textbooks and Learning Materials**
 
