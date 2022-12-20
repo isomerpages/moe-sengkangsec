@@ -38,7 +38,7 @@ From 2024, Secondary 1 students will be able to offer subjects at three levels: 
 
 The Secondary One students will be grouped in mixed form classes, comprising students from different courses of study.&nbsp;Students will attend lessons in the form classes for the following subjects: Character and Citizenship Education, Music, Physical Education, Art, Design &amp; Technology, as well as Food and Consumer Education.
 
-English Language, Mother Tongue Languages, Mathematics and Science will continue to be offered at Express, Normal (Academic) and Norma (Technical) level. The criteria for taking these subjects at a more demanding level from the start of Secondary One is based on students’ PSLE AL Score for each subject. Students will be grouped in different classes based on their subject level for each subject.
+English Language, Mother Tongue Languages, Mathematics and Science will continue to be offered at Express, Normal (Academic) and Normal (Technical) level. The criteria for taking these subjects at a more demanding level from the start of Secondary One is based on students’ PSLE AL Score for each subject. Students will be grouped in different classes based on their subject level for each subject.
 
 
 
