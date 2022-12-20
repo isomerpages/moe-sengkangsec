@@ -109,7 +109,7 @@ You may wish to refer to the [checklist](/files/Resources%20for%20parents/S1%20R
 
 (c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students successfully allocated to their DSA school will not be allowed to transfer to another school. They are expected to honour their commitment to the allocated DSA school for the entire duration of the programme.
 
-(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please visit [https://go.gov.sg/skssay2023appeal](https://go.gov.sg/skssay2023appeal) to complete the online Transfer Form and submit the necessary supporting documents by **Tuesday, 27 December 2022, 11:59 pm.**
+(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please visit ([https://go.gov.sg/sksss1transferinformay2023](https://go.gov.sg/sksss1transferinformay2023)) to complete the online Transfer Form and submit the necessary supporting documents by **Tuesday, 27 December 2022, 11:59 pm.**
 
 (e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Your appeal is deemed to be unsuccessful if you do not hear from the school by 13 January 2023. Reason(s) for the outcomes of your appeal will not be disclosed.
 
