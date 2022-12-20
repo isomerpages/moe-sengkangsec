@@ -61,13 +61,13 @@ To ensure a smooth and pleasant purchase experience, we strongly encourage paren
 
 Click the following links for Sec 1 booklist and instructions for the purchase of textbooks and learning materials
 
-[Instructions for purchase of books](/files/Resources%20for%20parents/S1%20Registration%202023/SKSS%20Purchase%20of%20Books%20Instruction%20Sheet%20Sec%201%202023.pdf)
+[Instructions for purchase of books](/files/Resources%20for%20parents/S1%20Registration%202023/SKSS%20Purchase%20of%20Books%20Instruction%20Sheet%20Sec%201%202023_Updated.pdf)
 
-[Sec 1 Express](/files/Resources%20for%20parents/S1%20Registration%202023/SKSS%20S1%202023%20Express%20(G3)%20Booklist.pdf)
+[Sec 1 Express](/files/Resources%20for%20parents/S1%20Registration%202023/SKSS%20S1%202023%20Express%20(G3)%20Booklist_Updated.pdf)
 
-[Sec 1 Normal Academic](/files/Resources%20for%20parents/S1%20Registration%202023/SKSS%20S1%202023%20Normal%20Academic%20(G2)%20Booklist.pdf)
+[Sec 1 Normal Academic](/files/Resources%20for%20parents/S1%20Registration%202023/SKSS%20S1%202023%20Normal%20Academic%20(G2)%20Booklist_Updated.pdf)
 
-[Sec 1 Normal Technical](/files/Resources%20for%20parents/S1%20Registration%202023/SKSS%20S1%202023%20Normal%20Technical%20(G1)%20Booklist.pdf)
+[Sec 1 Normal Technical](/files/Resources%20for%20parents/S1%20Registration%202023/SKSS%20S1%202023%20Normal%20Technical%20(G1)%20Booklist_Updated.pdf)
 
 **Note:** Please note that due to high delivery volume during festive season, home delivery may take longer for your items to be delivered.
 
@@ -79,7 +79,7 @@ Click the following links for Sec 1 booklist and instructions for the purchase o
 * School tie
 * School polo T-shirt
 
-Click [here](/files/Resources%20for%20parents/S1%20Registration%202023/SKSS%20Uniform%20sale%20schedule%20Y22.pdf) for instructions for the purchase of school uniform
+Click [here](/files/Resources%20for%20parents/S1%20Registration%202023/SKSS%20Uniform%20sale%20schedule%20Y22_Updated.pdf) for instructions for the purchase of school uniform
 
 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Application for MOE Financial Assistance Scheme (FAS) for 2023**
 
