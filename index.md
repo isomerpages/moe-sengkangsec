@@ -11,9 +11,9 @@ sections:
       url: /announcements
       background: /images/Website Banner Design 2.png
       key_highlights:
-        - title: "open house "
+        - title: Secondary 1 2023 Online Registration Day
           description: ""
-          url: https://go.gov.sg/skssopenhouse
+          url: /useful-links/Parents/2023S1/
         - title: School uniform & textbook information
           description: ""
           url: /useful-links-1/parenting-resources/
