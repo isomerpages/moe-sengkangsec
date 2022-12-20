@@ -11,7 +11,7 @@ sections:
       url: /announcements
       background: /images/Website Banner Design 2.png
       key_highlights:
-        - title: Secondary 1 2023 Online Registration Day
+        - title: Secondary 1 Online Registration Day
           description: ""
           url: /useful-links/Parents/2023S1/
         - title: School uniform & textbook information
