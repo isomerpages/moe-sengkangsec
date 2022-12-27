@@ -34,7 +34,7 @@ third_nav_title: Our People
 | 2-7 | Ms Loh Yoke Ling        | Mdm Norzahidah Ma'az     |
 | 2-8 | Mr Bernard Wu Yongwei   | Mdm Nivashini Mohandasan |
 
-**<font size=4>Secondary 3 Year Head: Mdm Nora Hirin </font>**
+**<font size=4>Secondary 3 Assistant Year Head: Mdm Nora Hirin </font>**
 
 |     | FT                       | FT                        |
 |-----|--------------------------|---------------------------|
