@@ -4,8 +4,6 @@ permalink: /about-skss/our-people/skss-partners/parents-support-group/
 description: ""
 third_nav_title: Our People
 ---
-
-
 <img src="/images/ABOUT%20SKSS/Parents%20Support%20Group.png" style="width:35%">
 
 **<font size="5">Vision</font>**<br>
