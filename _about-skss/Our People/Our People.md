@@ -21,4 +21,16 @@ third_nav_title: Our People
 
 
 
-**<font size=4>Secondary 1 Year Head: Mr Lishanth Thangavelu </font>**
+**<font size=4>Secondary 2 Year Head: Mr Lishanth Thangavelu </font>**
+
+|     | FT                      | FT                       |
+|-----|-------------------------|--------------------------|
+| 2-1 | Ms Lim Siew Khim        |                          |
+| 2-2 | Ms Tan Jing Ying        | Ms Jenny Wang            |
+| 2-3 | Mrs Joel Tan Tze Ying   |                          |
+| 2-4 | Mr Low Young Kwang      | Mrs Joyce Goh            |
+| 2-5 | Mr Andrew Chan Wu Siong | Ms Nursimah Mokhtar      |
+| 2-6 | Mr Leong Kok Wai        | Ms Jenny Shea Ka Yan     |
+| 2-7 | Ms Loh Yoke Ling        | Mdm Norzahidah Ma'az     |
+| 2-8 | Mr Bernard Wu Yongwei   | Mdm Nivashini Mohandasan |
+
