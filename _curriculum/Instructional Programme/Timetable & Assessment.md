@@ -8,7 +8,7 @@ third_nav_title: Instructional Programme
 
 [Semester 1 Class Timetable](https://sites.google.com/moe.edu.sg/skss-student-ict/2023-timetable)  
 
-[Secondary 4 & 5 June Holiday Programme](https://drive.google.com/file/d/1Kv5-v_9xHPzbHudTF-RtPcT22y0vxtzw/view)
+
 
 **<font size=5>Assessment Information</font>**
 
