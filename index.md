@@ -11,9 +11,9 @@ sections:
       url: /announcements
       background: /images/Website Banner Design 2.png
       key_highlights:
-        - title: Secondary 1 Online Registration Day
+        - title: GCE O Level Results Release
           description: ""
-          url: /useful-links/Parents/2023S1/
+          url: /announcements/
         - title: School uniform & textbook information
           description: ""
           url: /useful-links-1/parenting-resources/
