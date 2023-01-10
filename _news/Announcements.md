@@ -3,7 +3,7 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-**Release Of The 2022 Singapore-Cambridge GCE N(A)- & N(T)-Level Examination Results On 19 December 2022 (Monday)**
+**Release Of The 2022 Singapore-Cambridge GCE O Level Examination Results On 12 January 2023**
 
 Dear 4E/4NA/5NA students of 2022,
 
