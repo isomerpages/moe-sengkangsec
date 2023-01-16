@@ -4,6 +4,7 @@ permalink: /curriculum/National-Digital-Literacy-Prog/ICTHD/
 description: ""
 third_nav_title: National Digital Literacy Prog
 ---
-As part of our efforts to ensure minimum disruption to students’ learning, The ICT Department will provide technical support (including password reset) to students.
+As part of our efforts to ensure minimum disruption to students’ learning, The ICT Department will provide PLD technical support such as password reset for students. ICT Help Desk is located at Block D next to the canteen.
 
-![](/images/NDLP/sch%20based%20ict%20helpdesk.png)
+![](/images/NDLP/sch%20based%20ict%20helpdesk%202.png)
+![](/images/NDLP/SKSS%20On-Site%20ICT%20Helpdesk%20Poster.png)
