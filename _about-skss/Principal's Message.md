@@ -3,9 +3,8 @@ title: Principal's Message
 permalink: /about-skss/principals-message/
 description: ""
 ---
-
 **Let Your Dreams Set Sail!**
-<img src="/images/ABOUT%20SKSS/Principal.png" style="width:170px;height:300px;margin-left:15px;" align = "right">
+<img src="/images/ABOUT%20SKSS/N%20Sivarajan-Principal.jpeg" style="width:170px;height:210px;margin-left:15px;" align = "right">
 
 While the COVID-19 pandemic has disrupted lives, we have stayed resilient and found creative ways to keep up with meaningful work and play in school. Home-Based Learning, e-CCAs and Safe Management Measurements have become an increasingly normal feature of our lives. They have become so ingrained that our staff and students continue to nail their commitment in learning to the mast, and to steer a path forward courageously. 
 
@@ -25,5 +24,5 @@ Thank you. 
 
   
 
-**Mr Koh Yiak Kheng   
+**Mr N Sivarajan   
 Principal**
