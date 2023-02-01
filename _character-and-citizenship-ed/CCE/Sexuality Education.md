@@ -45,9 +45,21 @@ b.    Character and Citizenship Education (CCE)
 
 7.       Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-   **At SENG KANG Secondary School, the following Sexuality Education lessons will be taught in 2023:**
-	 
-       
+   **At SENG KANG Secondary School, the following Sexuality Education lessons will be taught in 2023:** Please click here to view the Lessons package.
 
-**2023 Sexuality Education Lessons in CCE 2021** **Secondary 1**	 
+**_eTeens_** **Programme**:
 
+8.       _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+9.       Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At SENG KANG Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
+
+
+10.      Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11.      Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here (please upload parents opt-out form found in Annex **A** and insert a hyperlink for parents to download the form). The completed form is to be submitted by 06/02/2023.
+
+12.      Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here (please upload parents opt-out form found in Annex **B** and insert a hyperlink for parents to download the form).  The completed form is to be submitted by 06/02/2023.
+
+13.      Parents can contact Mdm Wee Shen Sze, the programme co-ordinator in school at 63887258 for discussion or to seek clarification about the school’s Sexuality Education programme
