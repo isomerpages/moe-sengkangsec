@@ -55,11 +55,35 @@ b.    Character and Citizenship Education (CCE)
 
 **At SENG KANG Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
 
-
-| Topics/Lessons                    | Programme Learning Objectives                                                                                                                                                       | Time Period   |
-|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-| Mass Talk by HPB appointed vendor | • Awareness of the different STIs and HIV/AIDS<br>• Modes of transmission<br>• Modes of protection, specifically on how the condom is used<br>• Consequences and impact of STIs/HIV | Term 3 Week 3 |
-| Classroom-based Lesson            | • Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making                                                         | Term 3 Week 4 |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Topics/Lessons</th>
+    <th class="tg-0pky">Programme Learning Objectives</th>
+    <th class="tg-0pky">Time Period</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Mass Talk by HPB appointed vendor</td>
+    <td class="tg-0pky">• Awareness of the different STIs and HIV/AIDS<br>• Modes of transmission<br>• Modes of protection, specifically on how the condom is used<br>• Consequences and impact of STIs/HIV</td>
+    <td class="tg-0pky">Term 3 Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Classroom-based Lesson</td>
+    <td class="tg-0pky">• Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
+    <td class="tg-0pky">Term 3 Week 4</td>
+  </tr>
+</tbody>
+</table>
 
 10.      Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
