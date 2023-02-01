@@ -45,7 +45,7 @@ b.    Character and Citizenship Education (CCE)
 
 7.       Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-   **At SENG KANG Secondary School, the following Sexuality Education lessons will be taught in 2023:** Please click here to view the Lessons package.
+   **At SENG KANG Secondary School, the following Sexuality Education lessons will be taught in 2023:** Please click [here](/files/CCE/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%20.pdf) to view the Lessons package.
 
 **_eTeens_** **Programme**:
 
