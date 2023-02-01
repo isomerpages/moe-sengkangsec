@@ -65,4 +65,4 @@ b.    Character and Citizenship Education (CCE)
 
 12.      Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here [Annex B](/files/CCE/2023%20SEd%20E%20Annex%20B%20Teens%20Programme%20and%20Opt%20out%20form.pdf).  The completed form is to be submitted by 06/02/2023.
 
-13.      Parents can contact Mdm Wee Shen Sze, the programme co-ordinator in school at 63887258 for discussion or to seek clarification about the school’s Sexuality Education programme
+13.      Parents can contact Mdm Wee Shen Sze, the programme co-ordinator in school at 63887258 for discussion or to seek clarification about the school’s Sexuality Education programme.
