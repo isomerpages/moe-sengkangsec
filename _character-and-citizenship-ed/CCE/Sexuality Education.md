@@ -54,6 +54,8 @@ b.    Character and Citizenship Education (CCE)
 9.       Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
 **At SENG KANG Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
+
+
 | Topics/Lessons                    | Programme Learning Objectives                                                                                                                                                       | Time Period   |
 |-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
 | Mass Talk by HPB appointed vendor | • Awareness of the different STIs and HIV/AIDS<br>• Modes of transmission<br>• Modes of protection, specifically on how the condom is used<br>• Consequences and impact of STIs/HIV | Term 3 Week 3 |
