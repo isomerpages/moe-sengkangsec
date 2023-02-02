@@ -11,9 +11,9 @@ sections:
       url: /announcements
       background: /images/Website Banner Design 2.png
       key_highlights:
-        - title: GCE O Level Results Release
+        - title: CCA Schedule
           description: ""
-          url: /announcements/
+          url: /co-curriculum/co-curricular-activities-cca/
         - title: School uniform & textbook information
           description: ""
           url: /useful-links-1/parenting-resources/
