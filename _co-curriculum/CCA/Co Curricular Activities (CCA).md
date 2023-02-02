@@ -4,7 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-cca/
 description: ""
 third_nav_title: CCA
 ---
-
 [LEAPS 2.0 Information](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0) 
 
 [CCA Training Schedule](/files/CCA/2023%20CCA%20Schedule%20(Sem%201)%20020223.pdf)
