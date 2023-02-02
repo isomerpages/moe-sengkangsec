@@ -4,7 +4,6 @@ permalink: /curriculum/instructional-programme-ip/timetable-and-assessment/
 description: ""
 third_nav_title: Instructional Programme
 ---
-
 **<font size=5>Timetable & Schedule</font>**
 
 [Semester 1 Class Timetable](https://sites.google.com/moe.edu.sg/skss-student-ict/2023-timetable)  
@@ -25,4 +24,3 @@ third_nav_title: Instructional Programme
 [Secondary 3 Weighted Assessment](/files/WA%20&%20MA/Sec%203_Weighted%20Assesment_Sem%201_2023_VR2.pdf)
 
 [Secondary 4 & 5 Milestone Assessment](/files/WA%20&%20MA/Sec%204&5_Milestone%20Assesment_Sem%201_2023_VR2.pdf)
-</tr></tbody></table>
