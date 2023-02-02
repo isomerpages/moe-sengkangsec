@@ -11,10 +11,10 @@ sections:
       url: /announcements
       background: /images/Website Banner Design 2.png
       key_highlights:
-        - title: GCE O Level Results Release
+        - title: CCA Schedule
           description: ""
-          url: /announcements/
-        - title: School uniform & textbook information
+          url: /files/CCA/2023%20CCA%20Schedule%20(Sem%201)%20020223.pdf
+        - title: Weighted assessment & milestone assessment Information
           description: ""
-          url: /useful-links-1/parenting-resources/
+          url: /curriculum/instructional-programme-ip/timetable-and-assessment/
 ---
