@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: CCA Schedule
           description: ""
-          url: /files/CCA/2023%20CCA%20Schedule%20(Sem%201)%20020223.pdf
+          url: /co-curriculum/co-curricular-activities-cca/
         - title: Weighted assessment & milestone assessment Information
           description: ""
           url: /curriculum/instructional-programme-ip/timetable-and-assessment/
