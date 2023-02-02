@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: CCA Schedule
           description: ""
-          url: /co-curriculum/co-curricular-activities-cca/
+          url: /files/CCA/2023%20CCA%20Schedule%20(Sem%201)%20020223.pdf
         - title: Semester 1 WA & MA Information
           description: ""
           url: /useful-links-1/parenting-resources/
