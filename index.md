@@ -14,7 +14,7 @@ sections:
         - title: CCA Schedule
           description: ""
           url: /co-curriculum/co-curricular-activities-cca/
-        - title: School uniform & textbook information
+        - title: Semester 1 WA & MA Information
           description: ""
           url: /useful-links-1/parenting-resources/
 ---
