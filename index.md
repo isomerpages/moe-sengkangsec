@@ -16,5 +16,5 @@ sections:
           url: /files/CCA/2023%20CCA%20Schedule%20(Sem%201)%20020223.pdf
         - title: Weighted assessment & milestone assessment Information
           description: ""
-          url: /useful-links-1/parenting-resources/
+          url: /curriculum/instructional-programme-ip/timetable-and-assessment/
 ---
