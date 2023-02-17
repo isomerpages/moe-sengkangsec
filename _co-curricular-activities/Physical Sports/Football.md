@@ -11,7 +11,7 @@ School Values
 
 *   Respect
 *   Responsibility 
-*   Resilience <br>
+*   Resilience 
 
 Values in Sports  
 
