@@ -4,8 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-cca/physical-sports/football/
 description: ""
 third_nav_title: Physical Sports
 ---
-
-
 **<font size=5>CCA Beliefs</font>**<br>
 We believe that character education forms the basis of a good education. We embrace and inculcate important values in our footballers such as:
 
@@ -53,7 +51,47 @@ We are deeply appreciative of the continued strong and loyal supporters of both 
 **<font size=5>CCA Training Sessions</font>**<br>
 Mondays 3.30pm to 6.30pm<br>
 Wednesdays 3.30pm to 6.30pm<br>
-Fridays 3.00pm to 6.00pm
+Fridays 2.30pm to 5.30pm
 
 **<font size=5>Teachers in charge</font>**<br>
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">Name/Designation</span></th><th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">Email Address</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mr Bernard Wu (OIC)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">wu_yongwei_bernard@moe.edu.sg</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mr Laffyette Mitchel Didi (2IC)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">laffyette_mitchel_didi@moe.edu.sg</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mr Joshua Lim (2IC)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">lim_zhao_chern_joshua@moe.edu.sg</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mr David Kelvin Vaithilingam (ST)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">david_kelvin_vaithilingam@moe.edu.sg</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mr Tan Jia Jie, Alvin </td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">TAN_JIA_JIE@moe.edu.sg</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Name</th>
+    <th class="tg-0pky">Email Address</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><span style="color:#333;background-color:#FFF">MR LIM ZHAO CHERN JOSHUA(OIC)</span></td>
+    <td class="tg-0pky"><span style="color:#333;background-color:#FFF">lim_zhao_chern_joshua@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:#333;background-color:#FFF">MR DAVID KELVIN VAITHILINGAM</span></td>
+    <td class="tg-0pky"><span style="color:#333;background-color:#FFF">david_kelvin_vaithilingam@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:#333;background-color:#FFF">MR DANIAL IYLIA ROSLIN</span></td>
+    <td class="tg-0pky"><span style="color:#333;background-color:#FFF">danial_iylia_roslin@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="background-color:#FFF">MR LAFFYETTE MITCHEL DIDI</span></td>
+    <td class="tg-0pky"><span style="color:#333;background-color:#FFF">laffyette_mitchel_didi@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">MR TAN BING DUN</td>
+    <td class="tg-0pky"><span style="color:#333;background-color:#FFF">tan_bing_dun@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">MR WU YONGWEI BERNARD</td><td class="tg-0pky"><span style="color:#333;background-color:#FFF">wu_yongwei_bernard@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
