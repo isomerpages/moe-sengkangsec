@@ -12,7 +12,7 @@ sections:
       background: /images/Website Banner Design 2.png
       key_highlights:
         - title: CCA Schedule
-          description: ""
+          description: Changes to Sem 1 Schedule
           url: /co-curriculum/co-curricular-activities-cca/
         - title: Weighted assessment & milestone assessment Information
           description: ""
