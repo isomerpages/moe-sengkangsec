@@ -91,8 +91,7 @@ Fridays 2.30pm to 5.30pm
     <td class="tg-0pky"><span style="color:#333;background-color:#FFF">tan_bing_dun@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky">MR WU YONGWEI BERNARD</td>
-    <td class="tg-0pky">wu_yongwei_bernard@moe.edu.sg</td>
+    <td class="tg-0pky">MR WU YONGWEI BERNARD</td><td class="tg-0pky"><span style="color:#333;background-color:#FFF">wu_yongwei_bernard@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
