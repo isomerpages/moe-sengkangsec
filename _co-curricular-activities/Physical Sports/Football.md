@@ -11,7 +11,7 @@ School Values
 
 *   Respect
 *   Responsibility 
-*   Resilience <br>
+*   Resilience 
 
 Values in Sports  
 
@@ -54,44 +54,12 @@ Wednesdays 3.30pm to 6.30pm<br>
 Fridays 2.30pm to 5.30pm
 
 **<font size=5>Teachers in charge</font>**<br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky">Name</th>
-    <th class="tg-0pky">Email Address</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky"><span style="color:#333;background-color:#FFF">MR LIM ZHAO CHERN JOSHUA(OIC)</span></td>
-    <td class="tg-0pky"><span style="color:#333;background-color:#FFF">lim_zhao_chern_joshua@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><span style="color:#333;background-color:#FFF">MR DAVID KELVIN VAITHILINGAM</span></td>
-    <td class="tg-0pky"><span style="color:#333;background-color:#FFF">david_kelvin_vaithilingam@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><span style="color:#333;background-color:#FFF">MR DANIAL IYLIA ROSLIN</span></td>
-    <td class="tg-0pky"><span style="color:#333;background-color:#FFF">danial_iylia_roslin@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><span style="background-color:#FFF">MR LAFFYETTE MITCHEL DIDI</span></td>
-    <td class="tg-0pky"><span style="color:#333;background-color:#FFF">laffyette_mitchel_didi@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">MR TAN BING DUN</td>
-    <td class="tg-0pky"><span style="color:#333;background-color:#FFF">tan_bing_dun@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">MR WU YONGWEI BERNARD</td><td class="tg-0pky"><span style="color:#333;background-color:#FFF">wu_yongwei_bernard@moe.edu.sg</td>
-  </tr>
-</tbody>
-</table>
+
+| Name                          | Email Address                        |
+|-------------------------------|--------------------------------------|
+| MR LIM ZHAO CHERN JOSHUA(OIC) | lim_zhao_chern_joshua@moe.edu.sg     |
+| MR DAVID KELVIN VAITHILINGAM  | david_kelvin_vaithilingam@moe.edu.sg |
+| MR DANIAL IYLIA ROSLIN        | danial_iylia_roslin@moe.edu.sg       |
+| MR LAFFYETTE MITCHEL DIDI     | laffyette_mitchel_didi@moe.edu.sg    |
+| MR TAN BING DUN               | tan_bing_dun@moe.edu.sg              |
+| MR WU YONGWEI BERNARD         | wu_yongwei_bernard@moe.edu.sg        |
