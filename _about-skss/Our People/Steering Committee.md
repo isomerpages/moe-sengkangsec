@@ -22,7 +22,7 @@ third_nav_title: Our People
 | Mr Nur Saspurie              | HOD English                    |
 | Mr Lim Song Heng Melvin      | HOD Mathematics                |
 | Mr Lim Swee Beng             | HOD Mother Tongue Language     |
-| Dr Mohamed Ibrahim Aris      | HOD PE and CCA                 |
+| Dr Mohamed Ibrahim Bin Aris      | HOD PE and CCA                 |
 | Mr Hisham Bin Zainal         | HOD Science                    |
 | Ms Chia Eunice               | SH Student Leadership          |
 | Mr Alex Mah                  | SH Student Wellbeing           |
