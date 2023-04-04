@@ -28,5 +28,4 @@ third_nav_title: Instructional Programme
 
 [Secondary 3 Weighted Assessment](/files/WA%20&amp;%20MA/sec%203_weighted%20assesment_sem%201_2023_(revised%2029%20mar).pdf)
 
-[Sec 4 &amp; 5 Milestone Assessment](/files/WA%20&amp;%20MA/sec%204&amp;5_milestone%20assesment_sem%201_2023_(revised%2029%20mar).pdf)
-
+[Secondary 4 &amp; 5 Milestone Assessment](/files/WA%20&amp;%20MA/sec%204&amp;5_milestone%20assesment_sem%201_2023_(revised%2029%20mar).pdf)
