@@ -4,7 +4,7 @@ permalink: /co-curriculum/co-curricular-activities-cca/direct-school-admission-d
 description: ""
 third_nav_title: CCA
 ---
-**<font size="5">2022 Direct School Admission (For 2024 Secondary 1 intake)</font>**<br>
+**<font size="5">2022 Direct School Admission (For 2023 Secondary 1 intake)</font>**<br>
 
 **Building Character through Sports &amp; Outdoor Adventure**<br>
 Seng Kang Secondary School (SKSS) was awarded Niche Status to develop hockey as a niche sport in the school in May 2009. This award has been a culmination of many years of sustained achievement by the school’s various hockey teams in the national competitions. In 2014, our Niche status was converted into the Learning for Life Programme (LLP) - Building Character through Sports and Outdoor Adventure.
