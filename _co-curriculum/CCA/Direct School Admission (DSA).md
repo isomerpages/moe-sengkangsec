@@ -4,10 +4,9 @@ permalink: /co-curriculum/co-curricular-activities-cca/direct-school-admission-d
 description: ""
 third_nav_title: CCA
 ---
+**<font size="5">2022 Direct School Admission (For 2024 Secondary 1 intake)</font>**<br>
 
-**<font size=5>2022 Direct School Admission (For 2023 Secondary 1 intake)</font>**<br>
-
-**Building Character through Sports & Outdoor Adventure**<br>
+**Building Character through Sports &amp; Outdoor Adventure**<br>
 Seng Kang Secondary School (SKSS) was awarded Niche Status to develop hockey as a niche sport in the school in May 2009. This award has been a culmination of many years of sustained achievement by the school’s various hockey teams in the national competitions. In 2014, our Niche status was converted into the Learning for Life Programme (LLP) - Building Character through Sports and Outdoor Adventure.
 
 The school is looking for students with a strong passion for Sports and Outdoor Adventure. Students who have represented schools or clubs in competitions are strongly encouraged to apply.
@@ -15,37 +14,37 @@ The school is looking for students with a strong passion for Sports and Outdoor 
 **DSA (Secondary) Talents Invited to Apply**<br>
 School team players or its equivalent in Primary School for any of the following sports:
 
-*   Badminton (Boys & Girls)
-*   Basketball players (Boys & Girls)
-*   Hockey (Boys & Girls)
+*   Badminton (Boys &amp; Girls)
+*   Basketball players (Boys &amp; Girls)
+*   Hockey (Boys &amp; Girls)
 *   Football (Boys)
 *   Netball (Girls)
 
-**LLP (Sports & Outdoor Adventure) Programmes**        
+**LLP (Sports &amp; Outdoor Adventure) Programmes**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
 
 *   Sports Leaders Programme
 *   Sports Science Programme
-*   O Level Exercise & Sports Science
-*   Sports Science & Outdoor Adventure Resilience (SOAR) Programme
+*   O Level Exercise &amp; Sports Science
+*   Sports Science &amp; Outdoor Adventure Resilience (SOAR) Programme
 *   Outdoor Adventure Learning Programme
 *   Sports Fiesta / Sports Carnival
 
-Go to LLP (Sports & Outdoor Adventure) for more details. [https://moe-sengkangsec-staging.netlify.app/curriculum/learning-for-life-programme-llp](https://moe-sengkangsec-staging.netlify.app/curriculum/learning-for-life-programme-llp)
+Go to LLP (Sports &amp; Outdoor Adventure) for more details.&nbsp;[https://moe-sengkangsec-staging.netlify.app/curriculum/learning-for-life-programme-llp](https://moe-sengkangsec-staging.netlify.app/curriculum/learning-for-life-programme-llp)
 
-The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
   
 
 **Application (5 May 2022, 11am to 1 June 2022, 3pm)**<br>
 Application open for all Primary Six Students, Returning Singaporeans, Permanent Residents and Foreign Students.
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11am to 1 June 2022, 3pm. For more details, please refer to MOE website –&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
-Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they selected for from year 1-4. 
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they selected for from year 1-4.&nbsp;
 
   
-**Selection Criteria** <br>
+**Selection Criteria**&nbsp;<br>
 Good track record of performance in relevant Sports CCA or relevant external competition\*.
 
   
@@ -62,7 +61,7 @@ Attributes (Based on submitted documentation, Coaches/Teacher's recommendation, 
 
   
 
-Physical skills (Technique, agility, speed), Sports Specific Skills & Game Play, Tactical awareness in game situations.
+Physical skills (Technique, agility, speed), Sports Specific Skills &amp; Game Play, Tactical awareness in game situations.
 
   
 
@@ -73,24 +72,24 @@ All shortlisted applicants will be informed of their trial dates and interview d
 
   
 
-Part 1: Track records, relevant experiences, teachers and coaches' recommendation Evidence of active participation and achievements in relevant sports through CCA records, certificate of participation, certificate of achievement or its equivalent. Video evidence (Optional) will also be considered if available. 
+Part 1: Track records, relevant experiences, teachers and coaches' recommendation Evidence of active participation and achievements in relevant sports through CCA records, certificate of participation, certificate of achievement or its equivalent. Video evidence (Optional) will also be considered if available.&nbsp;
 
   
 
-Part 2: Sports Trials (Online Video Submission / F2F) for shortlisted candidates 
+Part 2: Sports Trials (Online Video Submission / F2F) for shortlisted candidates&nbsp;
 
-Part 3: Interview for shortlisted candidates based on outcome of Sports Trials. 
-
-  
-
-Details of the Sports trials and interview will be released at a later date. All shortlisted students are required to attend an interview. **Only shortlisted students who applied via the MOE DSA (Sec) Portal will be considered**. For more details, please go to www.moe.gov.sg/dsa-sec . 
-
-
-Register at [https://go.gov.sg/skssdsasports-indicationofinterest](https://go.gov.sg/skssdsasports-indicationofinterest) to receive updates and indicate your interest in the SKSS Sports DSA Online Seminar on **20 May, Friday, 6pm - 7pm**.
+Part 3: Interview for shortlisted candidates based on outcome of Sports Trials.&nbsp;
 
   
 
-Note: Both Child/Ward and Parents/Guardian are invited.  
+Details of the Sports trials and interview will be released at a later date. All shortlisted students are required to attend an interview.&nbsp;**Only shortlisted students who applied via the MOE DSA (Sec) Portal will be considered**. For more details, please go to www.moe.gov.sg/dsa-sec .&nbsp;
+
+
+Register at&nbsp;[https://go.gov.sg/skssdsasports-indicationofinterest](https://go.gov.sg/skssdsasports-indicationofinterest)&nbsp;to receive updates and indicate your interest in the SKSS Sports DSA Online Seminar on&nbsp;**20 May, Friday, 6pm - 7pm**.
+
+  
+
+Note: Both Child/Ward and Parents/Guardian are invited.&nbsp;&nbsp;
 
   
 
@@ -100,11 +99,11 @@ Shortlisted candidates will be notified by 15 Sept 2022 if they have been given 
   
 
 **School Preference Submission (31 Oct – 4 Nov)**<br>
-Students who receive at least one DSA-Sec offer (including from SOTA) will receive email and SMS notification via Postman.gov.sg on the School Preference Submission at the end of Oct 2022. **Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to three school preferences.** 
+Students who receive at least one DSA-Sec offer (including from SOTA) will receive email and SMS notification via Postman.gov.sg on the School Preference Submission at the end of Oct 2022.&nbsp;**Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to three school preferences.**&nbsp;
 
   
 
-If parents are unable to submit online, they can approach their child’s primary school for assistance to submit the school preferences on their behalf. 
+If parents are unable to submit online, they can approach their child’s primary school for assistance to submit the school preferences on their behalf.&nbsp;
 
   
 
@@ -113,10 +112,10 @@ DSA Sec offers not taken up will be considered as lapsed at the end of the Schoo
   
 
 **Contact Persons for more enquiries:**<br>
-Mr Louis Ho (Head of Department PE/CCA) at [ho\_j\_yen\_louis@moe.edu.sg](mailto:ho_j_yen_louis@moe.edu.sg)  <br>
-Ms Sandra Loke (School Admin Staff) at [Loke\_Low\_ying@moe.edu.sg](mailto:Loke_Low_ying@moe.edu.sg)
+Mr Louis Ho (Head of Department PE/CCA) at&nbsp;[ho\_j\_yen\_louis@moe.edu.sg](mailto:ho_j_yen_louis@moe.edu.sg)  <br>
+Ms Sandra Loke (School Admin Staff) at&nbsp;[Loke\_Low\_ying@moe.edu.sg](mailto:Loke_Low_ying@moe.edu.sg)
 
-School Email Address: [skss@moe.edu.sg](mailto:skss@moe.edu.sg), Office Tel: 63887258
+School Email Address:&nbsp;[skss@moe.edu.sg](mailto:skss@moe.edu.sg), Office Tel: 63887258
 
   
 
@@ -124,31 +123,31 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
   
 
-Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they selected for from year 1-4. 
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they selected for from year 1-4.&nbsp;
 
   
 
-Do register at [https://go.gov.sg/skssdsasports-indicationofinterest](https://go.gov.sg/skssdsasports-indicationofinterest) to receive updates on Sports DSA at SKSS. 
+Do register at&nbsp;[https://go.gov.sg/skssdsasports-indicationofinterest](https://go.gov.sg/skssdsasports-indicationofinterest)&nbsp;to receive updates on Sports DSA at SKSS.&nbsp;
 
   
 
-[Click here for FAQ on DSA at SKSS](/files/CCA/Frequently%20Asked%20Question%20DSA.pdf). 
+[Click here for FAQ on DSA at SKSS](/files/CCA/Frequently%20Asked%20Question%20DSA.pdf).&nbsp;
 
   
 
-We hope to hear from you soon. 
+We hope to hear from you soon.&nbsp;
 
   
 
 **Useful Weblinks**
 
 
-SKSS LLP - Building Character through Sports & Outdoor Adventure<br>
+SKSS LLP - Building Character through Sports &amp; Outdoor Adventure<br>
 [https://moe-sengkangsec-staging.netlify.app/curriculum/learning-for-life-programme-llp](https://moe-sengkangsec-staging.netlify.app/curriculum/learning-for-life-programme-llp)
 
   
 
-SKSS Sports & Outdoor Adventure Webpage<br>
+SKSS Sports &amp; Outdoor Adventure Webpage<br>
 [https://sites.google.com/skss.edu.sg/sksspesports/home](https://sites.google.com/skss.edu.sg/sksspesports/home)
 
   
