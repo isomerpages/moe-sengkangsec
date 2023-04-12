@@ -3,7 +3,6 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-
 ----
 
 [**CCA Training Schedule**](https://moe-sengkangsec-staging.netlify.app/co-curriculum/co-curricular-activities-cca)
