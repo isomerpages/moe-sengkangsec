@@ -4,7 +4,7 @@ permalink: /co-curriculum/co-curricular-activities-cca/direct-school-admission-d
 description: ""
 third_nav_title: CCA
 ---
-**<font size="5">2022 Direct School Admission (For 2023 Secondary 1 intake)</font>**<br>
+**<font size="5">2023 Direct School Admission (For 2024 Secondary 1 intake)</font>**<br>
 
 **Building Character through Sports &amp; Outdoor Adventure**<br>
 Seng Kang Secondary School (SKSS) was awarded Niche Status to develop hockey as a niche sport in the school in May 2009. This award has been a culmination of many years of sustained achievement by the school’s various hockey teams in the national competitions. In 2014, our Niche status was converted into the Learning for Life Programme (LLP) - Building Character through Sports and Outdoor Adventure.
@@ -99,7 +99,7 @@ Shortlisted candidates will be notified by 15 Sept 2022 if they have been given 
   
 
 **School Preference Submission (31 Oct – 4 Nov)**<br>
-Students who receive at least one DSA-Sec offer (including from SOTA) will receive email and SMS notification via Postman.gov.sg on the School Preference Submission at the end of Oct 2022.&nbsp;**Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to three school preferences.**&nbsp;
+Students who receive at least one DSA-Sec offer (including from SOTA) will receive email and SMS notification via Postman.gov.sg on the School Preference Submission at the end of Oct 2023.&nbsp;**Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to three school preferences.**&nbsp;
 
   
 
@@ -112,7 +112,7 @@ DSA Sec offers not taken up will be considered as lapsed at the end of the Schoo
   
 
 **Contact Persons for more enquiries:**<br>
-Mr Louis Ho (Head of Department PE/CCA) at&nbsp;[ho\_j\_yen\_louis@moe.edu.sg](mailto:ho_j_yen_louis@moe.edu.sg)  <br>
+Dr Mohamed Ibrahim Aris (Head of Department PE/CCA) at&nbsp;[mohamed\_ibrahim\_aris@moe.edu.sg](mailto:mohamed_ibrahim_aris@moe.edu.sg)  <br>
 Ms Sandra Loke (School Admin Staff) at&nbsp;[Loke\_Low\_ying@moe.edu.sg](mailto:Loke_Low_ying@moe.edu.sg)
 
 School Email Address:&nbsp;[skss@moe.edu.sg](mailto:skss@moe.edu.sg), Office Tel: 63887258
