@@ -29,7 +29,8 @@ School team players or its equivalent in Primary School for any of the following
 *   Outdoor Adventure Learning Programme
 *   Sports Fiesta / Sports Carnival
 
-Go to LLP (Sports &amp; Outdoor Adventure) for more details.&nbsp;[https://moe-sengkangsec-staging.netlify.app/curriculum/learning-for-life-programme-llp](https://moe-sengkangsec-staging.netlify.app/curriculum/learning-for-life-programme-llp)
+Go to LLP (Sports &amp; Outdoor Adventure) for more details at [https://www.sengkangsec.moe.edu.sg/curriculum/learning-for-life-programme-llp/](https://www.sengkangsec.moe.edu.sg/curriculum/learning-for-life-programme-llp/)
+
 
 The selection criteria and process for the talent areas will be updated from **early-May**. For more information on DSA-Sec, please refer to the MOE website at&nbsp;[https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 
