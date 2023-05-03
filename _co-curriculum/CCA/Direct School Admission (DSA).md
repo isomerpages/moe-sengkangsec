@@ -4,8 +4,6 @@ permalink: /co-curriculum/co-curricular-activities-cca/direct-school-admission-d
 description: ""
 third_nav_title: CCA
 ---
-         
-
 **2023 Direct School Admission (For 2024 Secondary 1 intake)**
 
 **Building Character through Sports & Outdoor Adventure**  
