@@ -59,7 +59,7 @@ Students who are successfully admitted to the school via DSA are expected to hon
 Good track record of performance in relevant Sports CCA or relevant external competition\\\*.
 
 Applicants should:
-- have represented in zonal or national competitions
+- have represented in zonal or national competitions.
 - be a member of Junior Sports Academy (JSA) or school team. 
 
 Primary 6 students who do not have relevant experience in school CCA or did not participate in any sporting competitions but demonstrate talent in sports or a keen interest in relevant sports will also be considered. Example: Active participation in relevant organised activities outside school such as Active SG Sports Academy, Junior Sports Academy etc.
