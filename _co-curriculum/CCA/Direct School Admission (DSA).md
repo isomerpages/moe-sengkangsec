@@ -34,7 +34,7 @@ Go to LLP (Sports &amp; Outdoor Adventure) for more details at [https://www.seng
 
 **Application (4 May 2023, 11am to 31 May 2023, 3pm)**
 
-Application open for all Primary Six Students, Returning Singaporeans, Permanent Residents and Foreign Students.
+Application opens for all Primary Six Students, Returning Singaporeans, Permanent Residents and Foreign Students.
 
 All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal. Schools are to note the following regarding application through the centralised DSA-Sec Portal:
 
