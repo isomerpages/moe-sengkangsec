@@ -30,6 +30,7 @@ School team players or its equivalent in Primary School for any of the following
 *   Sports Fiesta / Sports Carnival
 
 Go to LLP (Sports & Outdoor Adventure) for more details at [https://www.sengkangsec.moe.edu.sg/curriculum/learning-for-life-programme-llp/](https://www.sengkangsec.moe.edu.sg/curriculum/learning-for-life-programme-llp/)
+
 ___
 
 **1.**      **Application (4 May 2023, 11am to 31 May 2023, 3pm)**
@@ -94,29 +95,96 @@ Part 3: Interview for shortlisted candidates based on outcome of Sports Trials.�
 
 Details of the Sports trials and interview will be released at a later date. All shortlisted students are required to attend an interview. Only shortlisted students who applied via the MOE DSA (Sec) Portal will be considered. For more details, please go to www.moe.gov.sg/dsa-sec . 
 
-**4.**      **Update Selection Outcome**
+**4.**      Only short-listed applicants are required to attend an interview by the Selection Panel from **10 July to 26 August 2023.**
 
-Shortlisted candidates will be notified by 11 Sept 2023 if they have been given a Confirmed Offer, put on the Waiting List or if the school is unable to offer them a place.
+**5.**      All applicants will be informed of the outcome of their application by **11 September 2023** via email or post. Successful applicants’ primary schools will follow-up on other actions of the DSA exercise. Results of posting will be released on the day of the release of the PSLE results.
 
-**5.**      **School Preference Submission (23 Oct – 27 Oct 2023)**
+**6.**      **The application timeline for 2023 is summarised as follows:**
 
-Students who receive at least one DSA-Sec offer (including from SOTA) will receive email and SMS notification via Postman.gov.sg on the School Preference Submission at the end of Oct 2023. **Both parents are required to login to the DSA-Sec Portal using their SingPass to submit up to three school preferences.**
+| 
+**Date**
 
-If parent(s) are unable to submit online, they can approach their child’s primary school for assistance to submit the school preferences on their behalf.
+ | 
 
-DSA Sec offers not taken up will be considered as lapsed at the end of the School Preference Submission period.
+**Event**
 
-Some students may receive concurrent offers from DSA-Sec schools and SSP. Students who wish to accept the SSP offer should not submit their DSA-Sec school preferences. If they do so, their earlier SSP offer will be voided. Students who wish to accept the SSP offer should also continue to take part in the S1 Posting.
+ |
+| --- | --- |
+| 
 
-**6.**      **Allocation Results Release (Late-Nov 2023)**
+4 May 2023, 11:00 am
 
-Students studying in MOE mainstream schools will receive their DSA-Sec results together with their PSLE results by end-Nov 2023.
+ | 
 
-**Successful DSA-Sec Students.** Those who took PSLE but were successful in the DSA-Sec are **_NOT_** allowed to participate in the S1 Posting as they are expected to honour the commitment made to the DSA-Sec school. However, if they are eligible for third language and/or Posting Group options7, they may enter these options during the School Choice Submission period in the S1 Posting. Students are also **_NOT_** allowed to transfer to another school after the release of the PSLE results.
+Application for DSA opens – **to be done online via the centralized DSA-Sec portal**
 
-**Unsuccessful DSA-Sec Students**. They will be notified of the allocation outcome and to participate in the S1 Posting to submit school choices.
+ |
+| 
 
-___
+31 May 2023, 3:00 pm
+
+ | 
+
+Closing date for application
+
+ |
+| 
+
+7 July 2023
+
+ | 
+
+Notification of short-listed candidates
+
+ |
+| 
+
+10 July to 26 August 2023
+
+ | 
+
+• School-based interview for short-listed applicants  
+• Administration of Trials and Performance Task
+
+ |
+| 
+
+**Stage 1: Selection Stage**  
+  
+By 11 September 2023
+
+ | 
+
+All applicants will receive a reply from the school on the outcome of their application informing them if:  
+(a) They have been given a Confirmed Offer (CO)  
+(b) They are placed on the Waiting List (WL)  
+(c) The school is unable to offer them a place
+
+ |
+| 
+
+**Stage 2: School Preference Submission**  
+  
+23 – 27 October 2023
+
+ | 
+
+School Preference Form to be submitted physically at respective primary schools or online via the DSA-Sec Portal.
+
+ |
+| 
+
+**Stage 3: Results Release Stage**  
+  
+Late November 2023
+
+ | 
+
+Release
+
+ |
+
+**\-------------------------------------------------------------------------------------------------------------------**
 
 **Contact Persons for more enquiries:** 
 
@@ -143,4 +211,4 @@ DSA-Sec Main Webpage
 DSA-Sec School Finder  
 [https://go.gov.sg/dsa-secschfinder](https://go.gov.sg/dsa-secschfinder)
 
-___
+\---------------------------------------------------------------------------------------------------------------------------------------
