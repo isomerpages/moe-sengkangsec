@@ -62,7 +62,7 @@ Applicants should:
 - have represented in zonal or national competitions
 - be a member of Junior Sports Academy (JSA) or school team. 
 
-\\\*Primary 6 students who do not have relevant experience in school CCA or did not participate in any sporting competitions but demonstrate talent in sports or a keen interest in relevant sports will also be considered. Example: Active participation in relevant organised activities outside school such as Active SG Sports Academy, Junior Sports Academy etc.
+Primary 6 students who do not have relevant experience in school CCA or did not participate in any sporting competitions but demonstrate talent in sports or a keen interest in relevant sports will also be considered. Example: Active participation in relevant organised activities outside school such as Active SG Sports Academy, Junior Sports Academy etc.
 
 **Attributes:** (Based on submitted documentation, Coaches/Teacher's recommendation, trials and Interview). Character traits. Positive Learning attitude. Ability to work in a team.
 
@@ -74,7 +74,7 @@ Shortlisted applicants will be required to undergo e-mode interviews and perform
 
 *Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer*.
 
-\*\*Selection Process (26 June onwards)\*\*<br>
+**Selection Process (26 June onwards)**
 
 All shortlisted applicants will be informed of their trial dates and interview during this period. Selection will be made based on the following:
 
@@ -86,7 +86,7 @@ Part 3: Interview for shortlisted candidates based on outcome of Sports Trials.&
 
 Details of the Sports trials and interview will be released at a later date. All shortlisted students are required to attend an interview.&nbsp;\*\*Only shortlisted students who applied via the MOE DSA (Sec) Portal will be considered\*\*. For more details, please go to www.moe.gov.sg/dsa-sec .&nbsp;
 
-\*\*Update Selection Outcome\*\*<br>
+**Update Selection Outcome**
 
 Shortlisted candidates will be notified by 11 Sept 2023 if they have been given a Confirmed Offer, put on the Waiting List or if the school is unable to offer them a place.
 
@@ -100,7 +100,7 @@ DSA Sec offers not taken up will be considered as lapsed at the end of the Schoo
 
 Some students may receive concurrent offers from DSA-Sec schools and SSP. Students who wish to accept the SSP offer should not submit their DSA-Sec school preferences. If they do so, their earlier SSP offer will be voided. Students who wish to accept the SSP offer should also continue to take part in the S1 Posting.
 
-**Allocation Results Release (Late-Nov 2023) **
+**Allocation Results Release (Late-Nov 2023)** 
 
 Students studying in MOE mainstream schools will receive their DSA-Sec results together with their PSLE results by end-Nov 2023. Students who are not studying in MOE mainstream schools will receive their DSA-Sec results from PPSB via email. Secondary schools will be able to download the list of successful DSA-Sec students allocated to them using the Placement System for Secondary Schools (PSSS). 
 
@@ -109,7 +109,7 @@ Students studying in MOE mainstream schools will receive their DSA-Sec results t
 **Unsuccessful DSA-Sec Students**. They will be notified of the allocation outcome and to participate in the S1 Posting to submit school choices. Schools should NOT give a false impression that they will be able to transfer to the school on a discretionary basis after the S1 Posting, nor encourage them to appeal for a school transfer after S1 Posting.
   
 **Contact Persons for more enquiries:**
-Dr Mohamed Ibrahim Aris (Head of Department PE/CCA) at&nbsp;[mohamed\_ibrahim\_aris@moe.edu.sg](mailto:mohamed_ibrahim_aris@moe.edu.sg)  
+Dr Mohamed Ibrahim Aris (HOD PE/CCA) at [mohamed\_ibrahim\_aris@moe.edu.sg](mailto:mohamed_ibrahim_aris@moe.edu.sg)  
 Ms Sandra Loke (School Admin Staff) 
 [Loke\_Low\_ying@moe.edu.sg](mailto:Loke_Low_ying@moe.edu.sg)
 
