@@ -101,88 +101,8 @@ Details of the Sports trials and interview will be released at a later date. All
 
 **6.**      **The application timeline for 2023 is summarised as follows:**
 
-| 
-**Date**
 
- | 
 
-**Event**
-
- |
-| --- | --- |
-| 
-
-4 May 2023, 11:00 am
-
- | 
-
-Application for DSA opens – **to be done online via the centralized DSA-Sec portal**
-
- |
-| 
-
-31 May 2023, 3:00 pm
-
- | 
-
-Closing date for application
-
- |
-| 
-
-7 July 2023
-
- | 
-
-Notification of short-listed candidates
-
- |
-| 
-
-10 July to 26 August 2023
-
- | 
-
-• School-based interview for short-listed applicants  
-• Administration of Trials and Performance Task
-
- |
-| 
-
-**Stage 1: Selection Stage**  
-  
-By 11 September 2023
-
- | 
-
-All applicants will receive a reply from the school on the outcome of their application informing them if:  
-(a) They have been given a Confirmed Offer (CO)  
-(b) They are placed on the Waiting List (WL)  
-(c) The school is unable to offer them a place
-
- |
-| 
-
-**Stage 2: School Preference Submission**  
-  
-23 – 27 October 2023
-
- | 
-
-School Preference Form to be submitted physically at respective primary schools or online via the DSA-Sec Portal.
-
- |
-| 
-
-**Stage 3: Results Release Stage**  
-  
-Late November 2023
-
- | 
-
-Release
-
- |
 ___
 
 **Contact Persons for more enquiries:** 
@@ -209,4 +129,3 @@ DSA-Sec Main Webpage
 
 DSA-Sec School Finder  
 [https://go.gov.sg/dsa-secschfinder](https://go.gov.sg/dsa-secschfinder)
-
