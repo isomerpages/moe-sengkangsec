@@ -72,7 +72,7 @@ Primary 6 students who do not have relevant experience in school CCA or did not 
 
 Shortlisted applicants will be required to undergo e-mode interviews and performance tasks.
 
-*Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer*.
+*(Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer)*.
 
 **Selection Process (26 June onwards)**
 
