@@ -32,7 +32,7 @@ School team players or its equivalent in Primary School for any of the following
 Go to LLP (Sports &amp; Outdoor Adventure) for more details at [https://www.sengkangsec.moe.edu.sg/curriculum/learning-for-life-programme-llp/](https://www.sengkangsec.moe.edu.sg/curriculum/learning-for-life-programme-llp/)
        
 
-**Application (4 May 2023, 11am to 31 May 2023, 3pm)**
+**1. Application (4 May 2023, 11am to 31 May 2023, 3pm)**
 
 Application opens for all Primary Six Students, Returning Singaporeans, Permanent Residents and Foreign Students.
 
@@ -54,9 +54,9 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they selected for from year 1-4.&nbsp;
 
-**Selection Criteria**
+**2. Selection Criteria**
 
-Good track record of performance in relevant Sports CCA or relevant external competition\\\*.
+Good track record of performance in relevant Sports CCA or relevant external competition.
 
 Applicants should:
 - have represented in zonal or national competitions.
