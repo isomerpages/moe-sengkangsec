@@ -84,7 +84,7 @@ Part 2: Sports Trials (Online Video Submission / F2F) for shortlisted candidates
 
 Part 3: Interview for shortlisted candidates based on outcome of Sports Trials.&nbsp;
 
-Details of the Sports trials and interview will be released at a later date. All shortlisted students are required to attend an interview.&nbsp;\*\*Only shortlisted students who applied via the MOE DSA (Sec) Portal will be considered\*\*. For more details, please go to www.moe.gov.sg/dsa-sec .&nbsp;
+Details of the Sports trials and interview will be released at a later date. All shortlisted students are required to attend an interview. Only shortlisted students who applied via the MOE DSA (Sec) Portal will . For more details, please go to www.moe.gov.sg/dsa-sec 
 
 **Update Selection Outcome**
 
