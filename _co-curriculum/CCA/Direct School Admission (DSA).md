@@ -82,7 +82,7 @@ Part 1: Track records, relevant experiences, teachers and coaches' recommendatio
 
 Part 2: Sports Trials (Online Video Submission / F2F) for shortlisted candidates&nbsp;
 
-Part 3: Interview for shortlisted candidates based on outcome of Sports Trials.&nbsp;
+Part 3: Interview for shortlisted candidates based on outcome of Sports Trials.
 
 Details of the Sports trials and interview will be released at a later date. All shortlisted students are required to attend an interview. Only shortlisted students who applied via the MOE DSA (Sec) Portal will . For more details, please go to www.moe.gov.sg/dsa-sec 
 
@@ -107,6 +107,9 @@ Students studying in MOE mainstream schools will receive their DSA-Sec results t
 **Successful DSA-Sec Students.** Those who took PSLE but were successful in the DSA-Sec are ***NOT*** allowed to participate in the S1 Posting as they are expected to honour the commitment made to the DSA-Sec school. However, if they are eligible for third language and/or Posting Group options7, they may enter these options during the School Choice Submission period in the S1 Posting. Students are also ***NOT*** allowed to transfer to another school after the release of the PSLE results. 
 
 **Unsuccessful DSA-Sec Students**. They will be notified of the allocation outcome and to participate in the S1 Posting to submit school choices. Schools should NOT give a false impression that they will be able to transfer to the school on a discretionary basis after the S1 Posting, nor encourage them to appeal for a school transfer after S1 Posting.
+
+
+____
   
 **Contact Persons for more enquiries:**
 Dr Mohamed Ibrahim Aris (HOD PE/CCA) at [mohamed\_ibrahim\_aris@moe.edu.sg](mailto:mohamed_ibrahim_aris@moe.edu.sg)  
