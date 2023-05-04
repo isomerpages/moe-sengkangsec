@@ -17,4 +17,7 @@ sections:
         - title: Weighted assessment & milestone assessment Information
           description: ""
           url: /curriculum/instructional-programme-ip/timetable-and-assessment/
+        - title: Direct School Admission (DSA)
+          description: For 2024 Sec 1 intake
+          url: ""
 ---
