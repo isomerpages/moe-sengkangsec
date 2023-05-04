@@ -33,9 +33,6 @@ Go to LLP (Sports &amp; Outdoor Adventure) for more details at&nbsp;[https://www
 
 ___
 
-
-___
-
 **1.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Application (4 May 2023, 11am to 31 May 2023, 3pm)**
 
 Application opens for all Primary Six Students, Returning Singaporeans, Permanent Residents and Foreign Students.
