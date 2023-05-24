@@ -3,7 +3,11 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-----
+[**25th Homecoming Carnival**]
+
+As part of our 25th Anniversary celebrations this year, our school will be having a Homecoming Carnval to commemorate ourSilver Jubilee on Saturday, 1 July 2023 from 0900 to 1300.
+
+---
 
 [**CCA Training Schedule**](https://moe-sengkangsec-staging.netlify.app/co-curriculum/co-curricular-activities-cca)
 
