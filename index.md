@@ -14,9 +14,9 @@ sections:
         - title: CCA Schedule
           description: ""
           url: /co-curriculum/co-curricular-activities-cca/
-        - title: Weighted assessment & milestone assessment Information
+        - title: Student Achievements
           description: ""
-          url: /curriculum/instructional-programme-ip/timetable-and-assessment/
+          url: /achievements/student-achievements/
         - title: Direct School Admission (DSA)
           description: For 2024 Sec 1 intake
           url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
