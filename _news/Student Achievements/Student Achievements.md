@@ -7,7 +7,7 @@ third_nav_title: Student Achievements
 **<font size="5">Copyright School Challenge Video Competition 2022</font>**
 
 We would like to congratulate our Media Club student, Heng Kai Ling, for emerging 1st, in the 2022 Copyright School Challenge Video Competition. The stop motion animation created illustrated how the public reacts to copyright infringement and individuals who associate themselves with others' originality.
-![](/images/Achievements/heng%20kai%20ling%20competition%202.jpg)
+
 
 View Kai Ling's winning submission [here on the school's Facebook site](https://fb.watch/kJ5fRUveVg/).
 
