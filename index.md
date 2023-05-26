@@ -9,7 +9,7 @@ sections:
   - hero:
       button: Announcements
       url: /announcements
-      background: /images/Website Banner Design 2.png
+      background: /images/Main Page/homecoming carnival.png
       key_highlights:
         - title: CCA Schedule
           description: ""
