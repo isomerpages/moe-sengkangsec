@@ -10,7 +10,7 @@ On 12 May Friday 2023, the annual North Zone Schools (Primary/Secondary) Chinese
 
 Our school's student, Lok Zhi Jia Bernise from class 3-5 managed to clinch Second Placing with her strong effort and confident display of her story-telling. Chuah Yi Lin Elanna from class 1-2 was also given the Potential award.
 
-Congratulations to Yi Lin Elanna and Zhi Jia Bernise once again for this amazing feat!
+Congratulations to Yi Lin Elanna and Zhi Jia Bernise once again for this amazing feat! Watch Bernise's speech performance [here.](https://drive.google.com/file/d/1AV6p1M2-XwA_4V-8ETzugo7wIteOfEfR/view)
 
 ![](/images/Achievements/nz%20chinese%20speech%20competition.jpg)
 
