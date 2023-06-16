@@ -16,7 +16,7 @@ Applicants should meet the following criteria:
 8.	Applicants who adopt green practices are also preferred.
 
 ##### Application Procedure
-1.	Application forms are available at our General Office (10 Compassvale Lane Singapore 545090) or can be downloaded here. 
+1.	Application forms are available at our General Office (10 Compassvale Lane Singapore 545090) or can be downloaded [here](/files/About%20Us/Canteen/skss%20canteen%20application%20form%202023.pdf). 
 2.	Interested applicants must submit the following documents:
 
 a.	Completed application form
@@ -27,5 +27,4 @@ c.	Photocopy of relevant certificates including Basic Food Hygiene Course certif
 
 d.	Photocopy of the Identification Card (front & back).  
 
-Please submit the completed application form with the supporting documents to the school's General Office or email to skss@moe.edu.sg (Attention: Administration Manager) by 14 July 2023 (Fri).  Thank you. 
-
+Please submit the completed application form with the supporting documents to the school's General Office or email to skss@moe.edu.sg (Attention: Administration Manager) by 14 July 2023 (Fri).  Thank you.
