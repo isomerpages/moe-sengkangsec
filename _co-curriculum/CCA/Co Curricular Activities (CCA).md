@@ -6,7 +6,7 @@ third_nav_title: CCA
 ---
 [LEAPS 2.0 Information](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0) 
 
-[CCA Training Schedule for Term 2](/files/CCA/cca%20training%20schedule%20(term%202).pdf)
+[CCA Schedule for Term 3](/files/CCA/2023%20term3_cca_training%20schedule.pdf)
 
 [DSA Information](https://moe-sengkangsec-staging.netlify.app/co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa)
 
