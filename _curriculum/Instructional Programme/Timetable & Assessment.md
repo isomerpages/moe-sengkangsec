@@ -14,4 +14,8 @@ third_nav_title: Instructional Programme
 
 [Secondary 4 Assessment Information](/files/WA%20&amp;%20MA/Term%203/sec%204_assessment%20information_sem2_2023%20(final).pdf)
 
-[Secondary 3 Assessment Information](/files/WA%20&amp;%20MA/Term%203/sec%203_weighted%20assesment_sem%202_2023_final.pdf)
+[Secondary 3 Weighted Assessment](/files/WA%20&amp;%20MA/Sec%203_Weighted%20Assesment_Sem%201_2023_VR2.pdf)
+
+[Secondary 2 Weighted Assessment](/files/WA%20&amp;%20MA/Term%203/sec%202_weighted%20assesment_sem%202_2023_final.pdf)
+
+[Secondary 1 Weighted Assessment](/files/WA%20&amp;%20MA/Term%203/sec%201_weighted%20assesment_sem%202_2023_final.pdf)
