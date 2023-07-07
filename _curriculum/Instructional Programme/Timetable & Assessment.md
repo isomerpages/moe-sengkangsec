@@ -6,7 +6,7 @@ third_nav_title: Instructional Programme
 ---
 **<font size="5">Timetable &amp; Schedule</font>**
 
-[Semester 1 Class Timetable](https://sites.google.com/moe.edu.sg/skss-student-ict/2023-timetable)  
+[Semester 2 Class Timetable](https://sites.google.com/moe.edu.sg/skss-student-ict/2023-timetable)  
 
 [Secondary 2 Semestral Assessment &amp; Secondary 4E/5N ‘O’ Preliminary Examination Timetable ](/files/WA%20&amp;%20MA/2023%20sec%202%20fce%20sa%20&amp;%20sec%204&amp;5%20oral%20&amp;%20o%20mtl%20prelim%20timetable%20(final).pdf) 
 
