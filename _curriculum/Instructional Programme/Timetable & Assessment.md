@@ -10,12 +10,15 @@ third_nav_title: Instructional Programme
 
 [Secondary 4 &amp; 5 Prelim Timetable](/files/WA%20&amp;%20MA/Term%203/2023%20prelim%20timetable_sec%204&amp;5%20_(final).pdf)
 
+
+**<font size="5">Assessment Information</font>**
+
 [Secondary 5 Assessment Information](/files/WA%20&amp;%20MA/Term%203/sec%205_assessment%20information_sem2_2023_(final).pdf)
 
 [Secondary 4 Assessment Information](/files/WA%20&amp;%20MA/Term%203/sec%204_assessment%20information_sem2_2023%20(final).pdf)
 
-[Secondary 3 Weighted Assessment](/files/WA%20&amp;%20MA/Sec%203_Weighted%20Assesment_Sem%201_2023_VR2.pdf)
+[Secondary 3 Weighted Assessment Information](/files/WA%20&amp;%20MA/Term%203/sec%203_weighted%20assesment_sem%202_2023_final.pdf)
 
-[Secondary 2 Weighted Assessment](/files/WA%20&amp;%20MA/Term%203/sec%202_weighted%20assesment_sem%202_2023_final.pdf)
+[Secondary 2 Weighted Assessment Information](/files/WA%20&amp;%20MA/Term%203/sec%202_weighted%20assesment_sem%202_2023_final.pdf)
 
-[Secondary 1 Weighted Assessment](/files/WA%20&amp;%20MA/Term%203/sec%201_weighted%20assesment_sem%202_2023_final.pdf)
+[Secondary 1 Weighted Assessment Information](/files/WA%20&amp;%20MA/Term%203/sec%201_weighted%20assesment_sem%202_2023_final.pdf)
