@@ -3,7 +3,6 @@ title: Student Management
 permalink: /co-curriculum/student-management/
 description: ""
 ---
-
 **<font size="5">Beliefs</font>**
 
 “To discipline is to care”
@@ -48,7 +47,7 @@ This year, the model class award for the respective levels are 1-3, 2-4, 3-2 and
 
 <br>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYyttfuECtZATtCUy6g0gRR42wl2MeBXBt6yZPWdYFlbWcdHHc7N6BMztJSJuBV6HP-yx7PJHWYYG7/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTYyttfuECtZATtCUy6g0gRR42wl2MeBXBt6yZPWdYFlbWcdHHc7N6BMztJSJuBV6HP-yx7PJHWYYG7/embed?start=false&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 <br>
 
@@ -86,10 +85,10 @@ Outstanding primary school achievements as a student leader&nbsp;
 <br>**_and/or_**&nbsp;school representative<br>
 **_and_**&nbsp;PSLE score ≤ 18 and three subjects must score AL 5 or better
 
-**<font size="5">2021 MOE Edusave Character Awards</font>**
+**<font size="5">2022 MOE Edusave Character Awards</font>**
 
 <br>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQoMhC__6D-PZcV7nbMOlV5IwrXowbzcX38WXcNXHdWKUtH4ANBLvQBG37smPe_M6e6OtlwumPP63Ym/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSy1q37abz6iWTzKmcXW5IBwUQ3MrdHH6lv9kIIgrJQfKsrJPHxurw2SDSe8Il1HXJFr34NJP1wr940/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 <br>
