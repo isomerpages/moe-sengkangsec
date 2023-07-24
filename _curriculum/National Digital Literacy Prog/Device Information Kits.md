@@ -12,7 +12,7 @@ There will be a fortnightly collection of faulty devices that will be sent via c
 
 ![](/images/NDLP/sch%20based%20ict%20helpdesk.png)
 
-**Device info Kit for Lenovo 500e**
+**<font size="5">Device info Kit for Lenovo 500e</font>**
 
 Should there be a need to send the device for immediate repairs, or queries about the device, insurance and warranty, you may contact the device contractor directly.
 
@@ -20,7 +20,7 @@ Should there be a need to send the device for immediate repairs, or queries abou
 
 ![](/images/NDLP/34-device-support-04.jpg)
 
-**<font size="5">Device info Kit for Acer R752TN**</font>**
+**<font size="5">Device info Kit for Acer R752TN</font>**
 
 Sec 1 students (2022) owns the Acer R752TN PLD. Should there be a need to send the device for immediate repairs, or queries about the device, insurance and warranty, you may contact the device contractor from Acer Singapore Pte Ltd directly.
 
