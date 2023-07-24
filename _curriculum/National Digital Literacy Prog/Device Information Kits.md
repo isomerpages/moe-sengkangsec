@@ -38,7 +38,7 @@ Sec 1 students (2022) owns the Acer R752TN PLD. Should there be a need to send t
     
 *   The school ICT support team will liaise and confirm the fortnightly collection date and time with the contractor. Contractor will pick up the devices from school on the arranged date and time.
     
-*   The devices (depending on the parts availability) will be fixed and returned to school the next \*\*fortnightly collection service\*\* day. If there are follow up actions required, contractor will contact parents/students directly (e.g. the damage is not covered under warranty and need consent to claim insurance to get the repairs done).
+*   The devices (depending on the parts availability) will be fixed and returned to school the next **fortnightly collection** serviceday. If there are follow up actions required, contractor will contact parents/students directly (e.g. the damage is not covered under warranty and need consent to claim insurance to get the repairs done).
     
 *   School-based service desk personnel will inform the students when they can collect back their devices.
     
