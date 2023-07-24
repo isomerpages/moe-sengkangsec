@@ -28,7 +28,7 @@ Sec 1 students (2022) owns the Acer R752TN PLD. Should there be a need to send t
 ![](/images/NDLP/41-acer-device-support-03.png)
 ![](/images/NDLP/41-acer-device-support-04.png)
 
-**<font size="5">**Standard Operating Procedure**</font>**
+**<font size="5">Standard Operating Procedure</font>**
 
 **Reporting of Device Issues (hardware issues and damages)**
 
