@@ -3,11 +3,7 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-[**MOE ECHA (Edusave Character Award) Nominations 2023**](https://go.gov.sg/moe-echa-open-nomination-2023)
 
-Click on the link above to nominate our deserving students for MOE Edusave Character Award 2023.
-
----
 
 [**CCA Training Schedule**](https://moe-sengkangsec-staging.netlify.app/co-curriculum/co-curricular-activities-cca)
 
