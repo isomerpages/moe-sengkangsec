@@ -19,7 +19,7 @@ Applicants should meet the following criteria:
 
 **Application Procedure**
 
-1.  Application forms are available at our General Office (10 Compassvale Lane Singapore 545090) or can be downloaded from 
+1.  Application forms are available at our General Office (10 Compassvale Lane Singapore 545090) or can be downloaded [here](/files/About%20Us/Canteen/skss%20canteen%20application%20form%202023.pdf) 
 2.  Interested applicants must submit the following documents:
 
 a.       Completed application form
