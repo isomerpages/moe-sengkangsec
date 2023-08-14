@@ -11,10 +11,10 @@ links:
         url: /about-skss/school-song
       - title: Our People
         url: /about-skss/our-people
-      - title: Contact Us
-        url: /about-skss/contact-us
       - title: School Canteen Advertisement
         url: /canteen
+      - title: Contact Us
+        url: /about-skss/contact-us
   - title: News
     url: /announcements/
     sublinks:
