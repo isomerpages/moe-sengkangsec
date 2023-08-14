@@ -3,7 +3,7 @@ title: School Canteen Advertisement
 permalink: /about-skss/canteen/
 description: ""
 ---
-#### Seng Kang Secondary School is inviting applicants to operate a “International Food Stall”. Cuisine such as Japanese, Korean is acceptable.
+#### Seng Kang Secondary School is inviting applicants to operate a “Malay Nasi Padang Food Stall”
 ##### Criteria
 Applicants should meet the following criteria:
 1.	Singapore Citizens or Singapore Permanent Residents aged 21 years old and above.
