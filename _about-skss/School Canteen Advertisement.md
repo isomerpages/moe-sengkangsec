@@ -30,4 +30,4 @@ c.       Photocopy of relevant certificates including Basic Food Hygiene C
 
 d.       Photocopy of the Identification Card (front & back).  
 
-Please submit the completed application form with the supporting documents to the school's General Office or email to [skss@moe.edu.sg](mailto:skss@moe.edu.sg) (Attention: Administration Manager) by 29 **September 2023 (Friday)** Thank you.Thank you.
+Please submit the completed application form with the supporting documents to the school's General Office or email to [skss@moe.edu.sg](mailto:skss@moe.edu.sg) (Attention: Administration Manager) by **29 September 2023 (Friday)** Thank you.Thank you.
