@@ -13,6 +13,8 @@ links:
         url: /about-skss/our-people
       - title: Contact Us
         url: /about-skss/contact-us
+      - title: School Canteen Advertisement
+        url: /canteen
   - title: News
     url: /announcements/
     sublinks:
@@ -55,7 +57,7 @@ links:
         url: /useful-links-1/parenting-resources
       - title: Teachers
         url: /useful-links-1/teachers
-      - title: "Frequently Asked Questions "
+      - title: Frequently Asked Questions
         url: /useful-links-1/frequently-asked-questions-faq
       - title: Calendar
         url: /useful-links-1/calendar
