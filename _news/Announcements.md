@@ -11,8 +11,8 @@ Time:  9am – 4pm
 
 With effect from 15 August 2023, Graduated students will need to make appointment with the school before collection of testimonials. Thank you.
 
-
 ---
+
 [**CCA Training Schedule**](https://moe-sengkangsec-staging.netlify.app/co-curriculum/co-curricular-activities-cca)
 
 Click on the link above for more information.
