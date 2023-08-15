@@ -10,7 +10,8 @@ Walk-in is opened from 15 August 2023 to 14 September 2023.
 Time:  9am – 4pm 
 
 With effect from 15 August 2023, Graduated students will need to make appointment with the school before collection of testimonials. Thank you.
-___
+
+---
 
 [**CCA Training Schedule**](https://moe-sengkangsec-staging.netlify.app/co-curriculum/co-curricular-activities-cca)
 
