@@ -10,6 +10,12 @@ third_nav_title: Instructional Programme
 
 [Secondary 4 &amp; 5 Prelim Timetable](/files/WA%20&amp;%20MA/Term%203/2023%20prelim%20timetable_sec%204&amp;5%20_(24%20jul).pdf)
 
+[Secondary 3 EOY Timetable](/files/WA%20&amp;%20MA/2023%20Term%204/2023%20sec%203%20eoy%20schedule_(final_14%20sep).pdf)
+
+[Secondary 2 EOY Timetable](/files/WA%20&amp;%20MA/2023%20Term%204/2023%20sec%202%20eoy%20schedule_(final_14%20sep).pdf)
+
+[Secondary 1 EOY Timetable](/files/WA%20&amp;%20MA/2023%20Term%204/2023%20sec%201%20eoy%20schedule_(final_14%20sep).pdf)
+
 
 **<font size="5">Assessment Information</font>**
 
