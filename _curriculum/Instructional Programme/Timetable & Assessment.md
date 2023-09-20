@@ -4,6 +4,10 @@ permalink: /curriculum/instructional-programme-ip/timetable-and-assessment/
 description: ""
 third_nav_title: Instructional Programme
 ---
+**<font size="5">Student Briefing</font>**
+
+[EOY Student Briefing 2023](/files/WA%20&amp;%20MA/2023%20Term%204/eoy_student%20briefing_2023%20(revised_20%20sep).pdf)
+
 **<font size="5">Timetable &amp; Schedule</font>**
 
 [Semester 2 Class Timetable](https://sites.google.com/moe.edu.sg/skss-student-ict/2023-timetable)  
