@@ -10,6 +10,8 @@ third_nav_title: Instructional Programme
 
 **<font size="5">Timetable &amp; Schedule</font>**
 
+[Secondary 1 to 3 Script Check Timetable (16 to 18 October)](/files/WA%20&amp;%20MA/2023%20Term%204/2023%20eoy%20check%20script%20tt_t4w6_class.pdf)
+
 [Semester 2 Class Timetable](https://sites.google.com/moe.edu.sg/skss-student-ict/2023-timetable)  
 
 [Secondary 4 &amp; 5 Prelim Timetable](/files/WA%20&amp;%20MA/Term%203/2023%20prelim%20timetable_sec%204&amp;5%20_(24%20jul).pdf)
