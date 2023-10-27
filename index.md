@@ -20,4 +20,12 @@ sections:
         - title: Direct School Admission (DSA)
           description: For 2024 Sec 1 intake
           url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/Open House 2023/for school website.jpg
+      alt: Image alt text
 ---
