@@ -9,7 +9,7 @@ sections:
   - hero:
       button: Announcements
       url: /announcements
-      background: /images/2023-2024 social media banner.jpg
+      background: /images/2023-2024 website banner.png
       key_highlights:
         - title: CCA Schedule
           description: ""
