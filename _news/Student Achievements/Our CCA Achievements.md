@@ -8,7 +8,7 @@ third_nav_title: Student Achievements
 
 **PHYSICAL SPORTS CCA**<br>
 FOOTBALL – NSG C BOYS - 2nd runners up (Tier 3) <br>
-HOKCEY – NSG B Boys - 3rd runners up; NSG C Boys -1st runners up; NSG C Girls- 2nd runners up <br>
+HOKCEY – NSG B Boys - 3rd runners up; NSG C Boys - 1st runners up; NSG C Girls - 2nd runners up <br>
 TAEKWANDO - NSG B BOYS - 1st runner up
 
 **PERFORMING ARTS GROUP CCA**<br> 
