@@ -27,7 +27,7 @@ RED CROSS YOUTH - Unit Gold and Director’s Awards
 **<font size="5">2022</font>**
 
 **PHYSICAL SPORTS CCA**<br>
-HOKCEY – NSG B Boys 2nd runners up; NSG B Girls, 3rd runners up; NSG C Girls, 2nd runners up 
+HOKCEY – NSG B Boys 2nd runners up; NSG B Girls - 3rd runners up; NSG C Girls - 2nd runners up 
 
 **UNIFORM GROUP CCA**<br>
 GIRLS GUIDE – Unit Gold Award and Baden Powell Award<br>
