@@ -8,7 +8,7 @@ third_nav_title: Student Achievements
 
 **PHYSICAL SPORTS CCA**<br>
 FOOTBALL – NSG C BOYS - 2nd runners up (Tier 3) <br>
-HOKCEY – NSG B Boys - 3rd runners up; NSG C Boys - 1st runners up; NSG C Girls - 2nd runners up <br>
+HOCKEY – NSG B Boys - 3rd runners up; NSG C Boys - 1st runners up; NSG C Girls - 2nd runners up <br>
 TAEKWANDO - NSG B BOYS - 1st runners up
 
 **PERFORMING ARTS GROUP CCA**<br> 
@@ -27,7 +27,7 @@ RED CROSS YOUTH - Unit Gold and Director’s Awards
 **<font size="5">2022</font>**
 
 **PHYSICAL SPORTS CCA**<br>
-HOKCEY – NSG B Boys - 2nd runners up; NSG B Girls - 3rd runners up; NSG C Girls - 2nd runners up 
+HOCKEY – NSG B Boys - 2nd runners up; NSG B Girls - 3rd runners up; NSG C Girls - 2nd runners up 
 
 **UNIFORM GROUP CCA**<br>
 GIRLS GUIDE – Unit Gold Award and Baden Powell Award<br>
