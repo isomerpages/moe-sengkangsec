@@ -23,6 +23,17 @@ NATIONAL POLICE CADET CORPS (NPCC) - UNIT Gold and SPF Award<br>
 NATIONAL CADET CORPS (NCC LAND) - Unit Gold Award<br>
 RED CROSS YOUTH - Unit Gold and Director’s Awards 
 
+**2022**
+
+**PHYSICAL SPORTS CCA**<br>
+HOKCEY – NSG B Boys 2nd runners up; NSG B Girls, 3rd runners up; NSG C Girls, 2nd runners up 
+
+**UNIFORM GROUP CCA**<br>
+GIRLS GUIDE – Unit Gold Award and Baden Powell Award<br>
+NATIONAL POLICE CADET CORPS (NPCC) - UNIT Gold and SPF Award<br> 
+NATIONAL CADET CORPS (NCC LAND) - Unit Gold Award<br>
+RED CROSS YOUTH - Unit Gold and Director’s Awards 
+
 **CLUB &amp; SOCIETY CCA**<br>
 Art Club – Certificate of Recognition (Visual Arts Exhibition)<br> 
-Media Club - Copyright School Challenge Video Competition GOLD Award 2022 (Produced by Heng Kai Ling)
+Media Club - Copyright School Challenge Video Competition GOLD Award (Produced by Heng Kai Ling)
