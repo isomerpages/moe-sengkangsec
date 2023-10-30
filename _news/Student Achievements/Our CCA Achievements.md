@@ -31,7 +31,7 @@ HOKCEY – NSG B Boys 2nd runners up; NSG B Girls, 3rd runners up; NSG C Girls, 
 **UNIFORM GROUP CCA**<br>
 GIRLS GUIDE – Unit Gold Award and Baden Powell Award<br>
 NATIONAL POLICE CADET CORPS (NPCC) - UNIT Gold and SPF Award<br> 
-NATIONAL CADET CORPS (NCC LAND) - Unit Gold Award<br>
+NATIONAL CADET CORPS (NCC LAND) - Distinction<br>
 RED CROSS YOUTH - Unit Gold and Director’s Awards 
 
 **CLUB &amp; SOCIETY CCA**<br>
