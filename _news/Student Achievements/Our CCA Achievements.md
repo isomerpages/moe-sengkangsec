@@ -7,9 +7,10 @@ third_nav_title: Student Achievements
 **<font size="5">2023</font>**
 
 **PHYSICAL SPORTS CCA**<br>
+TAEKWANDO - NSG B BOYS - 1st runners up<br>
 FOOTBALL – NSG C BOYS - 2nd runners up (Tier 3) <br>
-HOCKEY – NSG B Boys - 3rd runners up; NSG C Boys - 1st runners up; NSG C Girls - 2nd runners up <br>
-TAEKWANDO - NSG B BOYS - 1st runners up
+HOCKEY – NSG B Boys - 3rd runners up; NSG C Boys - 1st runners up; NSG C Girls - 2nd runners up
+
 
 **PERFORMING ARTS GROUP CCA**<br>
 GUZHENG – Certificate of Distinction<br>
