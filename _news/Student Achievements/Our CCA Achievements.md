@@ -38,5 +38,5 @@ NATIONAL POLICE CADET CORPS (NPCC) - UNIT Gold and SPF Award<br>
 NATIONAL CADET CORPS (NCC LAND) - Distinction
  
 **CLUB &amp; SOCIETY CCA**<br>
-Media Club - Copyright School Challenge Video Competition GOLD Award(Produced by Heng Kai Ling)<br>
+Media Club - Copyright School Challenge Video Competition GOLD Award (Produced by Heng Kai Ling)<br>
 Art Club – Certificate of Recognition (Visual Arts Exhibition)
