@@ -21,8 +21,9 @@ ENGLISH DRAMA – Certificate of Accomplishment
 **UNIFORM GROUP CCA**<br>
 GIRLS GUIDE – Unit Gold Award and Baden Powell Award<br>
 NATIONAL POLICE CADET CORPS (NPCC) - UNIT Gold and SPF Award<br> 
-NATIONAL CADET CORPS (NCC LAND) - Unit Gold Award<br>
-RED CROSS YOUTH - Unit Gold and Director’s Awards 
+RED CROSS YOUTH - Unit Gold and Director’s Awards <br>
+NATIONAL CADET CORPS (NCC LAND) - Unit Gold Award
+
 
 **<font size="5">2022</font>**
 
