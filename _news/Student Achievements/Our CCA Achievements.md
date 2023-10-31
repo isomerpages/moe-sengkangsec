@@ -33,8 +33,8 @@ HOCKEY – NSG B Boys - 2nd runners up; NSG B Girls - 3rd runners up; NSG C Girl
 
 **UNIFORM GROUP CCA**<br>
 GIRLS GUIDE – Unit Gold Award and Baden Powell Award<br>
-NATIONAL POLICE CADET CORPS (NPCC) - UNIT Gold and SPF Award<br> 
 RED CROSS YOUTH - Unit Gold and Director’s Awards<br>
+NATIONAL POLICE CADET CORPS (NPCC) - UNIT Gold and SPF Award<br> 
 NATIONAL CADET CORPS (NCC LAND) - Distinction
  
 **CLUB &amp; SOCIETY CCA**<br>
