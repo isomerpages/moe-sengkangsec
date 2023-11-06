@@ -20,7 +20,7 @@ sections:
         - title: Direct School Admission (DSA)
           description: For 2024 Sec 1 intake
           url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
-      variant: center
+      variant: image
       backgroundColor: gray
       alignment: left
       size: sm
