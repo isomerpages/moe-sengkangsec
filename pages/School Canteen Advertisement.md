@@ -1,6 +1,7 @@
 ---
 title: School Canteen Advertisement
-permalink: /about-skss/canteen/
+permalink: /permalink/
+variant: markdown
 description: ""
 ---
 #### Seng Kang Secondary School is inviting applicants to operate a “Malay Nasi Padang Food Stall”
