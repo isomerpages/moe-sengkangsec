@@ -10,10 +10,10 @@ Venue: **School Hall**
 - Mother Tongue ([Chinese](https://www.sengkangsec.moe.edu.sg/curriculum/instructional-programme-ip/mother-tongue/chinese-language-unit/), [Malay](https://www.sengkangsec.moe.edu.sg/curriculum/instructional-programme-ip/mother-tongue/malay-language-unit/), [Tamil](https://www.sengkangsec.moe.edu.sg/curriculum/instructional-programme-ip/mother-tongue/tamil-language-unit/))
 - [Mathematics](https://www.sengkangsec.moe.edu.sg/curriculum/instructional-programme-ip/mathematics/)
 - [Science](https://www.sengkangsec.moe.edu.sg/curriculum/instructional-programme-ip/science/)
-- [Art](https://www.sengkangsec.moe.edu.sg/curriculum/instructional-programme-ip/design-and-aesthetics/art-unit/)/Art Club
-- D&amp;T
-- F&amp;N
-- Humanities
+- [Art](https://www.sengkangsec.moe.edu.sg/curriculum/instructional-programme-ip/design-and-aesthetics/art-unit/)/[Art Club](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/clubs-n-societies/art-club/)
+- [Design &amp; Technology](https://www.sengkangsec.moe.edu.sg/curriculum/instructional-programme-ip/design-and-aesthetics/design-and-technology-unit/)
+- [Nutrition &amp; Food Science](https://www.sengkangsec.moe.edu.sg/curriculum/instructional-programme-ip/design-and-aesthetics/nutrition-and-food-science-unit/)
+- Humanit
 - PE
 - ALP
 - LLP
