@@ -13,10 +13,10 @@ Venue: **School Hall**
 - [Art](https://www.sengkangsec.moe.edu.sg/curriculum/instructional-programme-ip/design-and-aesthetics/art-unit/)/[Art Club](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/clubs-n-societies/art-club/)
 - [Design &amp; Technology](https://www.sengkangsec.moe.edu.sg/curriculum/instructional-programme-ip/design-and-aesthetics/design-and-technology-unit/)
 - [Nutrition &amp; Food Science](https://www.sengkangsec.moe.edu.sg/curriculum/instructional-programme-ip/design-and-aesthetics/nutrition-and-food-science-unit/)
-- Humanit
-- PE
-- ALP
-- LLP
+- [Humanities](https://www.sengkangsec.moe.edu.sg/curriculum/instructional-programme-ip/humanities/)
+- [Physical Education](https://www.sengkangsec.moe.edu.sg/curriculum/instructional-programme-ip/physical-education/)
+- [Applied Learning Programme (ALP)](https://www.sengkangsec.moe.edu.sg/curriculum/applied-learning-programme-alp/)
+- [Learning for Life Programme (LLP)](https://www.sengkangsec.moe.edu.sg/curriculum/learning-for-life-programme-llp/)
 	
 **CCA Booth** <br>
 Venue: ISH Level 1 <br>
