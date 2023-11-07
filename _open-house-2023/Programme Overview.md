@@ -4,6 +4,8 @@ permalink: /open-house-2023/programme-overview/
 variant: markdown
 description: ""
 ---
+![](/images/Open%20House%202023/for%20school%20website.jpg) <br>
+
 <!--tr {mso-height-source:auto;} col {mso-width-source:auto;} td {padding-top:1.0px; padding-right:1.0px; padding-left:1.0px; mso-ignore:padding; color:windowtext; font-size:18.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Arial; mso-generic-font-family:auto; mso-font-charset:0; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto;} .oa1 {border:1.5pt solid #9E9E9E; text-align:center; vertical-align:top; padding-bottom:7.2pt; padding-left:7.2pt; padding-top:7.2pt; padding-right:7.2pt;} .oa2 {border:1.5pt solid #9E9E9E; vertical-align:top; padding-bottom:7.2pt; padding-left:7.2pt; padding-top:7.2pt; padding-right:7.2pt;} -->
 
 <table style="border-collapse:
@@ -312,4 +314,3 @@ description: ""
   language:en-SG;font-weight:normal;font-style:normal;mso-style-textfill-type:
   solid;mso-style-textfill-fill-themecolor:dark1;mso-style-textfill-fill-color:
   black;mso-style-textfill-fill-alpha:100.0%">Tour 6</span></p></td></tr></tbody></table>
-	
