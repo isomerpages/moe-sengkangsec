@@ -2,6 +2,5 @@ collections:
   open-house-2023:
     output: true
     order:
-      - Open House.md
       - Programme Overview.md
       - Booth Venue.md
