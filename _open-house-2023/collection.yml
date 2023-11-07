@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Programme Overview.md
-      - Booth Venue.md
+      - Booths.md
