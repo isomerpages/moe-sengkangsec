@@ -317,3 +317,37 @@ description: ""
   language:en-SG;font-weight:normal;font-style:normal;mso-style-textfill-type:
   solid;mso-style-textfill-fill-themecolor:dark1;mso-style-textfill-fill-color:
   black;mso-style-textfill-fill-alpha:100.0%">Tour 6</span></p></td></tr></tbody></table>
+	
+**Department Booth** <br>
+Venue: School Hall
+- English
+- Mother Tongue
+- Maths
+- Science
+- Lit
+- Art/Art Club
+- D&amp;T
+- F&amp;N
+- Humanities
+- PE
+- ALP
+- LLP
+	
+**CCA Booth** <br>
+Venue: ISH Level 1 <br>
+- Badminton
+- Netball 
+- Football
+- Hockey
+- Basketball
+
+Venue: Canteen <br>
+- NPCC
+- NCC
+- Red Cross
+
+Venue: Green Wall <br>
+- Girl Guides
+
+Venue: Classroom Block E <br>
+- Media Club
