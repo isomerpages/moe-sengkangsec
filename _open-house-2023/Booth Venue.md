@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 **Department Booth** <br>
-Venue: School Hall
+Venue: **School Hall**
 - English
 - Mother Tongue
 - Maths
