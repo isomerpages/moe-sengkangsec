@@ -1,0 +1,6 @@
+collections:
+  open-house-2023:
+    output: true
+    order:
+      - Programme Overview.md
+      - Booths.md
