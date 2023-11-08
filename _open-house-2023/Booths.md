@@ -46,4 +46,4 @@ Venue: Green Wall <br>
 - Girl Guides
 
 Venue: Classroom Block E <br>
-- Media Club
+- [Media Club](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/clubs-n-societies/media-services-club/)
