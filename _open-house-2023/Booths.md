@@ -30,9 +30,9 @@ Venue: **School Hall**
 - [Learning for Life Programme (LLP)](https://www.sengkangsec.moe.edu.sg/curriculum/learning-for-life-programme-llp/)
 	
 **CCA Booth** <br>
-Venue: ISH Level 1 <br>
-- Badminton
-- Netball 
+Venue: **ISH Level 1** <br>
+- [Badminton](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/physical-sports/badminton/)
+- Netball
 - Football
 - Hockey
 - Basketball
