@@ -40,7 +40,7 @@ Venue: **ISH Level 1** <br>
 Venue: **Canteen** <br>
 - [NPCC](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/uniformed-groups/national-police-cadet-corps-npcc/)
 - [NCC](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/uniformed-groups/national-cadets-corp-ncc/)
-- Red Cross
+- [Red Cross](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/uniformed-groups/red-cross-youth/)
 
 Venue: **Green Wall** <br>
 - [Girl Guides](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/uniformed-groups/girl-guides/)
