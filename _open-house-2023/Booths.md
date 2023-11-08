@@ -32,18 +32,18 @@ Venue: **School Hall**
 **CCA Booth** <br>
 Venue: **ISH Level 1** <br>
 - [Badminton](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/physical-sports/badminton/)
-- Netball
-- Football
-- Hockey
-- Basketball
+- [Netball](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/physical-sports/netball/)
+- [Football](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/physical-sports/football/)
+- [Hockey](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/physical-sports/hockey/)
+- [Basketball](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/physical-sports/basketball/)
 
-Venue: Canteen <br>
-- NPCC
-- NCC
+Venue: **Canteen** <br>
+- [NPCC](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/uniformed-groups/national-police-cadet-corps-npcc/)
+- [NCC](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/uniformed-groups/national-cadets-corp-ncc/)
 - Red Cross
 
-Venue: Green Wall <br>
-- Girl Guides
+Venue: **Green Wall** <br>
+- [Girl Guides](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/uniformed-groups/girl-guides/)
 
-Venue: Classroom Block E <br>
+Venue: **Classroom Block E** <br>
 - [Media Club](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/clubs-n-societies/media-services-club/)
