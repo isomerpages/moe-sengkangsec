@@ -47,3 +47,7 @@ Venue: **Green Wall** <br>
 
 Venue: **Classroom Block E** <br>
 - [Media Club](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/clubs-n-societies/media-services-club/)
+
+Venue: **Hall Stage** <br>
+- [Symphonic Band](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/performing-arts-group/symphonic-band/)
+- [Guzheng Ensemble](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/performing-arts-group/guzheng-ensemble/)
