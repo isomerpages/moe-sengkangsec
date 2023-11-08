@@ -51,3 +51,5 @@ Venue: **Classroom Block E** <br>
 Venue: **Hall Stage** <br>
 - [Symphonic Band](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/performing-arts-group/symphonic-band/)
 - [Guzheng Ensemble](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/performing-arts-group/guzheng-ensemble/)
+- [Choir](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/performing-arts-group/choir-sky-chorale/)
+- [Dance](https://www.sengkangsec.moe.edu.sg/co-curriculum/co-curricular-activities-cca/performing-arts-group/modern-dance-amplify/)
