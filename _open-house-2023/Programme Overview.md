@@ -109,7 +109,7 @@ description: ""
   mso-bidi-font-family:Arial;font-variant:normal;color:black;mso-color-index:
   13;text-transform:none;language:en-SG;font-weight:normal;font-style:normal;
   mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
-  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Tour 2 (standby)</span></p></td></tr><tr style="mso-height-source:userset;height:69.17pt" height="92"><td style="height:69.17pt;width:129pt" width="172" class="oa1" height="92"><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Tour 2</span></p></td></tr><tr style="mso-height-source:userset;height:69.17pt" height="92"><td style="height:69.17pt;width:129pt" width="172" class="oa1" height="92"><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
   0pt;margin-left:0in;margin-right:0in;text-indent:0in;text-align:center;
   direction:ltr;unicode-bidi:embed"><span style="font-size:15.0pt;font-family:
   Arial;mso-ascii-font-family:Arial;mso-fareast-font-family:Arial;mso-bidi-font-family:
@@ -253,7 +253,7 @@ description: ""
   mso-bidi-font-family:Arial;font-variant:normal;color:black;mso-color-index:
   13;text-transform:none;language:en-SG;font-weight:normal;font-style:normal;
   mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:dark1;
-  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Tour 5 (standby)</span></p></td></tr><tr style="mso-height-source:userset;height:51.24pt" height="68"><td style="height:51.24pt;width:129pt" width="172" class="oa1" height="68"><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
+  mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Tour 5</span></p></td></tr><tr style="mso-height-source:userset;height:51.24pt" height="68"><td style="height:51.24pt;width:129pt" width="172" class="oa1" height="68"><p style="language:en-US;line-height:normal;margin-top:0pt;margin-bottom:
   0pt;margin-left:0in;margin-right:0in;text-indent:0in;text-align:center;
   direction:ltr;unicode-bidi:embed"><span style="font-size:15.0pt;font-family:
   Arial;mso-ascii-font-family:Arial;mso-fareast-font-family:Arial;mso-bidi-font-family:
