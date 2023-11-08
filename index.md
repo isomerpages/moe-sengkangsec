@@ -31,4 +31,6 @@ sections:
       description: 18TH NOVEMBER 2023 (SAT) | 8AM to 12PM
       image: /images/Open House 2023/for school website.jpg
       alt: Image alt text
+      button: CLICK HERE TO FIND OUT MORE
+      url: https://www.sengkangsec.moe.edu.sg/open-house-2023/programme-overview/
 ---
