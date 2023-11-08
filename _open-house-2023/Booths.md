@@ -4,7 +4,18 @@ permalink: /open-house-2023/booths/
 variant: markdown
 description: ""
 ---
+**Tour Start Point** <br>
+Venue: **Foyer**
+
+**Enquiries** <br>
+Venue: **Area outside Staffroom**
+
 **Department Booth** <br>
+Venue: **Area outside Staffroom**
+- [Character and Citizenship Education (CCE)](https://www.sengkangsec.moe.edu.sg/co-curriculum/character-and-citizenship-education-cce/)
+- [Student Management](https://www.sengkangsec.moe.edu.sg/co-curriculum/student-management/)
+- [Parent Support Group](https://www.sengkangsec.moe.edu.sg/about-skss/our-people/skss-partners/parents-support-group/)
+
 Venue: **School Hall**
 - [English &amp; Literature](https://www.sengkangsec.moe.edu.sg/curriculum/instructional-programme-ip/english-language-and-literature-department/)
 - Mother Tongue ([Chinese](https://www.sengkangsec.moe.edu.sg/curriculum/instructional-programme-ip/mother-tongue/chinese-language-unit/), [Malay](https://www.sengkangsec.moe.edu.sg/curriculum/instructional-programme-ip/mother-tongue/malay-language-unit/), [Tamil](https://www.sengkangsec.moe.edu.sg/curriculum/instructional-programme-ip/mother-tongue/tamil-language-unit/))
