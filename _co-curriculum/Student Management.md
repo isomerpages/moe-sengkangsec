@@ -2,6 +2,7 @@
 title: Student Management
 permalink: /co-curriculum/student-management/
 description: ""
+variant: markdown
 ---
 **<font size="5">Beliefs</font>**
 
@@ -50,40 +51,6 @@ This year, the model class award for the respective levels are 1-3, 2-4, 3-2 and
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTYyttfuECtZATtCUy6g0gRR42wl2MeBXBt6yZPWdYFlbWcdHHc7N6BMztJSJuBV6HP-yx7PJHWYYG7/embed?start=false&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 <br>
-
-**<font size="5">SKSS Scholarships for Students
-</font>**
-
-There are scholarships available for students of SKSS to apply for. Since 2019, the total number of scholarships awarded has been rising steadily, from 7 in 2019 to 23 in 2021. Up to 10 scholarships from each category will be awarded to deserving students. The types of scholarships and their key eligibility criteria are as follows:
-
-  
-
-**1) Dato’ Seri Dr Derek Goh Bak Heng Academic Scholarship ($500)**<br>
-PSLE score ≤ 16 and all subjects must be score AL 5 or better
-
-  
-
-**2) SAC Sports Scholarship ($300)**&nbsp;<br>
-Member of sports CCA in primary school&nbsp;<br>
-_**or**_&nbsp;school representative in a sport in primary school<br>
-_**and**_&nbsp;join an SKSS sports CCA<br>
-**_and_**&nbsp;PSLE score ≤ 18 and three subjects must score AL 5 or better
-
-  
-
-**3) SAC Performing Arts Scholarship ($300)**&nbsp;<br>
-Member of performing arts CCA in primary school<br>
-**_or_**&nbsp;school representative in performing arts in primary school<br>
-**_or_**&nbsp;has background in the performing arts&nbsp;<br>
-**_and_**&nbsp;join SKSS performing arts CCA<br>
-_**and**_&nbsp;PSLE score ≤ 18 and three subjects must score AL 5 or better
-
-  
-
-**4) SAC Character &amp; Leadership Scholarship ($300)**&nbsp;<br>
-Outstanding primary school achievements as a student leader&nbsp;
-<br>**_and/or_**&nbsp;school representative<br>
-**_and_**&nbsp;PSLE score ≤ 18 and three subjects must score AL 5 or better
 
 **<font size="5">2022 MOE Edusave Character Awards</font>**
 

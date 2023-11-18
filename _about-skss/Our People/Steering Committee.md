@@ -3,6 +3,7 @@ title: Steering Committee
 permalink: /about-skss/our-people/steering-committee/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 | Key Personnel                |                                |
 |------------------------------|--------------------------------|
@@ -37,4 +38,3 @@ third_nav_title: Our People
 | Ms Amanda Lee                | SH Nutrition and Food Science  |
 | Ms Maureen Pang Thien May    | Administration Manager         |
 | Mr Vincent Lee Khai Cheong   | Operational Manager            |
-| Mdm Lee Chui Leng            | Operational Manager            |
