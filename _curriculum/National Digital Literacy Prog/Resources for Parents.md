@@ -9,29 +9,29 @@ Parent Handbook (I) on Learning with a Personal Learning Device (PLD). Click [he
 
 ------
 
-Parent Handbook (II) on Learning with a Personal Learning Device (PLD). Click [here.](/files/PLD/pdlp-Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)
+Parent Handbook (II) on Learning with a Personal Learning Device (PLD). Click [here](/files/PLD/pdlp-Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf).
 
 ------
 
-Parent Kit on Cyber Wellness for Your Child. Click [here.](http://go.gov.sg/moe-cyber-wellness)
+Parent Kit on Cyber Wellness for Your Child. Click [here](http://go.gov.sg/moe-cyber-wellness).
 
 
 ------
 
-MOE Cyber Wellness Programme. Click [here.](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
+MOE Cyber Wellness Programme. Click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness).
 
 ------
 
-SchoolBag - Keeping our teens safe online. Click [here.](https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online)
+SchoolBag - Keeping our teens safe online. Click [here](https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online).
 
 ------
 
-National Library’s Learning & Information Literacy Resources. Click [here.](https://sure.nlb.gov.sg/resources/audience/teachers-and-students/secondary-level-cce)
+National Library’s Learning & Information Literacy Resources. Click [here](https://sure.nlb.gov.sg/resources/audience/teachers-and-students/secondary-level-cce).
 
 ------
 
-TOUCH Community Services. Click [here.](https://www.help123.sg/)
+TOUCH Community Services. Click [here](https://www.help123.sg/).
 
 ------
 
-DMA Parent Guide - Click [here.](https://drive.google.com/drive/folders/1v-TiyDZGUeOhJazC4LyU-j0UlMUqddm0?usp=drive_link)
+DMA Parent Guide - Click [here](https://drive.google.com/drive/folders/1v-TiyDZGUeOhJazC4LyU-j0UlMUqddm0?usp=drive_link).
