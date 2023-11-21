@@ -6,11 +6,13 @@ variant: markdown
 ---
 **MOE Service Excellence Award 2022 Winners**
 
-| Award Category 	|   MOE Service Excellence Award (MSEA)                                                      	|
-|-----------------------	|-------------------------------------------------------------------------------------------------	|
-| Platinum              	| Mr Seah Wei Liang<br> Mdm Yap Ling Ling                                                                 	|
-| Gold                  	| Mdm Aw Jui<br>Mdm Norhashimah Hamzah<br>Mdm Ramah Rahim<br>Mr Seah Wei Liang                                   	|
-| Silver                	| Ms Sandra Loke<br>Mr Mohamed Halid<br>Mr Sapii Dasuki<br>Mdm Shaheeda Abdul Aziz Pallot<br>Mr Zhang Hua'an Noah 	|
+
+
+| Award Category | MOE Service Excellence Award (MSEA) |
+| -------- | -------- |
+| Platinum     | Mr Seah Wei Liang<br> Mdm Yap Ling Ling     |
+| Gold | Mdm Aw Jui<br>Mdm Norhashimah Hamzah<br>Mdm Ramah Rahim<br>Mr Seah Wei Liang |
+| Silver | Ms Sandra Loke<br>Mr Mohamed Halid<br>Mr Sapii Dasuki<br>Mdm Shaheeda Abdul Aziz Pallot<br>Mr Zhang Hua'an Noah |
 
 **North Zone Open Classroom: Mr Jason Ang**
 
@@ -29,11 +31,11 @@ Congratulations, Mr Khyber Singh and Ms Susan Lim&nbsp;for their presentation at
 
 **MOE Service Excellence Award 2021 Winners**
 
-|    <br>Award Category 	|    <br>MOE Service Excellence Award (MSEA)        	|
-|-----------------------	|---------------------------------------------------	|
-| Platinum              	| Mr Vincent Lee                                    	|
-| Gold                  	| Mr Jackie Ong<br>Mdm Shahida<br>Mdm Yap Ling Ling 	|
-| Silver                	| Mdm Aw Jui<br>Mdm Norhashimah<br>Mdm Ramah        	|
+| Award Category | MOE Service Excellence Award (MSEA) |
+| -------- | -------- |
+| Platinum     | Mr Vincent Lee |
+| Gold  | Mr Jackie Ong<br>Mdm Shahida<br>Mdm Yap Ling Ling |
+| Silver | Mdm Aw Jui<br>Mdm Norhashimah<br>Mdm Ramah |
 
 **ESRI Singapore's Young Scholar Award: Mr Noah Zhang**
 
