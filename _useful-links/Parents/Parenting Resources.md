@@ -3,6 +3,7 @@ title: Parenting Resources
 permalink: /useful-links-1/parenting-resources/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 **<font size="5">Secondary 2 to Secondary 5 Books and Uniform Sales</font>**<br>
 [Secondary 2 Textbook &amp; Stationery List](/files/Resources%20for%20parents/Textbook%20sch%20uniform/sengkang%20secondary%20school%20booklist%202024%203rd%20sec%202.pdf)<br>[Secondary 3 Textbook &amp; Stationery List](/files/Resources%20for%20parents/Textbook%20sch%20uniform/sengkang%20secondary%20school%20booklist%202024%203rd%20sec%203.pdf)<br>[Secondary 4 Textbook &amp; Stationery List](/files/Resources%20for%20parents/Textbook%20sch%20uniform/sengkang%20secondary%20school%20booklist%202024%203rd%20sec%204.pdf)<br>
@@ -16,7 +17,6 @@ third_nav_title: Parents
 3.  [Schoolbag: The Education News Site](https://www.schoolbag.edu.sg/)
 4.  [Parents Gateway Guide](https://moe-sengkangsec-staging.netlify.app/useful-links-1/parenting-resources)
 5.  [Student ICT site](https://sites.google.com/moe.edu.sg/skss-student-ict/home) 
-6. [Personalised Digital Learning Programme (PDLP)Site](https://sites.google.com/moe.edu.sg/skss-pdlp/home)&nbsp;
-7.  [Group Personal Accident Insurance for Students](/files/Resources%20for%20parents/Grp%20Personal%20Accident%20Insurance%202023_students.pdf)
-8.  [Bulletin Special Edition](/files/SKSS%20Bulletin%20Special%20Edition%2027%20July%202021.pdf)
-9.  [Lost and Found Information](/files/Lost%20and%20Found%20Information.pdf)
+6.  [Group Personal Accident Insurance for Students](/files/Resources%20for%20parents/Grp%20Personal%20Accident%20Insurance%202023_students.pdf)
+7.  [Bulletin Special Edition](/files/SKSS%20Bulletin%20Special%20Edition%2027%20July%202021.pdf)
+8.  [Lost and Found Information](/files/Lost%20and%20Found%20Information.pdf)
