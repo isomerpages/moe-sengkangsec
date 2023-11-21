@@ -37,21 +37,30 @@ Congratulations, Mr Khyber Singh and Ms Susan Lim&nbsp;for their presentation at
 | Gold  | Mr Jackie Ong<br>Mdm Shahida<br>Mdm Yap Ling Ling |
 | Silver | Mdm Aw Jui<br>Mdm Norhashimah<br>Mdm Ramah |
 
+<br>
+
 **ESRI Singapore's Young Scholar Award: Mr Noah Zhang**
 
 ![](/images/Achievements/Staff%20Achievements%201.png)
+
+<br>
 
 **2021 Teachers Conference &amp; Excel Festival: Hockey CCA**
 
 ![](/images/Achievements/Staff%20Achievements%202.png)
 
+<br>
+
 **North Division Commissioner: Ms Jenny Shea**
 
 ![](/images/Achievements/Staff%20Achievements%203.png)
 
+<br>
 **N1 Cluster Ideas Bank 2021 1st Prize : EL Department**
 
 ![](/images/Achievements/Staff%20Achievements%204.png)
+
+<br>
 
 **N1 Cluster Ideas Bank 2021 3rd Prize: PE Department**
 
