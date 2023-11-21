@@ -3,6 +3,7 @@ title: Resources for Parents
 permalink: /curriculum/National-Digital-Literacy-Prog/resources/
 description: ""
 third_nav_title: National Digital Literacy Prog
+variant: markdown
 ---
 Parent Handbook (I) on Learning with a Personal Learning Device (PLD). Click [here](/files/PLD/pdlp-Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf).
 
@@ -33,9 +34,4 @@ TOUCH Community Services. Click [here.](https://www.help123.sg/)
 
 ------
 
-DMA Parent Guide - Option A. Click [here.](/files/PLD/DMA%20Parent%20Guide%20v2%20Option%20A%20Chrome%20OS.pdf)
-
-------
-
-
-DMA Parent Guide - Option B. Click [here.](/files/PLD/DMA%20Parent%20Guide%20v2%20Option%20B%20Chrome%20OS.pdf)
+DMA Parent Guide - Click [here.](https://drive.google.com/drive/folders/1v-TiyDZGUeOhJazC4LyU-j0UlMUqddm0?usp=drive_link)
