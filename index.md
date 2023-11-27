@@ -25,12 +25,11 @@ sections:
       alignment: left
       size: sm
   - infopic:
-      title: OPEN HOUSE
+      title: SKSS Set Sail
       subtitle: SENG KANG SECONDARY SCHOOL
       id: infopic
-      description: 18TH NOVEMBER 2023 (SAT) | 8AM to 12PM
       image: /images/Open House 2023/for school website.jpg
       alt: Image alt text
-      button: CLICK HERE TO FIND OUT MORE
-      url: https://www.sengkangsec.moe.edu.sg/open-house-2023/programme-overview/
+      button: CLICK HERE TO WATCH
+      url: https://www.sengkangsec.moe.edu.sg/about-skss/skss-sat-sail/
 ---
