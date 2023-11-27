@@ -2,10 +2,10 @@ collections:
   about-skss:
     output: true
     order:
-      - SKSS Set Sail.md
       - School History.md
       - Vision, Mission and Values.md
       - School Song.md
+      - SKSS Set Sail.md
       - Our People/.keep
       - Our People/Our People.md
       - Our People/Steering Committee.md
