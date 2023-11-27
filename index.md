@@ -28,7 +28,7 @@ sections:
       title: SKSS Set Sail
       subtitle: SENG KANG SECONDARY SCHOOL
       id: infopic
-      image: /images/Open House 2023/for school website.jpg
+      image: /images/ABOUT SKSS/Banner_for_Corporate_video.jpg
       alt: Image alt text
       button: CLICK HERE TO WATCH
       url: https://www.sengkangsec.moe.edu.sg/about-skss/skss-sat-sail/
