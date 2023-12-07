@@ -9,7 +9,7 @@ Parent Handbook (I) on Learning with a Personal Learning Device (PLD). Click [he
 
 ------
 
-Parent Handbook (II) on Learning with a Personal Learning Device (PLD). Click [here](/files/PLD/pdlp-Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf).
+Parent Handbook (II) on Learning with a Personal Learning Device (PLD). Click [here](/files/Resources%20for%20parents/ip3___parent_handbook__ii__2024_final.pdf).
 
 ------
 
