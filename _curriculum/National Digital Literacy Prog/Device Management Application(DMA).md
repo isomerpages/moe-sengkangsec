@@ -5,23 +5,6 @@ description: ""
 third_nav_title: National Digital Literacy Prog
 variant: markdown
 ---
-#### Selecting After-School DMA Options for PLDs
-
-For parents/guardians who prefer alternative DMA settings after school hours, they can choose from the following options:
-
-*   Option A: Parents can modify DMA settings after school hours
-    
-*   Option B: Parents can disable the DMA after school hours.
-    
-
-Please submit your options using the online DMA option form below -&nbsp;  
-
-[https://form.gov.sg/#!/6167a47ef3444300123a280e](https://form.gov.sg/#!/6167a47ef3444300123a280e)
-
-Please note that the system will be updated on every first week of the following month.&nbsp;  
-  
-More details of the Functions and DMA settings can be found below.
-
 #### Functions of the DMA
 
 A Device Management Application (“DMA”) will come pre-installed on all PLDs purchased through the school, and will be installed on all student-owned devices subject to parental/guardian consent. The DMA has 3 main components which will support the use of the PLD in the classroom and safeguard students’ cyber wellness:
@@ -32,7 +15,7 @@ A Device Management Application (“DMA”) will come pre-installed on all PLDs 
 
 (c)&nbsp;**Usage Management Service.**&nbsp;This enables the school and/or parents/guardians to better supervise and set helpful limits for students’ use of PLD after school.
 
-You may find more information about the DMA Options here. 
+You may find more information about the DMA Options [here](https://drive.google.com/file/d/1Pl_RshsmKkcL4ZQAT_-0lrKN-2rClcTw/view?usp=drive_link). 
 
 #### Selecting After-School DMA Options for PLDs
 
