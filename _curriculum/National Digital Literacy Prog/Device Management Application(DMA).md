@@ -25,7 +25,7 @@ For parents/guardians who prefer alternative DMA settings after school hours, th
 •	Option B: Parents can disable the DMA after school hours.
 
 Please submit your options using the online DMA option form below – <br>
-https://go.gov.sg/skss-dma-change
+[https://go.gov.sg/skss-dma-change](https://go.gov.sg/skss-dma-change)
 
 [DMA-Resources for Parents](https://drive.google.com/drive/folders/1v-TiyDZGUeOhJazC4LyU-j0UlMUqddm0?usp=drive_link) – You may click the link to find useful information like <br>
 -	DMA Parent Guide – Option B <br>
