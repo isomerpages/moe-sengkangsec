@@ -2,7 +2,15 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: markdown
 ---
+**RELEASE OF THE 2023 SINGAPORE-CAMBRIDGE GCE**  
+**N(A)- & N(T)-LEVEL EXAMINATION RESULTS ON 18 DECEMBER 2023**
+
+Students to report to school hall in their uniforms with proper grooming and be seated by 1.45pm. For students with outstanding payments, please settle at the office before you report to the Hall.
+
+___
+
 **Collection of ‘N’ & ‘O’ level Testimonials**
 
 Graduated students can now collect their testimonials from the school daily from Monday to Friday except Saturday, Sunday and Public Holiday.
