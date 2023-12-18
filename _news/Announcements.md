@@ -9,6 +9,8 @@ variant: markdown
 
 Students to report to school hall in their uniforms with proper grooming and be seated by 1.45pm. For students with outstanding payments, please settle at the office before you report to the Hall.
 
+[2023 N level Result Release Admin Procedures](/files/2023_GCE_N_Level_Result_Release__Student_version__Admin_Procedures.pdf)
+
 ___
 
 **Collection of ‘N’ & ‘O’ level Testimonials**
