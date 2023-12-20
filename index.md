@@ -12,9 +12,21 @@ sections:
       backgroundColor: gray
       alignment: left
       size: sm
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
+      key_highlights:
+        - title: Sec 1 Welcome Tea & Briefing
+          description: ""
+          url: /useful-links/parents/2024s1/
+        - title: CCA Schedule
+          description: ""
+          url: /co-curriculum/co-curricular-activities-cca/
+        - title: Timetable and Assessment
+          description: ""
+          url: /curriculum/instructional-programme-ip/timetable-and-assessment/
+        - title: Direct School Admission (DSA)
+          description: for 2024 Sec 1 intake
+          url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
+      button: Announcement
+      url: /announcements/
   - infopic:
       title: SKSS Set Sail
       subtitle: SENG KANG SECONDARY SCHOOL
