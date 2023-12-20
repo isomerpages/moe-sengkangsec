@@ -7,26 +7,14 @@ permalink: /
 notification: Sec 1 Welcome Tea & Briefing, click below to find out more
 sections:
   - hero:
-      button: Announcements
-      url: /announcements
       background: /images/2023-2024 website banner_v2.png
-      key_highlights:
-        - title: Sec 1 Welcome Tea & Briefing
-          description: ""
-          url: /useful-links/parents/2024s1/
-        - title: CCA Schedule
-          description: ""
-          url: /co-curriculum/co-curricular-activities-cca/
-        - title: Timetable & Assessment
-          description: ""
-          url: /curriculum/instructional-programme-ip/timetable-and-assessment/
-        - title: Direct School Admission (DSA)
-          description: For 2024 Sec 1 intake
-          url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
       variant: center
       backgroundColor: gray
       alignment: left
       size: sm
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - infopic:
       title: SKSS Set Sail
       subtitle: SENG KANG SECONDARY SCHOOL
