@@ -20,6 +20,9 @@ sections:
         - title: Direct School Admission (DSA)
           description: For 2024 Sec 1 intake
           url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
+        - title: Sec 1 Welcome Tea & Briefing
+          description: ""
+          url: /useful-links/parents/2024s1/
       variant: center
       backgroundColor: gray
       alignment: left
