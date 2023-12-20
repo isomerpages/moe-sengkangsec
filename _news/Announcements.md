@@ -4,6 +4,23 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
+#### **Welcome Tea & Briefing for Secondary 1 (2024) Students & Parents**
+
+Date : 22 Dec 2023 (Fri)
+
+Time : 2.30pm - 3.30pm
+
+Venue: School Hall
+
+The following items will be covered during the session.
+
+* Principal’s Welcome
+* Orientation Programme
+* Full Subject Based Banding
+* Information on Buying Books & Uniform
+
+Books/Uniform can only be purchased after the briefing session (3.30pm-6pm).This is to ensure that parents have sufficient information to make purchasing decisions.
+
 **RELEASE OF THE 2023 SINGAPORE-CAMBRIDGE GCE**  
 **N(A)- & N(T)-LEVEL EXAMINATION RESULTS ON 18 DECEMBER 2023**
 
