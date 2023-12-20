@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-#### **Welcome Tea & Briefing for Secondary 1 (2024) Students & Parents**
+**Welcome Tea & Briefing for Secondary 1 (2024) Students & Parents**
 
 Date : 22 Dec 2023 (Fri)
 
