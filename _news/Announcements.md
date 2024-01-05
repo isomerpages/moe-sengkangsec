@@ -2,30 +2,6 @@
 title: Announcements
 permalink: /announcements/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-**Collection of ‘N’ &amp; ‘O’ level Testimonials**
-
-Graduated students can now collect their testimonials from the school daily from Monday to Friday except Saturday, Sunday and Public Holiday.
-Walk-in is opened from 15 August 2023 to 14 September 2023.
-Time:  9am – 4pm 
-
-With effect from 15 September 2023, graduated students will need to make appointment with the school before collection of testimonials. Thank you.
-
----
-
-[**CCA Training Schedule**](https://moe-sengkangsec-staging.netlify.app/co-curriculum/co-curricular-activities-cca)
-
-Click on the link above for more information.
-
----
-
-[**Timetable &amp; Assessment Information**](https://moe-sengkangsec-staging.netlify.app/curriculum/instructional-programme-ip/timetable-and-assessment)
-
-Click on the link above for more information.
-
----
-
-[**Travel Declaration via PG**](/files/Resources%20for%20parents/Instructions_for_Travel_Declaration_on_PG.pdf)
-
-Step-by-step guide to Travel Declaration and Update of Particulars on Parents Gateway mobile app
+<p><strong>RELEASE OF THE 2023 SINGAPORE-CAMBRIDGE GCE O-LEVEL EXAMINATION RESULTS ON 11 JANUARY 2024</strong></p><p>The GCE O level results will be released on 11 January 2024 (Thursday).</p><p>The details are as follow</p><p>Time: 2pm (students are allowed to enter the school from 1.30pm onwards)</p><p>Venue: school hall</p><p>Attire: smart causal attire</p><p>If you are unwell or unable to collect your results in person, please email the school on result collection matters.&nbsp;</p><hr><p></p><p><strong>Collection of ‘N’ &amp; ‘O’ level Testimonials</strong></p><p>Graduated students can now collect their testimonials from the school daily from Monday to Friday except Saturday, Sunday and Public Holiday. Walk-in is opened from 15 August 2023 to 14 September 2023. Time: 9am – 4pm</p><p>With effect from 15 September 2023, graduated students will need to make appointment with the school before collection of testimonials. Thank you.</p><hr><p><strong><a href="https://moe-sengkangsec-staging.netlify.app/co-curriculum/co-curricular-activities-cca" rel="noopener noreferrer nofollow" target="_blank">CCA Training Schedule</a></strong></p><p>Click on the link above for more information.</p><hr><p><strong><a href="https://moe-sengkangsec-staging.netlify.app/curriculum/instructional-programme-ip/timetable-and-assessment" rel="noopener noreferrer nofollow" target="_blank">Timetable &amp; Assessment Information</a></strong></p><p>Click on the link above for more information.</p><hr><p><strong><a href="/files/Resources%20for%20parents/Instructions_for_Travel_Declaration_on_PG.pdf" rel="noopener noreferrer nofollow" target="_blank">Travel Declaration via PG</a></strong></p><p>Step-by-step guide to Travel Declaration and Update of Particulars on Parents Gateway mobile app</p>
