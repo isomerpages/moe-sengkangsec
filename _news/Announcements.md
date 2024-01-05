@@ -4,16 +4,6 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-**RELEASE OF THE 2023 SINGAPORE-CAMBRIDGE GCE O-LEVEL EXAMINATION RESULTS ON 11 JANUARY 2024**
-
-The GCE O level results will be released on 11 Jan 24 at 2pm. <br>
-
-Students are to report to school hall in their uniforms with proper grooming and be seated by 1.45pm. For students with outstanding payments, please settle at the office before you report to the Hall.
-
-Those who are unable to do so in person can appoint a proxy to collect a physical copy of their results on their behalf from the school. Proxies must produce relevant documents for the school’s verification when collecting results.
-
-___
-
 **Collection of ‘N’ &amp; ‘O’ level Testimonials**
 
 Graduated students can now collect their testimonials from the school daily from Monday to Friday except Saturday, Sunday and Public Holiday.
