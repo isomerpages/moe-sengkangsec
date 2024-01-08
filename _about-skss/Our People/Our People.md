@@ -61,4 +61,4 @@ variant: markdown
 | 4-6 | Ms Chew Jing Qi, Selina          |      |
 | 4-7 | Ms Jolyne Tan Hwee Ling       |                          |
 | 4-8 | Mr Lim Zhao Chern Joshua | Ms Sazryna Lee |
-| 5-1 | Mr Tan Bing Dun     |                          |
+| 5-1 | Mr Tan Bing Dun   |                      |
