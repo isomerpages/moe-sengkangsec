@@ -9,22 +9,19 @@ variant: markdown
 |------------------------------|--------------------------------|
 | Mr N Sivarajan               | Principal                      |
 | Mr Tan Teck Tian         | Vice-Principal                 |
-| Mr Jeremy Ng            | Vice-Principal                 |
+| Mr Ng Cheng Song Jeremy           | Vice-Principal                 |
 | Ms Ong Yen Ping Cheryl       | Sch Staff Developer            |
+| Mr Sam Tan Caiyu             | HOD ICT                        |
 | Ms Jenny Neo                 | HOD Student Management         |
-| Ms Serene Loh Swan Shya      | Year Head Lower Secondary      |
-| Mr Ng Chin Woon              | Year Head Upper Secondary      |
-| Mdm Nora Bte Hirin           | Asst Year Head Upper Secondary |
-| Mr Lishanth Thangavelu       | Asst Year Head Lower Secondary |
 | Mdm Koh Yoke Peng Eunice     | HOD Design and Aesthetics      |
 | Mr Henry Kwek                | HOD Humanities                 |
 | Mdm Zurinawati Jumahat       | HOD CCE                        |
-| Mr Sam Tan Caiyu             | HOD ICT                        |
 | Mr Nur Saspurie              | HOD English                    |
 | Mr Lim Song Heng Melvin      | HOD Mathematics                |
 | Mr Lim Swee Beng             | HOD Mother Tongue Language     |
 | Dr Mohamed Ibrahim Bin Aris      | HOD PE and CCA                 |
 | Mr Hisham Bin Zainal         | HOD Science                    |
+| Mr Ng Chin Woon              | Year Head Upper Secondary      |
 | Ms Chia Eunice               | SH Student Leadership          |
 | Mr Alex Mah                  | SH Student Wellbeing           |
 | Mr Laffyette Mitchel Didi    | SH Discipline                  |
@@ -36,5 +33,9 @@ variant: markdown
 | Mdm Rabiaton Laili           | SH ML                          |
 | Mr Bernard Wu                | SH PE                          |
 | Ms Amanda Lee                | SH Nutrition and Food Science  |
+| Mdm Nora Bte Hirin           | Asst Year Head Upper Secondary |
+| Mr Lishanth Thangavelu       | Asst Year Head Lower Secondary |
+| Ms Nivashini D/O Mohandasan      | Asst Year Head Lower Secondary (Internal) |
 | Ms Maureen Pang Thien May    | Administration Manager         |
 | Mr Vincent Lee Khai Cheong   | Operational Manager            |
+| Mr Anbalagan Jayaraman  | Operational Manager            |
