@@ -15,10 +15,10 @@ variant: markdown
 | 1-2 | Ms Jenny Wang              | Mr Lim Bao Luo Paul  |
 | 1-3 | Mdm Wee Shen Sze               | Ms Nur Amirah Binte Rosman   |
 | 1-4 | Mdm Rekhvinder Kaur                    | Ms Sam Li Ying   |
-| 1-5 | Mr Low Young Kwang                     | Ms Leong Xiu Han         |
-| 1-6 | Mrs Tan Yee Lee                     | Mr Loh Chia Chang        |
-| 1-7 | Ms Kho Hui Han                      | Mr Hui Win Sun           |
-| 1-8 | Mr Jason Ang Hui Xiang | Mdm Debbie Gan           |
+| 1-5 | Mr Low Young Kwang                     | Ms Rafiqah Dewi Bte Aziz       |
+| 1-6 | Ms Siti Zawiah Bte Abd Malek                 | Mr Danial Iylia Bin Roslin        |
+| 1-7 | Ms Sharie Ong Minyu                  | Mrs Deenadayalan Jothibai          |
+| 1-8 | Mr Jason Ang Hui Xiang | Ms Wan Kuan Yi           |
 
 
 
@@ -32,7 +32,7 @@ variant: markdown
 | 2-4 | Mr Lee Chee Yeon       | Ms J Thivyadarishini  Mrs Joyce Goh            |
 | 2-5 | Mr Teo Chun Min | Ms Nursimah Mokhtar      |
 | 2-6 | Mr Leong Kok Wai        | Ms Jenny Shea Ka Yan     |
-| 2-7 | Ms Loh Yoke Ling        | Mdm Norzahidah Ma'az     |
+| 2-7 | Ms Kho Hui Han            | Mdm Norzahidah Ma'az     |
 | 2-8 | Mr Bernard Wu Yongwei   | Mr Mohammad Zulkiffli Abu Bakar |
 
 **<font size="4">Secondary 3 Assistant Year Head: Mr Ng Chin Woon </font>**
@@ -46,7 +46,7 @@ variant: markdown
 | 3-5 | Ms Tiffany Puah Shi Min  | Mr Clarence Ng            |
 | 3-6 | Mr Alex Mah Shao Wei     |                           |
 | 3-7 | Ms Jolyne Tan Hwee Ling  |            |
-| 3-8 |  | Mdm Povanneswary Krishnan |
+| 3-8 | Ms Loh Yoke Ling | Mdm Povanneswary Krishnan |
 
 **<font size="4">Secondary 4/5 Year Head: Mdm Nora Hirin </font>**
 
