@@ -39,15 +39,15 @@ variant: markdown
 
 |     | FT                       | FT                        |
 |-----|--------------------------|---------------------------|
-| 3-1 | Mrs Joel Tan Tze Ying   |                           |
-| 3-2 | Ms Honey Kwok           |                           |
-| 3-3 | Ms Nursimah Mokhtar           |                           |
-| 3-4 | Mr Goy Wee Seng Wilson    |                           |
-| 3-5 | Ms Lim Siew Khim  |          |
-| 3-6 | Mr Alex Mah Shao Wei     |                           |
+| 3-1 | Mrs Joel Tan Tze Ying   |   Toh Hong Jin                        |
+| 3-2 | Ms Honey Kwok           |   Su Xiao Min                        |
+| 3-3 | Ms Nursimah Mokhtar           |    Lak Lucas                       |
+| 3-4 | Mr Goy Wee Seng Wilson    |    Uma Maheshwari Ravisankar                       |
+| 3-5 | Ms Lim Siew Khim  |   Lee Zihui Amanda       |
+| 3-6 | Mr Leong Soo Ching     |     Rengasamy Manonmani                      |
 | 3-7 |   |            |
-| 3-8 | Ms Loh Yoke Ling | Mdm Povanneswary Krishnan |
-| 3-9 | Mr Bernard Wu Yongwei | |
+| 3-8 | Ms Loh Yoke Ling | Sivakumar Duraisamy |
+| 3-9 | Mr Bernard Wu Yongwei | Ong Zhi Xiang |
 
 **<font size="4">Secondary 4/5 Year Head: Mdm Nora Hirin </font>**
 
