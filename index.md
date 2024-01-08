@@ -17,9 +17,6 @@ sections:
         - title: CCA Schedule
           description: ""
           url: /co-curriculum/co-curricular-activities-cca/
-        - title: Timetable and Assessment
-          description: ""
-          url: /curriculum/instructional-programme-ip/timetable-and-assessment/
         - title: Direct School Admission (DSA)
           description: for 2024 Sec 1 intake
           url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
