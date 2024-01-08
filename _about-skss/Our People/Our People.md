@@ -16,7 +16,7 @@ variant: markdown
 | 1-3 | Mdm Wee Shen Sze               | Ms Nur Amirah Binte Rosman   |
 | 1-4 | Mdm Rekhvinder Kaur                    | Ms Sam Li Ying   |
 | 1-5 | Mr Low Young Kwang                     | Ms Rafiqah Dewi Bte Aziz       |
-| 1-6 | Ms Siti Zawiah Bte Abd Malek                 | Mr Danial Iylia Bin Roslin        |
+| 1-6 | Ms Siti Zawiah Bte Abd Malek                 | Mr Danial Iylia        |
 | 1-7 | Ms Sharie Ong Minyu                  | Mrs Deenadayalan Jothibai          |
 | 1-8 | Mr Jason Ang Hui Xiang | Ms Wan Kuan Yi           |
 
@@ -45,7 +45,7 @@ variant: markdown
 | 3-4 | Mr Goy Wee Seng Wilson    |                           |
 | 3-5 | Ms Lim Siew Khim  |          |
 | 3-6 | Mr Alex Mah Shao Wei     |                           |
-| 3-7 | Ms Jolyne Tan Hwee Ling  |            |
+| 3-7 |   |            |
 | 3-8 | Ms Loh Yoke Ling | Mdm Povanneswary Krishnan |
 | 3-9 | Mr Bernard Wu Yongwei | |
 
@@ -56,9 +56,9 @@ variant: markdown
 | 4-1 | Mr Lee Jing An Gabriel           |                          |
 | 4-2 | Mdm Low Soo Kim              |                          |
 | 4-3 | Mr Khyber Singh       |            |
-| 4-4 | Ms Sarah Lim Suet Rui             | Ms Ong Ying Kai          |
-| 4-5 | Mr Clarence Ng                | Mr Danial Iylia          |
-| 4-6 | Ms Amanda Lee Zihui          | Mr Christopher Silva     |
+| 4-4 | Ms Sarah Lim Suet Rui             |         |
+| 4-5 | Mr Clarence Ng                |           |
+| 4-6 | Ms Chew Jing Qi, Selina          |      |
 | 4-7 | Ms Jolyne Tan Hwee Ling       |                          |
 | 4-8 | Mr Lim Zhao Chern Joshua | Ms Sazryna Lee |
 | 5-1 | Mr Tan Bing Dun     |                          |
