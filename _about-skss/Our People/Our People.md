@@ -32,32 +32,33 @@ variant: markdown
 | 2-4 | Mr Lee Chee Yeon       | Ms J Thivyadarishini          |
 | 2-5 | Mr Teo Chun Min | Ms Chung See Yee, Cherie Sara      |
 | 2-6 | Mrs Chin Yee Lee     | Ms Tan Chia Hui     |
-| 2-7 | Ms Kho Hui Han            | Mdm Norzahidah Ma'az     |
-| 2-8 | Mr Bernard Wu Yongwei   | Mr Mohammad Zulkiffli Abu Bakar |
+| 2-7 | Ms Kho Hui Han            |   Mdm Chua Yingying Joyce  |
+| 2-8 |    | Mr Mohammad Zulkiffli Abu Bakar |
 
 **<font size="4">Secondary 3 Assistant Year Head: Mr Ng Chin Woon </font>**
 
 |     | FT                       | FT                        |
 |-----|--------------------------|---------------------------|
 | 3-1 | Mrs Joel Tan Tze Ying   |                           |
-| 3-2 | Ms Honey Kwok Mdm Low Soo Kim          |                           |
+| 3-2 | Ms Honey Kwok           |                           |
 | 3-3 | Ms Nursimah Mokhtar           |                           |
 | 3-4 | Ms Sarah Lim Suet Rui    |                           |
 | 3-5 | Ms Lim Siew Khim  |          |
 | 3-6 | Mr Alex Mah Shao Wei     |                           |
 | 3-7 | Ms Jolyne Tan Hwee Ling  |            |
 | 3-8 | Ms Loh Yoke Ling | Mdm Povanneswary Krishnan |
+| 3-9 | Mr Bernard Wu Yongwei
 
 **<font size="4">Secondary 4/5 Year Head: Mdm Nora Hirin </font>**
 
 |     | FT                           | FT                       |
 |-----|------------------------------|--------------------------|
 | 4-1 | Mr Lee Jing An Gabriel           |                          |
-| 4-2 | Ms Sazryna Lee               |                          |
-| 4-3 | Mr Khyber SinghMs Rachel Eng Baoling        |            |
+| 4-2 | Mdm Low Soo Kim              |                          |
+| 4-3 | Mr Khyber Singh       |            |
 | 4-4 | Mdm Wee Shen Sze             | Ms Ong Ying Kai          |
 | 4-5 | Mr Clarence Ng                | Mr Danial Iylia          |
 | 4-6 | Ms Amanda Lee Zihui          | Mr Christopher Silva     |
 | 4-7 | Ms Jolyne Tan Hwee Ling       |                          |
-| 4-8 | Mr Lim Zhao Chern Joshua | Ms Sazryna Lee Samsudin |
+| 4-8 | Mr Lim Zhao Chern Joshua | Ms Sazryna Lee |
 | 5-1 | Mr Tan Bing Dun     |                          |
