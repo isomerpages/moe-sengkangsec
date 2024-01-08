@@ -42,7 +42,7 @@ variant: markdown
 | 3-1 | Mrs Joel Tan Tze Ying   |                           |
 | 3-2 | Ms Honey Kwok           |                           |
 | 3-3 | Ms Nursimah Mokhtar           |                           |
-| 3-4 | Ms Sarah Lim Suet Rui    |                           |
+| 3-4 |     |                           |
 | 3-5 | Ms Lim Siew Khim  |          |
 | 3-6 | Mr Alex Mah Shao Wei     |                           |
 | 3-7 | Ms Jolyne Tan Hwee Ling  |            |
@@ -56,7 +56,7 @@ variant: markdown
 | 4-1 | Mr Lee Jing An Gabriel           |                          |
 | 4-2 | Mdm Low Soo Kim              |                          |
 | 4-3 | Mr Khyber Singh       |            |
-| 4-4 | Mdm Wee Shen Sze             | Ms Ong Ying Kai          |
+| 4-4 | Ms Sarah Lim Suet Rui             | Ms Ong Ying Kai          |
 | 4-5 | Mr Clarence Ng                | Mr Danial Iylia          |
 | 4-6 | Ms Amanda Lee Zihui          | Mr Christopher Silva     |
 | 4-7 | Ms Jolyne Tan Hwee Ling       |                          |
