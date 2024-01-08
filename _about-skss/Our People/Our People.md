@@ -26,12 +26,12 @@ variant: markdown
 
 |     | FT                      | FT                       |
 |-----|-------------------------|--------------------------|
-| 2-1 | Mdm Rabiaton Binte Laili         |                          |
-| 2-2 | Ms Tan Jing Ying        | Ms             |
+| 2-1 | Mdm Rabiaton Binte Laili         |    Mr Steven Tay Beng Chai                      |
+| 2-2 | Mdm Liyana Binte Mohamed Ali        | Mr  Teh Poh Leong, Gerald           |
 | 2-3 | Mdm Nuurulhuda Hasbolah   |  Mr Jerome Sng Kai Rong                    |
-| 2-4 | Mr Lee Chee Yeon       | Ms J Thivyadarishini  Mrs Joyce Goh            |
-| 2-5 | Mr Teo Chun Min | Ms Nursimah Mokhtar      |
-| 2-6 | Mr Leong Kok Wai        | Ms Jenny Shea Ka Yan     |
+| 2-4 | Mr Lee Chee Yeon       | Ms J Thivyadarishini          |
+| 2-5 | Mr Teo Chun Min | Ms Chung See Yee, Cherie Sara      |
+| 2-6 | Mrs Chin Yee Lee     | Ms Tan Chia Hui     |
 | 2-7 | Ms Kho Hui Han            | Mdm Norzahidah Ma'az     |
 | 2-8 | Mr Bernard Wu Yongwei   | Mr Mohammad Zulkiffli Abu Bakar |
 
@@ -41,7 +41,7 @@ variant: markdown
 |-----|--------------------------|---------------------------|
 | 3-1 | Mrs Joel Tan Tze Ying   |                           |
 | 3-2 | Ms Honey Kwok Mdm Low Soo Kim          |                           |
-| 3-3 | Mr Khyber Singh          |                           |
+| 3-3 | Ms Nursimah Mokhtar           |                           |
 | 3-4 | Ms Sarah Lim Suet Rui    |                           |
 | 3-5 | Ms Lim Siew Khim  |          |
 | 3-6 | Mr Alex Mah Shao Wei     |                           |
@@ -54,7 +54,7 @@ variant: markdown
 |-----|------------------------------|--------------------------|
 | 4-1 | Mr Lee Jing An Gabriel           |                          |
 | 4-2 | Ms Sazryna Lee               |                          |
-| 4-3 | Ms Rachel Eng Baoling        |            |
+| 4-3 | Mr Khyber SinghMs Rachel Eng Baoling        |            |
 | 4-4 | Mdm Wee Shen Sze             | Ms Ong Ying Kai          |
 | 4-5 | Mr Clarence Ng                | Mr Danial Iylia          |
 | 4-6 | Ms Amanda Lee Zihui          | Mr Christopher Silva     |
