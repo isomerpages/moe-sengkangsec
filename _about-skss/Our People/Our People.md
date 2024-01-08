@@ -43,7 +43,7 @@ variant: markdown
 | 3-2 | Ms Honey Kwok Mdm Low Soo Kim          |                           |
 | 3-3 | Mr Khyber Singh          |                           |
 | 3-4 | Ms Sarah Lim Suet Rui    |                           |
-| 3-5 | Ms Lim Siew Khim  | Mr Clarence Ng            |
+| 3-5 | Ms Lim Siew Khim  |          |
 | 3-6 | Mr Alex Mah Shao Wei     |                           |
 | 3-7 | Ms Jolyne Tan Hwee Ling  |            |
 | 3-8 | Ms Loh Yoke Ling | Mdm Povanneswary Krishnan |
@@ -56,7 +56,7 @@ variant: markdown
 | 4-2 | Ms Sazryna Lee               |                          |
 | 4-3 | Ms Rachel Eng Baoling        |            |
 | 4-4 | Mdm Wee Shen Sze             | Ms Ong Ying Kai          |
-| 4-5 | Ms Chia Eunice               | Mr Danial Iylia          |
+| 4-5 | Mr Clarence Ng                | Mr Danial Iylia          |
 | 4-6 | Ms Amanda Lee Zihui          | Mr Christopher Silva     |
 | 4-7 | Ms Jolyne Tan Hwee Ling       |                          |
 | 4-8 | Mr Lim Zhao Chern Joshua | Ms Sazryna Lee Samsudin |
