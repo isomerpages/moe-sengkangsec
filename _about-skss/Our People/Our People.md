@@ -45,7 +45,7 @@ variant: markdown
 | 3-4 | Mr Goy Wee Seng Wilson    |   Mdm Uma Maheshwari Ravisankar                       |
 | 3-5 | Ms Lim Siew Khim  |  Ms Lee Zihui Amanda       |
 | 3-6 | Mr Leong Soo Ching     |    Mdm Rengasamy Manonmani                      |
-| 3-7 | Mr Mohamad Hakim Bin Mohamad Zainal Abiddin  |            |
+| 3-7 | Mr Mohamad Hakim      |            |
 | 3-8 | Ms Loh Yoke Ling | Sivakumar Duraisamy |
 | 3-9 | Mr Bernard Wu Yongwei | Ong Zhi Xiang |
 
