@@ -32,7 +32,7 @@ variant: markdown
 | Mdm Wee Shen Sze             | SH Guidance                    |
 | Ms Oon Tze Ying                 | SH Mathematics                 |
 | Mdm Lim Siew Khim            | SH CL                          |
-| Mdm Rabiaton Laili           | SH ML                          |
+| Mdm Rabiaton Laili           | SH CCE                          |
 | Mr Bernard Wu                | SH PE                          |
 | Ms Amanda Lee                | SH Nutrition and Food Science  |
 | Mdm Nora Bte Hirin           | Asst Year Head Upper Secondary |
