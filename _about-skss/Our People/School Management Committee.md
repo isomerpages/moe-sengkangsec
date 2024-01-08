@@ -23,9 +23,11 @@ variant: markdown
 | Mr Hisham Bin Zainal         | HOD Science                    |
 | Mr Ng Chin Woon              | Year Head Upper Secondary      |
 | Ms Chia Eunice               | SH Student Leadership          |
-| Mr Alex Mah                  | SH Student Wellbeing           |
+| Ms Vanessa Low Jing Wen                  | SH Student Wellbeing           |
 | Mr Laffyette Mitchel Didi    | SH Discipline                  |
 | Mr Low Young Kwang           | SH ICT                         |
+| Ms Sharie Ong Minyu           | SH Media & Info Literacy                      |
+| Mr Goy Wee Seng           | SH Digitalisation                      |
 | Ms Siti Zawiah Bte Abd Malek | SH English                     |
 | Mdm Wee Shen Sze             | SH Guidance                    |
 | Mrs Joel Tan                 | SH Mathematics                 |
