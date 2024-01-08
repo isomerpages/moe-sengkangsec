@@ -52,9 +52,9 @@ variant: markdown
 **<font size="4">Secondary 4/5 Year Head: Mdm Nora Hirin </font>**
 
 |     | FT                           | FT                       |
-|-----|------------------------------|--------------------------|
-| 4-1 | Mr Lee Jing An Gabriel           |                          |
-| 4-2 | Mdm Low Soo Kim              |                          |
+|-----|---------------------------|------------------------|
+| 4-1 | Mr Lee Jing An Gabriel         |                        |
+| 4-2 | Mdm Low Soo Kim              |                        |
 | 4-3 | Mr Khyber Singh       |            |
 | 4-4 | Ms Sarah Lim Suet Rui             |         |
 | 4-5 | Mr Clarence Ng                |           |
