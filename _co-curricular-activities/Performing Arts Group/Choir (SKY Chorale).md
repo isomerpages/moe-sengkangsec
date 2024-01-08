@@ -64,3 +64,5 @@ Fridays 2:30pm - 5:30pm
   &quot;Times New Roman&quot;;color:#333333;mso-bidi-language:TA">geraldtanyb@gmail.com</span></p></td></tr></tbody></table>
 
 ![](/images/CCA/Sky%20Chorale.png)
+
+![](/images/CCA/SKY_Chorale_on_an_exchange_programme_at_Nan_Chiau_High_School.jpg)
