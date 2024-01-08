@@ -35,7 +35,7 @@ variant: markdown
 | 2-7 | Ms Loh Yoke Ling        | Mdm Norzahidah Ma'az     |
 | 2-8 | Mr Bernard Wu Yongwei   | Mr Mohammad Zulkiffli Abu Bakar |
 
-**<font size="4">Secondary 3 Assistant Year Head: Mdm Nora Hirin </font>**
+**<font size="4">Secondary 3 Assistant Year Head: Mr Ng Chin Woon </font>**
 
 |     | FT                       | FT                        |
 |-----|--------------------------|---------------------------|
@@ -48,7 +48,7 @@ variant: markdown
 | 3-7 | Ms Jolyne Tan Hwee Ling  |            |
 | 3-8 |  | Mdm Povanneswary Krishnan |
 
-**<font size="4">Secondary 4/5 Year Head: Mr Ng Chin Woon </font>**
+**<font size="4">Secondary 4/5 Year Head: Mdm Nora Hirin </font>**
 
 |     | FT                           | FT                       |
 |-----|------------------------------|--------------------------|
