@@ -26,7 +26,7 @@ variant: markdown
 
 |     | FT                      | FT                       |
 |-----|-------------------------|--------------------------|
-| 2-1 | Ms Lim Siew Khim        |                          |
+| 2-1 | Mdm Rabiaton Binte Laili         |                          |
 | 2-2 | Ms Tan Jing Ying        | Ms             |
 | 2-3 | Mdm Nuurulhuda Hasbolah   |  Mr Jerome Sng Kai Rong                    |
 | 2-4 | Mr Lee Chee Yeon       | Ms J Thivyadarishini  Mrs Joyce Goh            |
@@ -43,7 +43,7 @@ variant: markdown
 | 3-2 | Ms Honey Kwok Mdm Low Soo Kim          |                           |
 | 3-3 | Mr Khyber Singh          |                           |
 | 3-4 | Ms Sarah Lim Suet Rui    |                           |
-| 3-5 | Ms Tiffany Puah Shi Min  | Mr Clarence Ng            |
+| 3-5 | Ms Lim Siew Khim  | Mr Clarence Ng            |
 | 3-6 | Mr Alex Mah Shao Wei     |                           |
 | 3-7 | Ms Jolyne Tan Hwee Ling  |            |
 | 3-8 | Ms Loh Yoke Ling | Mdm Povanneswary Krishnan |
