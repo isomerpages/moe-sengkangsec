@@ -11,7 +11,7 @@ variant: markdown
 
 |     | FT                                  | FT                       |
 |-----|-------------------------------------|--------------------------|
-| 1-1 | Mr       Chan Wu Siong Andrew            | Ms     Jasmine Ngoh Xin Rong        |
+| 1-1 | Mr Chan Wu Siong Andrew            | Ms Jasmine Ngoh Xin Rong        |
 | 1-2 | Ms Jenny Wang              | Mr Lim Bao Luo Paul  |
 | 1-3 | Mdm Wee Shen Sze               | Ms Nur Amirah Binte Rosman   |
 | 1-4 | Mr Lee Chee Yeon                    | Ms J Thivyadarishini     |
