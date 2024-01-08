@@ -59,5 +59,5 @@ variant: markdown
 | 4-5 | Ms Chia Eunice               | Mr Danial Iylia          |
 | 4-6 | Ms Amanda Lee Zihui          | Mr Christopher Silva     |
 | 4-7 | Mr Jason Ang Hui Xiang       |                          |
-| 4-8 | Mr Lim Zhao Chern Joshua | Ms Jasmine Ngoh Xin Rong |
+| 4-8 | Mr Lim Zhao Chern Joshua | Ms Sazryna Lee Samsudin |
 | 5-1 | Mr Tan Bing Dun     |                          |
