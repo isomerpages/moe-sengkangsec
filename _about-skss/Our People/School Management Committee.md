@@ -16,9 +16,9 @@ variant: markdown
 | Mdm Koh Yoke Peng Eunice     | HOD Design and Aesthetics      |
 | Mr Henry Kwek                | HOD Humanities                 |
 | Mdm Zurinawati Jumahat       | HOD CCE                        |
-| Mr Nur Saspurie              | HOD English                    |
-| Mr Lim Song Heng Melvin      | HOD Mathematics                |
-| Mr Lim Swee Beng             | HOD Mother Tongue Language     |
+| Mdm Azrina Bte Md Salleh              | HOD English                    |
+| Ms Serene Loh Swan Shya      | HOD Mathematics                |
+| Mdm Norafizah Bte Shariff             | HOD Mother Tongue Language     |
 | Dr Mohamed Ibrahim Bin Aris      | HOD PE and CCA                 |
 | Mr Hisham Bin Zainal         | HOD Science                    |
 | Mr Ng Chin Woon              | Year Head Upper Secondary      |
