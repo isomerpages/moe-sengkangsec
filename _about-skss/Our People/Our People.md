@@ -33,7 +33,7 @@ variant: markdown
 | 2-5 | Mr Teo Chun Min | Ms Chung See Yee, Cherie Sara      |
 | 2-6 | Mrs Chin Yee Lee     | Ms Tan Chia Hui     |
 | 2-7 | Ms Kho Hui Han            |   Mdm Chua Yingying Joyce  |
-| 2-8 |    | Mr Mohammad Zulkiffli Abu Bakar |
+| 2-8 | Ms Ong Hui Chee  | Mr Mohammad Zulkiffli Abu Bakar |
 
 **<font size="4">Secondary 3 Assistant Year Head: Mr Ng Chin Woon </font>**
 
@@ -42,12 +42,12 @@ variant: markdown
 | 3-1 | Mrs Joel Tan Tze Ying   |                           |
 | 3-2 | Ms Honey Kwok           |                           |
 | 3-3 | Ms Nursimah Mokhtar           |                           |
-| 3-4 |     |                           |
+| 3-4 | Mr Goy Wee Seng Wilson    |                           |
 | 3-5 | Ms Lim Siew Khim  |          |
 | 3-6 | Mr Alex Mah Shao Wei     |                           |
 | 3-7 | Ms Jolyne Tan Hwee Ling  |            |
 | 3-8 | Ms Loh Yoke Ling | Mdm Povanneswary Krishnan |
-| 3-9 | Mr Bernard Wu Yongwei
+| 3-9 | Mr Bernard Wu Yongwei | |
 
 **<font size="4">Secondary 4/5 Year Head: Mdm Nora Hirin </font>**
 
