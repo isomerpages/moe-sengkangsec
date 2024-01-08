@@ -22,7 +22,7 @@ variant: markdown
 | Dr Mohamed Ibrahim Bin Aris      | HOD PE and CCA                 |
 | Mr Hisham Bin Zainal         | HOD Science                    |
 | Mr Ng Chin Woon              | Year Head Upper Secondary      |
-| Ms Chia Eunice               | SH Student Leadership          |
+| Ms Norzahidah Binte Ma'az               | SH Student Leadership (Internal)          |
 | Ms Vanessa Low Jing Wen                  | SH Student Wellbeing           |
 | Mr Laffyette Mitchel Didi    | SH Discipline                  |
 | Mr Low Young Kwang           | SH ICT                         |
@@ -30,7 +30,7 @@ variant: markdown
 | Mr Goy Wee Seng           | SH Digitalisation                      |
 | Ms Siti Zawiah Bte Abd Malek | SH English                     |
 | Mdm Wee Shen Sze             | SH Guidance                    |
-| Mrs Joel Tan                 | SH Mathematics                 |
+| Ms Oon Tze Ying                 | SH Mathematics                 |
 | Mdm Lim Siew Khim            | SH CL                          |
 | Mdm Rabiaton Laili           | SH ML                          |
 | Mr Bernard Wu                | SH PE                          |
