@@ -14,7 +14,7 @@ variant: markdown
 | 1-1 | Mr Chan Wu Siong Andrew            | Ms Jasmine Ngoh Xin Rong        |
 | 1-2 | Ms Jenny Wang              | Mr Lim Bao Luo Paul  |
 | 1-3 | Mdm Wee Shen Sze               | Ms Nur Amirah Binte Rosman   |
-| 1-4 | Mdm Rekhvinder Kaur                    | Ms J Thivyadarishini     |
+| 1-4 | Mdm Rekhvinder Kaur                    | Ms Sam Li Ying   |
 | 1-5 | Mr Low Young Kwang                     | Ms Leong Xiu Han         |
 | 1-6 | Mrs Tan Yee Lee                     | Mr Loh Chia Chang        |
 | 1-7 | Ms Kho Hui Han                      | Mr Hui Win Sun           |
@@ -29,7 +29,7 @@ variant: markdown
 | 2-1 | Ms Lim Siew Khim        |                          |
 | 2-2 | Ms Tan Jing Ying        | Ms             |
 | 2-3 | Mdm Nuurulhuda Hasbolah   |  Mr Jerome Sng Kai Rong                    |
-| 2-4 | Mr Lee Chee Yeon       | Mrs Joyce Goh            |
+| 2-4 | Mr Lee Chee Yeon       | Ms J Thivyadarishini  Mrs Joyce Goh            |
 | 2-5 | Mr Teo Chun Min | Ms Nursimah Mokhtar      |
 | 2-6 | Mr Leong Kok Wai        | Ms Jenny Shea Ka Yan     |
 | 2-7 | Ms Loh Yoke Ling        | Mdm Norzahidah Ma'az     |
@@ -54,7 +54,7 @@ variant: markdown
 |-----|------------------------------|--------------------------|
 | 4-1 | Mr Lee Jing An Gabriel           |                          |
 | 4-2 | Ms Sazryna Lee               |                          |
-| 4-3 | Ms Rachel Eng Baoling        | Ms Sam Li Ying           |
+| 4-3 | Ms Rachel Eng Baoling        |            |
 | 4-4 | Mdm Wee Shen Sze             | Ms Ong Ying Kai          |
 | 4-5 | Ms Chia Eunice               | Mr Danial Iylia          |
 | 4-6 | Ms Amanda Lee Zihui          | Mr Christopher Silva     |
