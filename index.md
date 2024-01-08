@@ -9,7 +9,7 @@ notification: Important Announcement for 2023 Sec 4E/5N students, click on
 sections:
   - hero:
       background: /images/2023-2024 website banner_v2.png
-      variant: center
+      variant: image
       backgroundColor: gray
       alignment: left
       size: sm
@@ -17,14 +17,12 @@ sections:
         - title: CCA Schedule
           description: ""
           url: /co-curriculum/co-curricular-activities-cca/
-        - title: Timetable and Assessment
+        - title: Announcement
           description: ""
-          url: /curriculum/instructional-programme-ip/timetable-and-assessment/
+          url: /announcements/
         - title: Direct School Admission (DSA)
           description: for 2024 Sec 1 intake
           url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
-      button: Announcement
-      url: /announcements/
   - infopic:
       title: SKSS Set Sail
       subtitle: SENG KANG SECONDARY SCHOOL
