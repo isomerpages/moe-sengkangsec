@@ -47,7 +47,7 @@ variant: markdown
 | 3-6 | Mr Leong Soo Ching     |    Mdm Rengasamy Manonmani                      |
 | 3-7 | Mr Mohamad Hakim      |            |
 | 3-8 | Ms Loh Yoke Ling | Mr Sivakumar Duraisamy |
-| 3-9 | Mr Bernard Wu Yongwei | Ong Zhi Xiang |
+| 3-9 | Mr Bernard Wu Yongwei | Mr Ong Zhi Xiang |
 
 **<font size="4">Secondary 4/5 Year Head: Mdm Nora Hirin </font>**
 
