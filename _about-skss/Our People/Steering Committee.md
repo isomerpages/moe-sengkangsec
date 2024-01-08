@@ -8,8 +8,8 @@ variant: markdown
 | Key Personnel                |                                |
 |------------------------------|--------------------------------|
 | Mr N Sivarajan               | Principal                      |
-| Mdm Nazimah Abdullah         | Vice-Principal                 |
-| Mr Tan Teck Tian             | Vice-Principal                 |
+| Mr Tan Teck Tian         | Vice-Principal                 |
+| Mr Jeremy Ng            | Vice-Principal                 |
 | Ms Ong Yen Ping Cheryl       | Sch Staff Developer            |
 | Ms Jenny Neo                 | HOD Student Management         |
 | Ms Serene Loh Swan Shya      | Year Head Lower Secondary      |
