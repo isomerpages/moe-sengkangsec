@@ -4,8 +4,8 @@ title: Home
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Important Announcement for 2023 Sec 4E/5N students, click on
-  announcement for more details.
+notification: Administration Brief for 2023 GCE O Level Results Release, click
+  on announcement for more details.
 sections:
   - hero:
       background: /images/2023-2024 website banner_v2.png
