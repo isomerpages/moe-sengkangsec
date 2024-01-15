@@ -44,8 +44,8 @@ We are deeply appreciative of the continued strong and loyal supporters of both 
 2019 National Schools Games C Division Football Championships - Top 32 (Tier 1)<br>
 2019 Singapore Pools FAS Inter-School Futsal Tournament - Champion, Plate Finals&nbsp;<br>
 2018 FAS Centre of Excellence U15 Football Developmental League - Participation<br>
-2018 North Zone B Division Championships - Top 8&nbsp;<br>
-2018 North Zone C Division Championships - Champion&nbsp;<br>
+2018 North Zone B Division Championships - Top 8<br>
+2018 North Zone C Division Championships - Champion<br>
 2018 National Schools Games C Division Championships – 3rd Runner-up<br>
 2018 FAS Centre of Excellence U17 Football Developmental League - Participation&nbsp;<br>
 
