@@ -3,32 +3,6 @@ title: Basketball
 permalink: /co-curriculum/co-curricular-activities-cca/physical-sports/basketball/
 description: ""
 third_nav_title: Physical Sports
-variant: markdown
+variant: tiptap
 ---
-**<font size="5">CCA Beliefs</font>**<br>
-We believe in developing our student athletes to embody the school values of Respect, Resilience, Integrity, Self-discipline and Excellence, as well as to display sportsmanship. We encourage our students to persevere when faced with challenging and tough situations, and to build their mental dexterity.&nbsp;
-
-  
-**<font size="5">Affirmation &amp; Recognition</font>**<br>
-We would like to express our heartfelt gratitude to our seniors who have contributed to the various inter-school competitions such as the North Zone Basketball Championships and the Yio Chu Kang Cup. Thank you so much for your dedication!&nbsp;
-
-  
-**<font size="5">CCA Training Sessions</font>**<br>
-
-
-BOYS Training<br>
-Wednesdays 3.30pm to 5.30pm<br>
-Fridays 2.30pm to 5.00pm
-
-  
-
-GIRLS Training<br>
-Mondays 3.00pm to 6.00pm<br>
-Wednesdays&nbsp;3.00pm to 6.00pm
-
-**<font size="5">Teachers in charge</font>**<br>
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">Name/Designation</span></th><th style="background-color:#DDD;border-color:black;border-style:solid;border-width:1px;color:#666;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="color:#666;background-color:#DDD">Email Address</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"> Mrs Tan Yee Lee (OIC)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"> Chin_Yee_Lee@moe.edu.sg</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Ms Jolyne Tan (2IC/Boys IC)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">tan_hwee_ling@moe.edu.sg</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mr Steven Tay</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"> tay_beng_chai_steven@moe.edu.sg</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Ms Tan Ying Rui</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">tan_ying_rui@moe.edu.sg</td></tr></tbody></table>
-
-![](/images/CCA/Basketball%201.png)
-
-![](/images/CCA/Basketball%202.png)
+<p><strong>CCA Beliefs</strong><br>We believe in developing our student athletes to embody the school values of Respect, Resilience, Integrity, Self-discipline and Excellence, as well as to display sportsmanship. We encourage our students to persevere when faced with challenging and tough situations, and to build their mental dexterity.&nbsp;</p><p><strong>Affirmation &amp; Recognition</strong><br>We would like to express our heartfelt gratitude to our seniors who have contributed to the various inter-school competitions such as the North Zone Basketball Championships and the Yio Chu Kang Cup. Thank you so much for your dedication!&nbsp;</p><p><strong>CCA Training Sessions</strong><br></p><p>BOYS Training<br>Wednesdays 3.30pm to 5.30pm<br>Fridays 2.30pm to 5.00pm</p><p>GIRLS Training<br>Mondays 3.00pm to 6.00pm<br>Wednesdays&nbsp;3.00pm to 6.00pm</p><p></p><p><strong>Teachers in charge</strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Name/Designation</strong></p></th><th rowspan="1" colspan="1"><p><strong>Email Address</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p>Mrs Tan Yee Lee (OIC)</p></td><td rowspan="1" colspan="1"><p>Chin_Yee_Lee@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Jolyne Tan</p></td><td rowspan="1" colspan="1"><p>tan_hwee_ling@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Steven Tay</p></td><td rowspan="1" colspan="1"><p>tay_beng_chai_steven@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Tan Ying Rui</p></td><td rowspan="1" colspan="1"><p>tan_ying_rui@moe.edu.sg</p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball%201.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball%202.png"></div><p></p>
