@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Applied Learning Modules.md
       - Curriculum.md
       - Instructional Programme/.keep
       - Instructional Programme/English Language & Literature.md
@@ -28,3 +27,4 @@ collections:
       - National Digital Literacy Prog/Use of PLD in School.md
       - National Digital Literacy Prog/Resources for Parents.md
       - National Digital Literacy Prog/ICT Help Desk.md
+      - Applied Learning Modules.md
