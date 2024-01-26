@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<p><strong>CCA Beliefs</strong>
+<p><strong>CCA Beliefs</strong> 
     <br>Our Girl Guides Unit – SKY Guides activities are planned with the 5-Point
     Programme as the foundation. Covering an array of skills and knowledge
     from Personal &amp; Social Development, Home, Outdoor, Community and International
@@ -15,8 +15,8 @@ variant: tiptap
     provide valuable Girl-Led opportunities for SKY Guides to build self-confidence,
     take action to make a difference and uphold the BP (Be Prepared) spirit.</p>
 <p></p>
-<p><strong>Achievements and Accolades</strong>
-    <br><strong>Baden-Powell Award</strong>
+<p><strong>Achievements and Accolades</strong> 
+    <br><strong>Baden-Powell Award</strong> 
     <br>The Baden Powell Award (BPA) is the highest award given out by our Chief
     Commissioner to a Girl Guide.</p>
 <p>Awardee for 2021 and 2022:
@@ -43,7 +43,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
     <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guides/G_I_R_L_Adevnture_Exchange_Programme_in_Hong_Kong.jpg">
 </div>
-<p>G.I.R.L Adevnture Exchange Programme in Hong Kong</p>
+<p>G.I.R.L Adventure Exchange Programme in Hong Kong</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -52,7 +52,7 @@ variant: tiptap
 <p>SKY Guides, Aradhana together with GGS President Dr Seetha Subbiah presented
     a Patchwork apron to our outgoing patron President Halimah Yaacob at Gala
     Dinner 2023.</p>
-<p><strong>CCA Training Sessions</strong>
+<p><strong>CCA Training Sessions</strong> 
     <br>Wednesday, 3.00pm - 6.00pm
     <br>Fridays (when necessary), 2.30 - 5.00pm</p>
 <p><strong>Teachers in charge</strong>
