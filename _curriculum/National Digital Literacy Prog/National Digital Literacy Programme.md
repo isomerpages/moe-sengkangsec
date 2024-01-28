@@ -19,4 +19,7 @@ applications that the school may be rolling out as part of the NDLP.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDLP/11-aim-pdlp.png">
 </div>
-<p></p>
+<p><strong>PLD Information for Parents</strong>
+</p>
+<p>Please click <a href="/files/Infographic_on_the_PLD_Initiative_2024_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+PLD Initiative Infographic.</p>
