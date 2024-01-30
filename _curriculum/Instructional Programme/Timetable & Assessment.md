@@ -31,7 +31,7 @@ variant: tiptap
 <p>Semester 1</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/_REVISED__WA_MA_Schedule_2024___Semester_1__29_Jan_.pdf" rel="noopener noreferrer nofollow" target="_blank">WA&amp;MA Schedule 2024 - Semester 1 (26 Jan)</a>
+<p><a href="/files/WA &amp; MA/2024 Semester 1/WA_MA_Schedule_2024___Semester_1__29_Jan_.pdf" rel="noopener noreferrer nofollow" target="_blank">WA&amp;MA Schedule 2024 - Semester 1 (29 Jan)</a>
 </p>
 </li>
 <li>
