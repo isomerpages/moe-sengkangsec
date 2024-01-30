@@ -43,7 +43,7 @@ before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of Seng Kang Secondary</strong>  <strong>School’s</strong>  <strong>Sexuality Education Programme for 2023</strong>
+<p><strong>Overview of Seng Kang Secondary</strong>  <strong>School’s</strong>  <strong>Sexuality Education Programme for 2024</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
@@ -66,9 +66,9 @@ The gap between physical and emotional/cognitive maturity may result in
 a tendency to act on impulse, experiment with various activities (including
 sexual activities), sometimes without understanding the unpleasant consequences
 that may arise from such experimentation. The need for peer acceptance
-can be overwhelmingly strong, and hinder one’s ability to act responsibly.&nbsp;
+can be overwhelmingly strong and hinder one’s ability to act responsibly.
 Given the pressures faced by the middle adolescent from within themselves
-and from pe/ers, it is important to build a strong sense of self-worth,
+and from peers, it is important to build a strong sense of self-worth,
 personal conviction and an understanding of the possible consequences of
 sexual behaviour.</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality Education
