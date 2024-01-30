@@ -77,7 +77,7 @@ self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p><strong>At SENG KANG Secondary School, the following Sexuality Education lessons will be taught in 2024:</strong> Please
-click <a href="/files/CCE/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%20.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+click <a href="/files/CCE/2024_Sexuality_Education_Lessons.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view the Lessons package.</p>
 <p><strong><em>eTeens</em></strong>  <strong>Programme</strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
