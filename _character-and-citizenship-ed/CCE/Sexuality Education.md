@@ -151,12 +151,12 @@ education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be distributed to parents at the start
-of the year and is also downloadable here <a href="/files/CCE/2023%20SEd%20Annex%20A%20SEd%20Opt%20out%20Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a>.
+of the year and is also downloadable here <a href="/files/CCE/Annex_A_Sexuality_Education_Parents_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a>.
 The completed form is to be submitted by <strong>08/02/2024</strong>.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em></strong>  <strong>programme</strong> need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable here <a href="/files/CCE/2023%20SEd%20E%20Annex%20B%20Teens%20Programme%20and%20Opt%20out%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B</a>.
+the start of the year and is also downloadable here <a href="/files/CCE/ANNEX_B_E_Teens_Parents_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B</a>.
 &nbsp;The completed form is to be submitted by <strong>08/02/2024</strong>.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents can contact <strong>Mdm Zurinawati Jumahat at 63887258</strong> for
 discussion or to seek clarification about the school’s Sexuality Education
