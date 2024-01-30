@@ -76,7 +76,7 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p><strong>At SENG KANG Secondary School, the following Sexuality Education lessons will be taught in 2023:</strong> Please
+<p><strong>At SENG KANG Secondary School, the following Sexuality Education lessons will be taught in 2024:</strong> Please
 click <a href="/files/CCE/2023%20SEXUALITY%20EDUCATION%20LESSONS%20IN%20CCE%20.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view the Lessons package.</p>
 <p><strong><em>eTeens</em></strong>  <strong>Programme</strong>:</p>
@@ -84,14 +84,16 @@ view the Lessons package.</p>
 by Health Promotion Board, in collaboration with the Ministry of Education,
 to provide Secondary 3 students with accurate information on STIs, HIV
 and protection from a health perspective. <em>eTeens</em> is conducted in
-two segments – a mass talk segment and a classroom-based programme.</p>
+two segments – a mass talk segment and a classroom-based programme. The
+desired outcome of the <em>eTeens</em> programme is that students are empowered
+to make wise, informed and sensible decisions.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such
 as decision-making, assertiveness and negotiation to say “no” to sex and
 negative peer pressure. They also learn that the impact of STIs/HIV extends
-beyond themselves and involves their family. Abstinence and upholding family
-values are the key messages. The desired outcome of the <em>eTeens</em> programme
-is that students are empowered to make wise, informed and sensible decisions.</p>
-<p><strong>At SENG KANG Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2023:</strong>
+beyond themselves and involves their family, and the importance of responsible
+decision-making and seeking help. Abstinence and upholding family values
+are the key messages.</p>
+<p><strong>At SENG KANG Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2024:</strong>
 </p>
 <table>
 <tbody>
@@ -111,13 +113,18 @@ is that students are empowered to make wise, informed and sensible decisions.</p
 <p>Mass Talk by HPB appointed vendor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Awareness of the different STIs and HIV/AIDS
-<br>• Modes of transmission
-<br>• Modes of protection, specifically on how the condom is used
-<br>• Consequences and impact of STIs/HIV</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Raise awareness and provide knowledge on:</p>
+</li>
+</ul>
+<p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
+to prevent infection mainly through ABC (abstinence, being faithful, correct,
+and consistent condom use).</p>
+<p>b) Managing relationships and risky situations in a healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -129,7 +136,7 @@ is that students are empowered to make wise, informed and sensible decisions.</p
 of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 4</p>
+<p>Term 3 Week 10</p>
 </td>
 </tr>
 </tbody>
@@ -141,12 +148,12 @@ education programmes by MOE-approved external providers.</p>
 out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be distributed to parents at the start
 of the year and is also downloadable here <a href="/files/CCE/2023%20SEd%20Annex%20A%20SEd%20Opt%20out%20Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a>.
-The completed form is to be submitted by 06/02/2023.</p>
+The completed form is to be submitted by 08/02/2024.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em></strong>  <strong>programme</strong> need
 to complete an opt-out form. This form will be distributed to parents at
 the start of the year and is also downloadable here <a href="/files/CCE/2023%20SEd%20E%20Annex%20B%20Teens%20Programme%20and%20Opt%20out%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B</a>.
-&nbsp;The completed form is to be submitted by 06/02/2023.</p>
+&nbsp;The completed form is to be submitted by 08/02/2024.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact Mdm Wee Shen Sze,
 the programme co-ordinator in school at 63887258 for discussion or to seek
 clarification about the school’s Sexuality Education programme.</p>
