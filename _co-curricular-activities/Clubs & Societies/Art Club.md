@@ -72,3 +72,32 @@ exhibition at National Museum Singapore
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Art Club/SYF_2022.png">
+</div>
+<p>SYF 2022 Achievements</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Art Club/SYF_Art_Exhibition.jpg">
+</div>
+<p>Opening Ceremony for SYF Art Exhibition
+<br>Lim Yu Xiang
+<br><em>Repurpose</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Certificate_of_Recognition.jpg">
+</div>
+<p>Lim Yu Xiang
+<br><em>Repurpose</em>
+<br><strong>Certificate of Recognition</strong>
+<br><strong><em>*on-site exhibition at National Museum Singapore</em></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Certificate_of_Recognition_2.jpg">
+</div>
+<p>Desiree Ng
+<br><em>Help</em>
+<br><strong>Certificate of Recognition</strong>
+</p>
