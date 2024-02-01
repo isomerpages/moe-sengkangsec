@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
-<p><strong>CCA Beliefs</strong>
+<p><strong>CCA Beliefs</strong> 
 <br>
 </p>
 <ul data-tight="true" class="tight">
@@ -22,13 +22,13 @@ outside of their regular curriculum.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Achievements and Accolades</strong>
+<p><strong>Achievements and Accolades</strong> 
 <br>2022 Singapore Youth Festival (SYF) - Certificate of Recognition x 2
 <br>2022 Singapore Youth Festival (SYF) – Certificate of Recognition on-site
 exhibition at National Museum Singapore
 <br>2023 – Secondary 1 &amp; 2 Art x Wellness Programme National Gallery Singapore</p>
 <p></p>
-<p><strong>CCA Training Sessions</strong>
+<p><strong>CCA Training Sessions</strong> 
 <br>Wednesday 1500-1730
 <br>Friday 0200-1630 (SYF)</p>
 <p><strong>Teachers-in-charge</strong>
