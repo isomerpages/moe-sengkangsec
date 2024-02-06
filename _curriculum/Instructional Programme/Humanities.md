@@ -75,5 +75,39 @@ organised by the NUS Department of Geography and the NUS Geographical Society.
 Isabella further brought honours to the school with her clinching one of
 the Individual Bronze awards.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/Sec_1_Students_engage_in_GI_Water_Testing_at_Lorong_Halus.jpeg">
+</div>
+<p>Sec 1 Students engage in GI Water Testing at Lorong Halus</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/Sec_1_Students_engage_in_GI_at_Lorong_Halus.jpeg">
+</div>
+<p>Sec 1 Students engage in GI at Lorong Halus</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/Sec_1_Students_Geography___CCE_Learning_Journey_to_Lorong_Halus.jpeg">
+</div>
+<p>Sec 1 Students Geography &amp; CCE Learning Journey to Lorong Halus</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/Sec_2_Students_engage_in_GI_sketching_at_Punggol_Waterway_Point.jpeg">
+</div>
+<p>Sec 2 Students engage in GI sketching at Punggol Waterway Point</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/Sec_2_Students_engage_in_GI_at_Punggol_Town_Library.jpeg">
+</div>
+<p>Sec 2 Students engage in GI at Punggol Town Library</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/Sec_2_Students_engage_in_HI_at_Punggol_Town_Library.jpeg">
+</div>
+<p>Sec 2 Students engage in HI at Punggol Town Library</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/2023_NUS_Geography_Challenge_winners_with_Mr_Siva_and_Ms_Jenny_Wang.jpeg">
+</div>
+<p>2023 NUS Geography Challenge winners with Mr Siva and Ms Jenny Wang</p>
 <p></p>
 <p></p>
