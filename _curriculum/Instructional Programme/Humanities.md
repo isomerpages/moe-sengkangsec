@@ -43,7 +43,7 @@ and Fort Canning park, to learn more about the lifestyles, living conditions,
 different economic and social activities of the different groups of early
 immigrants. This History IBL project was designed to facilitate opportunities
 for students to make better meaning of Singapore Today based on their discovery
-of Singapore’s past. And in March 2016,</p>
+of Singapore’s past.</p>
 <p>In addition, the department also leveraged on the department created archaeological
 dig sandbox and ICT to facilitate the students’ HI projects, which focused
 on the concept of Historical Evidence. Through the archaeological sandbox,
