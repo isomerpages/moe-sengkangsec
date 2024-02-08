@@ -1,5 +1,5 @@
 collections:
-  news:
+  breakthrough:
     output: true
     order:
       - School Achievements.md
