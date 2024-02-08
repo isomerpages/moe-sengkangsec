@@ -2,12 +2,12 @@ collections:
   news:
     output: true
     order:
-      - Alumni Breakthrough.md
       - School Achievements.md
       - Staff Achievements.md
       - Student Achievements/.keep
       - Student Achievements/Student Achievements.md
       - Student Achievements/Our CCA Achievements.md
       - Student Achievements/Our Sky Prides.md
+      - Alumni Breakthrough.md
       - Events.md
       - Announcements.md
