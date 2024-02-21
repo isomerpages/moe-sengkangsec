@@ -116,7 +116,7 @@ School Email Address:&nbsp;[skss@moe.edu.sg](mailto:skss@moe.edu.sg), Office Tel
 **Useful Weblinks**
 
 SKSS LLP - Building Character through Sports &amp; Outdoor Adventure  
-[/curriculum/learning-for-life-programme-llp)
+[https://www.sengkangsec.moe.edu.sg/curriculum/learning-for-life-programme-llp](/curriculum/learning-for-life-programme-llp)
 
 SKSS Sports &amp; Outdoor Adventure Webpage  
 [https://sites.google.com/skss.edu.sg/sksspesports/home](https://sites.google.com/skss.edu.sg/sksspesports/home)
