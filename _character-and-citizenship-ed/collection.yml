@@ -1,0 +1,20 @@
+collections:
+  character-and-citizenship-ed:
+    output: true
+    order:
+      - CCE/Cyber Wellness.md
+      - CCE/Sexuality Education.md
+      - CCE/Education & Career Programme.md
+      - CCE/National Education.md
+      - CCE/Character and Citizenship Education (CCE).md
+      - CCE/.keep
+      - Values in Action/.keep
+      - Values in Action/Values in Action.md
+      - Values in Action/VIA Programmes.md
+      - Values in Action/Sec 1 Service Learning.md
+      - Internationlisation Programme/.keep
+      - Internationlisation Programme/Internationlisation Programme.md
+      - Internationlisation Programme/Sec 3 Overseas Cultural Immersion
+        Programme.md
+      - Internationlisation Programme/Experiential Learning & Overseas Learning
+        Journeys.md

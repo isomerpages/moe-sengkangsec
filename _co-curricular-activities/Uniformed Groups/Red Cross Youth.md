@@ -1,0 +1,8 @@
+---
+title: Red Cross Youth
+permalink: /co-curriculum/co-curricular-activities-cca/uniformed-groups/red-cross-youth/
+description: ""
+third_nav_title: Uniformed Groups
+variant: tiptap
+---
+<p><strong>CCA Beliefs</strong><br>The Seng Kang Red Cross Youth is involved in a variety of humanitarian programmes that integrate character building, leadership, essential life-saving skills and blood donation knowledge, local community service and overseas humanitarian projects in its curriculum, with the Red Cross ethos and service to humanity as a core focus. Our Red Cross Youths are groomed to become adaptable and resilient citizens with a strong sense of civic responsibility.</p><p><strong>Achievements and Accolades</strong><br>Red Cross Director's Award<br>1. Ryan Haqii Bin Imran (4-7)</p><p><strong>CCA Training Sessions</strong><br>Wednesdays, 3.55pm to 6pm<br>Fridays, 2pm to 6pm</p><p><strong>Teachers in charge</strong></p><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Name/Designation</strong></p></th><th rowspan="1" colspan="1"><p><strong>Email Address</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p>Ms Lim Suet Rui Sarah (OIC)</p></td><td rowspan="1" colspan="1"><p>lim_suet_rui_sarah@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Wang Jia Ning Jenny</p></td><td rowspan="1" colspan="1"><p>wang_jia_ning_jenny@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Chung See Yee, Cherie Sara</p></td><td rowspan="1" colspan="1"><p>chung_see_yee_cherie@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><div class="isomer-image-wrapper"><img style="width:65%" height="auto" width="100%" src="/images/CCA/Red%20Cross%20Youth.png"></div><p></p>
