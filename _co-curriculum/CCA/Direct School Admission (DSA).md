@@ -45,7 +45,41 @@ converted into the Learning for Life Programme (LLP) - Building Character
 through Sports and Outdoor Adventure. And this year in 2024, Seng Kang
 Secondary School has reviewed its Learning for Life Programme (LLP) and
 rebranded it into <strong><u>TREK for Life</u></strong> as our new LLP initiatives.</p>
-<p><strong>LLP Key Programmes</strong> 
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><u>T</u></strong> (Think Positive)</p>
+</li>
+<li>
+<p><strong><u>R</u></strong> (Rest Well)</p>
+</li>
+<li>
+<p><u>E</u> (Eat Right)</p>
+</li>
+<li>
+<p><strong><u>K</u></strong> (Keep Moving)</p>
+</li>
+</ul>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>LLP Key Programmes</strong>
 </p>
 <p><strong>Think Positive</strong>
 </p>
