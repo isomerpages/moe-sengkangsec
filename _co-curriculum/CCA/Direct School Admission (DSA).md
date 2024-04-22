@@ -65,6 +65,9 @@ rebranded it into <strong><u>TREK for Life</u></strong> as our new LLP initiativ
 </ul>
 </th>
 <th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSA/TREK_for_Life.jpg">
+</div>
 <p></p>
 </th>
 </tr>
