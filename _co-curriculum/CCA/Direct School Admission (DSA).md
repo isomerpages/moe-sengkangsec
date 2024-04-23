@@ -11,7 +11,7 @@ variant: tiptap
 strong passion for Sports to apply for 2024 DSA-Sec. Students who have
 represented schools or clubs in sporting games and competitions are most
 welcome to apply.</p>
-<p><strong>DSA (Secondary) Talents Invited to Apply</strong> 
+<p><strong>DSA-Sec Talents Offered at SKSS</strong>
 <br>School team players or its equivalent in Primary School for any of the
 following sports:</p>
 <ul data-tight="true" class="tight">
