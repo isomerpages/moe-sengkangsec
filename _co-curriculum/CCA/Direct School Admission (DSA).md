@@ -5,11 +5,12 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-<p><strong>2024 Direct School Admission (For 2025 Secondary 1 intake)</strong>
+<p><strong>2024 Direct School Admission (DSA)–Sec (For 2025 Secondary 1 intake)</strong>
 </p>
-<p>The school is looking for students with a strong passion for Sports. Students
-who have represented schools or clubs in sporting events/competitions are
-strongly encouraged to apply.</p>
+<p>Seng Kang Secondary School is inviting primary school students with a
+strong passion for Sports to apply for 2024 DSA-Sec. Students who have
+represented schools or clubs in sporting games and competitions are most
+welcome to apply.</p>
 <p><strong>DSA (Secondary) Talents Invited to Apply</strong> 
 <br>School team players or its equivalent in Primary School for any of the
 following sports:</p>
@@ -18,7 +19,7 @@ following sports:</p>
 <p>Badminton (Boys &amp; Girls)</p>
 </li>
 <li>
-<p>Basketball players (Boys &amp; Girls)</p>
+<p>Basketball (Boys &amp; Girls)</p>
 </li>
 <li>
 <p>Hockey (Boys &amp; Girls)</p>
