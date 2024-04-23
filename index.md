@@ -20,7 +20,7 @@ sections:
           description: ""
           url: /announcements/
         - title: Direct School Admission (DSA)
-          description: for 2024 Sec 1 intake
+          description: for 2025 Sec 1 intake
           url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
   - infopic:
       title: SKSS Set Sail
