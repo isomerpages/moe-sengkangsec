@@ -19,7 +19,7 @@ following sports:</p>
 <p>Badminton (Boys &amp; Girls)</p>
 </li>
 <li>
-<p>Basketball players (Boys &amp; Girls)</p>
+<p>Basketball (Boys &amp; Girls)</p>
 </li>
 <li>
 <p>Hockey (Boys &amp; Girls)</p>
