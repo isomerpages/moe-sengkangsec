@@ -172,6 +172,61 @@ the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school and participate in the activities
 related to the talent they selected for from year 1-4.&nbsp;</p>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selection Criteria</strong>
+</p>
+<p>Good track record of performance in relevant Sports CCA or relevant external
+competition.</p>
+<p>Applicants should:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>have represented in zonal or national competitions.</p>
+</li>
+<li>
+<p>be a member of Junior Sports Academy (JSA) or school team.</p>
+</li>
+</ul>
+<p>Primary 6 students who do not have relevant experience in school CCA or
+did not participate in any sporting competitions but demonstrate talent
+in sports or a keen interest in relevant sports will also be considered.
+Example: Active participation in relevant organised activities outside
+school such as Active SG Sports Academy, Junior Sports Academy etc.</p>
+<p><strong>Attributes:</strong>&nbsp;(Based on submitted documentation, Coaches/Teacher’s
+recommendation, trials and Interview). Character traits. Positive Learning
+attitude. Ability to work in a team.</p>
+<p><strong>Physical skills:</strong>&nbsp;(Technique, agility, speed), Sports
+Specific Skills &amp; Game Play, Tactical awareness in game situations.</p>
+<p><strong>Others:</strong>&nbsp;Leadership Positions held in relevant CCA
+(optional).</p>
+<p>Shortlisted applicants will be required to undergo sports trials/performance
+tasks and may be required to attend F2F interview with the selection panelists
+for the next part of DSA process.</p>
+<p><em>(Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer</em>.<em>)</em>
+</p>
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selection Process (24 June 2024 – 9 September 2024)</strong>
+</p>
+<p>All shortlisted applicants will be informed of their sports trial dates
+and interview during this period. Selection will be made based on the following:</p>
+<p>Part 1: Track records, relevant experiences, teachers and coaches’ recommendation
+Evidence of active participation and achievements in relevant sports through
+CCA records, certificate of participation, certificate of achievement or
+its equivalent. Video evidence (Optional) will also be considered if available.&nbsp;</p>
+<p>Part 2: Sports Trials (F2F) for shortlisted candidates&nbsp;</p>
+<p>Part 3: Interview (F2F) for shortlisted candidates based on outcome of
+sports trials.&nbsp;</p>
+<p>Details of the Sports trials and interview will be released at a later
+date. All shortlisted students are required to attend an interview.&nbsp;Only
+shortlisted students who applied via the MOE DSA (Sec) Portal will be considered.
+For more details, please go to <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a> .&nbsp;</p>
+<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Only
+short-listed applicants are required to attend an interview by the Selection
+Panel from&nbsp;<strong>10 July to 28 August 2024.</strong>
+</p>
+<p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>All applicants will
+be informed of the outcome of their application by&nbsp;<strong>10 -12 September 2024</strong>&nbsp;via
+email or post. Successful applicants’ primary schools will follow-up on
+other actions of the DSA exercise. Results of posting will be released
+on the day of the release of the PSLE results.</p>
+<p></p>
 <p>SKSS Sports Instagram
 <br><a href="https://www.instagram.com/sksssports/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/sksssports/</a>
 </p>
