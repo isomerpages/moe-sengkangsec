@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-<p><strong>2024 Direct School Admission (DSA)–Sec (For 2025 Secondary 1 intake)</strong>
+<p><strong><u>2024 Direct School Admission (DSA)–Sec (For 2025 Secondary 1 intake)</u></strong>
 </p>
 <p>Seng Kang Secondary School is inviting primary school students with a
 strong passion for Sports to apply for 2024 DSA-Sec. Students who have
