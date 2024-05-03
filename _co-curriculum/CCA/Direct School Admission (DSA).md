@@ -226,7 +226,131 @@ be informed of the outcome of their application by&nbsp;<strong>10 -12 September
 email or post. Successful applicants’ primary schools will follow-up on
 other actions of the DSA exercise. Results of posting will be released
 on the day of the release of the PSLE results.</p>
+<p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The application timeline for 2024 is summarised as follows:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>7 May 2024, 11am</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application for DSA
+Opens – to be done online via centralized DSA-Sec Portal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>3 June 2024, 3pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Closing date for application</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>8 July 2024, 3pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notification of short-listed
+applicants</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>10 July to 28 August 2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Administration of Sports
+Trials/Performance Tasks</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School-based interview
+for short-listed applicants</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stage 1: Selection Stage</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>10 -12 September 2024</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All applicants will
+receive a reply from the school on the outcome of their application informing
+them if:</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They have been given a confirmed Officer
+(CO)</p>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They are placed on the Waiting List (WL)</p>
+<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school is unable to offer them a
+place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stage 2: School Preference Submission</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>21 October 2024 9am -</strong>
+</p>
+<p><strong>25 October 2024, 3pm</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Preference Form
+to be submitted physically at respective primary schools or online via
+the DSA-Sec Portal</p>
+<p>&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Both parents are required to login to the DSA-Sec Portal using their Singpass to submit up to three school preferences. </strong>If
+parent(s) are unable to submit online, they can approach their child’s
+primary school for assistance to submit the school preferences on their
+behalf.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stage 3: Results Release Stage</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Late November 2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Release of DSA-Sec Results
+together with PSLE results</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>Contact Persons for more enquiries:</strong>&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr Mohamed Ibrahim Aris
+(HOD PE/CCA) at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">mohamed_ibrahim_aris@moe.edu.sg</a>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Valerie Chan Shi
+Min (School Admin Staff)&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">valerie_chan_Shi_Min@moe.edu.sg</a>
+</p>
+<p>School Email Address:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">skss@moe.edu.sg</a>,
+Office Tel: 63887258</p>
 <p></p>
+<p><strong>Useful Weblinks</strong>
+</p>
+<p>SKSS LLP - Building Character through Sports &amp; Outdoor Adventure
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://moe-sengkangsec-staging.netlify.app/curriculum/learning-for-life-programme-llp</a>
+</p>
 <p>SKSS Sports Instagram
 <br><a href="https://www.instagram.com/sksssports/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/sksssports/</a>
 </p>
