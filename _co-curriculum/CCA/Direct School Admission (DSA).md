@@ -5,13 +5,13 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-<p><strong>2024 Direct School Admission (DSA)–Sec (For 2025 Secondary 1 intake)</strong>
+<p><strong><u>2024 Direct School Admission (DSA)–Sec (For 2025 Secondary 1 intake)</u></strong>
 </p>
 <p>Seng Kang Secondary School is inviting primary school students with a
 strong passion for Sports to apply for 2024 DSA-Sec. Students who have
 represented schools or clubs in sporting games and competitions are most
 welcome to apply.</p>
-<p><strong>DSA-Sec Talents Offered at SKSS</strong>
+<p><strong>DSA-Sec Talents Offered at SKSS</strong> 
 <br>School team players or its equivalent in Primary School for any of the
 following sports:</p>
 <ul data-tight="true" class="tight">
@@ -46,7 +46,11 @@ converted into the Learning for Life Programme (LLP) - Building Character
 through Sports and Outdoor Adventure. And this year in 2024, Seng Kang
 Secondary School has reviewed its Learning for Life Programme (LLP) and
 rebranded it into <strong><u>TREK for Life</u></strong> as our new LLP initiatives.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -131,6 +135,221 @@ rebranded it into <strong><u>TREK for Life</u></strong> as our new LLP initiativ
 </ol>
 <p>Go to LLP (Sports &amp; Outdoor Adventure) for more details at&nbsp;
 <a href="https://www.sengkangsec.moe.edu.sg/curriculum/learning-for-life-programme-llp/" rel="noopener noreferrer nofollow" target="_blank">https://www.sengkangsec.moe.edu.sg/curriculum/learning-for-life-programme-llp/</a>
+</p>
+<hr>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application (7 May 2024, 11am to 3 June 2024, 3pm)</strong>
+</p>
+<p>Application opens for all Primary Six Students, Returning Singaporeans,
+Permanent Residents and Foreign Students.</p>
+<p>All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal.</p>
+<p>Please note the following regarding application through the centralised
+DSA-Sec Portal:</p>
+<p>a.&nbsp;<strong>Accessing the DSA Portal.</strong>&nbsp;</p>
+<p>i.&nbsp;<strong>Applicants from MOE mainstream primary schools</strong>:
+Parent may log in directly to DSA-Sec Portal. Only one parent’s Singpass
+is required. Parents/ guardians who are unable to apply online can approach
+their child’s primary school for assistance.</p>
+<p>ii.&nbsp;<strong>Other applicants&nbsp;<em>not</em>&nbsp;studying in MOE mainstream primary schools</strong>:
+They need to apply for a Registration Number (RGxxxxxxx) to access the
+DSA-Sec Portal. Schools may refer them to MOE website at: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
+<p>b.&nbsp;<strong>Choices.</strong>&nbsp;Students can indicate up to three
+choices (maximum of two choices for the same school under two different
+talent areas)</p>
+<p>c.&nbsp;<strong>Information to provide.</strong>&nbsp;</p>
+<p>i. Valid email address and local mobile number.</p>
+<p>ii. Applicants studying in mainstream primary schools will have their
+primary school information shared directly with the DSA-Sec schools that
+they apply to. It is optional to indicate non-school-based activities and
+achievements.</p>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+The application is free-of-charge and will be open from 7 May 2024, 11am
+to 3 June 2024, 3pm. For more details, please refer to MOE website –&nbsp;[
+<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>].</p>
+<p>Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the schools’ academic
+and non-academic requirements, and the programmes available to develop
+the area of talent.</p>
+<p>Students who are successfully admitted to the school via DSA are expected
+to honour their commitment to the school and participate in the activities
+related to the talent they selected for from year 1-4.&nbsp;</p>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selection Criteria</strong>
+</p>
+<p>Good track record of performance in relevant Sports CCA or relevant external
+competition.</p>
+<p>Applicants should:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>have represented in zonal or national competitions.</p>
+</li>
+<li>
+<p>be a member of Junior Sports Academy (JSA) or school team.</p>
+</li>
+</ul>
+<p>Primary 6 students who do not have relevant experience in school CCA or
+did not participate in any sporting competitions but demonstrate talent
+in sports or a keen interest in relevant sports will also be considered.
+Example: Active participation in relevant organised activities outside
+school such as Active SG Sports Academy, Junior Sports Academy etc.</p>
+<p><strong>Attributes:</strong>&nbsp;(Based on submitted documentation, Coaches/Teacher’s
+recommendation, trials and Interview). Character traits. Positive Learning
+attitude. Ability to work in a team.</p>
+<p><strong>Physical skills:</strong>&nbsp;(Technique, agility, speed), Sports
+Specific Skills &amp; Game Play, Tactical awareness in game situations.</p>
+<p><strong>Others:</strong>&nbsp;Leadership Positions held in relevant CCA
+(optional).</p>
+<p>Shortlisted applicants will be required to undergo sports trials/performance
+tasks and may be required to attend F2F interview with the selection panelists
+for the next part of DSA process.</p>
+<p><em>(Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer</em>.<em>)</em>
+</p>
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selection Process (24 June 2024 – 9 September 2024)</strong>
+</p>
+<p>All shortlisted applicants will be informed of their sports trial dates
+and interview during this period. Selection will be made based on the following:</p>
+<p>Part 1: Track records, relevant experiences, teachers and coaches’ recommendation
+Evidence of active participation and achievements in relevant sports through
+CCA records, certificate of participation, certificate of achievement or
+its equivalent. Video evidence (Optional) will also be considered if available.&nbsp;</p>
+<p>Part 2: Sports Trials (F2F) for shortlisted candidates&nbsp;</p>
+<p>Part 3: Interview (F2F) for shortlisted candidates based on outcome of
+sports trials.&nbsp;</p>
+<p>Details of the Sports trials and interview will be released at a later
+date. All shortlisted students are required to attend an interview.&nbsp;Only
+shortlisted students who applied via the MOE DSA (Sec) Portal will be considered.
+For more details, please go to <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a> .&nbsp;</p>
+<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Only
+short-listed applicants are required to attend an interview by the Selection
+Panel from&nbsp;<strong>10 July to 28 August 2024.</strong>
+</p>
+<p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>All applicants will
+be informed of the outcome of their application by&nbsp;<strong>10 -12 September 2024</strong>&nbsp;via
+email or post. Successful applicants’ primary schools will follow-up on
+other actions of the DSA exercise. Results of posting will be released
+on the day of the release of the PSLE results.</p>
+<p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The application timeline for 2024 is summarised as follows:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>7 May 2024, 11am</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application for DSA
+Opens – to be done online via centralized DSA-Sec Portal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>3 June 2024, 3pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Closing date for application</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>8 July 2024, 3pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notification of short-listed
+applicants</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>10 July to 28 August 2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Administration of Sports
+Trials/Performance Tasks</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School-based interview
+for short-listed applicants</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stage 1: Selection Stage</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>10 -12 September 2024</strong>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All applicants will
+receive a reply from the school on the outcome of their application informing
+them if:</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They have been given a Confirmed Offer
+(CO)</p>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They are placed on the Waiting List (WL)</p>
+<p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school is unable to offer them a
+place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stage 2: School Preference Submission</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>21 October 2024 9am -</strong>
+</p>
+<p><strong>25 October 2024, 3pm</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Preference Form
+to be submitted physically at respective primary schools or online via
+the DSA-Sec Portal</p>
+<p>&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Both parents are required to login to the DSA-Sec Portal using their Singpass to submit up to three school preferences. </strong>If
+parent(s) are unable to submit online, they can approach their child’s
+primary school for assistance to submit the school preferences on their
+behalf.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stage 3: Results Release Stage</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Late November 2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Release of DSA-Sec Results
+together with PSLE results</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><strong>Contact Persons for more enquiries:</strong>&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr Mohamed Ibrahim Aris
+(HOD PE/CCA) at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">mohamed_ibrahim_aris@moe.edu.sg</a>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Valerie Chan Shi
+Min (School Admin Staff)&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">valerie_chan_Shi_Min@moe.edu.sg</a>
+</p>
+<p>School Email Address:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">skss@moe.edu.sg</a>,
+Office Tel: 63887258</p>
+<p></p>
+<p><strong>Useful Weblinks</strong>
+</p>
+<p>SKSS LLP - Building Character through Sports &amp; Outdoor Adventure
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://moe-sengkangsec-staging.netlify.app/curriculum/learning-for-life-programme-llp</a>
 </p>
 <p>SKSS Sports Instagram
 <br><a href="https://www.instagram.com/sksssports/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/sksssports/</a>
