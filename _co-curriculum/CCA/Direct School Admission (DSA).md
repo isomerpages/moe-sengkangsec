@@ -164,7 +164,7 @@ achievements.</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2024, 11am
 to 3 June 2024, 3pm. For more details, please refer to MOE website –&nbsp;[
-<a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>].</p>
+<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>].</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
@@ -216,7 +216,7 @@ sports trials.&nbsp;</p>
 <p>Details of the Sports trials and interview will be released at a later
 date. All shortlisted students are required to attend an interview.&nbsp;Only
 shortlisted students who applied via the MOE DSA (Sec) Portal will be considered.
-For more details, please go to <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.&nbsp;</p>
+For more details, please go to <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.&nbsp;</p>
 <p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Only
 short-listed applicants are required to attend an interview by the Selection
 Panel from&nbsp;<strong>10 July to 28 August 2024.</strong>
