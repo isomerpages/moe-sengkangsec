@@ -151,7 +151,7 @@ is required. Parents/ guardians who are unable to apply online can approach
 their child’s primary school for assistance.</p>
 <p>ii.&nbsp;<strong>Other applicants&nbsp;<em>not</em>&nbsp;studying in MOE mainstream primary schools</strong>:
 They need to apply for a Registration Number (RGxxxxxxx) to access the
-DSA-Sec Portal. Schools may refer them to MOE website at: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
+DSA-Sec Portal. Schools may refer them to MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
 <p>b.&nbsp;<strong>Choices.</strong>&nbsp;Students can indicate up to three
 choices (maximum of two choices for the same school under two different
 talent areas)</p>
@@ -164,7 +164,7 @@ achievements.</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from 7 May 2024, 11am
 to 3 June 2024, 3pm. For more details, please refer to MOE website –&nbsp;[
-<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>].</p>
+<a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>].</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
@@ -216,7 +216,7 @@ sports trials.&nbsp;</p>
 <p>Details of the Sports trials and interview will be released at a later
 date. All shortlisted students are required to attend an interview.&nbsp;Only
 shortlisted students who applied via the MOE DSA (Sec) Portal will be considered.
-For more details, please go to <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a> .&nbsp;</p>
+For more details, please go to <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.&nbsp;</p>
 <p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Only
 short-listed applicants are required to attend an interview by the Selection
 Panel from&nbsp;<strong>10 July to 28 August 2024.</strong>
@@ -234,18 +234,17 @@ on the day of the release of the PSLE results.</p>
 <hr>
 <p><strong>Contact Persons for more enquiries:</strong>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr Mohamed Ibrahim Aris
-(HOD PE/CCA) at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">mohamed_ibrahim_aris@moe.edu.sg</a>
+(HOD PE/CCA) at&nbsp;<a href="mohamed_ibrahim_aris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_ibrahim_aris@moe.edu.sg</a>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Valerie Chan Shi
-Min (School Admin Staff)&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">valerie_chan_Shi_Min@moe.edu.sg</a>
+Min (School Admin Staff)&nbsp;<a href="valerie_chan_Shi_Min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">valerie_chan_Shi_Min@moe.edu.sg</a>
 </p>
-<p>School Email Address:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">skss@moe.edu.sg</a>,
-Office Tel: 63887258</p>
+<p>School Email Address:&nbsp;<a href="skss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">skss@moe.edu.sg</a>, Office Tel: 63887258</p>
 <p></p>
 <p><strong>Useful Weblinks</strong>
 </p>
 <p>SKSS LLP - Building Character through Sports &amp; Outdoor Adventure
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://moe-sengkangsec-staging.netlify.app/curriculum/learning-for-life-programme-llp</a>
+<br><a href="https://moe-sengkangsec-staging.netlify.app/curriculum/learning-for-life-programme-llp" rel="noopener noreferrer nofollow" target="_blank">https://moe-sengkangsec-staging.netlify.app/curriculum/learning-for-life-programme-llp</a>
 </p>
 <p>SKSS Sports Instagram
 <br><a href="https://www.instagram.com/sksssports/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/sksssports/</a>
