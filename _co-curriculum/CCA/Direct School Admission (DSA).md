@@ -229,6 +229,9 @@ on the day of the release of the PSLE results.</p>
 <p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The application timeline for 2024 is summarised as follows:</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSA/DSA_Application_Timeline_Table.jpg">
+</div>
 <hr>
 <p><strong>Contact Persons for more enquiries:</strong>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr Mohamed Ibrahim Aris
