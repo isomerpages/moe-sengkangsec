@@ -288,7 +288,7 @@ for short-listed applicants</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All applicants will
 receive a reply from the school on the outcome of their application informing
 them if:</p>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They have been given a confirmed Officer
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They have been given a Confirmed Offer
 (CO)</p>
 <p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They are placed on the Waiting List (WL)</p>
 <p>c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The school is unable to offer them a
