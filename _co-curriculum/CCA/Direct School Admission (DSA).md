@@ -234,12 +234,12 @@ on the day of the release of the PSLE results.</p>
 <hr>
 <p><strong>Contact Persons for more enquiries:</strong>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dr Mohamed Ibrahim Aris
-(HOD PE/CCA) at&nbsp;<a href="mohamed_ibrahim_aris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_ibrahim_aris@moe.edu.sg</a>
+(HOD PE/CCA) at <a href="mailto:mohamed_ibrahim_aris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_ibrahim_aris@moe.edu.sg</a>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Valerie Chan Shi
-Min (School Admin Staff)&nbsp;<a href="valerie_chan_Shi_Min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">valerie_chan_Shi_Min@moe.edu.sg</a>
+Min (School Admin Staff)&nbsp;<a href="mailto:valerie_chan_Shi_Min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">valerie_chan_Shi_Min@moe.edu.sg</a>
 </p>
-<p>School Email Address:&nbsp;<a href="skss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">skss@moe.edu.sg</a>, Office Tel: 63887258</p>
+<p>School Email Address:&nbsp;<a href="mailto:skss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">skss@moe.edu.sg</a>, Office Tel: 63887258</p>
 <p></p>
 <p><strong>Useful Weblinks</strong>
 </p>
