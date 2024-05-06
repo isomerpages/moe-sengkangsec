@@ -244,7 +244,7 @@ Min (School Admin Staff)&nbsp;<a href="valerie_chan_Shi_Min@moe.edu.sg" rel="noo
 <p><strong>Useful Weblinks</strong>
 </p>
 <p>SKSS LLP - Building Character through Sports &amp; Outdoor Adventure
-<br><a href="https://moe-sengkangsec-staging.netlify.app/curriculum/learning-for-life-programme-llp" rel="noopener noreferrer nofollow" target="_blank">https://moe-sengkangsec-staging.netlify.app/curriculum/learning-for-life-programme-llp</a>
+<br><a href="https://www.sengkangsec.moe.edu.sg/curriculum/learning-for-life-programme-llp/" rel="noopener noreferrer nofollow" target="_blank">https://www.sengkangsec.moe.edu.sg/curriculum/learning-for-life-programme-llp/</a>
 </p>
 <p>SKSS Sports Instagram
 <br><a href="https://www.instagram.com/sksssports/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/sksssports/</a>
