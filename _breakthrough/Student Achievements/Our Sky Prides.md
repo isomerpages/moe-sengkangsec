@@ -1,423 +1,346 @@
 ---
 title: Our Sky Prides
-permalink: /achievements/student-achievements/our-sky-prides/
+permalink: /achievements/student-achievements/
 description: ""
 third_nav_title: Student Achievements
+variant: tiptap
 ---
-**<font size="5">Design & Technology Awards 2022</font>**
-
-Congratulations to our SKY prides for attaining 3 D&T awards out of 29 winning entries. 1) Creative aesthetics, 2) Creative adaptation and 3) Creative innovation!
-
-![](/images/Achievements/DT%201.png)
-![](/images/Achievements/DT%202.png)
-
-<b><font size="5">Award Recipients 2022</font></b>
-
-<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 824px">
-  <colgroup>
-    <col style="width: 151px">
-    <col style="width: 151px">
-    <col style="width: 261px">
-    <col style="width: 261px">
-  </colgroup>
-  <thead>
-    <tr>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Name</th>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">School</th>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Course</th>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Awards/Diploma Plus</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Damien Loo Yi Heng</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">ITE College Central</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Nitec in Electronics Computer Networking & Communications</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Course Medal for Outstanding Performance, Tay Eng Soon Gold Medal Award, Lee Kuan Yew Model Student Award</span><br>
-      <span style="color:#222;background-color:#EAEAEA">Certificate in Advanced Engineering Mathematics</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Preeti D/O Niranjan Mandalia</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">ITE East</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Higher Nitec in Biotechnology</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Course Medal for Outstanding Performance</span></td>
-    </tr>
-  </tbody>
+<p><strong>North Zone Schools (Primary/Secondary) Chinese Speech Competition 2023</strong>
+</p>
+<p>On 12 May Friday 2023, the annual North Zone Schools (Primary/Secondary)
+Chinese Speech Competition was held at Evergreen Primary whereby it was
+highly competitive with many schools taking part, such as Maris Stella
+High School, CHIJ St Nicholas Girls' School and Xinmin Secondary School.</p>
+<p>Our school's student, Lok Zhi Jia Bernise from class 3-5 managed to clinch
+Second Placing with her strong effort and confident display of her story-telling.
+Chuah Yi Lin Elanna from class 1-2 was also given the Potential award.</p>
+<p>Congratulations to Yi Lin Elanna and Zhi Jia Bernise once again for this
+amazing feat! Watch Bernise's speech performance <a href="https://drive.google.com/file/d/1AV6p1M2-XwA_4V-8ETzugo7wIteOfEfR/view" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/nz%20chinese%20speech%20competition.jpg">
+</div>
+<p><strong>Copyright School Challenge Video Competition 2022</strong>
+</p>
+<p>We would like to congratulate our Media Club student, Heng Kai Ling, for
+emerging 1st, in the 2022 Copyright School Challenge Video Competition.
+The stop motion animation created illustrated how the public reacts to
+copyright infringement and individuals who associate themselves with others'
+originality.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/heng%20kai%20ling%20competition.jpg">
+</div>
+<p>View Kai Ling's winning submission <a href="https://fb.watch/kJ5fRUveVg/" rel="noopener noreferrer nofollow" target="_blank">here on the school's Facebook site</a>.</p>
+<p><strong>Young Reporter News Challenge 2022</strong>
+</p>
+<p>We are happy to share that our team of Chinese Language students who participated
+in the National News Reporting Competition organised by Mediacorp won both
+Best Reporter and Reporter News Awards categories on 30th July 2022.&nbsp;</p>
+<p>Read more on 8World online site,&nbsp;&nbsp;<a href="https://www.8world.com/so-young/young-reporter-news-challenge-fresh-news-sengkang-secondary-school-1869996" rel="noopener noreferrer nofollow" target="_blank">Young Reporter News Challenge 2022</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Young%20reporters%20news%20challenge%2022.png">
+</div>
+<p><strong>SYF Art Exhibition 2022</strong>
+</p>
+<p>Heartiest congratulations to Lim Yu Xiang from class 3-8. His artwork
+has been selected for exhibition at the National Museum for this year's
+Singapore Youth Festival (SYF) Art Exhibition!&nbsp;</p>
+<p>Based on this year's theme of 'Artist and Sustainability', Lim Yu Xiang
+created works to bring awareness of how useful plastics can be in fashion.&nbsp;</p>
+<p>The exhibition is on at the National Museum from 13 -25 July. Do drop
+by for a visit to support or view via the online display&nbsp;<a href="https://www.syf.gov.sg/art-exhibition/the-online-art-gallery-2022" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/SYF%20Art%20Challenge%2022.png">
+</div>
+<p><strong>North Zone Schools Chinese Speech Competition 2022</strong>
+</p>
+<p>On 01 July Friday, the annual North Zone Schools (Primary/Secondary) Chinese
+Speech Competition was held at Evergreen Secondary whereby it was highly
+competitive with many schools taking part, such as Singapore Chinese Girls'
+School and CHIJ St Nicholas Girls' School.</p>
+<p>We are pleased to announce that our school's student, Lok Zhi Jia from
+class 2-7 managed to clinch Third Placing with her strong effort and confident
+display of her story-telling. Congratulations to her once again for this
+amazing feat!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/North%20Zone%20Schools%20Chinese%20Speech%20Competition%202022.png">
+</div>
+<p><strong>Design &amp; Technology Awards 2022</strong>
+</p>
+<p>Congratulations to our SKY prides for attaining 3 D&amp;T awards out of
+29 winning entries.&nbsp;1) Creative aesthetics, 2) Creative adaptation
+and 3) Creative innovation!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/DT%201.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/DT%202.png">
+</div>
+<p><strong>Award Recipients 2022</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>School</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Course</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Awards/Diploma Plus</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Damien Loo Yi Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ITE College Central</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nitec in Electronics Computer Networking &amp; Communications</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Course Medal for Outstanding Performance, Tay Eng Soon Gold Medal Award,
+Lee Kuan Yew Model Student Award
+<br>Certificate in Advanced Engineering Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Preeti D/O Niranjan Mandalia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ITE East</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Higher Nitec in Biotechnology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Course Medal for Outstanding Performance</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-<br>
-
-<font size="5">Tokyo 2020 Paralympic Games: Maximillian Tan Chern</font>
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Singapore equestrian rider Maximillian Tan is all smiles as he scores 61.588 | Paralympics 2020" src="https://www.youtube.com/embed/Cufekaf266M" height="388" width="690"></iframe>
-
-<b><font size="5">Award Recipients 2021</font></b>
-
-<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 824px">
-  <colgroup>
-    <col style="width: 151px">
-    <col style="width: 151px">
-    <col style="width: 261px">
-    <col style="width: 261px">
-  </colgroup>
-  <thead>
-    <tr>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Name</th>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">School</th>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Course</th>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Awards/Diploma Plus</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Koh Kok Hong</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Ngee Ann Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Clean Energy Management</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Carrier Silver Medal & Prize Diploma with Merit</span><br>
-      <span style="color:#222;background-color:#EAEAEA">Certificate in Advanced Engineering Mathematics</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Adeline Tan Chew Joo</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Republic Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Integrated Events Management with Merit</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Alyssa Ng Qi Zhi</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Republic Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Design for User Experience with Merit</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Chua Gui Ying, Aileen</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Republic Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Industrial and Operations Management with Merit</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span><br>
-      <span style="color:#222;background-color:#EAEAEA">Certificate in Mathematics</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Dhanya Palaniappan</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Republic Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Media Production and Design with Merit</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Teh Kai Boon</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Republic Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Sports and Leisure Management with Merit</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span></td>
-    </tr>
-  </tbody>
+<p><strong>The ignITE Challenge 2021</strong>
+</p>
+<p>The ignITE Challenge 2021 was organised by the Institute of Technical
+Education (ITE). This challenge is an annual competition that introduces
+students to technical skills and fosters a deeper understanding of courses
+offered by ITE.</p>
+<p><strong>Fourteen of our secondary 3 students from class 3-8</strong>,
+took part in this challenge, specifically representing the school the Daedalus
+Challenge and the Dancing Drones Challenge.</p>
+<p>In the Daedalus Challenge, students developed their skills in using the
+Computer Aided Design (CAD) software to design and assemble an aerodynamic
+glider that can clear obstacles. While in the Dancing Drones Challenge,&nbsp;students&nbsp;learnt
+how to execute drone programming using the Python codebase, and perform
+simultaneous flying of multiple drones.</p>
+<p>We are proud that the team, comprising of&nbsp;<strong>Muhammad Hafy Ismat Bin Rahmat, Mohammad Danish Bin Mohammad Razak and Mohamed Fajarbaadillah Bin Mohamed Mustafah</strong>,
+emerged as finalists for the Dancing Drone Challenge. Great effort boys!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/ignITE%20Challenge%202021.jpg">
+</div>
+<p><strong>Lee Kuan Yew All-Round Excellence (LKY-ARE)</strong>
+</p>
+<p>The Lee Kuan Yew Award for All-Round Excellence was first presented in
+2005. It recognises well-rounded students who have excelled in both academic
+and non-academic spheres, and who exemplify the qualities artculated in
+the desired outcomes of education. This year,&nbsp;Siti Nur Zhafirah Bte
+Mohd Fadzil and Darrell Wee Jun Kai received the Lee Kuan Yew Award for
+All-Round Excellence.</p>
+<p>This is a major breakthrough for the school as this is the 1st time our
+students receive such high accolades at the national level. Darrell was
+an active member of the Football CCA Team and represented the school in
+several competitons. He was also member of the Sports Leaders Executive
+Committee. He excelled in both his academic pursuits and Co-curricular
+activities, and was a role model to many of his peers.</p>
+<p>We also like to congratulate Siti Nur Zhafirah, Company Leader of the
+Girl Guides. She was also a dedicated member of the Student Council. For
+her active contribution and capable leadership, she was given a special
+mention by the Minister of Education in his opening speech!</p>
+<p>Congratulations Darrell and Zhafirah! SKSS is very proud of your achievements
+&amp; all the best in your future pursuits.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Darrell%20Wee.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Darrell.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Siti%20Nur%20Zhafirah.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Siti%20Nur%20Zhafirah.jpg">
+</div>
+<p><strong>Nutri-Booster Competition</strong>
+</p>
+<p>This year, the Nutrition and Food Science Department participated in the
+Nutri-Booster Competition 2021 organised by Science
+<br>Centre Singapore and Republic Polytechnic. The objective of the competition
+was to create one nutritious dish and one dietary supplement for the individual
+stated in the given scenario to boost overall health</p>
+<p>Five students, their names as follow:&nbsp;<strong>Mohammed Aiman Zulkhair Bin Mohammed Goh Dong Ce, Cipher Loh Yu Wei, Kyran Vaanisri D/O Parameswaran Tan Jing Hui, Karrise</strong>&nbsp;from
+Secondary 3-7 represented our school in the competition. The SKSS team
+emerged Champions for the competition and did the school proud! Congratulations
+to the team!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Nutri%20booster%20comp.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Nutri%20booster%20comp%202.jpg">
+</div>
+<p><strong>Dancers at National Day Parade 2021</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:340px;height:890px;margin-left:15px;" height="auto" width="100%" src="/images/Achievements/SKY%20Dancers%20NDP2021.jpeg">
+</div>
+<p>On August 18th 2021, we are delighted that our dancers was featured in
+the news for their resilience and commitment in training for their NDP
+Celebrations Performance.&nbsp;<a href="https://sengkangsec.moe.edu.sg/qql/slot/u159/2019/Achievements/Student%20Achievements/NDP%202021/SKY%20Dancers%20NDP2021.mp4" rel="noopener noreferrer nofollow" target="_blank">Low Yi Jing, the President of the Dance CCA was interviewed and featured on the TV on Channel 8</a>,
+an article on Straits Time. Our 10 dancers selected for the performance
+was also featured on Channel News Asia. Please look out for our dancers
+on TV where they will be featured at the NDP Celebrations this Saturday.</p>
+<div class="isomer-image-wrapper">
+<img style="width:400px;height:500px;margin-right:15px;" height="auto" width="100%" src="/images/Achievements/SKY%20Dancers%20NDP2021%20a.jpeg">
+</div>
+<p><strong>Award Recipients 2021</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>School</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Course</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Awards/Diploma Plus</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Kok Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ngee Ann Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Clean Energy Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Carrier Silver Medal &amp; Prize Diploma with Merit
+<br>Certificate in Advanced Engineering Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Adeline Tan Chew Joo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Republic Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Integrated Events Management with Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma with Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Alyssa Ng Qi Zhi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Republic Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Design for User Experience with Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma with Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chua Gui Ying, Aileen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Republic Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Industrial and Operations Management with Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma with Merit
+<br>Certificate in Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dhanya Palaniappan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Republic Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Media Production and Design with Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma with Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teh Kai Boon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Republic Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Sports and Leisure Management with Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma with Merit</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-<b><font size="5">Award Recipients 2020</font></b>
-
-<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 824px">
-  <colgroup>
-    <col style="width: 151px">
-    <col style="width: 151px">
-    <col style="width: 261px">
-    <col style="width: 261px">
-  </colgroup>
-  <thead>
-    <tr>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Name</th>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">School</th>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Course</th>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Awards/Diploma Plus</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Chen Linxin</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Anderson Serangoon Junior College</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">GCE A-Level</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Outstanding Results</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Ong Pei Chong</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Tampines Junior College</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">GCE A-Level</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">6 Distinctions</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Michelle Chan Yong Yi</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Ngee Ann Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Tourism & Resort Management</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Audrey Lim</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Ngee Ann Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Early Childhood Education</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Greentree Prize</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Alfathania Syakura</span><br>
-      <span style="color:#222;background-color:#EAEAEA">Verika Hakim</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Republic Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Materials Science with Merit</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span><br>
-      <span style="color:#222;background-color:#EAEAEA">Certificate in Mathematics</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Gwen Gwee Xin Xuan</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Republic Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Pharmaceutical Sciences with Merit</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span><br></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Li Congxiao</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Republic Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Green Building Energy Management with Merit Module Prize</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Merit Module Prize</span></td>
-    </tr>
-  </tbody>
-</table>
-
-**<font size="5">SR Nathan Challenge Cup-IVP Football 2019</font>**
-
-We are pleased to announce that Raishyan, our footballer alumni who was a key player in SKSS Football, displayed great character and leadership qualities to lead his team to win the SR Nathan Challenge Cup - IVP Football Tournament. Congrats Raishyan! We are proud of your achievements!!
-
-![](/images/Achievements/Raishyan%20Football.jpg)
-
-<b><font size="5">Award Recipients 2019</font></b>
-
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 824px" class="tg">
-  <colgroup>
-    <col style="width: 151px">
-    <col style="width: 151px">
-    <col style="width: 261px">
-    <col style="width: 261px">
-  </colgroup>
-  <thead>
-    <tr>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Name</th>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">School</th>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Course</th>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Awards/Diploma Plus</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Landon Ding Shan Wei</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Temasek Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Interior Architecture & Design</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Interior Architecture & Design</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Loh Zhi Shen</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Anderson Serangoon</span><br>
-      <span style="color:#222;background-color:#EAEAEA">Junior College</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">GCE A-Level</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">6 Distinctions at the H2 level</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Mohamed Saleem Muhaimin Buxh</span><br></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Nanyang Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Chemical & Green Technology</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Sembcorp Industries Bronze Medal</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Wong Hui Xuan, Claudia</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Nanyang Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Hospitality & Tourism Management</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Resorts World Sentosa Silver Medal</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Seow Jing Hui</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Republic Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Customer Experience Management with Business</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Ow Wei Jie</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Republic Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Information Technology</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Tan Keng Soon</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Republic Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Green Building Energy Management</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Dhanya Palaniappan</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Republic Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">School of Technology for the Arts (STA)</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Republic Polytechnic Scholarship</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Lee Shi Ying</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Ngee Ann Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Network Systems & Security</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span></td>
-    </tr>
-  </tbody>
-</table>
-
-<b><font size="5">Award Recipients 2018</font></b>
-
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 824px" class="tg">
-  <colgroup>
-    <col style="width: 151px">
-    <col style="width: 151px">
-    <col style="width: 261px">
-    <col style="width: 261px">
-  </colgroup>
-  <thead>
-    <tr>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Name</th>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">School</th>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Course</th>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Awards/Diploma Plus</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Goh Quan Quan</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Ngee Ann Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Accountancy</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Dominick Kua Wei Xiong</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Ngee Ann Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Chemical & Biomolecular Engineering</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Channel NewsAsia Prize</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Sim Ai Chin</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Temasek Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Leisure & Events Management</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Civil Service Club Project Prize</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Koh See Kee</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Temasek Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Retail Management</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Isetan Foundation Course Silver Medal</span><br>
-      <span style="color:#222;background-color:#EAEAEA">Subway @Temasek Poly Major Project Prize</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Lai Qian Yi Kirstie</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Temasek Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Integrated Facility Management</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Resorts World Sentosa Prize</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Syazana Amira</span><br>
-      <span style="color:#222;background-color:#EAEAEA">Bte Mohamed Sazaly</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Temasek Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Media & Communication Technology</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Bronze Award</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Lin Si Qi Iris</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Republic Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Sports Coaching with Merit</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Han Academy Gold Medal Award</span><br>
-      <span style="color:#222;background-color:#EAEAEA">Module Prize</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Yen Fu Sheng, Boris</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Republic Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Interactive and Digital Media with Merit</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Neo Jia Hao, Matthew</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Republic Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Infocomm Security Management with Merit</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Chua Tze Seng, Barry</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Republic Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Sports and Leisure Management with Merit</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Chong Kok Pin Patrick</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Nanyang Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Sports and Wellness Management with Merit</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Sport Singapore Bronze Model</span></td>
-    </tr>
-  </tbody>
-</table>
-
-<b><font size="5">Award Recipients 2017</font></b>
-
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 824px" class="tg">
-  <colgroup>
-    <col style="width: 151px">
-    <col style="width: 151px">
-    <col style="width: 261px">
-    <col style="width: 261px">
-  </colgroup>
-  <thead>
-    <tr>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Name</th>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">School</th>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Course</th>
-      <th style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Awards/Diploma Plus</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Koh Si Ting, Josephine</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Ngee Ann Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Aerospace Electronics</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Durga Devi d/o Raja Krishnan</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Ngee Ann Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Health Sciences (Nursing)</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Nicholas Poon Keet Hoe</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Ngee Ann Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Electronic & Computer Engineering</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Xilinx Asia Pacific Prize</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Ling Yi Xiang</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Nanyang Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Business Management</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit, Mapletree Silver Medal</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Loh Wen Wei</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Nanyang Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Nanotechnology & Materials Science</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit, Leybold Singapore Bronze Medal</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Tan Jian Li, Ernest</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Republic Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Outdoor and Adventure Learning with Merit</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Teo Huang Jun Jowell</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Republic Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Aviation Management with Merit</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Willard Soon</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Republic Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Renewable Energy Engineering with Merit</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span></td>
-    </tr>
-    <tr>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Choo Hui Min</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Republic Polytechnic</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma in Hotel and Hospitality Management with Merit</span></td>
-      <td style="background-color:#EAEAEA;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222;background-color:#EAEAEA">Diploma with Merit</span></td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>Tokyo 2020 Paralympic Games: Maximillian Tan Chern</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="388" width="690" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Cufekaf266M"></iframe>
+</div>
+<p></p>
