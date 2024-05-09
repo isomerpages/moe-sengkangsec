@@ -31,9 +31,8 @@ following sports:</p>
 <p>Netball (Girls)</p>
 </li>
 </ul>
-<p>The selection criteria and process for the talent areas will be updated
-from early-May. For more information on DSA-Sec, please refer to the MOE
-website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<p>For more information on DSA-Sec, please refer to the MOE website at
+<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p><strong>Learning for Life (LLP) @ Seng Kang Secondary School</strong> 
 <br><strong><u>TREK for Life</u></strong>
