@@ -338,4 +338,9 @@ on TV where they will be featured at the NDP Celebrations this Saturday.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Tokyo 2020 Paralympic Games: Maximillian Tan Chern</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="388" width="690" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Cufekaf266M"></iframe>
+</div>
 <p></p>
