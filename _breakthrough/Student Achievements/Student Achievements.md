@@ -78,7 +78,66 @@ and 3) Creative innovation!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/DT%202.png">
 </div>
-<p></p>
+<p><strong>Award Recipients 2022</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>School</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Course</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Awards/Diploma Plus</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Damien Loo Yi Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ITE College Central</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nitec in Electronics Computer Networking &amp; Communications</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Course Medal for Outstanding Performance, Tay Eng Soon Gold Medal Award,
+Lee Kuan Yew Model Student Award
+<br>Certificate in Advanced Engineering Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Preeti D/O Niranjan Mandalia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ITE East</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Higher Nitec in Biotechnology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Course Medal for Outstanding Performance</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong>The ignITE Challenge 2021</strong>
 </p>
