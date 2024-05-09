@@ -227,8 +227,9 @@ other actions of the DSA exercise. Results of posting will be released
 on the day of the release of the PSLE results.</p>
 <p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The application timeline for 2024 is summarised as follows:</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSA/DSA_Application_Timeline_Table.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSA/DSA_Application_Timeline_Table2.jpg">
 </div>
 <hr>
 <p><strong>Contact Persons for more enquiries:</strong>&nbsp;</p>
