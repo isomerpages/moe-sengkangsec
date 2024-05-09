@@ -31,9 +31,8 @@ following sports:</p>
 <p>Netball (Girls)</p>
 </li>
 </ul>
-<p>The selection criteria and process for the talent areas will be updated
-from early-May. For more information on DSA-Sec, please refer to the MOE
-website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<p>For more information on DSA-Sec, please refer to the MOE website at
+<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p><strong>Learning for Life (LLP) @ Seng Kang Secondary School</strong> 
 <br><strong><u>TREK for Life</u></strong>
@@ -222,14 +221,15 @@ short-listed applicants are required to attend an interview by the Selection
 Panel from&nbsp;<strong>10 July to 28 August 2024.</strong>
 </p>
 <p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>All applicants will
-be informed of the outcome of their application by&nbsp;<strong>10 -12 September 2024</strong>&nbsp;via
+be informed of the outcome of their application by&nbsp;<strong>9 September 2024</strong>&nbsp;via
 email or post. Successful applicants’ primary schools will follow-up on
 other actions of the DSA exercise. Results of posting will be released
 on the day of the release of the PSLE results.</p>
 <p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The application timeline for 2024 is summarised as follows:</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSA/DSA_Application_Timeline_Table.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/DSA/DSA_Application_Timeline_Table2.jpg">
 </div>
 <hr>
 <p><strong>Contact Persons for more enquiries:</strong>&nbsp;</p>
