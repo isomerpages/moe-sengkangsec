@@ -5,18 +5,7 @@ description: ""
 third_nav_title: Student Achievements
 variant: tiptap
 ---
-<p><strong>Design &amp; Technology Awards 2022</strong>
-</p>
-<p>Congratulations to our SKY prides for attaining 3 D&amp;T awards out of
-29 winning entries.&nbsp;1) Creative aesthetics, 2) Creative adaptation
-and 3) Creative innovation!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/DT%201.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/DT%202.png">
-</div>
 <p><strong>Award Recipients 2022</strong>
 </p>
 <table style="minWidth: 100px">
