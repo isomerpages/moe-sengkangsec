@@ -66,6 +66,20 @@ amazing feat!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/North%20Zone%20Schools%20Chinese%20Speech%20Competition%202022.png">
 </div>
+<p><strong>Design &amp; Technology Awards 2022</strong>
+</p>
+<p>Congratulations to our SKY prides for attaining 3 D&amp;T awards out of
+29 winning entries.&nbsp;1) Creative aesthetics, 2) Creative adaptation
+and 3) Creative innovation!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/DT%201.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/DT%202.png">
+</div>
+<p></p>
+<p></p>
 <p><strong>The ignITE Challenge 2021</strong>
 </p>
 <p>The ignITE Challenge 2021 was organised by the Institute of Technical
