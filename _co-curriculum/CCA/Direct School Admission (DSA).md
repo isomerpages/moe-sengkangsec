@@ -221,7 +221,7 @@ short-listed applicants are required to attend an interview by the Selection
 Panel from&nbsp;<strong>10 July to 28 August 2024.</strong>
 </p>
 <p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>All applicants will
-be informed of the outcome of their application by&nbsp;<strong>10 -12 September 2024</strong>&nbsp;via
+be informed of the outcome of their application by&nbsp;<strong>9 September 2024</strong>&nbsp;via
 email or post. Successful applicants’ primary schools will follow-up on
 other actions of the DSA exercise. Results of posting will be released
 on the day of the release of the PSLE results.</p>
