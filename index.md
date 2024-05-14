@@ -29,5 +29,5 @@ sections:
       image: /images/ABOUT SKSS/Banner_for_Corporate_video.jpg
       alt: Image alt text
       button: CLICK HERE TO WATCH
-      url: https://www.sengkangsec.moe.edu.sg/about-skss/skss-sat-sail/
+      url: https://www.sengkangsec.moe.edu.sg/about-skss/skss-story/
 ---
