@@ -2,7 +2,6 @@ collections:
   breakthrough:
     output: true
     order:
-      - School Achievements.md
       - Staff Achievements.md
       - Student Achievements/.keep
       - Student Achievements/Our Sky Prides.md
