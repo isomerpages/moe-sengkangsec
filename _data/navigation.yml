@@ -26,8 +26,6 @@ links:
         url: /achievements/staff-achievements
       - title: Alumni Breakthrough
         url: /breakthrough/alumni-breakthrough/
-      - title: Announcements
-        url: /announcements/
   - title: Curriculum
     url: /curriculum/curriculum
     sublinks:
@@ -61,3 +59,5 @@ links:
         url: /useful-links-1/frequently-asked-questions-faq
       - title: Calendar
         url: /useful-links-1/calendar
+      - title: Announcement
+        url: /announcement
