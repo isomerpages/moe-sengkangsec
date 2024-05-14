@@ -1,7 +1,10 @@
 ---
 title: SKSS Set Sail
 permalink: /about-skss/skss-sat-sail/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SKSS Set Sail" src="https://www.youtube.com/embed/qcDzof35fOU" height="315" width="560"></iframe>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qcDzof35fOU"></iframe>
+</div>
+<p></p>
