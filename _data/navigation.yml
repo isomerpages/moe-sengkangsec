@@ -9,8 +9,8 @@ links:
         url: /about-skss/vision-mission-and-values
       - title: School Song
         url: /about-skss/school-song
-      - title: SKSS Set Sail
-        url: https://www.sengkangsec.moe.edu.sg/about-skss/skss-sat-sail/
+      - title: SKSS Story
+        url: https://www.sengkangsec.moe.edu.sg/about-skss/skss-story/
       - title: Our People
         url: /about-skss/our-people
       - title: Contact Us
@@ -18,8 +18,6 @@ links:
   - title: Breakthrough
     url: /achievements/school-achievements/
     sublinks:
-      - title: School Achievements
-        url: /achievements/school-achievements/
       - title: Student Achievements
         url: /achievements/student-achievements
       - title: Staff Achievements
@@ -55,9 +53,9 @@ links:
         url: /useful-links-1/parenting-resources
       - title: Teachers
         url: /useful-links-1/teachers
+      - title: Announcement
+        url: /announcement
       - title: Frequently Asked Questions
         url: /useful-links-1/frequently-asked-questions-faq
       - title: Calendar
         url: /useful-links-1/calendar
-      - title: Announcement
-        url: /announcement
