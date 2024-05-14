@@ -23,11 +23,11 @@ sections:
           description: for 2025 Sec 1 intake
           url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
   - infopic:
-      title: SKSS Set Sail
+      title: SKSS Story
       subtitle: SENG KANG SECONDARY SCHOOL
       id: infopic
       image: /images/ABOUT SKSS/Banner_for_Corporate_video.jpg
       alt: Image alt text
       button: CLICK HERE TO WATCH
-      url: https://www.sengkangsec.moe.edu.sg/about-skss/skss-sat-sail/
+      url: https://www.sengkangsec.moe.edu.sg/about-skss/skss-story/
 ---
