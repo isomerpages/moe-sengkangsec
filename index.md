@@ -18,7 +18,7 @@ sections:
           url: /co-curriculum/co-curricular-activities-cca/
         - title: Announcement
           description: ""
-          url: /announcements/
+          url: https://www.sengkangsec.moe.edu.sg/announcements/
         - title: Direct School Admission (DSA)
           description: for 2025 Sec 1 intake
           url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
