@@ -46,7 +46,7 @@ experience is preferred.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Application forms are available at our General Office (10 Compassvale
-Lane Singapore 545090) or can be downloaded <a href="/files/About%20Us/Canteen/skss%20canteen%20application%20form%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+Lane Singapore 545090) or can be downloaded <a href="/files/Canteen Advertisement/Application_for_Canteen_Stall_in_Existing_School_2024___Malay_stall.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 </li>
 <li>
@@ -63,4 +63,5 @@ assistant/s.</p>
 Card (front &amp; back).</p>
 <p>Please submit the completed application form with the supporting documents
 to the school's General Office or email to <a href="mailto:skss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">skss@moe.edu.sg</a> (Attention: Administration
-Manager) by <strong>29 September 2023 (Friday)</strong> Thank you.Thank you.</p>
+Manager) by <strong>28 June 2024</strong>.</p>
+<p>Thank you.</p>
