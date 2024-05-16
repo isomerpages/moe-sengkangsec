@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - School Canteen Advertisement.md
       - Parents/.keep
       - Parents/Parenting Resources.md
       - Parents/Parents Gateway.md
@@ -11,3 +10,4 @@ collections:
       - Announcements.md
       - Frequently Asked Questions (FAQ).md
       - Calendar.md
+      - School Canteen Advertisement.md
