@@ -8,7 +8,7 @@ variant: markdown
 | Key Personnel                |                                |
 |------------------------------|--------------------------------|
 | Mr N Sivarajan               | Principal                      |
-| Mr Tan Teck Tian         | Vice-Principal                 |
+| Mr Lak Yau Hui         | Vice-Principal                 |
 | Mr Ng Cheng Song Jeremy           | Vice-Principal                 |
 | Ms Ong Yen Ping Cheryl       | Sch Staff Developer            |
 | Mr Sam Tan Caiyu             | HOD ICT                        |
