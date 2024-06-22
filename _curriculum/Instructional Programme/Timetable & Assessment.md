@@ -7,22 +7,23 @@ variant: tiptap
 ---
 <h4>2024 Class Timetable</h4>
 <p>Click on the respective levels to access the&nbsp; 2024 Class Timetable:</p>
-<p><strong>SEMESTER 1, TERM 2</strong>
+<p><strong>SEMESTER 1, TERM 3</strong>
 </p>
 <ul>
 <li>
-<p><a href="https://drive.google.com/file/d/1GPQJsAlu9Ef5uDMjj104KweylzZeM9zm/view" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec One</u></a>&nbsp;</p>
-</li>
-<li>
-<p><a href="https://drive.google.com/file/d/1X0WgCc8dVf3RKnlMY0Dy-sChiaNEDd-0/view" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec Two</u></a>
+<p><a href="https://drive.google.com/file/d/1SbfbGr-YxlkBG1Io-9Kokj2Ek8FYK3-W/view?usp=drive_link" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec One</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1Q23YbZi0xHLZPmaolLEjX5WQ7MaOVMC5/view" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec Three</u></a>
+<p><a href="https://drive.google.com/file/d/1xXHNi6Q7OTMtKI9maVkyYYAbrSDOWn8a/view?usp=drive_link" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec Two</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1BkS3Kyirdf5gEmm7wtH5jKi5wwcRDJlo/view" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec Four &amp; Five</u></a>
+<p><a href="https://drive.google.com/file/d/1COcFtEEyLYnaaPkyPUoScKT-DN8e4V_0/view?usp=drive_link" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec Three</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/1mCsIn-GEIhAknte7948Y5qKM_tzlXo6e/view?usp=drive_link" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec Four &amp; Five</u></a>
 </p>
 </li>
 </ul>
