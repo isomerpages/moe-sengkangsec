@@ -43,9 +43,9 @@ variant: markdown
 | 3-2 | Ms Honey Kwok           |   Ms Nur Jasmine Roslan    |
 | 3-3 | Ms Nursimah Mokhtar           |    Mr Lak Lucas                       |
 | 3-4 | Mr Goy Wee Seng Wilson    |   Mdm Uma Maheshwari Ravisankar                       |
-| 3-5 | Ms Lim Siew Khim  |  Ms Lee Zihui Amanda       |
+| 3-5 | Ms Lim Siew Khim  |  Ms Tan Ying Rui       |
 | 3-6 | Mr Leong Soo Ching     |    Mdm Rengasamy Manonmani                      |
-| 3-7 | Mr Mohamad Hakim      |            |
+| 3-7 | Mr Mohamad Hakim      |    Ms Su Xiao Min        |
 | 3-8 | Ms Loh Yoke Ling | Mr Sivakumar Duraisamy |
 | 3-9 | Mr Bernard Wu Yongwei | Mr Ong Zhi Xiang |
 
