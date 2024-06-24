@@ -11,14 +11,14 @@ variant: markdown
 
 |     | FT                                  | FT                       |
 |-----|-------------------------------------|--------------------------|
-| 1-1 | Mr Chan Wu Siong Andrew            | Ms Jasmine Ngoh Xin Rong        |
+| 1-1 | Ms Jasmine Ngoh Xin Rong            |    Mr Chua Wei Jian     |
 | 1-2 | Ms Jenny Wang              | Mr Lim Bao Luo Paul  |
 | 1-3 | Mdm Wee Shen Sze               | Ms Nur Amirah Binte Rosman   |
 | 1-4 | Mdm Rekhvinder Kaur                    | Ms Sam Li Ying   |
 | 1-5 | Mr Low Young Kwang                     | Ms Rafiqah Dewi Bte Aziz       |
 | 1-6 | Ms Siti Zawiah Bte Abd Malek                 | Mr Danial Iylia        |
 | 1-7 | Ms Sharie Ong Minyu                  | Mrs Deenadayalan Jothibai          |
-| 1-8 | Mr Jason Ang Hui Xiang | Ms Wan Kuan Yi           |
+| 1-8 | Ms Gan Wei Chin Debbie | Ms Wan Kuan Yi           |
 
 
 
@@ -27,7 +27,7 @@ variant: markdown
 |     | FT                      | FT                       |
 |-----|-------------------------|--------------------------|
 | 2-1 | Mdm Rabiaton Binte Laili         |    Mr Steven Tay Beng Chai                      |
-| 2-2 | Mdm Liyana Binte Mohamed Ali        | Mr  Teh Poh Leong, Gerald           |
+| 2-2 | Mdm Liyana Binte Mohamed Ali        | Mr             |
 | 2-3 | Mdm Nuurulhuda Hasbolah   |  Mr Jerome Sng Kai Rong                    |
 | 2-4 | Mr Lee Chee Yeon       | Ms J Thivyadarishini          |
 | 2-5 | Mr Teo Chun Min | Ms Chung See Yee, Cherie Sara      |
