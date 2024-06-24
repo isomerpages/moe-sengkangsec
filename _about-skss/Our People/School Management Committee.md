@@ -12,7 +12,6 @@ variant: markdown
 | Mr Ng Cheng Song Jeremy           | Vice-Principal                 |
 | Ms Ong Yen Ping Cheryl       | Sch Staff Developer            |
 | Mr Sam Tan Caiyu             | HOD ICT                        |
-| Ms Jenny Neo                 | HOD Student Management         |
 | Mdm Koh Yoke Peng Eunice     | HOD Design and Aesthetics      |
 | Mr Henry Kwek                | HOD Humanities                 |
 | Mdm Zurinawati Jumahat       | HOD CCE                        |
