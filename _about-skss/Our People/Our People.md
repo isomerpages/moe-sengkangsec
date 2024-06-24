@@ -39,8 +39,8 @@ variant: markdown
 
 |     | FT                       | FT                        |
 |-----|--------------------------|---------------------------|
-| 3-1 | Mrs Joel Tan Tze Ying   |   Mr Toh Hong Jin                        |
-| 3-2 | Ms Honey Kwok           |   Ms Su Xiao Min                        |
+| 3-1 | Ms Soh Qian Wei   |   Mr Toh Hong Jin                        |
+| 3-2 | Ms Honey Kwok           |   Ms Nur Jasmine Roslan    |
 | 3-3 | Ms Nursimah Mokhtar           |    Mr Lak Lucas                       |
 | 3-4 | Mr Goy Wee Seng Wilson    |   Mdm Uma Maheshwari Ravisankar                       |
 | 3-5 | Ms Lim Siew Khim  |  Ms Lee Zihui Amanda       |
