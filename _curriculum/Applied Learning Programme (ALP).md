@@ -38,8 +38,7 @@ thinking skills.</p>
 <p>Mr Hisham Zainal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hisham_zainal@schools.gov.sg</a>
-</p>
+<p>hisham_zainal@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -47,8 +46,7 @@ thinking skills.</p>
 <p>Mr Khyber Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">singh_khyber@schools.gov.sg</a>
-</p>
+<p>singh_khyber@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
