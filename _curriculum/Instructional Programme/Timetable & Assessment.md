@@ -32,23 +32,31 @@ variant: tiptap
 <p>Semester 1</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/WA &amp; MA/2024 Semester 1/WA_MA_Schedule_2024___Semester_1__29_Jan_.pdf" rel="noopener noreferrer nofollow" target="_blank">WA&amp;MA Schedule 2024 - Semester 1 (29 Jan)</a>
+<p><a href="/files/WA &amp; MA/2024 Semester 2/Semester_2_WA3_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">WA Schedule 2024 - Semester 2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/WA &amp; MA/2024 Semester 1/Sec_1_Weighted_Assesment_Info_Sem_1_2024__24_Jan_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1_Weighted Assessment Info_Sem 1_2024 (24 Jan)</a>
+<p><a href="/files/WA &amp; MA/2024 Semester 2/2024_Sec4_5_PRELIM_SCHEDULE__Final_v_8_Jul_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5 Prelim Schedule 2024</a>
 </p>
 </li>
 <li>
-<p><a href="/files/WA &amp; MA/2024 Semester 1/Sec_2_Weighted_Assesment_Info_Sem_1_2024__25_Jan_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2_Weighted Assessment Info_Sem 1_2024 (25 Jan)</a>
+<p><a href="/files/WA &amp; MA/2024 Semester 2/Sec_1_Weighted_Assesment_Info_Sem_2_2024__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Weighted Assessment Indo Sem 2 2024</a>
 </p>
 </li>
 <li>
-<p><a href="/files/WA &amp; MA/2024 Semester 1/Sec_3_Weighted_Assesment_Info_Sem_1_2024__24_Jan_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3_Weighted Assessment Info_Sem 1_2024 (24 Jan)</a>
+<p><a href="/files/WA &amp; MA/2024 Semester 2/Sec_2_Weighted_Assesment_Info_Sem_2_2024__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Weighted Assessment Info Sem 2 2024</a>
 </p>
 </li>
 <li>
-<p><a href="/files/WA &amp; MA/2024 Semester 1/Sec_4_5_Milestone_Assesment_Info_Sem_1_2024__24_Jan_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4&amp;5_Milestone Assessment Info_Sem 1_2024 (24 Jan)</a>
+<p><a href="/files/WA &amp; MA/2024 Semester 2/Sec_3_Weighted_Assesment_Info_Sem_2_2024__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Weighted Assessment Info Sem 2 2024</a>
+</p>
+</li>
+<li>
+<p><a href="/files/WA &amp; MA/2024 Semester 2/Sec_4_Assessment_Information_Sem2_2024__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Weighted Assessment Info Sem 2 2024</a>
+</p>
+</li>
+<li>
+<p><a href="/files/WA &amp; MA/2024 Semester 2/Sec_5_Assessment_Information_Sem2_2024__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Weighted Assessment Info Sem 2 2024</a>
 </p>
 </li>
 </ul>
