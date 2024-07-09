@@ -29,7 +29,7 @@ variant: tiptap
 </ul>
 <p></p>
 <h4>Assessment</h4>
-<p>Semester 1</p>
+<p>Semester 2</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/WA &amp; MA/2024 Semester 2/Semester_2_WA3_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">WA Schedule 2024 - Semester 2</a>
@@ -40,7 +40,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/WA &amp; MA/2024 Semester 2/Sec_1_Weighted_Assesment_Info_Sem_2_2024__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Weighted Assessment Indo Sem 2 2024</a>
+<p><a href="/files/WA &amp; MA/2024 Semester 2/Sec_1_Weighted_Assesment_Info_Sem_2_2024__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Weighted Assessment Info Sem 2 2024</a>
 </p>
 </li>
 <li>
