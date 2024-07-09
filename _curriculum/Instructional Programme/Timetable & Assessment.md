@@ -40,7 +40,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/WA &amp; MA/2024 Semester 2/Sec_1_Weighted_Assesment_Info_Sem_2_2024__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Weighted Assessment Indo Sem 2 2024</a>
+<p><a href="/files/WA &amp; MA/2024 Semester 2/Sec_1_Weighted_Assesment_Info_Sem_2_2024__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Weighted Assessment Info Sem 2 2024</a>
 </p>
 </li>
 <li>
