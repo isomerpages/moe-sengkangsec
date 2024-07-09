@@ -59,8 +59,5 @@ variant: tiptap
 <p><a href="/files/WA &amp; MA/2024 Semester 2/Sec_5_Assessment_Information_Sem2_2024__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Weighted Assessment Info Sem 2 2024</a>
 </p>
 </li>
-<li>
-<p></p>
-</li>
 </ul>
 <p></p>
