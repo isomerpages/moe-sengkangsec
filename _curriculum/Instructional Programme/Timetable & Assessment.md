@@ -29,7 +29,7 @@ variant: tiptap
 </ul>
 <p></p>
 <h4>Assessment</h4>
-<p>Semester 1</p>
+<p>Semester 2</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/WA &amp; MA/2024 Semester 2/Semester_2_WA3_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">WA Schedule 2024 - Semester 2</a>
