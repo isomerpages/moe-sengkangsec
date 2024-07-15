@@ -36,7 +36,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/WA &amp; MA/2024 Semester 2/2024_Sec4_5_PRELIM_SCHEDULE__Final_v_8_Jul_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5 Prelim Schedule 2024</a>
+<p><a href="/files/WA &amp; MA/2024 Semester 2/2024_Sec4_5_PRELIM_SCHEDULE__Final_v_12_Jul_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5 Prelim Schedule 2024</a>
 </p>
 </li>
 <li>
