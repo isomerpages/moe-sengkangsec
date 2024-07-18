@@ -4,7 +4,7 @@ permalink: /school-canteen-advertisement/
 variant: tiptap
 description: ""
 ---
-<h4>Seng Kang Secondary School is inviting applicants to operate a “Malay Nasi Padang Food Stall”</h4>
+<h4>Seng Kang Secondary School is inviting applicants to operate a “<strong>Halal Economical Rice Food Stall</strong>”</h4>
 <h5>Criteria</h5>
 <p>Applicants should meet the following criteria:</p>
 <ol data-tight="true" class="tight">
@@ -63,5 +63,5 @@ assistant/s.</p>
 Card (front &amp; back).</p>
 <p>Please submit the completed application form with the supporting documents
 to the school's General Office or email to <a href="mailto:skss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">skss@moe.edu.sg</a> (Attention: Administration
-Manager) by <strong>28 June 2024</strong>.</p>
+Manager) by <strong>30 August 2024</strong>.</p>
 <p>Thank you.</p>
