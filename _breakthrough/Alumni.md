@@ -4,6 +4,13 @@ permalink: /alumni/
 variant: tiptap
 description: ""
 ---
+<p>Our ex-student, <strong>YANG QIAN WEN, RAE</strong> have won the Pfizer
+Asia Manufacturing Silver Medal for Outstanding Academic Performance and
+Lee Kua Yew Award.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Alumni/NYP_Yang_Qian_Wen_RAE.jpg">
+</div>
+<p></p>
 <p>Our ex-student,&nbsp;<strong>TAY KAI YUAN</strong>, has won the prestigious
 The Seah Moon Ming Scholarship for his excellent achievements in the Diploma
 in Biomedical Engineering for the academic year 2023/2024. He has also
