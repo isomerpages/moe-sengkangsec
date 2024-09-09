@@ -2,10 +2,10 @@ collections:
   breakthrough:
     output: true
     order:
-      - Alumni.md
-      - CCAs.md
       - A Spirit of Breakthrough.md
       - Students.md
+      - CCAs.md
+      - Alumni.md
       - Student Achievements/.keep
       - Student Achievements/Our Sky Prides.md
       - Student Achievements/Our CCA Prides.md
