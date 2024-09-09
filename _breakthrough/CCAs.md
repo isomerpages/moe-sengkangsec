@@ -1,9 +1,8 @@
 ---
-title: Our CCA Prides
-permalink: /student-achievements/our-cca-achievements/
-description: ""
-third_nav_title: Student Achievements
+title: CCAs
+permalink: /ccas/
 variant: tiptap
+description: ""
 ---
 <p><strong>2023</strong>
 </p>

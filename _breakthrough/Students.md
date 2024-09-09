@@ -1,9 +1,8 @@
 ---
-title: Our Sky Prides
-permalink: /achievements/student-achievements/
-description: ""
-third_nav_title: Student Achievements
+title: Students
+permalink: /students/
 variant: tiptap
+description: ""
 ---
 <p><strong>North Zone Schools (Primary/Secondary) Chinese Speech Competition 2023</strong>
 </p>
