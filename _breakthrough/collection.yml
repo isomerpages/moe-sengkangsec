@@ -2,8 +2,8 @@ collections:
   breakthrough:
     output: true
     order:
-      - Students.md
       - A Spirit of Breakthrough.md
+      - Students.md
       - Student Achievements/.keep
       - Student Achievements/Our Sky Prides.md
       - Student Achievements/Our CCA Prides.md
