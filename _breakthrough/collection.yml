@@ -2,6 +2,7 @@ collections:
   breakthrough:
     output: true
     order:
+      - Stories.md
       - A Spirit of Breakthrough.md
       - Students.md
       - CCAs.md
