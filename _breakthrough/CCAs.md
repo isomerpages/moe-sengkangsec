@@ -63,7 +63,9 @@ in any way, with the unit should I be called upon.</p>
 has been my interest from young. Over the years in NPCC, my participation
 in cybersecurity-related activities has also piqued my interest in this
 area. &nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/CCA/SPF_NPCC_BADGE_AWARD_PHOTO.jpg">
+</div>
 <p></p>
 <p><strong>2023</strong>
 </p>
