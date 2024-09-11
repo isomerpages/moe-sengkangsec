@@ -4,6 +4,38 @@ permalink: /students/
 variant: tiptap
 description: ""
 ---
+<p><strong>&nbsp;“Script It Right” Chinese Radio Drama Script Writing Competition 2024 与声剧来广播创作剧比赛 2024</strong>
+</p>
+<p>We are thrilled to announce that Li Yi Ran (5-1) and Hong Jing Yi (4-6)
+have won the <em>Creativity Script Award</em> (创意剧本奖) for their outstanding
+radio play script 《向日葵》 in the “Script It Right” Chinese Radio Drama Script
+Writing Competition 2024 与声剧来广播创作剧比赛. This prestigious competition, organized
+by the Committee to Promote Chinese Language Learning and UFM1003 radio
+station, saw nearly 400 entries this year. Li Yi Ran and Hong Jing Yi’s
+script stood out and earned them this remarkable accolade.</p>
+<p></p>
+<p>You may read their award-winning script <a href="https://docs.google.com/document/d/19UAY2K3fmUFJnScC_YCgi7IwSLN8VKtjJYEmulx-V8M/pub" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
+</p>
+<p></p>
+<p><strong>7th National Text Recital Competition 2024 全国课文朗诵比赛 2024&nbsp;</strong>
+</p>
+<p></p>
+<p>We celebrate our Sec 1 students Cheng Zhi Ren, J’den (1-1), Goh Hui Jia
+(1-2), and Pua Jun Yang (1-2) for their stellar performance in the 7th
+National Text Recital Competition 全国课文朗诵比赛. Their hard work and dedication
+earned them a Bronze award.</p>
+<p></p>
+<p>Watch their engaging and animated recital <a href="https://drive.google.com/file/d/1uZp1VSXaCjdtzUbqrQRyld1dLOZp9J3K/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p></p>
+<p><strong>Singapore Pledge Pen Calligraphy Competition 2024 新加坡“信约”硬笔书法比赛 2024</strong>
+</p>
+<p></p>
+<p>Congratulations to Yuan Xiao (2-6) for winning the Outstanding Award (优胜奖)
+at the Singapore Pledge Pen Calligraphy Competition (新加坡“信约”硬笔书法比赛)! 🖋️
+With 80 schools participating and 1,148 entries submitted for this competition,
+this is indeed an incredible achievement！&nbsp;</p>
+<p></p>
+<hr>
 <p><strong>North Zone Schools (Primary/Secondary) Chinese Speech Competition 2023</strong>
 </p>
 <p>On 12 May Friday 2023, the annual North Zone Schools (Primary/Secondary)
