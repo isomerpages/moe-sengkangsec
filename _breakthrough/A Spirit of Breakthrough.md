@@ -15,31 +15,27 @@ to confront challenges, the determination to overcome obstacles, and the
 passion to strive for excellence in every endeavor. In the classroom, on
 the field, and in our community, we believe that every breakthrough, big
 or small, marks the path to personal growth and collective success.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.sengkangsec.moe.edu.sg/students/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023-2024 website banner.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.sengkangsec.moe.edu.sg/students/"><img style="width: 55%;" height="auto" width="100%" alt="" src="/images/2023-2024 website banner.png"></a>
 <p><a href="https://www.sengkangsec.moe.edu.sg/students/" rel="noopener nofollow" target="_blank">Students</a>
 </p>
 </th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.sengkangsec.moe.edu.sg/ccas/"><img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Achievements/Our Breakthrough/CCAs.jpg"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.sengkangsec.moe.edu.sg/ccas/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Achievements/Our Breakthrough/CCAs.jpg"></a>
 <p><a href="https://www.sengkangsec.moe.edu.sg/ccas/" rel="noopener nofollow" target="_blank">CCAs</a>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Achievements/Alumni/Alumni_Breakthrough___Nurul_Unaisah.jpg">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -47,9 +43,6 @@ or small, marks the path to personal growth and collective success.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
