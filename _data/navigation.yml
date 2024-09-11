@@ -15,15 +15,21 @@ links:
         url: /about-skss/our-people
       - title: Contact Us
         url: /about-skss/contact-us
-  - title: Breakthrough
-    url: /achievements/school-achievements/
+  - title: Our Breakthrough
+    url: /a-spirit-of-breakthrough/
     sublinks:
-      - title: Student Achievements
-        url: /achievements/student-achievements
-      - title: Staff Achievements
-        url: /achievements/staff-achievements
-      - title: Alumni Breakthrough
-        url: /breakthrough/alumni-breakthrough/
+      - title: Students
+        url: /students/
+      - title: CCAs
+        url: /ccas/
+      - title: Alumni
+        url: /alumni/
+      - title: Stories
+        url: /stories/
+      - title: Staff
+        url: /staff/
+      - title: School
+        url: /school/
   - title: Curriculum
     url: /curriculum/curriculum
     sublinks:
