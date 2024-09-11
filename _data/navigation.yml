@@ -22,10 +22,14 @@ links:
         url: /students/
       - title: CCAs
         url: /ccas/
-      - title: Staff Achievements
-        url: /achievements/staff-achievements
-      - title: Alumni Breakthrough
-        url: /breakthrough/alumni-breakthrough/
+      - title: Alumni
+        url: /alumni/
+      - title: Stories
+        url: /stories/
+      - title: Staff
+        url: /staff/
+      - title: School
+        url: /school/
   - title: Curriculum
     url: /curriculum/curriculum
     sublinks:
