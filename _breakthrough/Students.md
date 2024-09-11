@@ -13,9 +13,15 @@ Writing Competition 2024 与声剧来广播创作剧比赛. This prestigious com
 by the Committee to Promote Chinese Language Learning and UFM1003 radio
 station, saw nearly 400 entries this year. Li Yi Ran and Hong Jing Yi’s
 script stood out and earned them this remarkable accolade.</p>
-<p></p>
 <p>You may read their award-winning script <a href="https://docs.google.com/document/d/19UAY2K3fmUFJnScC_YCgi7IwSLN8VKtjJYEmulx-V8M/pub" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Students/Script_it_Right_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Students/Script_it_right_2.jpg">
+</div>
 <p></p>
 <p><strong>7th National Text Recital Competition 2024 全国课文朗诵比赛 2024&nbsp;</strong>
 </p>
@@ -27,6 +33,13 @@ earned them a Bronze award.</p>
 <p></p>
 <p>Watch their engaging and animated recital <a href="https://drive.google.com/file/d/1uZp1VSXaCjdtzUbqrQRyld1dLOZp9J3K/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Students/Recital_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Students/Recital_2.jpg">
+</div>
 <p><strong>Singapore Pledge Pen Calligraphy Competition 2024 新加坡“信约”硬笔书法比赛 2024</strong>
 </p>
 <p></p>
@@ -35,6 +48,9 @@ at the Singapore Pledge Pen Calligraphy Competition (新加坡“信约”硬笔
 With 80 schools participating and 1,148 entries submitted for this competition,
 this is indeed an incredible achievement！&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Students/Pen_Calligraphy_Yuan_Xiao.jpg">
+</div>
 <hr>
 <p><strong>North Zone Schools (Primary/Secondary) Chinese Speech Competition 2023</strong>
 </p>
