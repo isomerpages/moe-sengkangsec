@@ -1,5 +1,5 @@
 ---
-title: A Spirit of Breakthrough
+title: Our Breakthroughs
 permalink: /a-spirit-of-breakthrough/
 variant: tiptap
 description: ""

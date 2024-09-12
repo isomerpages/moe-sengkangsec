@@ -1,8 +1,8 @@
 collections:
-  breakthrough:
+  our-breakthroughs:
     output: true
     order:
-      - A Spirit of Breakthrough.md
+      - Our Breakthroughs.md
       - Students.md
       - CCAs.md
       - Alumni.md
