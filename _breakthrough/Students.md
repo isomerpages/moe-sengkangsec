@@ -33,9 +33,6 @@ earned them a Bronze award.</p>
 <p></p>
 <p>Watch their engaging and animated recital <a href="https://drive.google.com/file/d/1uZp1VSXaCjdtzUbqrQRyld1dLOZp9J3K/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Students/Recital_1.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Students/Recital_2.jpg">
