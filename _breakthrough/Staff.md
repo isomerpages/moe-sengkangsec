@@ -4,6 +4,19 @@ permalink: /staff/
 variant: tiptap
 description: ""
 ---
+<p><strong>Supporting Diverse Learners in the applications of Technologies using Everyday objects</strong>
+</p>
+<p>Mr. Khyber Singh led a Teacher-Led Workshop (TLW) for 21 DT practitioners
+on 23 August 2024 where he discussed the application of the Universal Design
+for Learning framework in his classes to address the diverse learning needs
+of his students.</p>
+<p>Mr. Singh demonstrated how everyday objects, mechanisms, electronics,
+and microbits, along with a blend of online resources and printed materials,
+can effectively be utilized to teach the theoretical aspects of the Design
+and Technology syllabus. The participants gained valuable insights and
+learning experiences through their collaborative engagement with various
+resources.</p>
+<p></p>
 <p><strong>Teachers’ Conference and Excel Fest (TCEF) 2023</strong>
 </p>
 <p>Congratulations, Mdm Eunice Koh, Mr Gerald Teh, Ms Nursimah and Mdm Nuurulhuda
