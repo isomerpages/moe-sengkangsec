@@ -17,6 +17,17 @@ and Technology syllabus. The participants gained valuable insights and
 learning experiences through their collaborative engagement with various
 resources.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Staff/Picture1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Staff/Picture2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Staff/Picture3.jpg">
+</div>
 <p><strong>Teachers’ Conference and Excel Fest (TCEF) 2023</strong>
 </p>
 <p>Congratulations, Mdm Eunice Koh, Mr Gerald Teh, Ms Nursimah and Mdm Nuurulhuda
