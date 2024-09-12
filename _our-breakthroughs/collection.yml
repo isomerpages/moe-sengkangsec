@@ -1,5 +1,5 @@
 collections:
-  breakthrough:
+  our-breakthroughs:
     output: true
     order:
       - Our Breakthroughs.md
