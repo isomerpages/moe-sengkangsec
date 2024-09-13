@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4>2024 Class Timetable</h4>
 <p>Click on the respective levels to access the&nbsp; 2024 Class Timetable:</p>
-<p><strong>SEMESTER 2, TERM 3</strong>
+<p><strong>SEMESTER 2, TERM 4</strong>
 </p>
 <ul>
 <li>
