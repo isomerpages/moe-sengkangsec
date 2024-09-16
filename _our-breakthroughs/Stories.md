@@ -15,6 +15,17 @@ patriotism, and pride that we instill in our students. Congratulations
 to all our participants for representing our school with such energy and
 passion!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Stories/d0b6b89a_8f6f_49b6_a94f_5adfa178b712.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Stories/27c9bf87_ce9f_45f3_b54e_606c80624226.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Stories/IMG_6841.jpg">
+</div>
 <p><strong>Dancers at National Day Parade 2021</strong>
 </p>
 <div class="isomer-image-wrapper">
