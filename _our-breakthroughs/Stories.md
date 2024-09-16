@@ -4,6 +4,28 @@ permalink: /stories/
 variant: tiptap
 description: ""
 ---
+<p><strong>National Day Parade 2024</strong>
+</p>
+<p>We are proud to share that our students from Seng Kang Secondary School
+were involved in the National Day Parade 2024 held on 9th August. Our students
+took part in the pre-parade segment, contributing to the celebration of
+Singapore’s 59th birthday with enthusiasm and dedication. Their involvement
+in such a prestigious national event highlights the spirit of community,
+patriotism, and pride that we instill in our students. Congratulations
+to all our participants for representing our school with such energy and
+passion!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Stories/d0b6b89a_8f6f_49b6_a94f_5adfa178b712.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Stories/27c9bf87_ce9f_45f3_b54e_606c80624226.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Stories/IMG_6841.jpg">
+</div>
 <p><strong>Dancers at National Day Parade 2021</strong>
 </p>
 <div class="isomer-image-wrapper">
