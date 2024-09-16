@@ -83,7 +83,10 @@ support gave us the motivation to play for the school. Through these activities,
 the players have learnt to be more resilient and self-disciplined. Their
 actions echo what our players always cheer before a game, “Majulah, Sengkang!”</p>
 <p><strong>Achievements</strong>
-<br>
+<br>2024 B Division League 4 - 4th Position
+<br>2024 C Division League 2 - 3rd Position
+<br>2024 SFA League B - 4th Position
+<br>2023 SFA League B - 2nd Position
 <br>2023 National Schools Games B Division Football Championships - Round
 1
 <br>2023 National Schools Games C Division Football Championships - League
