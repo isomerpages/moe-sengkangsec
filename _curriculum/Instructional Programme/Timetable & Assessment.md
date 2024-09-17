@@ -48,11 +48,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/WA &amp; MA/2024 EOY/2024_Sec_2_EOY_SCHEDULE__Final_.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY Exam Schedule 2024</a>
+<p><a href="/files/WA &amp; MA/2024 EOY/2024_Sec_2_EOY_SCHEDULE__Revised_.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY Exam Schedule 2024</a>
 </p>
 </li>
 <li>
-<p><a href="/files/WA &amp; MA/2024 EOY/2024_Sec_3_EOY_SCHEDULE__Final_.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Exam Schedule 2024</a>
+<p><a href="/files/WA &amp; MA/2024 EOY/2024_Sec_3_EOY_SCHEDULE__Revised_.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Exam Schedule 2024</a>
 </p>
 </li>
 </ul>
