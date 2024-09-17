@@ -4,8 +4,7 @@ permalink: /ccas/
 variant: tiptap
 description: ""
 ---
-<p><strong>2024</strong>
-</p>
+<h3><strong>2024</strong></h3>
 <p>At this year's Singapore Youth Festival (SYF) Art Exhibition 2024, we
 are proud to announce that 3 of our entries has been selected and the following
 5 students have attained Certificate of Recognition.</p>
@@ -107,8 +106,7 @@ has been my interest from young. Over the years in NPCC, my participation
 in cybersecurity-related activities has also piqued my interest in this
 area. &nbsp;</p>
 <p></p>
-<p><strong>2023</strong>
-</p>
+<h3><strong>2023</strong></h3>
 <p><strong>PHYSICAL SPORTS CCA</strong>
 <br>TAEKWANDO - NSG B BOYS - 1st runners up
 <br>FOOTBALL – NSG C BOYS - 2nd runners up (Tier 3)
@@ -125,8 +123,7 @@ C Girls - 2nd runners up</p>
 <br>GIRLS GUIDE – Unit Gold Award and Baden Powell Award
 <br>NATIONAL POLICE CADET CORPS (NPCC) - UNIT Gold and SPF Award
 <br>NATIONAL CADET CORPS (NCC LAND) - Unit Gold Award</p>
-<p><strong>2022</strong>
-</p>
+<h3><strong>2022</strong></h3>
 <p><strong>PHYSICAL SPORTS CCA</strong>
 <br>HOCKEY – NSG B Boys - 2nd runners up; NSG B Girls - 3rd runners up; NSG
 C Girls - 2nd runners up</p>
