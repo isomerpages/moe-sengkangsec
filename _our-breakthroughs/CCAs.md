@@ -7,14 +7,13 @@ description: ""
 <h3><strong>2024</strong></h3>
 <p>At this year's Singapore Youth Festival (SYF) Art Exhibition 2024, we
 are proud to announce that 3 of our entries has been selected and the following
-5 students have attained Certificate of Recognition.</p>
-<p><strong>Tan Qi Qi 2-3</strong>
+5 students have attained Certificate of Recognition.
+<br><strong>Tan Qi Qi 2-3</strong>
 <br><strong>Yeo Xin Le Ariel 2-3</strong>
 <br><strong>Wu Peishan Jocelyn 2-3</strong>
 <br><strong>Goi Rui An, Andy 3-2</strong>
 <br><strong>Danial Rizqy Bin Norul Norhidayat 3-3</strong>
 </p>
-<p></p>
 <p><strong><u>Icons of Singapore Tan Qi Qi, Yeo Xin Le Ariel 2</u></strong>
 </p>
 <div class="isomer-image-wrapper">
