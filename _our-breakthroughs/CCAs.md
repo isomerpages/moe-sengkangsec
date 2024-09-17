@@ -36,6 +36,9 @@ work preparing and coming up with wonderful and creative artworks for SYF.</p>
 <p></p>
 <p><strong><u>Baden Powell Award</u></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/CCA/Girl_Guides_Baden_Powell_Award_2024_.jpg">
+</div>
 <p>Congratulations to Girl Guides, Rajesh Mridini and Karthik Aradhana for
 attaining the Baden Powell Award 2024!</p>
 <p>The Baden Powell Award (BPA) is the highest award given out by our Chief
