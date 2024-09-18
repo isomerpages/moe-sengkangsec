@@ -23,6 +23,7 @@ the teaching fraternity at the 2023 Teachers’ Conference and Excel Fest.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TCEF_2023.jpg">
 </div>
+<p></p>
 <p><strong>MOE Service Excellence Award 2022 Winners</strong>
 </p>
 <table style="minWidth: 50px">
