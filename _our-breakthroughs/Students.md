@@ -4,17 +4,10 @@ permalink: /students/
 variant: tiptap
 description: ""
 ---
-<p><strong>Health and Food Science Competition 2024</strong>
+<p><strong>Health &amp; Food Science Competition 2024 (Runners-Up)</strong>
 </p>
-<p>We are proud to announce that our Nutrition and Food Science students
-have excelled in the Health and Food Science Competition 2024. In this
-competition, participants were tasked with designing a nutritious dish
-and developing suitable games using appropriate programming for individuals
-with specific health needs. A total of 21 teams from schools across Singapore
-took part in the competition, showcasing their creativity, technical skills,
-and understanding of health and nutrition. We are thrilled to share that
-the Seng Kang Secondary School team has emerged 2nd in this national competition.
-Congratulations to our students on this outstanding achievement!</p>
+<p>Our students finished runners-up amongst 21 other schools in the competition,
+where they designed nutritious dishes and health-focused games.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Students/IMG_7181.jpg">
 </div>

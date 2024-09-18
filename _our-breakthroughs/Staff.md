@@ -6,16 +6,10 @@ description: ""
 ---
 <p><strong>Supporting Diverse Learners in the applications of Technologies using Everyday objects</strong>
 </p>
-<p>Mr. Khyber Singh led a Teacher-Led Workshop (TLW) for 21 DT practitioners
-on 23 August 2024 where he discussed the application of the Universal Design
-for Learning framework in his classes to address the diverse learning needs
-of his students.</p>
-<p>Mr. Singh demonstrated how everyday objects, mechanisms, electronics,
-and microbits, along with a blend of online resources and printed materials,
-can effectively be utilized to teach the theoretical aspects of the Design
-and Technology syllabus. The participants gained valuable insights and
-learning experiences through their collaborative engagement with various
-resources.</p>
+<p>Mr. Khyber Singh led a workshop for 21 Design and Technology practitioners
+on applying the Universal Design for Learning framework. He demonstrated
+how to use everyday objects and technology to teach the syllabus effectively.
+Participants engaged collaboratively, gaining valuable insights and experiences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Staff/Picture1.jpg">
 </div>
@@ -29,6 +23,7 @@ the teaching fraternity at the 2023 Teachers’ Conference and Excel Fest.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TCEF_2023.jpg">
 </div>
+<p></p>
 <p><strong>MOE Service Excellence Award 2022 Winners</strong>
 </p>
 <table style="minWidth: 50px">
