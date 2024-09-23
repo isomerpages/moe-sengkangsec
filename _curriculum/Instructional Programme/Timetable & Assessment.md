@@ -52,7 +52,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/WA &amp; MA/2024 EOY/2024_Sec_3_EOY_SCHEDULE__Revised_17_Sep_.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Exam Schedule 2024</a>
+<p><a href="/files/WA &amp; MA/2024 EOY/2024_Sec_3_EOY_SCHEDULE__REVISED_22_SEP_.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Exam Schedule 2024</a>
 </p>
 </li>
 </ul>
