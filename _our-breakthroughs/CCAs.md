@@ -29,6 +29,8 @@ in my development as a leader and in preparing for my badge interview.</p>
 <p></p>
 <p><strong>PHYSICAL SPORTS CCA</strong>
 </p>
+<p><strong>Hockey </strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -117,6 +119,33 @@ in my development as a leader and in preparing for my badge interview.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Badminton</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 C Division Girls League 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3><strong>2023</strong></h3>
 <p><strong>PHYSICAL SPORTS CCA</strong>
 <br>TAEKWANDO - NSG B BOYS - 1st runners up
