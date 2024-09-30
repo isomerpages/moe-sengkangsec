@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Physical Sports
 variant: tiptap
 ---
+<p><strong>Achievements </strong>
+<br>2024 C Division Girls League 3 -Champion</p>
 <p><strong>CCA Beliefs</strong>
 <br>We aim to achieve a balanced and well-rounded education beyond school
 level, to inculcate sound moral values and fair play, to develop strength
