@@ -26,6 +26,97 @@ self-development and their positive impacts on others.</p>
 more resilient and adaptable since my reserved lower secondary days. I’m
 grateful to Mr. Noah Zhang and Ms. Amanda Lee for their immense support
 in my development as a leader and in preparing for my badge interview.</p>
+<p></p>
+<p><strong>PHYSICAL SPORTS CCA</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Junior League (NJL) boys (Division 3)&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Junior League (NJL) Girls (Division 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Police Youth Hockey&nbsp; Challenge (6-a-side) Team A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Police Youth Hockey&nbsp; Challenge (6-a-side) Team B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games (NSG) B division boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 2 Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games (NSG) B division girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 1 Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games (NSG) C division boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 1 Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games (NSG) C division girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 1 3<sup>rd</sup> Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Youth Hockey Liga Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>2023</strong></h3>
 <p><strong>PHYSICAL SPORTS CCA</strong>
 <br>TAEKWANDO - NSG B BOYS - 1st runners up
