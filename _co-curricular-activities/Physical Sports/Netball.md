@@ -16,27 +16,53 @@ skills, physical stamina and agility. The team also learns how to make
 quick decisions and think critically amidst a game by engaging in discussion
 and execution of strategic play during CCA.&nbsp;</p>
 <p><strong>Achievements and Accolades</strong>
-<br>2024 North Zone Inter-school C Division Netball Championships - League
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2024 North Zone Inter-school C Division Netball Championships - League
 Round</p>
+</li>
+<li>
 <p>2024 North Zone Inter-school B Division Netball Championships - Round
 1</p>
+</li>
+<li>
 <p>2023 North Zone Inter-school B&nbsp; and C Division Netball Championships
 - Round 1</p>
+</li>
+<li>
 <p>2022 North Zone Inter-school B and C Division Netball Championships -
 Round 1</p>
+</li>
+<li>
 <p>2021 North Zone Inter-school B and C Division Netball Championships -
 Special Consideration</p>
+</li>
+<li>
 <p>2020 North Zone Inter-school B and C Division Netball Championships -
 Round 1</p>
+</li>
+<li>
 <p>2019 North Zone Inter-school B and C Division Netball Championships -
 Top 8</p>
+</li>
+<li>
 <p>2019 Evergreen Netball Carnival - 2nd Runner-up</p>
+</li>
+</ul>
 <p>
 <br><strong>CCA Training Sessions</strong>
-<br>Wednesdays 3pm- 6pm</p>
-<p>Fridays&nbsp; C Div - 1pm - 4pm</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B
-Div -&nbsp; 3pm-6pm</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wednesdays 3pm- 6pm</p>
+</li>
+<li>
+<p>Fridays&nbsp; C Div - 1pm - 4pm ; B Div -&nbsp; 3pm-6pm</p>
+<p></p>
+</li>
+</ul>
 <p><strong>Teachers in charge</strong>
 <br>
 </p>
