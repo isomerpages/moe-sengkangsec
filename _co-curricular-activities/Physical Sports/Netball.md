@@ -18,51 +18,27 @@ and execution of strategic play during CCA.&nbsp;</p>
 <p><strong>Achievements and Accolades</strong>
 <br>
 </p>
-<ul data-tight="true" class="tight">
-<li>
 <p>2024 North Zone Inter-school C Division Netball Championships - League
-Round</p>
-</li>
-<li>
-<p>2024 North Zone Inter-school B Division Netball Championships - Round
-1</p>
-</li>
-<li>
-<p>2023 North Zone Inter-school B&nbsp; and C Division Netball Championships
-- Round 1</p>
-</li>
-<li>
-<p>2022 North Zone Inter-school B and C Division Netball Championships -
-Round 1</p>
-</li>
-<li>
-<p>2021 North Zone Inter-school B and C Division Netball Championships -
-Special Consideration</p>
-</li>
-<li>
-<p>2020 North Zone Inter-school B and C Division Netball Championships -
-Round 1</p>
-</li>
-<li>
-<p>2019 North Zone Inter-school B and C Division Netball Championships -
-Top 8</p>
-</li>
-<li>
-<p>2019 Evergreen Netball Carnival - 2nd Runner-up</p>
-</li>
-</ul>
+Round
+<br>2024 North Zone Inter-school B Division Netball Championships - Round
+1
+<br>2023 North Zone Inter-school B&nbsp; and C Division Netball Championships
+- Round 1
+<br>2022 North Zone Inter-school B and C Division Netball Championships -
+Round 1
+<br>2021 North Zone Inter-school B and C Division Netball Championships -
+Special Consideration
+<br>2020 North Zone Inter-school B and C Division Netball Championships -
+Round 1
+<br>2019 North Zone Inter-school B and C Division Netball Championships -
+Top 8
+<br>2019 Evergreen Netball Carnival - 2nd Runner-up</p>
 <p>
 <br><strong>CCA Training Sessions</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Wednesdays 3pm- 6pm</p>
-</li>
-<li>
-<p>Fridays&nbsp; C Div - 1pm - 4pm ; B Div -&nbsp; 3pm-6pm</p>
+<p>Wednesdays 3pm- 6pm
+<br>Fridays&nbsp; C Div - 1pm - 4pm ; B Div -&nbsp; 3pm-6pm</p>
 <p></p>
-</li>
-</ul>
 <p><strong>Teachers in charge</strong>
 <br>
 </p>
