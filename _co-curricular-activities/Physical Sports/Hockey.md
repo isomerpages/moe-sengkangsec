@@ -14,16 +14,16 @@ who enrol in the CCA are given the opportunity to participate in friendly
 matches and tournaments.</p>
 <p><strong>Achievements and Accolades</strong>
 </p>
-<p>2024 National Schools Games Hockey Championships</p>
-<p>National Junior League (NJL) boys (Division 3) - 2nd place</p>
-<p>National Junior League (NJL) Girls (Division 2) - Champions</p>
-<p>Police Youth Hockey Challenge (6-a-side) Team A - 2nd Place</p>
-<p>Police Youth Hockey Challenge (6-a-side) Team B - 3rd Place</p>
-<p>National School Games (NSG) B division boys - League 2 Champions</p>
-<p>National School Games (NSG) B division girls - League 1 Champions</p>
-<p>National School Games (NSG) C division boys - League 1 Champions</p>
-<p>National School Games (NSG) C division girls - League 1 3rd Place</p>
-<p>Youth Hockey Liga Boys - 2nd Place</p>
+<p>2024 National Schools Games Hockey Championships
+<br>National Junior League (NJL) boys (Division 3) - 2nd place
+<br>National Junior League (NJL) Girls (Division 2) - Champions
+<br>Police Youth Hockey Challenge (6-a-side) Team A - 2nd Place
+<br>Police Youth Hockey Challenge (6-a-side) Team B - 3rd Place
+<br>National School Games (NSG) B division boys - League 2 Champions
+<br>National School Games (NSG) B division girls - League 1 Champions
+<br>National School Games (NSG) C division boys - League 1 Champions
+<br>National School Games (NSG) C division girls - League 1 3rd Place
+<br>Youth Hockey Liga Boys - 2nd Place</p>
 <p>2023 National Schools Games Hockey Championships
 <br>B Division Boys - Nationals 4th
 <br>B Division Girls - Top 8
@@ -121,6 +121,7 @@ nationally and globally.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Hockey%202.png">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
