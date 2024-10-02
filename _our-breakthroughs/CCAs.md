@@ -29,96 +29,30 @@ in my development as a leader and in preparing for my badge interview.</p>
 <p></p>
 <p><strong>PHYSICAL SPORTS CCA</strong>
 </p>
-<p><strong>Hockey </strong>
+<p><strong>Hockey</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Junior League (NJL) boys (Division 3)&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2<sup>nd</sup> place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Junior League (NJL) Girls (Division 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Champions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Police Youth Hockey&nbsp; Challenge (6-a-side) Team A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2<sup>nd</sup> Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Police Youth Hockey&nbsp; Challenge (6-a-side) Team B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3<sup>rd</sup> Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games (NSG) B division boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>League 2 Champions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games (NSG) B division girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>League 1 Champions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games (NSG) C division boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>League 1 Champions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games (NSG) C division girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>League 1 3<sup>rd</sup> Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Youth Hockey Liga Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2<sup>nd</sup> Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="408" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfOfhUKYD6mA6eGe7h3oyYa-xYC_fboo15HEgZKvE5BhoWz8xI84EPWvGgpq_91Xo_06k1r6Y4G_PFg-VmVLiwFj6ZOW__4y1LxfAC5q3m5QpW6P1K46htOvQjgPKjdRYIsOqzVdITjJHK6jdgzrxKCmNk?key=uhNycuOxast6Gw2WLKb6iQ">
+</div>
+<p>B Division Hockey Girls (NSG League 1 Champion) - Our girls clinched the
+prestigious League 1 championship titles, demonstrating their prowess on
+the field.</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="435" width="578" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfZqOrfcNIaUteC3oWRlNOhbKqOJDfhwjAiH9iZsYt6eM6mL9-QW8GaLvvUMjPrBMZfEOZgitzyQFu2_qR2JKVy1Kejp2krtjj1vw1Lp0b3vwER9_5rkquAYwiqDASRShFEYmlrKzcAePfO6kCDujde3_mk?key=uhNycuOxast6Gw2WLKb6iQ">
+</div>
+<p>C Division Hockey Boys (NSG League 1 Champion) - Our boys have made a
+breakthrough with their championship title in the games.</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="388" width="518" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfu7x9VEeGACGOh2ZfF8LZz0R3KE7v3dV3vHnpMtTYlqFLvHGPkIAfRj_sxvzBiC8Q2jfLpdkGfCOnvKBsayfyPeOUe-3HBo-e7gud_OyvDxm0H1yK8xDa13Sr6ruQ4upzZlpVQU_mlnJlZX2vfQZgP-xxU?key=uhNycuOxast6Gw2WLKb6iQ">
+</div>
+<p>C Division Hockey Girls (NSG League 1 3rd Placing) - Our C girls also
+excelled, securing a commendable 3rd-place finish in League 1.</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="443" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf6jU73AWllQh-mDwpqQ_c2maAiEfgDVKIerGttg1RZmexgOFDA4v3hegHxAd_kzJIQIpucQ6obPnjxk2B3wE3LYp7boBsTMMu6crfaWOvsA6ZxDcXYv2rv9fQoiMi40aW_R3h_3ZeTOMUTH8yk8FT6StrL?key=uhNycuOxast6Gw2WLKb6iQ">
+</div>
+<p>B Division Hockey Boys (League 2 Champions) - Not to be outdone, our dominated
+League 2, emerging as champions in their category.</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Badminton</strong>
 </p>
 <table style="minWidth: 50px">
