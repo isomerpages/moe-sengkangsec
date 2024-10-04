@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>2024</strong></h3>
-<p>Football C Division</p>
+<p><strong>C Division Football (League 2 3rd place)</strong>
+</p>
 <p>This year, Seng Kang Secondary School’s C Division Football team achieved
 a significant milestone by securing 3rd place in the Breakthrough League
 2 Championships. Their exceptional performance not only earned them a podium
@@ -69,33 +70,8 @@ League 1.</p>
 </div>
 <p>Not to be outdone, our dominated League 2, emerging as champions in their
 category.</p>
-<p></p>
-<p><strong>Badminton</strong>
+<p><strong>C Division Badminton Girls (League 3 Champions)</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024 C Division Girls League 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Champions</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <h3><strong>2023</strong></h3>
 <p><strong>PHYSICAL SPORTS CCA</strong>
