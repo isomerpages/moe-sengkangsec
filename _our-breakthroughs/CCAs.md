@@ -7,6 +7,9 @@ description: ""
 <h3><strong>2024</strong></h3>
 <p><strong>C Division Football (League 2 3rd place)</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/CCA/WhatsApp_Image_2024_10_04_at_08_19_31.jpg">
+</div>
 <p>This year, Seng Kang Secondary School’s C Division Football team achieved
 a significant milestone by securing 3rd place in the Breakthrough League
 2 Championships. Their exceptional performance not only earned them a podium
@@ -103,3 +106,4 @@ C Girls - 2nd runners up</p>
 <br>Media Club - Copyright School Challenge Video Competition GOLD Award (Produced
 by Heng Kai Ling)
 <br>Art Club – Certificate of Recognition (Visual Arts Exhibition)</p>
+<p></p>
