@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>2024</strong></h3>
-<p><strong>C Division Football (League 2 3rd place)</strong>
+<p><strong>C Division Football (League 2, 3rd place)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/CCA/WhatsApp_Image_2024_10_04_at_08_19_31.jpg">
@@ -35,7 +35,6 @@ attaining the Baden Powell Award 2024!</p>
 Commissioner to a Girl Guide. &nbsp;The award represents the remarkable
 achievement for Girl Guides, recognising their exceptional commitment to
 self-development and their positive impacts on others.</p>
-<p></p>
 <p><strong><u>Jaerel Ang (4-1) Recipient of the SPF-NPCC Badge</u></strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -73,8 +72,12 @@ League 1.</p>
 </div>
 <p>Not to be outdone, our dominated League 2, emerging as champions in their
 category.</p>
-<p><strong>C Division Badminton Girls (League 3 Champions)</strong>
+<p><strong>C Division Badminton Girls (League 3, Champions)</strong>
+<br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/CCA/C_girls.jpg">
+</div>
 <p></p>
 <h3><strong>2023</strong></h3>
 <p><strong>PHYSICAL SPORTS CCA</strong>
