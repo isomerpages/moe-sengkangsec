@@ -16,6 +16,9 @@ sections:
         - title: CCA Schedule
           description: ""
           url: /co-curriculum/co-curricular-activities-cca/
+        - title: Timetable & Assessment
+          description: ""
+          url: https://www.sengkangsec.moe.edu.sg/curriculum/instructional-programme-ip/timetable-and-assessment/
         - title: Announcement
           description: ""
           url: https://www.sengkangsec.moe.edu.sg/announcements/
