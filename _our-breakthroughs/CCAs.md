@@ -74,7 +74,11 @@ League 1.</p>
 <p>Not to be outdone, our dominated League 2, emerging as champions in their
 category.</p>
 <p><strong>C Division Badminton Girls (League 3, Champions)</strong>
+<br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/CCA/C_girls.jpg">
+</div>
 <p></p>
 <h3><strong>2023</strong></h3>
 <p><strong>PHYSICAL SPORTS CCA</strong>
