@@ -35,7 +35,6 @@ attaining the Baden Powell Award 2024!</p>
 Commissioner to a Girl Guide. &nbsp;The award represents the remarkable
 achievement for Girl Guides, recognising their exceptional commitment to
 self-development and their positive impacts on others.</p>
-<p></p>
 <p><strong><u>Jaerel Ang (4-1) Recipient of the SPF-NPCC Badge</u></strong>
 </p>
 <div class="isomer-image-wrapper">
