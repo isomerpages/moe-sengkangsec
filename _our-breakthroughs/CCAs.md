@@ -10,20 +10,10 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/CCA/WhatsApp_Image_2024_10_04_at_08_19_31.jpg">
 </div>
-<p>This year, Seng Kang Secondary School’s C Division Football team achieved
-a significant milestone by securing 3rd place in the Breakthrough League
-2 Championships. Their exceptional performance not only earned them a podium
-finish but also qualified the team for the prestigious C Division League
-1 next year. This remarkable success is a testament to the boys’ unwavering
-tenacity, resilience, and commitment throughout the season. Their dedication
-to training and improvement reflects the values instilled in them both
-on and off the field. The team’s achievement would not have been possible
-without the steadfast support of parents, SFA coaches and zonal managers,
-teachers, and school leaders, including the Head of Department for PE/CCA,
-whose guidance and encouragement played a crucial role. This collective
-effort underscores the importance of community in fostering excellence,
-and we look forward to seeing our players continue to grow and excel in
-League 1 next season.</p>
+<p>Seng Kang Secondary School’s C Division Football team achieved a breakthrough
+by attataining 3rd place in League 2 NSG Championships, earning qualification
+for next year’s C Division League 1. Their success reflects the team’s
+resilience and the strong support from coaches, teachers, and school leaders.</p>
 <p><strong><u>Baden Powell Award</u></strong>
 </p>
 <div class="isomer-image-wrapper">
