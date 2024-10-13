@@ -56,7 +56,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/WA &amp; MA/2024 EOY/2024_EOY_SCRIPT_CHECK_CLASS_20_SEPT.pdf" rel="noopener nofollow" target="_blank">EOY SCRIPT CHECK CLASS</a>
+<p><a href="/files/2024_EOY_SCRIPT_CHECK_CLASS_14_OCT.pdf" rel="noopener nofollow" target="_blank">EOY SCRIPT CHECK CLASS</a>
 </p>
 </li>
 </ul>
