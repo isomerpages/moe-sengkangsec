@@ -65,15 +65,10 @@ a task using VR googles and drone and they did very well to complete the
 tasks as a team within the stipulated time.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/picture_6.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
-</div>
+<p></p>
 <p></p>
 <p></p>
