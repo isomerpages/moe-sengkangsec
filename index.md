@@ -26,6 +26,14 @@ sections:
           description: for 2025 Sec 1 intake
           url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
   - infopic:
+      title: Open House 2024
+      id: infopic
+      description: 16th November 2024 | 8AM to 12PM
+      button: Click here for more info
+      url: https://www.sengkangsec.moe.edu.sg/open-house-2023/programme-overview/
+      image: /images/Open House/2024/Open_House_E_banner_for_presentation_2024.jpg
+      alt: Image alt text
+  - infopic:
       title: SKSS Story
       subtitle: SENG KANG SECONDARY SCHOOL
       id: infopic
