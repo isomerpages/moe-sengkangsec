@@ -10,8 +10,9 @@ description: ""
 <p>
 <br>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -35,6 +36,10 @@ description: ""
 <p><strong>Tours</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Showcase Venue</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -49,6 +54,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Tour 1</p>
+</td>
+<td rowspan="8" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -92,7 +100,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dialogue with SLs</p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,13 +113,13 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>PAG Showcase (2</strong>)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tour 4</p>
+<p>Dialogue with School leaders &amp; Key Personnels</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -123,10 +131,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dialogue with SLs</p>
+<p></p>
 </td>
-<td rowspan="2" colspan="1">
-<p>Tour 5</p>
+<td rowspan="1" colspan="1">
+<p>Tour 3</p>
 </td>
 </tr>
 <tr>
@@ -135,10 +143,11 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp; <strong>PAG Showcase (3)</strong>
+<p><strong>PAG Showcase 2</strong>
 </p>
-<p><em>Modern Dance &amp; Choir</em>
-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -153,10 +162,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dialogue with School leaders &amp; Key Personnels</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tour 6</p>
+<p></p>
 </td>
 </tr>
 </tbody>
