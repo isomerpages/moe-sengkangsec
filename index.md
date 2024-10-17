@@ -31,7 +31,7 @@ sections:
       description: 16th November 2024 | 8AM to 12PM
       button: Click here for more info
       url: https://www.sengkangsec.moe.edu.sg/open-house-2023/programme-overview/
-      image: /images/Open House/2024/SKSS_OPEN_HOUSE_2024.png
+      image: /images/Open House/2024/Open_House_E_banner_for_presentation_2024.jpg
       alt: Image alt text
   - infopic:
       title: SKSS Story
