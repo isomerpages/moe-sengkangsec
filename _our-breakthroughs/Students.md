@@ -14,18 +14,11 @@ where they designed nutritious dishes and health-focused games.</p>
 <p></p>
 <p><strong>“Script It Right” Chinese Radio Drama Script Writing Competition 2024 与声剧来广播创作剧比赛 2024</strong>
 </p>
-<p>We are thrilled to announce that Li Yi Ran (5-1) and Hong Jing Yi (4-6)
-have won the <em>Creativity Script Award</em> (创意剧本奖) for their outstanding
-radio play script 《向日葵》 in the “Script It Right” Chinese Radio Drama Script
-Writing Competition 2024 与声剧来广播创作剧比赛. This prestigious competition, organized
-by the Committee to Promote Chinese Language Learning and UFM1003 radio
-station, saw nearly 400 entries this year. Li Yi Ran and Hong Jing Yi’s
-script stood out and earned them this remarkable accolade.</p>
+<p>Li Yi Ran (5-1) and Hong Jing Yi (4-6) won the Creativity Script Award
+(创意剧本奖) for their script 《向日葵》 in the 2024 "Script It Right" Chinese Radio
+Drama Script Writing Competition 与声剧来广播创作剧比赛 , which saw nearly 400 entries.</p>
 <p>You may read their award-winning script <a href="https://docs.google.com/document/d/19UAY2K3fmUFJnScC_YCgi7IwSLN8VKtjJYEmulx-V8M/pub" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Students/Script_it_Right_1.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Students/Script_it_right_2.jpg">
@@ -33,14 +26,12 @@ script stood out and earned them this remarkable accolade.</p>
 <p></p>
 <p><strong>7th National Text Recital Competition 2024 全国课文朗诵比赛 2024&nbsp;</strong>
 </p>
-<p></p>
 <p>We celebrate our Sec 1 students Cheng Zhi Ren, J’den (1-1), Goh Hui Jia
 (1-2), and Pua Jun Yang (1-2) for their stellar performance in the 7th
 National Text Recital Competition 全国课文朗诵比赛. Their hard work and dedication
 earned them a Bronze award.</p>
 <p></p>
 <p>Watch their engaging and animated recital <a href="https://drive.google.com/file/d/1uZp1VSXaCjdtzUbqrQRyld1dLOZp9J3K/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Students/Recital_2.jpg">
