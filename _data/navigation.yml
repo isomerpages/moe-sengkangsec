@@ -52,6 +52,8 @@ links:
         url: /co-curriculum/student-leadership-development
       - title: Student Management
         url: /co-curriculum/student-management
+  - title: Open House 2024
+    collection: open-house-2024
   - title: Useful Links
     url: /useful-links-1/parenting-resources
     sublinks:
@@ -67,5 +69,3 @@ links:
         url: /useful-links-1/calendar
       - title: School Canteen Advertisement
         url: /school-canteen-advertisement/
-  - title: Open House 2024
-    collection: open-house-2024
