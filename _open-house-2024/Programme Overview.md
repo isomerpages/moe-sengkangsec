@@ -56,7 +56,8 @@ description: ""
 <p>Tour 1</p>
 </td>
 <td rowspan="8" colspan="1">
-<p></p>
+<p>Hall: IP booths</p>
+<p>ISH1 &amp; Canteen: CCA booths</p>
 </td>
 </tr>
 <tr>
