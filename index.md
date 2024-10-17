@@ -33,4 +33,12 @@ sections:
       alt: Image alt text
       button: CLICK HERE TO WATCH
       url: https://www.sengkangsec.moe.edu.sg/about-skss/skss-story/
+  - infopic:
+      title: Open House 2024
+      id: infopic
+      description: 16th November 2024 | 8AM to 12PM
+      button: Click here for more info
+      url: https://www.sengkangsec.moe.edu.sg/open-house-2023/programme-overview/
+      image: /images/Open House/2024/SKSS_OPEN_HOUSE_2024.png
+      alt: Image alt text
 ---
