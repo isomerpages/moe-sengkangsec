@@ -5,17 +5,12 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<p><strong>Secondary 2 to Secondary 5 Books and Uniform Sales</strong> 
-</p>
-<p><a href="/files/Seng_Kang_Secondary_2025_Sec_2_peach.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Textbook &amp; Stationery List</a>
-</p>
-<p><a href="/files/Seng_Kang_Secondary_2025_Sec_3_blue.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Textbook &amp; Stationery List</a>
-</p>
-<p><a href="/files/Seng_Kang_Secondary_2025_Sec_4_purple.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Textbook &amp; Stationery List</a>
-</p>
-<p><a href="/files/Resources%20for%20parents/Textbook%20sch%20uniform/sengkang%20secondary%20school%20booklist%202024%203rd%20sec%205.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Textbook &amp; Stationery List</a> 
-</p>
-<p><a href="/files/SKSS%20S2-S5%20Textbook%20and%20Stationery%20instruction%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 to 5 Instruction</a> 
+<p><strong>Secondary 2 to Secondary 5 Books and Uniform Sales</strong>
+<br><a href="/files/Seng_Kang_Secondary_2025_Sec_2_peach.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Textbook &amp; Stationery List</a>
+<br><a href="/files/Seng_Kang_Secondary_2025_Sec_3_blue.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Textbook &amp; Stationery List</a>
+<br><a href="/files/Seng_Kang_Secondary_2025_Sec_4_purple.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Textbook &amp; Stationery List</a>
+<br><a href="/files/Resources%20for%20parents/Textbook%20sch%20uniform/sengkang%20secondary%20school%20booklist%202024%203rd%20sec%205.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Textbook &amp; Stationery List</a>
+<br><a href="/files/SKSS%20S2-S5%20Textbook%20and%20Stationery%20instruction%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 to 5 Instruction</a> 
 <br>
 </p>
 <p><strong>Quick Links</strong> 
