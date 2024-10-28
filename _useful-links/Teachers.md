@@ -70,10 +70,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/64ec22391025880013b287e7" rel="noopener noreferrer nofollow" target="_blank">IT/AV Equipment Request Form</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident (GPA)</a>
 </p>
 </li>
