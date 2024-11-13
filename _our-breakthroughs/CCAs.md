@@ -10,7 +10,6 @@ description: ""
 <p>Our Art Club students received three Certificates of Recognition for a
 series of artworks themed 'Artist and Collaboration,' created by our talented
 members."</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Icons_of_Singapore.jpg">
 </div>
