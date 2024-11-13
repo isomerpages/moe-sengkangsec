@@ -5,6 +5,44 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>2024</strong></h3>
+<p><strong><u>Singapore Youth Art EXhibition 2024 (Certificates of Recognition)</u></strong>
+</p>
+<p>Our Art Club students received three Certificates of Recognition for a
+series of artworks themed 'Artist and Collaboration,' created by our talented
+members."</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Icons_of_Singapore.jpg">
+</div>
+<p><strong><em>ICONS OF SINGAPORE</em></strong>
+<br>Tan Qi Qi
+<br>Yeo Xin Le Ariel</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Scintillating_Collage.jpg">
+</div>
+<p><strong><em>SCINTILLATING COLLAGE</em></strong>
+<br>Wu Peishan Jocelyn</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Times_Evolution.jpg">
+</div>
+<p><strong><em>Time’s Evolution</em></strong>
+<br>Goi Rui An, Andy
+<br>Danial Rizqy Bin Norul Norhidayat</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Connecting_Through_Emotions.jpg">
+</div>
+<p><strong><em>Connecting Through Emotions</em></strong>
+<br>Desiree Ng&nbsp; Si Rui</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Singapore_Heritage.jpg">
+</div>
+<p><strong><em>Singapore Heritage</em></strong>
+<br>Andrea Soh
+<br>Megan Chew En Xuan</p>
+<p></p>
 <p><strong><u>C Division Football (League 2, 3rd place)</u></strong>
 </p>
 <div class="isomer-image-wrapper">

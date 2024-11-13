@@ -8,32 +8,51 @@ variant: tiptap
 <p><strong>CCA Beliefs</strong> 
 <br>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Art is about creativity, expression and imagination. We believe everyone
-has the potential to be creative and explore to see where it can lead us.</p>
-</li>
-<li>
+<p>Art Club aims to foster a love for the visual arts, encourage self-expression,
+and provide a collaborative space for student artists of all skill levels.
+Whether you’re a beginner exploring your creativity or an experienced artist
+looking to refine your skills, we believe everyone has the potential to
+be creative.</p>
 <p>The Art Club provides its members with the opportunities to express themselves
 creatively through taking part in art competitions and programmes to boost
 their artistic confidence and creative thinking skills. It also creates
 various opportunities for talented SKY to showcase their artistic abilities
 outside of their regular curriculum.</p>
-</li>
-</ul>
 <p></p>
 <p><strong>Achievements and Accolades</strong> 
-<br>2022 Singapore Youth Festival (SYF) - Certificate of Recognition x 2
-<br>2022 Singapore Youth Festival (SYF) – Certificate of Recognition on-site
-exhibition at National Museum Singapore
-<br>2023 – Secondary 1 &amp; 2 Art x Wellness Programme National Gallery Singapore</p>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2022 Singapore Youth Festival (SYF) - Certificate of Recognition x 2</p>
+</li>
+<li>
+<p>2022 Singapore Youth Festival (SYF) – Certificate of Recognition on-site
+exhibition at National Museum Singapore</p>
+</li>
+<li>
+<p>2023 – Secondary 1 &amp; 2 Art x Wellness Programme National Gallery Singapore</p>
+</li>
+<li>
+<p>2024 Singapore Youth Festival (SYF) - Certificate of Recognition x 3</p>
+</li>
+<li>
+<p>2024 Singapore Youth Festival (SYF) – Certificate of Recognition on-site
+&nbsp;exhibition at National Gallery Singapore</p>
+</li>
+</ul>
 <p></p>
 <p><strong>CCA Training Sessions</strong> 
 <br>Wednesday 1500-1730
 <br>Friday 0200-1630 (SYF)</p>
+<p></p>
 <p><strong>Teachers-in-charge</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -72,32 +91,5 @@ exhibition at National Museum Singapore
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Art Club/SYF_2022.png">
-</div>
-<p>SYF 2022 Achievements</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Art Club/SYF_Art_Exhibition.jpg">
-</div>
-<p>Opening Ceremony for SYF Art Exhibition
-<br>Lim Yu Xiang
-<br><em>Repurpose</em>
-</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Certificate_of_Recognition.jpg">
-</div>
-<p>Lim Yu Xiang
-<br><em>Repurpose</em>
-<br><strong>Certificate of Recognition</strong>
-<br><strong><em>*on-site exhibition at National Museum Singapore</em></strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Certificate_of_Recognition_2.jpg">
-</div>
-<p>Desiree Ng
-<br><em>Help</em>
-<br><strong>Certificate of Recognition</strong>
-</p>
