@@ -4,6 +4,10 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<p><strong><u>Information on Refreshed School Uniform</u></strong>
+<br><a href="/files/Infosheet__Refreshed_School_Uniform.pdf" rel="noopener nofollow" target="_blank">Refreshed School Uniform</a>
+<br>
+</p>
 <p><strong><u>2024 Edusave Character Award (ECHA) Nominations</u></strong>
 </p>
 <p>The Edusave Character Award (ECHA) was introduced in 2012 and recognises
