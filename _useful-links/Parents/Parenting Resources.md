@@ -10,8 +10,9 @@ variant: tiptap
 <br><a href="/files/Seng_Kang_Secondary_2025_Sec_3_blue.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Textbook &amp; Stationery List</a>
 <br><a href="/files/Seng_Kang_Secondary_2025_Sec_4_purple.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Textbook &amp; Stationery List</a>
 <br><a href="/files/Seng_Kang_Secondary_2025_Sec_5_revised.pdf" rel="noopener nofollow" target="_blank">Secondary 5 Textbook &amp; Stationery List</a>
-<br>
+<br><a href="/files/Purchase_of_School_Uniform___Shanghai_School_Uniforms.pdf" rel="noopener nofollow" target="_blank">Uniform Sales</a>
 </p>
+<p></p>
 <p><strong>Quick Links</strong> 
 <br>
 </p>
