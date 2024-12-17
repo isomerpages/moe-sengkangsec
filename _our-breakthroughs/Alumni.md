@@ -15,7 +15,7 @@ to the society.</p>
 <p><strong>Sim Yu Xiang</strong>
 </p>
 <p>Sim Yu Xiang is a dynamic advocate for inclusivity and is also known by
-his stage name Sky Shen. Passionate about connecting mainstream and marginalised
+his stage name Sky Shen. Passionate about connecting mainstream and marginalized
 communities, Yu Xiang leverages multiple mediums including writing, hosting,
 performing and livestreaming to raise awareness about disability inclusion.
 In 2024, he&nbsp;composed a theme song&nbsp;<em>March On,&nbsp;</em>in
