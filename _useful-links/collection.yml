@@ -2,9 +2,9 @@ collections:
   useful-links:
     output: true
     order:
-      - Financial Assistance Form 2025/.keep
-      - Admissions/Appeal for Transfer (2025 Sec 1).md
       - Admissions/.keep
+      - Admissions/Appeal for Transfer (2025 Sec 1).md
+      - Financial Assistance Form 2025/.keep
       - Parents/.keep
       - Parents/Parenting Resources.md
       - Parents/Parents Gateway.md
