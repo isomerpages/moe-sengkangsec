@@ -5,3 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Financial Assistance Form 2025
 ---
+<p>Please click here for the <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">form</a>
+</p>
+<p></p>
