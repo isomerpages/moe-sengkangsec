@@ -3,6 +3,7 @@ title: Acceptable Use Policy
 permalink: /curriculum/National-Digital-Literacy-Prog/AUP/
 description: ""
 third_nav_title: National Digital Literacy Prog
+variant: markdown
 ---
 **Seng Kang Secondary School  
 Acceptable Use Policy (AUP)  
@@ -81,10 +82,6 @@ For students whose PLDs are under repair, you may loan a PLD until your PLD is r
 Operating Days: Mondays to Fridays
 
 Operating Hours: 0745 – 1630hrs
-
-Online form: [https://go.gov.sg/skssicthd](https://form.gov.sg/#!/5e40b45c90a6810012db9175)
-
-  
 
 Services provided by the ICT Help desk include:
 
