@@ -23,6 +23,8 @@ sections:
       id: infopic
       image: /images/Welcome_Tea___Info_Sesssion_Sec_1_2025____Website_EDM.png
       alt: Image alt text
+      subtitle: Seng Kang Secondary School
+      title: Welcome Tea & Info Sesssion Sec 1(2025)
   - infopic:
       title: SKSS Story
       subtitle: SENG KANG SECONDARY SCHOOL
