@@ -11,7 +11,6 @@ third_nav_title: Admissions
 <br><strong>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Appeal Outcome: By 27 December, Friday, 5pm</strong>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR2.png">
 </div>
