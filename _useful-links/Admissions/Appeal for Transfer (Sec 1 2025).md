@@ -1,11 +1,11 @@
 ---
-title: Secondary One Posting
+title: Appeal for Transfer (Sec 1 2025)
 permalink: /appeal-for-transfer-after-secondary-one-posting/
 variant: tiptap
 description: ""
 third_nav_title: Admissions
 ---
-<p><strong><u>Appeal for Transfer - Sec 1 (2025)</u></strong>
+<p><strong><u>Appeal for Transfer after Secondary One Posting</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
