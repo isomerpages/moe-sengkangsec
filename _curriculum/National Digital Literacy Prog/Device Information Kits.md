@@ -31,7 +31,11 @@ directly.</p>
 <p><strong>Device info Kit for Acer Chromebooks</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -63,6 +67,14 @@ directly.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>R756TN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1 (2025)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>R857TN</p>
 </td>
 </tr>
 </tbody>
