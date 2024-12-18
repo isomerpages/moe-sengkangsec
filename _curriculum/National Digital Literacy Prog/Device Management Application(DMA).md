@@ -24,12 +24,24 @@ limits for students’ use of PLD after school.</p>
 <h4>Selecting After-School DMA Options for PLDs</h4>
 <p>For parents/guardians who prefer alternative DMA settings after school
 hours, they can choose from the following options:</p>
-<p>• Option A: Parents can modify DMA settings after school hours
-<br>• Option B: Parents can disable the DMA after school hours.</p>
-<p><a href="https://www.sengkangsec.moe.edu.sg/curriculum/National-Digital-Literacy-Prog/resources/" rel="noopener noreferrer nofollow" target="_blank">DMA-Resources for Parents</a> –
-You may click the link to find useful information like
-<br>
+<p>• <strong>Option A</strong>: For parents/guardians who prefer to take charge
+of the level of restrictions for their child’s/ward’s use of the device
+after school hours regulated by the DMA.</p>
+<p>• <strong>Option B</strong>: For parents/guardians who do not want their
+child’s/ward’s use of the device after school hours to be regulated by
+the DMA at all.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Default Option</strong> : For parents/guardians who want their
+child’s/ward’s use of the device to be restricted only to teaching and
+learning, and who prefer to follow the Default Setting as set by the school
+for both during and after school hours.</p>
+</li>
+</ul>
+<p>For the above options please refer to the <a href="/files/CE08_Infosheet_on_MOE_DMA_Settings.pdf" rel="noopener nofollow" target="_blank">comparison list</a>
 </p>
+<p>You may also click the <a href="https://www.sengkangsec.moe.edu.sg/curriculum/National-Digital-Literacy-Prog/resources/" rel="noopener nofollow" target="_blank">link</a> to
+find useful information like :</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>DMA Parent Guide – Option A / Option B / Default Option
