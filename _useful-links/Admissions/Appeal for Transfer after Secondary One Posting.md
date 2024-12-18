@@ -12,6 +12,6 @@ third_nav_title: Admissions
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_12_18_095655.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR2.png">
 </div>
 <p></p>
