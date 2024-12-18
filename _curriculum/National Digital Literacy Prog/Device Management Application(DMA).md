@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4>Functions of the DMA</h4>
 <p>A Device Management Application (“DMA”) will come pre-installed on all
-PLDs purchased through the school, and will be installed on all student-owned
+PLDs purchased through the school and will be installed on all student-owned
 devices subject to parental/guardian consent. The DMA has 3 main components
 which will support the use of the PLD in the classroom and safeguard students’
 cyber wellness:</p>
@@ -26,21 +26,13 @@ limits for students’ use of PLD after school.</p>
 hours, they can choose from the following options:</p>
 <p>• Option A: Parents can modify DMA settings after school hours
 <br>• Option B: Parents can disable the DMA after school hours.</p>
-<p>Please submit your options using the online DMA option form below –
-<br><s><a href="https://go.gov.sg/skss-dma-change" rel="noopener nofollow" target="_blank">https://go.gov.sg/skss-dma-change</a></s> (Parent
-Option will only be activated in January 2025)</p>
-<p><a href="https://drive.google.com/drive/folders/1v-TiyDZGUeOhJazC4LyU-j0UlMUqddm0?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">DMA-Resources for Parents</a> –
+<p><a href="https://www.sengkangsec.moe.edu.sg/curriculum/National-Digital-Literacy-Prog/resources/" rel="noopener noreferrer nofollow" target="_blank">DMA-Resources for Parents</a> –
 You may click the link to find useful information like
 <br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>DMA Parent Guide – Option B
-<br>
-</p>
-</li>
-<li>
-<p>DMA Parent Guide – Option A
+<p>DMA Parent Guide – Option A / Option B / Default Option
 <br>
 </p>
 </li>
