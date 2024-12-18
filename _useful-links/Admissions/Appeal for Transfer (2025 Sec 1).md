@@ -1,5 +1,5 @@
 ---
-title: Appeal for Transfer (Sec 1 2025)
+title: Appeal for Transfer (2025 Sec 1)
 permalink: /appeal-for-transfer-after-secondary-one-posting/
 variant: tiptap
 description: ""
