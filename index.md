@@ -20,6 +20,14 @@ sections:
           description: for 2025 Sec 1 intake
           url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
   - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/Welcome_Tea___Info_Sesssion_Sec_1_2025____Website_EDM.png
+      alt: Image alt text
+  - infopic:
       title: SKSS Story
       subtitle: SENG KANG SECONDARY SCHOOL
       id: infopic
