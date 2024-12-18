@@ -2,7 +2,7 @@ collections:
   useful-links:
     output: true
     order:
-      - Admissions/Appeal for Transfer after Secondary One Posting.md
+      - Admissions/Secondary One Posting.md
       - Admissions/.keep
       - Parents/.keep
       - Parents/Parenting Resources.md
