@@ -9,16 +9,14 @@ third_nav_title: Admissions
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Application Form: </strong><a href="https://go.gov.sg/skss2025sec1appeal" rel="noopener nofollow" target="_blank">go.gov.sg/skss2025sec1appeal</a>
+<p>Application Form: <a href="https://go.gov.sg/skss2025sec1appeal" rel="noopener nofollow" target="_blank">go.gov.sg/skss2025sec1appeal</a>
 </p>
 </li>
 <li>
-<p><strong>Deadline for appeal: 23 December, Monday, 5 pm.</strong>
-</p>
+<p>Deadline for appeal: 23 December, Monday, 5 pm.</p>
 </li>
 <li>
-<p><strong>Appeal Outcome: By 26 December, Thursday, 5pm</strong>
-</p>
+<p>Appeal Outcome: By 26 December, Thursday, 5pm</p>
 </li>
 </ul>
 <p></p>
