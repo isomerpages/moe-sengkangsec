@@ -11,7 +11,7 @@ third_nav_title: Financial Assistance Form 2025
 <ol data-tight="true" class="tight">
 <li>
 <p>Kindly click <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">here</a> for
-the Application Form</p>
+the Application Form.</p>
 </li>
 <li>
 <p>Should you require further assistance to fill up the application form,
