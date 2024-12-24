@@ -91,8 +91,8 @@ has been selected for exhibition at the National Museum for this year's
 Singapore Youth Festival (SYF) Art Exhibition!&nbsp;</p>
 <p>Based on this year's theme of 'Artist and Sustainability', Lim Yu Xiang
 created works to bring awareness of how useful plastics can be in fashion.&nbsp;</p>
-<p>The exhibition is on at the National Museum from 13 -25 July. Do drop
-by for a visit to support or view via the online display&nbsp;<a href="https://www.syf.gov.sg/art-exhibition/the-online-art-gallery-2022" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>The exhibition is on at the National Museum from 13 -25 July.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/SYF%20Art%20Challenge%2022.png">
 </div>
