@@ -5,6 +5,8 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
+<p><a href="https://sites.google.com/skss.edu.sg/sec-1-cca-discovery" rel="noopener nofollow" target="_blank">Sec 1 CCA Discovery</a>
+</p>
 <p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0" rel="noopener noreferrer nofollow" target="_blank">LEAPS 2.0 Information</a>
 </p>
 <p><a href="/files/CCA/2024_Term3_CCA_TRAINING_SCHEDULE.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Term 3 Schedule</a>
