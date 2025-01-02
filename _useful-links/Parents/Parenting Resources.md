@@ -38,7 +38,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident Insurance for Students</a>
+<p><a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Group Personal Accident Insurance for Students</a>
 </p>
 </li>
 <li>
