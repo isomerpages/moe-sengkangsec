@@ -28,8 +28,7 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<h4>Assessment</h4>
-<p></p>
+<h4></h4>
 <p></p>
 <p></p>
 <p></p>
