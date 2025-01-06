@@ -20,6 +20,13 @@ sections:
           description: for 2025 Sec 1 intake
           url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
   - infopic:
+      title: 2024 SINGAPORE-CAMBRIDGE GCE O-LEVEL EXAMINATION RESULTS
+      subtitle: Seng Kang Secondary School
+      id: infopic
+      description: Infopic description
+      image: /images/O_level.png
+      alt: Image alt text
+  - infopic:
       id: infopic
       image: /images/Welcome_Tea___Info_Sesssion_Sec_1_2025____Website_EDM.png
       alt: Image alt text
