@@ -23,7 +23,6 @@ sections:
       title: 2024 SINGAPORE-CAMBRIDGE GCE O-LEVEL EXAMINATION RESULTS
       subtitle: Seng Kang Secondary School
       id: infopic
-      description: Infopic description
       image: /images/O_level.png
       alt: Image alt text
   - infopic:
