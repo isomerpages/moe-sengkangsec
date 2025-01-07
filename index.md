@@ -25,6 +25,12 @@ sections:
       id: infopic
       image: /images/O_level.png
       alt: Image alt text
+  - infobar:
+      title: 2025 JC / Polytechnics Open House
+      subtitle: Seng Kang Secondary School
+      id: infobar
+      button: Click here for the schedule
+      url: https://www.sengkangsec.moe.edu.sg/files/JC_and_Poly_Open_House_2025.pdf
   - infopic:
       id: infopic
       image: /images/Welcome_Tea___Info_Sesssion_Sec_1_2025____Website_EDM.png
@@ -39,10 +45,4 @@ sections:
       alt: Image alt text
       button: CLICK HERE TO WATCH
       url: https://www.sengkangsec.moe.edu.sg/about-skss/skss-story/
-  - infobar:
-      title: 2025 JC / Polytechnics Open House
-      subtitle: Seng Kang Secondary School
-      id: infobar
-      button: Click here for the schedule
-      url: https://www.sengkangsec.moe.edu.sg/files/JC_and_Poly_Open_House_2025.pdf
 ---
