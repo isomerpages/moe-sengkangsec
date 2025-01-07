@@ -4,6 +4,10 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<p><strong><u>2025 JC / Polytechnics Open House</u></strong>
+<br><a href="/files/JC_and_Poly_Open_House_2025.pdf" rel="noopener nofollow" target="_blank">Click here for Click here for the schedules</a>
+</p>
+<p></p>
 <p><strong><u>Information on Refreshed School Uniform</u></strong>
 <br><a href="/files/Infosheet__Refreshed_School_Uniform.pdf" rel="noopener nofollow" target="_blank">Refreshed School Uniform</a>
 <br>
