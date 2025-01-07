@@ -26,7 +26,7 @@ sections:
       image: /images/O_level.png
       alt: Image alt text
   - infobar:
-      title: 2025 JC / Polytechnics Open House
+      title: JC / Polytechnics Open House 2025
       subtitle: Seng Kang Secondary School
       id: infobar
       button: Click here for the schedule
