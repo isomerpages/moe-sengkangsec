@@ -179,7 +179,7 @@ The completed form is to be submitted by <a rel="noopener noreferrer nofollow" t
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
-the year and is also downloadable here &nbsp;<strong><a href="ANNEX_B_E_Teens_Parents_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B</a></strong>.&nbsp;
+the year and is also downloadable here <strong><a href="/files/ANNEX_B_E_Teens_Parents_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex </a><a href="ANNEX_B_E_Teens_Parents_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">B</a></strong>.&nbsp;
 The completed form is to be submitted by 06/02/2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact Mdm Rabia at 63887258
 for discussion or to seek clarification about the school’s Sexuality Education
