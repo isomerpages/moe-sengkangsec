@@ -18,11 +18,13 @@ variant: markdown
 | Mdm Azrina Bte Md Salleh            | HOD English                    |
 | Ms Serene Loh Swan Shya      | HOD Mathematics                |
 | Mdm Norafizah Bte Shariff             | HOD Mother Tongue Language     |
-| Mr Wu Yongwei, Bernard     | HOD PE and CCA  (Covering)              |
-| Mr Hisham Bin Zainal         | HOD Science                    |
+| Mr Hisham Bin Zainal    | HOD Science       |
+| Mr Wu Yongwei, Bernard     | HOD PE and CCA  (Covering)                   | 
 | Mr Low Young Kwang   | HOD ICT (Covering)       |
 | Mr Ng Ching Enn      | Year Head Upper Secondary      |
+| Dr Lim Yian Hoon     | Year Head Lower Secondary    |
 | Ms Lee Zihui, Amanda | Asst Year Head Upper Secondary |
+| Ms Nivashini D/O Mohandasan   | Asst Year Head Lower Secondary   |
 | Ms Norzahidah Binte Ma'az               | SH Student Leadership (Internal)          |
 | Ms Sharie Ong Minyu           | SH Media & Info Literacy                      |
 | Mr Goy Wee Seng           | SH Digitalisation                      |
@@ -31,11 +33,9 @@ variant: markdown
 | Ms Oon Tze Ying                 | SH Mathematics                 |
 | Mdm Lim Siew Khim            | SH CL                          |
 | Mdm Rabiaton Laili           | SH CCE                          |
-| Mr Bernard Wu                | SH PE                          |
 | Ms Nursimah Binte Mokhtar            | SH Nutrition and Food Science  |
-| Mdm Nora Bte Hirin           | Asst Year Head Upper Secondary |
-| Mr Lishanth Thangavelu       | Asst Year Head Lower Secondary |
-| Ms Nivashini D/O Mohandasan      | Asst Year Head Lower Secondary (Internal) |
+| Ms Wee Shen Sze     | SH Partnership |
+| Mr Lishanth Thangavelu   | SH Student Management |
 | Ms Maureen Pang Thien May    | Administration Manager         |
 | Mr Vincent Lee Khai Cheong   | Operational Manager            |
 | Mr Anbalagan Jayaraman  | Operational Manager            |
