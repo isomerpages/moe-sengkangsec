@@ -28,13 +28,11 @@ variant: markdown
 | Ms Norzahidah Binte Ma'az               | SH Student Leadership (Internal)          |
 | Ms Sharie Ong Minyu           | SH Media & Info Literacy                      |
 | Mr Goy Wee Seng           | SH Digitalisation                      |
-| Ms Siti Zawiah Bte Abd Malek | SH English                     |
-| Mdm Wee Shen Sze             | SH Guidance                    |
+| Ms Siti Zawiah Bte Abd Malek | SH English                     |            
 | Ms Oon Tze Ying                 | SH Mathematics                 |
 | Mdm Lim Siew Khim            | SH CL                          |
 | Mdm Rabiaton Laili           | SH CCE                          |
 | Ms Nursimah Binte Mokhtar            | SH Nutrition and Food Science  |
-| Ms Wee Shen Sze     | SH Partnership |
 | Mr Lishanth Thangavelu   | SH Student Management |
 | Ms Maureen Pang Thien May    | Administration Manager         |
 | Mr Vincent Lee Khai Cheong   | Operational Manager            |
