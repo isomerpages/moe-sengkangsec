@@ -65,5 +65,6 @@ Card (front &amp; back).</p>
 only be sold on Wednesday.</p>
 <p>Please submit the completed application form with the supporting documents
 to the school's General Office or email to <a href="mailto:skss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">skss@moe.edu.sg</a> (Attention: Administration
-Manager) by <strong>15 December 2024</strong>.</p>
+Manager) by <strong>28 Feb 2025</strong>
+</p>
 <p>Thank you.</p>
