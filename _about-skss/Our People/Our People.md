@@ -22,18 +22,18 @@ variant: markdown
 
 
 
-**<font size="4">Secondary 2 Year Head: Nivashini D/O Mohandasan </font>**
+**<font size="4">Secondary 2 Year Head: Ms Nivashini D/O Mohandasan </font>**
 
 |     | FT                        | FT                |
 |-----|-------------------------|--------------------------|
-| 2-1 |  Jasmine Ngoh Xin Rong        |       Chua Wei Jian                  |
-| 2-2 | Wang Jia Ning Jenny       | Lim Bao Luo Paul           |
-| 2-3 | Wee Shen Sze |     Nur Amirah Binte Rosman               |
-| 2-4 | Rekhvinder Kaur Gill     | Sam Li Ying        |
-| 2-5 | Low Young Kwang | Rafiqah Dewi Bte Aziz      |
-| 2-6 | Siti Zawiah Bte Abd Malek  | Danial Iylia Bin Roslin   |
-| 2-7 |     Sharie Ong Minyu   |  Deenadayalan Jothibai   |
-| 2-8 | Gan Wei Chin Debbie  | Wan Kuan Yi |
+| 2-1 |  Ms Jasmine Ngoh Xin Rong        |       Mr Chua Wei Jian                  |
+| 2-2 | Ms Wang Jia Ning Jenny       | Mr Lim Bao Luo Paul           |
+| 2-3 | Mdm Wee Shen Sze |     Ms Nur Amirah Binte Rosman               |
+| 2-4 | Mdm Rekhvinder Kaur Gill     | Ms Sam Li Ying        |
+| 2-5 | Mr Low Young Kwang | Ms Rafiqah Dewi Bte Aziz      |
+| 2-6 | Mdm Siti Zawiah Bte Abd Malek  | Mr Danial Iylia Bin Roslin   |
+| 2-7 |     Ms Sharie Ong Minyu   |  Mdm Deenadayalan Jothibai   |
+| 2-8 | Mdm Gan Wei Chin Debbie  | Ms Wan Kuan Yi |
 
 **<font size="4">Secondary 3 Year Head: Ng Ching Enn Stephen </font>**
 
