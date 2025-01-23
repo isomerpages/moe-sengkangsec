@@ -7,18 +7,18 @@ variant: markdown
 ---
 **<font size="5">Form Teachers</font>**
 
-**<font size="4">Secondary 1 Year Head: Lim Yian Hoon</font>**
+**<font size="4">Secondary 1 Year Head: Dr Lim Yian Hoon</font>**
 
 |     | FT                                  | FT                       |
 |-----|-------------------------------------|--------------------------|
-| 1-1 | Chan Jit Ming Aaron           |    Kho Hui Han |
-| 1-2 | Lee Chee Yeon            |   Nuurulhuda Binte Hasbolah
-| 1-3 | Rabiaton Binte   | Chua Bee Hua, Millicent
-| 1-4 |  Lim Zhao Chern Joshua |     Tan Chia Hui          
-| 1-5 |  Tan Meow Choon        |    Jolyne Tan Hwee Ling|
-| 1-6 |  Norzahidah Binte Ma'az               |   Ng Hak Meng Clarence    |
-| 1-7 |    Lim Suet Rui Sarah            | Rengasamy Manonmani       |
-| 1-8 | Raman Vimalan |   Chew Jing Qi, Selina   |
+| 1-1 | Mr Chan Jit Ming Aaron           |    Ms Kho Hui Han |
+| 1-2 | Mr Lee Chee Yeon            |   Ms Nuurulhuda Binte Hasbolah
+| 1-3 | Mdm Rabiaton Binte   | Ms Chua Bee Hua, Millicent
+| 1-4 |  Mr Lim Zhao Chern Joshua |     Ms Tan Chia Hui          
+| 1-5 |  Mrs Tan Meow Choon        |    Ms Jolyne Tan Hwee Ling|
+| 1-6 |  Mdm Norzahidah Binte Ma'az               |   Mr Ng Hak Meng Clarence    |
+| 1-7 |    Ms Lim Suet Rui Sarah            | Mdm Rengasamy Manonmani       |
+| 1-8 | Dr Raman Vimalan |   Ms Chew Jing Qi, Selina   |
 
 
 
@@ -48,7 +48,7 @@ variant: markdown
 | 3-7 |      Chin Yee Lee          |  Tan Bing Dun               |
 | 3-8 |  Tan Tai Ngah             |   Chung See Yee, Cherie Sara           |          |               
 
-**<font size="4">Secondary 4/5 Year Head: Lee Zihui Amanda </font>**
+**<font size="4">Secondary 4/5 Year Head: Ms Lee Zihui Amanda </font>**
 
 |     | FT                           | FT                     |
 |-----|---------------------------|------------------------|
