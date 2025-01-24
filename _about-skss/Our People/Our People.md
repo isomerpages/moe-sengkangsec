@@ -13,7 +13,7 @@ variant: markdown
 |-----|-------------------------------------|--------------------------|
 | 1-1 | Mr Chan Jit Ming Aaron           |    Ms Kho Hui Han |
 | 1-2 | Mr Lee Chee Yeon            |   Ms Nuurulhuda Binte Hasbolah
-| 1-3 | Mdm Rabiaton Binte   | Ms Chua Bee Hua, Millicent
+| 1-3 | Mdm Rabiaton Binte Laili   | Ms Chua Bee Hua, Millicent
 | 1-4 |  Mr Lim Zhao Chern Joshua |     Ms Tan Chia Hui          
 | 1-5 |  Mrs Tan Meow Choon        |    Ms Jolyne Tan Hwee Ling|
 | 1-6 |  Mdm Norzahidah Binte Ma'az               |   Mr Ng Hak Meng Clarence    |
@@ -39,26 +39,26 @@ variant: markdown
 
 |     | FT                       | FT                        |
 |-----|--------------------------|---------------------------|
-| 3-1 | Sazryna Lee Samsudin   |   Tay Beng Chai Steven                   |
-| 3-2 |    Chua Yingying Joyce     |    Tham Zi Cong      |
-| 3-3 |    Sng Kai Rong, Jerome       |   Uma Maheshwari Ravisankar                       |
-| 3-4 |   Mohammad Zulkiffli Bin Abu Bakar     |   Low Soo Kim                     |
-| 3-5 |    J. Thivyadarishini      |      Su Xiao Min        |
-| 3-6 |     Liyana Binte Mohamed Ali        |       Toh Xuan Hui                  |
-| 3-7 |      Chin Yee Lee          |  Tan Bing Dun               |
-| 3-8 |  Tan Tai Ngah             |   Chung See Yee, Cherie Sara           |          |               
+| 3-1 | Ms Sazryna Lee Samsudin   |   Mr Tay Beng Chai Steven                   |
+| 3-2 |    Ms Chua Yingying Joyce     |    Mr Tham Zi Cong      |
+| 3-3 |    Mr Sng Kai Rong, Jerome       |   Mdm Uma Maheshwari Ravisankar                       |
+| 3-4 |   Mr Mohammad Zulkiffli Bin Abu Bakar     |   Mrs Quek Soo Kim                     |
+| 3-5 |    Ms J. Thivyadarishini      |      Ms Su Xiao Min        |
+| 3-6 |     Mdm Liyana Binte Mohamed Ali        |       Ms Toh Xuan Hui                  |
+| 3-7 |      Ms Chin Yee Lee          |  Mr Tan Bing Dun               |
+| 3-8 |  Mr Tan Tai Ngah             |   Ms Chung See Yee, Cherie Sara           |          |               
 
 **<font size="4">Secondary 4/5 Year Head: Ms Lee Zihui Amanda </font>**
 
 |     | FT                           | FT                     |
 |-----|---------------------------|------------------------|
-| 4-1 | Joel Oon Tze Ying  |                        |
-| 4-2 |  Kwok Honey             | Poon Lee Wang                       |
-| 4-3 |  Nursimah Binte Mokhtar              |  Lak Lucas         |
-| 4-4 |  Tan Ying Rui           |         |
-| 4-5 |  Lim Siew Khim                       |           |
-| 4-6 |  Leong Soo Ching                |      |
-| 4-7 | Mohamad Hakim Bin Mohamad Zainal Abiddin          |                         |
-| 4-8 |  Loh Yoke Ling                       |  Sivakumar Duraisamy    |
-| 4-9 |   Nora Bte Hirin     |   Ong Zhi Xiang                     |
-| 5-1 |  Khyber Singh
+| 4-1 | Mrs Joel Tan Tze Ying  |                        |
+| 4-2 |  Ms Kwok Honey             | Mr Poon Lee Wang                       |
+| 4-3 |  Ms Nursimah Binte Mokhtar              |  Mr Lak Lucas         |
+| 4-4 |  Ms Tan Ying Rui           |         |
+| 4-5 |  Ms Lim Siew Khim                       |           |
+| 4-6 |  Mr Leong Soo Ching                |      |
+| 4-7 | Mr Mohamad Hakim Bin Mohamad Zainal Abiddin          |                         |
+| 4-8 |  Ms Loh Yoke Ling                       |  Mr Sivakumar Duraisamy    |
+| 4-9 |   Mdm Nora Bte Hirin     |   Mr Ong Zhi Xiang                     |
+| 5-1 |  Mr Khyber Singh
