@@ -27,6 +27,12 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<p><strong>TERM 1 Weighted Assessment </strong>
+</p>
+<p><a href="/files/WA &amp; MA/2025/2025_Term_1_Assessment_Information__All_Levels_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Term 1 Assessment Information (All Levels)</a>
+</p>
+<p><a href="/files/WA &amp; MA/2025/2025_Term_1_Assessment_Schedule__All_Levels_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Term 1 Assessment Schedule (All Levels)</a>
+</p>
 <p></p>
 <h4></h4>
 <p></p>
