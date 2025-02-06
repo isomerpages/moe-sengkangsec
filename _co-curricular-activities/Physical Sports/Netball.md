@@ -58,6 +58,14 @@ access the schedule</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Gan Wei Chin Debbie (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>gan_wei_chin_debbie@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Chua Yingying Joyce</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,10 +74,10 @@ access the schedule</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Gan Wei Chin Debbie</p>
+<p>Mdm Liyana Mohamed Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gan_wei_chin_debbie@moe.edu.sg</p>
+<p>liyana_mohamed_ali@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
