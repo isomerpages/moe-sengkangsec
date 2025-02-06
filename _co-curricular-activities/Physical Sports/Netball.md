@@ -34,13 +34,11 @@ Round 1
 Top 8
 <br>2019 Evergreen Netball Carnival - 2nd Runner-up</p>
 <p>
-<br><strong>CCA Training Sessions</strong>
+<br><strong>2025 CCA Training Schedule</strong>
 </p>
-<p>Wednesdays 3pm- 6pm
-<br>Fridays&nbsp; C Div - 1pm - 4pm ; B Div -&nbsp; 3pm-6pm</p>
-<p></p>
+<p>Click <a href="https://docs.google.com/spreadsheets/d/16IWO8R_wdKg2I3iXEmq3ECt_uUAd7R1eOgqmEgV7b4Y/edit?usp=sharing" rel="noopener nofollow" target="_blank">here </a>to
+access the schedule</p>
 <p><strong>Teachers in charge</strong>
-<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -60,14 +58,6 @@ Top 8
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Liyana Mohamed Ali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>liyana_mohamed_ali@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Chua Yingying Joyce</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,14 +70,6 @@ Top 8
 </td>
 <td rowspan="1" colspan="1">
 <p>gan_wei_chin_debbie@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
