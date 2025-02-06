@@ -9,7 +9,7 @@ variant: tiptap
 </p>
 <p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0" rel="noopener noreferrer nofollow" target="_blank">LEAPS 2.0 Information</a>
 </p>
-<p><a href="/files/2025_CCA_TRAINING_SCHEDULE___2025_Sem_1.pdf" rel="noopener nofollow" target="_blank">2025 Semester 1 CCA Schedule</a>
+<p><a href="/files/CCA/2025 CCA Semester 1 Schedule /2025_CCA_TRAINING_SCHEDULE__2025_Semester_1.pdf" rel="noopener nofollow" target="_blank">2025 Semester 1 CCA Schedule</a>
 </p>
 <p><a href="/co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa" rel="noopener noreferrer nofollow" target="_blank">DSA Information</a>
 </p>
