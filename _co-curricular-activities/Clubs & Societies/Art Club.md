@@ -10,15 +10,14 @@ variant: tiptap
 </p>
 <p>Art Club aims to foster a love for the visual arts, encourage self-expression,
 and provide a collaborative space for student artists of all skill levels.
-Whether you’re a beginner exploring your creativity or an experienced artist
-looking to refine your skills, we believe everyone has the potential to
-be creative.</p>
+Whether you are a beginner exploring your creativity or an experienced
+artist looking to refine your skills, we believe everyone has the potential
+to be creative.</p>
 <p>The Art Club provides its members with the opportunities to express themselves
 creatively through taking part in art competitions and programmes to boost
 their artistic confidence and creative thinking skills. It also creates
 various opportunities for talented SKY to showcase their artistic abilities
 outside of their regular curriculum.</p>
-<p></p>
 <p><strong>Achievements and Accolades</strong> 
 <br>
 </p>
@@ -38,14 +37,12 @@ exhibition at National Museum Singapore</p>
 </li>
 <li>
 <p>2024 Singapore Youth Festival (SYF) – Certificate of Recognition on-site
-&nbsp;exhibition at National Gallery Singapore</p>
+exhibition at National Gallery Singapore</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <p><strong>CCA Training Sessions</strong> 
-<br>Wednesday 1500-1730
-<br>Friday 0200-1630 (SYF)</p>
-<p></p>
+<br>Every Wednesdays 3.00pm to 5.30pm</p>
 <p><strong>Teachers-in-charge</strong>
 </p>
 <table style="minWidth: 50px">
@@ -70,22 +67,6 @@ exhibition at National Museum Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nuurulhuda_hasbolah@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nora Hirin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nora_hirin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
