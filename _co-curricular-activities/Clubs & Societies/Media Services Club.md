@@ -90,8 +90,7 @@ ensuring that every programme is carried out well.</p>
 <p>Mdm Shahida Binte Mohd Said</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shahida_mohd_said@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shahida_mohd_said@moe.edu.sg</a>
-</p>
+<p>shahida_mohd_said@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
