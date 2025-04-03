@@ -73,15 +73,15 @@ SDSC</p>
 <p><strong>CCA Training Sessions</strong>
 <br>
 </p>
-<p><strong><u>Mondays </u></strong>
+<p><strong><u>Mondays</u></strong>
 </p>
 <p>C: 3pm - 4.30pm &amp; B: 4.30pm - 6pm</p>
 <p>Wednesdays (odd)</p>
 <p>B: 3pm - 4.30pm &amp; C: 4.30pm - 6pm (Study grp)</p>
-<p><strong><u>Wednesdays (even) </u></strong>
+<p><strong><u>Wednesdays (even)</u></strong>
 </p>
 <p>C: 3pm - 4.30pm &amp; B: 4.30pm - 6pm (Study grp)</p>
-<p><strong><u>Fridays </u></strong>
+<p><strong><u>Fridays</u></strong>
 </p>
 <p>B: 2.30pm - 3.45pm &amp; C: 3.45pm - 5.15pm</p>
 <p></p>
