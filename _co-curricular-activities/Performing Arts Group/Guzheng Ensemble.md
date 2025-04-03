@@ -6,35 +6,74 @@ third_nav_title: Performing Arts Group
 variant: tiptap
 ---
 <p><strong>CCA Beliefs</strong>
-<br>SKSS is a closely-knitted community bonded together by a common love for
-music. Our CCA goals are:</p>
+<br>SKSS Guzheng Ensemble is a closely-knitted community bonded together by
+our common love for music. Our CCA goals are:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>To inculcate in our members an appreciation of music and culture</p>
+<p>To inculcate in our members an appreciation of Chinese music and culture</p>
 </li>
 <li>
 <p>To provide opportunities for our students to pursue and excel in their
-talent and passion</p>
+talent and passion.</p>
 </li>
 <li>
-<p>To develop strength of character and resilience in our members</p>
+<p>To develop strength of character and resilience in our members.</p>
 </li>
 </ul>
-<p>SKSS Guzheng values teamwork, unity, discipline and commitment. In their
-time with the Guzheng ensemble, members are encouraged to work hard with
-one another, forge precious friendships and acquire lifelong skills. Members
-are also provided with annual performance opportunites at both school and
-community events to showcase their hard work. In SKSS Guzheng, we believe
-that “Once a Guzheng member, you are forever a member of our family”. The
-members of SKSS Guzheng Ensemble will continue to do our best and strive
-to greater heights.</p>
+<p>SKSS Guzheng values teamwork, unity, discipline and commitment. During
+their time with the Guzheng ensemble, members are encouraged to work hard
+with one another, forge precious friendships and acquire lifelong skills.
+Members are also provided with annual performance opportunites at both
+school and community events to showcase their musical endeavours. Aligning
+with our motto that “Once a member of the Guzheng family, Always a member
+of the Guzheng family”, SKSS Guzheng welcomes students from all walks of
+life, with or without musical background. The members of SKSS Guzheng Ensemble
+will continue to do our best and strive to greater heights.</p>
 <p><strong>Achievements and Accolades</strong>
-<br>2023 Singapore Youth Festival Arts Presentation - Certificate of Distinction
 <br>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2023 Singapore Youth Festival Arts Presentation - Certificate of Distinction</p>
+</li>
+<li>
+<p>2024 Performing Arts Night @ SKSS</p>
+</li>
+<li>
+<p>2025 Performed at the Opening Ceremony of NTUC Health Active Aging Center
+@ Serangoon Central for Guest-of-Honour, Mr Seah Kian Peng</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Key Programmes/Events</strong>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lunchtime Melodies in SKSS</p>
+</li>
+<li>
+<p>SKSS Open House</p>
+</li>
+<li>
+<p>Values-in-Action 4-Year Programme (ongoing with NTUC AAC)</p>
+</li>
+<li>
+<p>Secondary 3 Overseas Experience Programme (OVEX)</p>
+</li>
+</ul>
+<p></p>
 <p><strong>CCA Training Sessions</strong>
-<br>Wednesdays 3.30pm to 6.00pm
-<br>Fridays 1.30pm to 4.30pm (Odd week only)</p>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Every Wednesdays 3.00pm to 6.00pm</p>
+</li>
+<li>
+<p>Fridays 1.30pm to 4.30pm (Odd week only)</p>
+</li>
+</ul>
 <p></p>
 <p><strong>Teachers-In-Charge</strong>
 </p>
