@@ -5,22 +5,52 @@ description: ""
 third_nav_title: Physical Sports
 variant: tiptap
 ---
-<p><strong>Achievements </strong>
-<br>2024 C Division Girls League 3 -Champion</p>
 <p><strong>CCA Beliefs</strong>
-<br>We aim to achieve a balanced and well-rounded education beyond school
-level, to inculcate sound moral values and fair play, to develop strength
-of character, and to foster team spirit amongst our members. Badminton
-is a fast paced sport which requires not only agility and power but also
-high mental endurance. Seng Kang Badminton’s vision is to equip our athletes
-with skills and techniques that a good badminton player should have. At
-the same time, we hope to instil character building through fair play and
-sportsmanship so that our students will be prepared to take on any new
-challenges in various modes of play and competitions.</p>
+<br>Badminton is a fast paced sport which requires not only agility, power,
+but also high mental endurance. Hence, Seng Kang Badminton’s vision is
+to equip our athletes with skills and techniques that a good badminton
+player should have. We also want to instil character building through fair
+play and sportsmanship so that out students will be prepared to take on
+any new challenges in various modes of play and competitions.</p>
+<p><strong>Achievements </strong>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2024 C Division Girls NSG League 3 - Champion</p>
+</li>
+<li>
+<p>2025 B Division Girls NSG North Cluster - Top 8</p>
+</li>
+</ul>
+<p><strong>Key Programmes/Events</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Values-in-Action Programme (PlayBuddy)</p>
+</li>
+<li>
+<p>Badminton for Life-Parent Child Games</p>
+</li>
+<li>
+<p>Team Bonding Day</p>
+</li>
+</ul>
 <p></p>
 <p><strong>CCA Training Sessions</strong>
-<br>Every Wednesdays: 3.00 to 6.00 pm
-<br>Odd Fridays: 1.30 to 4.30 pm</p>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mondays, 3.30-5.30 pm (Self-directed)</p>
+</li>
+<li>
+<p>Wednesdays, 3.00-6.00 pm</p>
+</li>
+<li>
+<p>Odd Fridays, 1.30-4.30 pm</p>
+</li>
+</ul>
 <p><strong>Teachers in charge</strong>
 <br>
 </p>
@@ -64,30 +94,10 @@ challenges in various modes of play and competitions.</p>
 <p>leong_soo_ching@moe.edu.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/Badminton_1.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/Badminton_2.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/Badminton_3.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/Badminton_4.jpg">
-</div>
 <p></p>
