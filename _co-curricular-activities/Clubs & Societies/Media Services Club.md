@@ -44,9 +44,13 @@ ensuring that every programme is carried out well.</p>
 <li>
 <p>Inter-CCA collaboration opportunities</p>
 </li>
+<li>
+<p>Football (Logo Design and Video Editing Workshop 2024)</p>
+</li>
+<li>
+<p>Girl Guides (Photography Workshop 2025)</p>
+</li>
 </ul>
-<p>- Football (Logo Design and Video Editing Workshop 2024)</p>
-<p>- Girl Guides (Photography Workshop 2025)</p>
 <p></p>
 <p><strong>CCA Training Sessions</strong>
 <br>Every Wednesday: 3.00pm to 6.00pm</p>
