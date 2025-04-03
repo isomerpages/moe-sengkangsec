@@ -6,101 +6,126 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <p><strong>CCA Beliefs</strong> 
-    <br>Our Girl Guides Unit – SKY Guides activities are planned with the 5-Point
-    Programme as the foundation. Covering an array of skills and knowledge
-    from Personal &amp; Social Development, Home, Outdoor, Community and International
-    aspects. Guides complete the various clauses to earn their proficiency
-    and interest badges. They also participate in competitions, advocacy and
-    service-learning projects held on a Unit, division or national scale. We
-    provide valuable Girl-Led opportunities for SKY Guides to build self-confidence,
-    take action to make a difference and uphold the BP (Be Prepared) spirit.</p>
+<br>Our Girl Guides Unit, known as the SKY Guides, bases its activities on
+the 5-Point Programme, which serves as our core framework. This comprehensive
+programme encompasses a wide range of skills and knowledge, focusing on
+Personal and Social Development, Home, Outdoor, Community, and International
+aspects.</p>
+<p>Guides work diligently to complete the programme's various clauses, earning
+proficiency and interest badges along the way. They actively participate
+in competitions, advocacy campaigns, and service-learning projects at the
+Unit, division, or even national level.</p>
+<p>Through our Girl-Led approach, SKY Guides gain valuable opportunities
+to build self-confidence, take meaningful action to create positive change,
+and uphold the enduring BP (Be Prepared) spirit.</p>
 <p></p>
 <p><strong>Achievements and Accolades</strong> 
-    <br><strong>Baden-Powell Award</strong> 
-    <br>The Baden Powell Award (BPA) is the highest award given out by our Chief
-    Commissioner to a Girl Guide.</p>
-<p>Awardee for 2021 and 2022:
-    <br>1. Belinda Chua Hsin Yan, Class 3-4 for Year 2022
-    <br>2. Inez, Class 3-2 for Year 2021</p>
-<p>In August 2023, two SKY Guides Aradhana and Tania were selected to act
-    in a stage musical performance “The Little Mermaid" together with other
-    Girls from different schools at the Girl Guides Singapore (GGS) Gala Dinner
-    which held in Voco Hotel.</p>
-<p>In November 2023, four SKY Guides took part in the GIRL Adventure programme
-    where collaboration with the Hong Kong Girl Guides Association included
-    camping, cultural showcases, and citywide exploration. Our Guides had a
-    memorable 4D3N experience together with 21 Guides and Young Adults from
-    11 schools.</p>
+</p>
+<p><strong>Baden-Powell Award</strong>
+</p>
+<p>The Baden Powell Award (BPA) is the highest award given out by our Chief
+Commissioner to a Girl Guide.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Karthik Aradhana, Class 3-4 Year 2024</p>
+</li>
+<li>
+<p>Rajesh Mridini, Class 3-2 Year 2024</p>
+</li>
+<li>
+<p>Belinda Chua Hsin Yan, Class 3-4 for Year 2022</p>
+</li>
+<li>
+<p>Inez, Class 3-2 for Year 2021</p>
+</li>
+</ol>
+<p><strong>Olave St Clair Award</strong>
+</p>
+<p>The Olave St Clair Award is awarded to the girl member in her respective
+Company, in recognition of her exemplary character and service that upholds
+the Promise and Law, impacting within and/or beyond Guiding activities.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Nur Insyirah Binte Roslan, Class 4-3 Year 2025</p>
+</li>
+<li>
+<p>Faith Woo Yu Xuan, Class 4-2 Year 2024</p>
 <p></p>
-<div class="isomer-image-wrapper">
-    <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guides/World_Thinking_Day.jpg">
-</div>
-<p>World Thinking Day Celebration 2023</p>
-<div class="isomer-image-wrapper">
-    <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guides/Learning_a_new_skill_together.jpg">
-</div>
-<p>Learning a new skill together&nbsp;</p>
-<div class="isomer-image-wrapper">
-    <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guides/G_I_R_L_Adevnture_Exchange_Programme_in_Hong_Kong.jpg">
-</div>
-<p>G.I.R.L Adventure Exchange Programme in Hong Kong</p>
+</li>
+</ol>
+<p><strong>Key Programmes/Events</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Values In Action - Elderly Home Visit and Service to school</p>
+</li>
+<li>
+<p>North Division FEST</p>
+</li>
+<li>
+<p>Advocacy project</p>
+</li>
+<li>
+<p>Camping</p>
+</li>
+<li>
+<p>Open House</p>
+</li>
+</ul>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-    <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girl Guides/SKSS_GG_Website_Picture_2024.jpeg">
-</div>
-<p>SKY Guides, Aradhana together with GGS President Dr Seetha Subbiah presented
-    a Patchwork apron to our outgoing patron President Halimah Yaacob at Gala
-    Dinner 2023.</p>
 <p><strong>CCA Training Sessions</strong> 
-    <br>Wednesday, 3.00pm - 6.00pm
-    <br>Fridays (when necessary), 2.30 - 5.00pm</p>
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wednesday, 3.00pm - 5.30pm</p>
+</li>
+<li>
+<p>Fridays (when necessary), 2.30 - 5.00pm</p>
+</li>
+</ul>
 <p><strong>Teachers in charge</strong>
 </p>
-<table>
-    <tbody>
-        <tr>
-            <th rowspan="1" colspan="1">
-                <p><strong>Name/Designation</strong>
-                </p>
-            </th>
-            <th rowspan="1" colspan="1">
-                <p><strong>Email Address</strong>
-                </p>
-            </th>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p>Ms Jenny Shea (OIC)</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>jenny_shea_ka_yan@moe.edu.sg</p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p>Ms Norzahidah</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>norzahidah_maaz@moe.edu.sg</p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p>Ms Rafiqah Dewi Bte Aziz</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>rafiqah_dewi_aziz@moe.edu.sg</p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p></p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p></p>
-            </td>
-        </tr>
-    </tbody>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name/Designation</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jenny Shea (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jenny_shea_ka_yan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Rafiqah Dewi Bte Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rafiqah_dewi_aziz@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Uma Maheshwari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>uma_maheshwari@moe.edu.sg</p>
+</td>
+</tr>
+</tbody>
 </table>
 <p></p>
