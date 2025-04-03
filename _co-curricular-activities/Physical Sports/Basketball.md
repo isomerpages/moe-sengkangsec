@@ -59,7 +59,7 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<p><strong>CCA Training Sessions</strong> 
+<p><strong>CCA Training Sessions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -113,14 +113,6 @@ Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_ying_rui_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
