@@ -73,17 +73,62 @@ SDSC</p>
 <p><strong>CCA Training Sessions</strong>
 <br>
 </p>
-<p><strong><u>Mondays</u></strong>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mondays</strong>
 </p>
-<p>C: 3pm - 4.30pm &amp; B: 4.30pm - 6pm</p>
-<p>Wednesdays (odd)</p>
-<p>B: 3pm - 4.30pm &amp; C: 4.30pm - 6pm (Study grp)</p>
-<p><strong><u>Wednesdays (even)</u></strong>
+</td>
+<td rowspan="1" colspan="1">
+<p>C: 3pm - 4.30pm</p>
+<p>B: 4.30pm - 6pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Wednesdays (odd)</strong>
 </p>
-<p>C: 3pm - 4.30pm &amp; B: 4.30pm - 6pm (Study grp)</p>
-<p><strong><u>Fridays</u></strong>
+</td>
+<td rowspan="1" colspan="1">
+<p>B: 3pm - 4.30pm</p>
+<p>C: 4.30pm - 6pm (Study grp)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Wednesdays (even)</strong>
 </p>
-<p>B: 2.30pm - 3.45pm &amp; C: 3.45pm - 5.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C: 3pm - 4.30pm</p>
+<p>B: 4.30pm - 6pm (Study grp)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Fridays</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B: 2.30pm - 3.45pm</p>
+<p>C: 3.45pm - 5.15pm</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong>Teachers in charge</strong>
 </p>
