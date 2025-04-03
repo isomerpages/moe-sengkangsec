@@ -6,8 +6,12 @@ third_nav_title: Physical Sports
 variant: tiptap
 ---
 <p><strong>CCA Beliefs</strong> 
-<br>SKSS Basketball aims to nurture and develop student-athletes who are</p>
+<br>
+</p>
 <ul data-tight="true" class="tight">
+<li>
+<p>SKSS Basketball aims to nurture and develop student-athletes who are</p>
+</li>
 <li>
 <p>skilled and competent in the sport of Basketball</p>
 </li>
@@ -33,8 +37,10 @@ variant: tiptap
 <li>
 <p>2025 - 'B' Division Girls Basketball NSG - 1st Round</p>
 </li>
-</ul>
+<li>
 <p>2025 - 'C' Division Girls Tier 2</p>
+</li>
+</ul>
 <p></p>
 <p><strong>Key Programmes/Events</strong>
 </p>
@@ -118,15 +124,4 @@ Boys)</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Basketball_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Basketball_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Basketball/Basketball_3.jpg">
-</div>
 <p></p>
