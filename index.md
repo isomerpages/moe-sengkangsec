@@ -19,12 +19,6 @@ sections:
         - title: Direct School Admission (DSA)
           description: for 2025 Sec 1 intake
           url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
-  - infobar:
-      title: JC / Polytechnics Open House 2025
-      subtitle: Seng Kang Secondary School
-      id: infobar
-      button: Click here for the schedule
-      url: https://www.sengkangsec.moe.edu.sg/files/JC_and_Poly_Open_House_2025.pdf
   - infopic:
       title: SKSS Story
       subtitle: SENG KANG SECONDARY SCHOOL
