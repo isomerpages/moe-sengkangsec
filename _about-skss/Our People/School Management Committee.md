@@ -27,7 +27,7 @@ variant: markdown
 | Ms Nivashini D/O Mohandasan   | Asst Year Head Lower Secondary   |
 | Ms Norzahidah Binte Ma'az               | SH Student Leadership (Internal)          |
 | Ms Sharie Ong Minyu           | SH Media & Info Literacy                      |
-| Mr Goy Wee Seng           | SH Digitalisation                      |
+| Mdm Wee shen Sze          | SH Partnerships                      |
 | Ms Siti Zawiah Bte Abd Malek | SH English                     |            
 | Ms Oon Tze Ying                 | SH Mathematics                 |
 | Mdm Lim Siew Khim            | SH CL                          |
