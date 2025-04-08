@@ -22,7 +22,7 @@ Click <a href="/files/Resources%20for%20parents/ip3___parent_handbook__ii__2024_
 <hr>
 <p>TOUCH Community Services. Click <a href="https://www.help123.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
-<p><strong>DMA Parent Guides </strong>
+<p><strong>DMA Parent Guides</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -38,7 +38,8 @@ Click <a href="/files/Resources%20for%20parents/ip3___parent_handbook__ii__2024_
 </p>
 </li>
 </ul>
-<p><strong>DMA Change of Option Form </strong>
+<p><strong>DMA Change of Option Form</strong>
 </p>
 <p>Parents who would like to change the DMA option of their child may do
-so. Click here</p>
+so. Click <a href="https://go.gov.sg/skssdmachange" rel="noopener nofollow" target="_blank">here</a>
+</p>
