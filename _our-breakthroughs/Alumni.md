@@ -4,6 +4,18 @@ permalink: /alumni/
 variant: tiptap
 description: ""
 ---
+<p><strong>Temasek Polytechnic Engineering Scholarship</strong>
+</p>
+<p>Congratulations to our alumnus, Chang Kai Hong (Class of 2023), on receiving
+the prestigious Temasek Polytechnic Engineering Scholarship!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Our Breakthrough/Chiang_Kai_Hong_2023.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>Goh Chok Tong Enable Awards (GCTEA) 2024 Awards<br><br></strong>Congratulations
 to our alumni, Sim Yu Xiang and Maximillian Tan for their outstanding contributions
 to the society.</p>
