@@ -32,7 +32,8 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/WA &amp; MA/2025_Term_2_Assessment_Schedule__All_Levels_.pdf" rel="noopener nofollow" target="_blank">Assessment Schedule (All Levels) – Overview of assessment timelines for each level.</a>
+<p><a href="/files/WA &amp; MA/2025_Term_2_Assessment_Schedule__All_Levels_.pdf" rel="noopener nofollow" target="_blank">Assessment Schedule (All Levels) – Overv</a>
+<a href="/files/WA &amp; MA/2025/2025_Term_2_Assessment_Schedule__All_Levels_.pdf" rel="noopener nofollow" target="_blank">i</a><a href="/files/WA &amp; MA/2025_Term_2_Assessment_Schedule__All_Levels_.pdf" rel="noopener nofollow" target="_blank">ew of assessment timelines for each level.</a>
 </p>
 </li>
 <li>
