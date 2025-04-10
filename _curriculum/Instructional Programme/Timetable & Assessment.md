@@ -28,13 +28,18 @@ variant: tiptap
 </li>
 </ul>
 <h4>2025 Internal Assessments</h4>
-<p><strong>TERM 1 Weighted &amp; Milestone Assessments</strong>
+<p><strong>TERM 2 Weighted &amp; Milestone Assessments</strong>
 </p>
-<p>
-<br><a href="/files/WA &amp; MA/2025_Term_1_Assessment_Schedule__All_Levels__updated_9_Feb.pdf" rel="noopener nofollow" target="_blank">Assessment Schedule (All Levels) – Overview of assessment timelines for each level.</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/WA &amp; MA/2025_Term_2_Assessment_Schedule__All_Levels_.pdf" rel="noopener nofollow" target="_blank">Assessment Schedule (All Levels) – Overview of assessment timelines for each level.</a>
 </p>
-<p><a href="/files/WA &amp; MA/2025_Term_1_Assessment_Information__All_Levels__updated_9_Feb.pdf" rel="noopener noreferrer nofollow" target="_blank">Assessment Information (All Levels) – Details on assessment format, scope, and expectations for each level.</a>
+</li>
+<li>
+<p><a href="/files/WA &amp; MA/2025_Term_2_Assessment_Information__All_Levels_.pdf" rel="noopener noreferrer nofollow" target="_blank">Assessment Information (All Levels) – Details on assessment format, scope, and expectations for each level.</a>
 </p>
+</li>
+</ul>
 <p></p>
 <h4></h4>
 <p></p>
