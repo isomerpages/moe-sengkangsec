@@ -10,7 +10,7 @@ variant: tiptap
 students with hockey playing skills, but it also places great emphasis
 on the character building of every player. This is done through team bonding
 camps, overseas training trips and mental skills training sessions. Students
-who enrol in the CCA are given the opportunity to participate in friendly
+who enroll in the CCA are given the opportunity to participate in friendly
 matches and tournaments.</p>
 <p><strong>Achievements and Accolades</strong>
 </p>
@@ -105,25 +105,17 @@ nationally and globally.&nbsp;</p>
 <p>toh_hong_jin@moe.edu.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Hockey/skss_hockey_girls.jpg">
+</div>
+<p><strong>2025 National Schools Games Hockey Championships</strong> - National
+School Games (NSG) B division girls - League 1 (3rd Place)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Hockey%201.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Hockey%202.png">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
