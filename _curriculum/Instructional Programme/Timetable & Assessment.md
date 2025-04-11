@@ -32,17 +32,12 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/WA &amp; MA/2025_Term_2_Assessment_Schedule__All_Levels_.pdf" rel="noopener nofollow" target="_blank">Assessment Schedule (All Levels) – Overv</a>
-<a href="/files/WA &amp; MA/2025/2025_Term_2_Assessment_Schedule__All_Levels_.pdf" rel="noopener nofollow" target="_blank">i</a><a href="/files/WA &amp; MA/2025_Term_2_Assessment_Schedule__All_Levels_.pdf" rel="noopener nofollow" target="_blank">ew of assessment timelines for each level.</a>
+<p><a href="https://www.sengkangsec.moe.edu.sg/files/WA%20&amp;%20MA/2025/2025_Term_2_Assessment_Schedule__All_Levels_.pdf" rel="noopener nofollow" target="_blank">Assessment Schedule (All Levels) – Overview of assessment timeline files for each level.</a>
 </p>
 </li>
 <li>
-<p><a href="/files/WA &amp; MA/2025_Term_2_Assessment_Information__All_Levels_.pdf" rel="noopener noreferrer nofollow" target="_blank">Assessment Information (All Levels) – Details on assessment format, scope, and expectations for each level.</a>
+<p>&nbsp;<a href="https://www.sengkangsec.moe.edu.sg/files/WA%20&amp;%20MA/2025/2025_Term_2_Assessment_Information__All_Levels_.pdf" rel="noopener nofollow" target="_blank">Assessment Information (All Levels) – Details on assessment format, scope, and expectations for each level.</a>
 </p>
 </li>
 </ul>
-<p></p>
-<h4></h4>
-<p></p>
-<p></p>
 <p></p>
