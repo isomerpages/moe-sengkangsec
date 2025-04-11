@@ -30,15 +30,7 @@ variant: tiptap
 <h4>2025 Internal Assessments</h4>
 <p><strong>TERM 2 Weighted &amp; Milestone Assessments</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/WA &amp; MA/2025/2025_Term_2_Assessment_Schedule__All_Levels_.pdf" rel="noopener nofollow" target="_blank">Assessment Schedule (All Levels) – Overview of assessment timelines for each level.</a>
+<p><a href="https://www.sengkangsec.moe.edu.sg/files/WA%20&amp;%20MA/2025/2025_Term_2_Assessment_Schedule__All_Levels_.pdf" rel="noopener nofollow" target="_blank">Assessment Schedule (All Levels) – Overview of assessment timeline files for each level.</a>
 </p>
-</li>
-<li>
-<p><a href="/files/WA &amp; MA/2025_Term_2_Assessment_Information__All_Levels_.pdf" rel="noopener noreferrer nofollow" target="_blank">Assessment Information (All Levels) – Details on assessment format, scope, and expectations for each level.</a>
-</p>
-<p></p>
-</li>
-</ul>
+<p>&nbsp;</p>
 <p></p>
