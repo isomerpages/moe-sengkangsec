@@ -12,7 +12,7 @@ variant: tiptap
 <br><a href="/files/Infosheet__Refreshed_School_Uniform.pdf" rel="noopener nofollow" target="_blank">Refreshed School Uniform</a>
 <br>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>2025 Joint Admissions Exercise (JAE) Information for Sec 4E and 5N(A) students</u></strong>
 </p>
 <p>The following attachment contains information regarding the 2025 Joint
@@ -26,18 +26,14 @@ website via these links, together with your children. Thank you.</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/sf-jcmi</a>
 </p>
 <hr>
-<p><strong><a href="/files/Administration_Brief_for_2023_GCE_O_Level_Results_Release.pdf" rel="noopener noreferrer nofollow" target="_blank">Administration Brief for 2023 SINGAPORE-CAMBRIDGE GCE O-LEVEL EXAMINATION RESULTS</a></strong>
-</p>
-<p>Click on the link above for more information.</p>
-<hr>
 <p><strong>Collection of ‘N’ &amp; ‘O’ level Testimonials</strong>
 </p>
 <p>Graduated students can now collect their testimonials from the school
 daily from Monday to Friday except Saturday, Sunday and Public Holiday.
-Walk-in is opened from 15 August 2023 to 14 September 2023. Time: 9am –
-4pm</p>
-<p>With effect from 15 September 2023, graduated students will need to make
-appointment with the school before collection of testimonials. Thank you.</p>
+Walk-in is opened from 21 April 2025 to 30 May 2025. Time: 9am – 4pm</p>
+<p>With effect from 1 June 2025, graduated students will have to call the
+school at 6388 7258 to make appointment with the school before collection
+of testimonials. Thank you.</p>
 <hr>
 <p><strong><a href="/co-curriculum/co-curricular-activities-cca" rel="noopener noreferrer nofollow" target="_blank">CCA Training Schedule</a></strong>
 </p>
