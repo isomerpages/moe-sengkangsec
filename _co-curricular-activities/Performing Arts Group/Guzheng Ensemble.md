@@ -42,6 +42,10 @@ will continue to do our best and strive to greater heights.</p>
 <li>
 <p>2025 Performed at the Opening Ceremony of NTUC Health Active Aging Center
 @ Serangoon Central for Guest-of-Honour, Mr Seah Kian Peng</p>
+</li>
+<li>
+<p>2025 Singapore Youth Festival (SYF) Arts Presentation -Certificate of
+Distinction</p>
 <p></p>
 </li>
 </ul>
