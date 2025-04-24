@@ -29,16 +29,19 @@ discipline to excel both in music and in life.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2021 Singapore Youth Festival Arts Presentation Certificate of Distinction</p>
+<p>2025 Singapore Youth Festival Arts Presentation Certificate of Accomplishment</p>
 </li>
 <li>
-<p>2022 Istana Performance</p>
+<p>2024 SKSS Performance Arts Group Parents' Engagement Night</p>
 </li>
 <li>
 <p>2023 Singapore Youth Festival Arts Presentation Certificate of Accomplishment</p>
 </li>
 <li>
-<p>2024 SKSS Performance Arts Group Parents' Engagement Night</p>
+<p>2022 Istana Performance</p>
+</li>
+<li>
+<p>2021 Singapore Youth Festival Arts Presentation Certificate of Distinction</p>
 </li>
 </ul>
 <p><strong>Performances</strong>
@@ -62,7 +65,6 @@ and SKSS National Day Celebrations</p>
 </li>
 </ul>
 <p><strong>CCA Training Sessions (For non-SYF periods)</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -73,7 +75,6 @@ and SKSS National Day Celebrations</p>
 </li>
 </ul>
 <p><strong>Teachers-in-charge</strong>
-<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -112,12 +113,11 @@ and SKSS National Day Celebrations</p>
 <p>Mr Joe Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chan_wu_siong_andrew@moe.edu.sg</p>
+<p>tan_tai_ngah@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -126,7 +126,7 @@ and SKSS National Day Celebrations</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Designation </strong>
+<p><strong>Designation</strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
