@@ -4,8 +4,19 @@ permalink: /ccas/
 variant: tiptap
 description: ""
 ---
+<h3><strong>2025</strong></h3>
+<p><strong><u>SKSS Symphonic Band Achieves SYF (Certificate of Accomplishment).</u></strong>
+</p>
+<p>Congratulations to our SKSS Symphonic Band for attaining the Certificate
+of Accomplishment at the 2025 Singapore Youth Festival Arts Presentation.
+We are proud of our students' musical excellence and commend their hard
+work. Special thanks to our band conductor and teachers for their dedicated
+guidance.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Band.jpg">
+</div>
 <h3><strong>2024</strong></h3>
-<p><strong><u>Singapore Youth Art EXhibition 2024 (Certificates of Recognition)</u></strong>
+<p><strong><u>Singapore Youth Art Exhibition 2024 (Certificates of Recognition)</u></strong>
 </p>
 <p>Our Art Club students received three Certificates of Recognition for a
 series of artworks themed 'Artist and Collaboration,' created by our talented
@@ -16,40 +27,35 @@ members."</p>
 <p><strong><em>ICONS OF SINGAPORE</em></strong>
 <br>Tan Qi Qi
 <br>Yeo Xin Le Ariel</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Scintillating_Collage.jpg">
 </div>
 <p><strong><em>SCINTILLATING COLLAGE</em></strong>
 <br>Wu Peishan Jocelyn</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Times_Evolution.jpg">
 </div>
 <p><strong><em>Time’s Evolution</em></strong>
 <br>Goi Rui An, Andy
 <br>Danial Rizqy Bin Norul Norhidayat</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Connecting_Through_Emotions.jpg">
 </div>
 <p><strong><em>Connecting Through Emotions</em></strong>
 <br>Desiree Ng&nbsp; Si Rui</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art Club/Singapore_Heritage.jpg">
 </div>
 <p><strong><em>Singapore Heritage</em></strong>
 <br>Andrea Soh
 <br>Megan Chew En Xuan</p>
-<p></p>
 <p><strong><u>C Division Football (League 2, 3rd place)</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/CCA/WhatsApp_Image_2024_10_04_at_08_19_31.jpg">
 </div>
 <p>Seng Kang Secondary School’s C Division Football team achieved a breakthrough
-by attataining 3rd place in League 2 NSG Championships, earning qualification
+by attaining 3rd place in League 2 NSG Championships, earning qualification
 for next year’s C Division League 1. Their success reflects the team’s
 resilience and the strong support from coaches, teachers, and school leaders.</p>
 <p><strong><u>Baden Powell Award</u></strong>
@@ -63,7 +69,7 @@ attaining the Baden Powell Award 2024!</p>
 Commissioner to a Girl Guide. &nbsp;The award represents the remarkable
 achievement for Girl Guides, recognising their exceptional commitment to
 self-development and their positive impacts on others.</p>
-<p><strong><u>Jaerel Ang (4-1) Recipient of the SPF-NPCC Badge</u></strong>
+<p><strong><u>Jarell Ang (4-1) Recipient of the SPF-NPCC Badge</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/CCA/SPF_NPCC_BADGE_AWARD_PHOTO.jpg">
@@ -75,28 +81,25 @@ in my development as a leader and in preparing for my badge interview.</p>
 <p><strong><u>B Division Hockey Girls (NSG League 1, Champion)</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="408" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfOfhUKYD6mA6eGe7h3oyYa-xYC_fboo15HEgZKvE5BhoWz8xI84EPWvGgpq_91Xo_06k1r6Y4G_PFg-VmVLiwFj6ZOW__4y1LxfAC5q3m5QpW6P1K46htOvQjgPKjdRYIsOqzVdITjJHK6jdgzrxKCmNk?key=uhNycuOxast6Gw2WLKb6iQ">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hockey1.png">
 </div>
 <p>Our girls clinched the prestigious League 1 championship titles, demonstrating
 their prowess on the field.</p>
 <p><strong><u>C Division Hockey Boys (NSG League 1, Champion)</u></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="435" width="578" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfZqOrfcNIaUteC3oWRlNOhbKqOJDfhwjAiH9iZsYt6eM6mL9-QW8GaLvvUMjPrBMZfEOZgitzyQFu2_qR2JKVy1Kejp2krtjj1vw1Lp0b3vwER9_5rkquAYwiqDASRShFEYmlrKzcAePfO6kCDujde3_mk?key=uhNycuOxast6Gw2WLKb6iQ">
-</div>
 <p>Our boys have made a breakthrough with their championship title in the
 games.</p>
 <p><strong><u>C Division Hockey Girls (NSG League 1, 3rd Placing)</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="388" width="518" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfu7x9VEeGACGOh2ZfF8LZz0R3KE7v3dV3vHnpMtTYlqFLvHGPkIAfRj_sxvzBiC8Q2jfLpdkGfCOnvKBsayfyPeOUe-3HBo-e7gud_OyvDxm0H1yK8xDa13Sr6ruQ4upzZlpVQU_mlnJlZX2vfQZgP-xxU?key=uhNycuOxast6Gw2WLKb6iQ">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hockey_3.png">
 </div>
 <p>Our C girls also excelled, securing a commendable 3rd-place finish in
 League 1.</p>
 <p><strong><u>B Division Hockey Boys (League 2, Champions)</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="443" width="624" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf6jU73AWllQh-mDwpqQ_c2maAiEfgDVKIerGttg1RZmexgOFDA4v3hegHxAd_kzJIQIpucQ6obPnjxk2B3wE3LYp7boBsTMMu6crfaWOvsA6ZxDcXYv2rv9fQoiMi40aW_R3h_3ZeTOMUTH8yk8FT6StrL?key=uhNycuOxast6Gw2WLKb6iQ">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hockey_4.png">
 </div>
 <p>Not to be outdone, our dominated League 2, emerging as champions in their
 category.</p>
@@ -105,7 +108,6 @@ category.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/CCA/C_girls.jpg">
 </div>
-<p></p>
 <h3><strong>2023</strong></h3>
 <p><strong>PHYSICAL SPORTS CCA</strong>
 <br>TAEKWANDO - NSG B BOYS - 1st runners up
