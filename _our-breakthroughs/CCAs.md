@@ -15,6 +15,20 @@ guidance.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Band.jpg">
 </div>
+<p><strong><u>SKSS Guzheng Ensemble Achieves SYF (Certificate of Distinction).</u></strong>
+</p>
+<p>The Sengkang Secondary Guzheng Ensemble is proud to have been awarded
+the Certificate of Distinction at the Singapore Youth Festival (SYF) Arts
+Presentation 2025. This achievement is a testament to our students’ hard
+work, dedication, and passion for the art of guzheng. We extend our heartfelt
+gratitude to our instructors, school leaders, and supporters for their
+unwavering encouragement throughout this journey.</p>
+<p><strong><u>National Schools Games Hockey Championships</u></strong>
+</p>
+<p>National School Games (NSG) B division girls - League 1 3rd Place</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Hockey/skss_hockey_girls.jpg">
+</div>
 <h3><strong>2024</strong></h3>
 <p><strong><u>Singapore Youth Art Exhibition 2024 (Certificates of Recognition)</u></strong>
 </p>
@@ -138,4 +152,5 @@ C Girls - 2nd runners up</p>
 <br>Media Club - Copyright School Challenge Video Competition GOLD Award (Produced
 by Heng Kai Ling)
 <br>Art Club – Certificate of Recognition (Visual Arts Exhibition)</p>
+<p></p>
 <p></p>
