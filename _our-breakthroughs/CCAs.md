@@ -108,7 +108,6 @@ category.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/CCA/C_girls.jpg">
 </div>
-<p></p>
 <h3><strong>2023</strong></h3>
 <p><strong>PHYSICAL SPORTS CCA</strong>
 <br>TAEKWANDO - NSG B BOYS - 1st runners up
