@@ -4,6 +4,16 @@ permalink: /students/
 variant: tiptap
 description: ""
 ---
+<p><strong>NUS Geography Challenge 2025</strong>
+</p>
+<p>A first for SKSS, Andy, Amogh, John, and Wen Xin advanced to the semifinals
+of the annual NUS Geography Challenge with their impressive infographic
+on the urban renewal of Jurong Town. They also showcased their geographical
+skills in the GeoTrail, tackling challenges at various locations across
+Singapore.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Our Breakthrough/NUS_Geography_Challenge.jpg">
+</div>
 <p><strong>Health &amp; Food Science Competition 2024 (Runners-Up)</strong>
 </p>
 <p>Our students finished runners-up amongst 21 other schools in the competition,
