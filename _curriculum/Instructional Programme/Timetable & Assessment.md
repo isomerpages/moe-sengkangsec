@@ -36,7 +36,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>&nbsp;<a href="https://www.sengkangsec.moe.edu.sg/files/WA%20&amp;%20MA/2025/2025_Term_2_Assessment_Information__All_Levels_.pdf" rel="noopener nofollow" target="_blank">Assessment Information (All Levels) – Details on assessment format, scope, and expectations for each level.</a>
+<p><a href="https://drive.google.com/file/d/1ffTJ0AHGVfAjMtE3oNnuCdhe_XBDY_EA/view?usp=drive_link" rel="noopener nofollow" target="_blank">Assessment Information (All Levels_ - Details on assessment format, scope and expectations for each level.</a>
 </p>
 </li>
 </ul>
