@@ -9,15 +9,28 @@ variant: tiptap
 <p>Primary 6 students with interest and talent in sports can apply for Direct
 School Admission to be part of the Student-Athlete Programme offered at
 Seng Kang Secondary School.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA_Talent_Areas_offered.jpg">
 </div>
 <h4><strong>DSA Talent Areas Offered</strong></h4>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Basketball (Boys &amp; Girls)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Badminton (Boys &amp; Girls)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hockey (Boys &amp; Girls)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Football (Boys)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Netball (Girls)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Basketball (Boys &amp; Girls)</p>
+</li>
+<li>
+<p>Badminton (Boys &amp; Girls)</p>
+</li>
+<li>
+<p>Hockey (Boys &amp; Girls)</p>
+</li>
+<li>
+<p>Football (Boys)</p>
+</li>
+<li>
+<p>Netall(Girls)</p>
+</li>
+</ul>
 <h4><strong>Student-Athlete Programme</strong></h4>
 <p>The SKSS Student-Athlete Programme adopts a 6-prong approach aimed at
 providing a supportive ecosystem for students to develop holistically in
@@ -25,8 +38,8 @@ sports, academic learning and other domains of growth.</p>
 <p>Beyond playing the sport, as part of Educational Career Guidance, students
 are also exposed to sports related knowledge, post-secondary courses and
 career pathways.</p>
-<p>Students can also consider offering Exercise &amp; Sports Science as a
-subject in their upper secondary years.</p>
+<p>Students can also consider opting Exercise &amp; Sports Science as a subject
+in their upper secondary years.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SKSS_Student_Athlete_Programme.png">
 </div>
@@ -34,20 +47,32 @@ subject in their upper secondary years.</p>
 <p>Applicants should demonstrate a keen interest in sports but need not necessarily
 have prior experience in the specific talent area they are applying for.
 The school will assess applicants based on the following selection criteria*:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; General sports-related fitness and
-physical ability</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sport-specific technical skills</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Personal qualities</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>General sports-related fitness and physical ability</p>
+</li>
+<li>
+<p>Sport-specific technical skills</p>
+</li>
+<li>
+<p>Personal qualities</p>
+</li>
+</ul>
 <p>Applicants are encouraged to include any participation in relevant Sports
 CCA or external competition, which may include:</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp; representation in zonal or national competitions</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp; being a member of the school team or Junior
-Sports Academy (JSA)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>representation in zonal or national competitions</p>
+</li>
+<li>
+<p>being a member of the school team or Junior Sports Academy (JSA)</p>
+</li>
+</ul>
 <p>*Do note that meeting the selection criteria does not guarantee that the
 applicant will be shortlisted/given an offer.</p>
 <h4><strong>Selection Process &amp; Key Dates</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/selection_process_key_dates.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/selection_process_key_dates_final.png">
 </div>
 <h4><strong>Advisory to Parents &amp; Students</strong></h4>
 <p>Parents and students are encouraged to choose schools wisely based on
