@@ -9,7 +9,6 @@ variant: tiptap
 <p>Primary 6 students with interest and talent in sports can apply for Direct
 School Admission to be part of the Student-Athlete Programme offered at
 Seng Kang Secondary School.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SKSS_SAP.jpg">
 </div>
