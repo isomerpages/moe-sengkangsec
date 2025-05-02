@@ -67,13 +67,10 @@ related to their selected talent area throughout their years at the school.</p>
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a><strong> &nbsp;</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>DSA-Sec SchoolFinder</strong>
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
 </p>
-<p>&nbsp;</p>
 <p><strong>DSA-Sec iFAQs</strong>
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
