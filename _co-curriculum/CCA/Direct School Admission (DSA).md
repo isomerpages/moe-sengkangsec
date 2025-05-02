@@ -11,7 +11,7 @@ School Admission to be part of the Student-Athlete Programme offered at
 Seng Kang Secondary School.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA_Talent_Areas_offered.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SKSS_SAP.jpg">
 </div>
 <h4><strong>DSA Talent Areas Offered</strong></h4>
 <ul data-tight="true" class="tight">
