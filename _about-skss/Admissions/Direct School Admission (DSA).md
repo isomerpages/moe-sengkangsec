@@ -2,16 +2,15 @@
 title: Direct School Admission (DSA)
 permalink: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
 description: ""
-third_nav_title: CCA
+third_nav_title: Admissions
 variant: tiptap
 ---
 <h4><strong>Direct School Admission - Secondary 1 (2026) Intake</strong></h4>
 <p>Primary 6 students with interest and talent in sports can apply for Direct
 School Admission to be part of the Student-Athlete Programme offered at
 Seng Kang Secondary School.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA_Talent_Areas_offered.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SKSS_SAP.jpg">
 </div>
 <h4><strong>DSA Talent Areas Offered</strong></h4>
 <ul data-tight="true" class="tight">
@@ -38,8 +37,8 @@ sports, academic learning and other domains of growth.</p>
 <p>Beyond playing the sport, as part of Educational Career Guidance, students
 are also exposed to sports related knowledge, post-secondary courses and
 career pathways.</p>
-<p>Students can also consider opting Exercise &amp; Sports Science as a subject
-in their upper secondary years.</p>
+<p>Students can also consider opting for Exercise &amp; Sports Science as
+a subject in their upper secondary years.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SKSS_Student_Athlete_Programme.png">
 </div>

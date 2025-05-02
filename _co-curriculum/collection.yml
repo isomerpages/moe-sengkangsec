@@ -2,7 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
-      - CCA/Direct School Admission (DSA).md
       - CCA/Co Curricular Activities (CCA).md
       - CCA/.keep
       - Student Leadership Development.md
