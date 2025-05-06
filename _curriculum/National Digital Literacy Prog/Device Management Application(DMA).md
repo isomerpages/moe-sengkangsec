@@ -5,64 +5,47 @@ description: ""
 third_nav_title: National Digital Literacy Prog
 variant: tiptap
 ---
-<h4>Functions of the DMA</h4>
-<p>A Device Management Application (“DMA”) will come pre-installed on all
-PLDs purchased through the school and will be installed on all student-owned
-devices subject to parental/guardian consent. The DMA has 3 main components
-which will support the use of the PLD in the classroom and safeguard students’
-cyber wellness:</p>
-<p>(a)&nbsp;&nbsp;<strong>Mobile Device Management Service.</strong>&nbsp;This
-facilitates the updating and managing of the PLD, protects the PLD from
-malicious software, and protects students from objectionable internet content.</p>
-<p>(b)&nbsp;<strong>Classroom Management Service.</strong>&nbsp;This enables
-teachers to manage the students’ use of the PLD during lesson time to improve
-classroom management and support effective teaching and learning.</p>
-<p>(c)&nbsp;<strong>Usage Management Service.</strong>&nbsp;This enables
-the school and/or parents/guardians to better supervise and set helpful
-limits for students’ use of PLD after school.</p>
-<p>You may find more information about the DMA Options <a href="https://drive.google.com/file/d/1Pl_RshsmKkcL4ZQAT_-0lrKN-2rClcTw/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<h4>Selecting After-School DMA Options for PLDs</h4>
-<p>For parents/guardians who prefer alternative DMA settings after school
-hours, they can choose from the following options:</p>
-<p>• <strong>Option A</strong>: For parents/guardians who prefer to take charge
-of the level of restrictions for their child’s/ward’s use of the device
-after school hours regulated by the DMA.</p>
-<p>• <strong>Option B</strong>: For parents/guardians who do not want their
-child’s/ward’s use of the device after school hours to be regulated by
-the DMA at all.</p>
+<h4><strong>DMA Lightspeed: Managing Your Child's Digital Experience</strong></h4>
+<p>Each device comes equipped with a Device Management Application called
+Lightspeed, a software platform used for managing and monitoring digital
+devices, particularly in educational settings. It can provide features
+such as content filtering, screen time management, device monitoring, and
+ensuring compliance with school policies on digital usage. It helps administrators
+and parents oversee how devices are being used, keeping students safe and
+focused during their learning.</p>
+<p>There are 3 types of DMA options available for parents/guardian to opt
+that best fits the needs of your child/ward.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DMA_Options.png">
+</div>
+<h4><strong>DMA Change of Option Form</strong></h4>
+<p>The DMA options can be adjusted throughout the academic year based on
+your child/ward's changing needs and demonstrated responsibility with digital
+devices. The default sleep time after school hours is set to 10pm.</p>
+<p>Parents who would like to change the DMA option of their child may do
+so. Click&nbsp;<a href="https://go.gov.sg/skssdmachange" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
+<h4><strong>Parents Opting for Option A</strong></h4>
+<p>Parents will receive a notification through Parent Gateway once the DMA
+settings are configured. A guide will be provided to assist parents in
+creating a Parent Lightspeed account to access the portal.</p>
+<h4><strong>Deprovision of DMA of PLDs</strong></h4>
+<p>Deprovisioning will take place after your child's graduation. The school
+will inform you of the specific dates and procedures closer to graduation
+time.</p>
+<p>The school will remove DMA (Device Management Application) and all school-installed
+settings from your child's device. This means:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Default Option</strong> : For parents/guardians who want their
-child’s/ward’s use of the device to be restricted only to teaching and
-learning, and who prefer to follow the Default Setting as set by the school
-for both during and after school hours.</p>
+<p>The device will be unlocked from school controls</p>
+</li>
+<li>
+<p>School-installed applications will be removed</p>
+</li>
+<li>
+<p>Your child will have full control of the device</p>
 </li>
 </ul>
-<p>For the above options please refer to the <a href="/files/CE08_Infosheet_on_MOE_DMA_Settings.pdf" rel="noopener nofollow" target="_blank">comparison list</a>
-</p>
-<p>You may also click the <a href="https://www.sengkangsec.moe.edu.sg/curriculum/National-Digital-Literacy-Prog/resources/" rel="noopener nofollow" target="_blank">link</a> to
-find useful information like :</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>DMA Parent Guide – Option A / Option B / Default Option
-<br>
-</p>
-</li>
-<li>
-<p>Setting Rules to Restrict Usage
-<br>
-</p>
-</li>
-<li>
-<p>Overriding School Sleep Hours
-<br>
-</p>
-</li>
-<li>
-<p>Parent Account Password Reset
-<br>
-</p>
-</li>
-</ul>
-<p>Please note that the system will be updated on every first week of the
-following month.</p>
+<p>After Deprovisioning, the device will become a regular device for personal
+use and the warranty coverage continues until its expiry date.</p>
