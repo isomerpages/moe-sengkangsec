@@ -5,41 +5,92 @@ description: ""
 third_nav_title: National Digital Literacy Prog
 variant: tiptap
 ---
-<p>Parent Handbook (I) on Learning with a Personal Learning Device (PLD).
-Click <a href="/files/PLD/pdlp-Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<hr>
-<p>Parent Handbook (II) on Learning with a Personal Learning Device (PLD).
-Click <a href="/files/Resources%20for%20parents/ip3___parent_handbook__ii__2024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<hr>
-<p>Parent Kit on Cyber Wellness for Your Child. Click <a href="http://go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<hr>
-<p>MOE Cyber Wellness Programme. Click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<hr>
-<p>SchoolBag - Keeping our teens safe online. Click <a href="https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<hr>
-<p>National Library’s Learning &amp; Information Literacy Resources. Click
-<a href="https://sure.nlb.gov.sg/resources/audience/teachers-and-students/secondary-level-cce" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<hr>
-<p>TOUCH Community Services. Click <a href="https://www.help123.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<hr>
-<p><strong>DMA Parent Guides</strong>
+<p>We are excited to support you on your journey in understanding your child’s
+digital learning. Our school offers a range of <strong>ICT handbooks, programmes, and services</strong> designed
+to help parents familiarise themselves with the tools and platforms their
+children use. Whether you’re new to technology or simply want to stay updated,
+these resources will guide you in supporting your child’s learning at home
+and staying connected with their digital world.</p>
+<p>For more details, please explore our available materials or reach out
+to us.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Useful ICT Handbooks, Programs and Services for Parents</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Option A Click <a href="/files/CE09_Parent_User_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">here</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Links</strong>
 </p>
-</li>
-<li>
-<p>Option B Click <a href="/files/CE10_Parent_User_Guide_for_Option_B_UPDATED.pdf" rel="noopener nofollow" target="_blank">here</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parent Handbook (I) on Learning with a Personal Learning Device (PLD).</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="/files/PLD/pdlp-Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parent Handbook (II) on Learning with a Personal Learning Device (PLD).</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="/files/Resources%20for%20parents/ip3___parent_handbook__ii__2024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
-</li>
-<li>
-<p>Default Option Click <a href="/files/CE11_Parent_User_Guide_for_Default_Option.pdf" rel="noopener nofollow" target="_blank">here</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parent Kit on Cyber Wellness for Your Child</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="http://go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
-</li>
-</ul>
-<p><strong>DMA Change of Option Form</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Cyber Wellness Programme.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
-<p>Parents who would like to change the DMA option of their child may do
-so. Click <a href="https://go.gov.sg/skssdmachange" rel="noopener nofollow" target="_blank">here</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Schoolbag - Keeping our teens safe online.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Library’s Learning &amp; Information Literacy Resources.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://sure.nlb.gov.sg/resources/audience/teachers-and-students/secondary-level-cce" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TOUCH Community Services.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click <a href="https://www.help123.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
