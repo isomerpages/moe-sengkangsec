@@ -5,21 +5,17 @@ description: ""
 third_nav_title: National Digital Literacy Prog
 variant: tiptap
 ---
-<p>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National
-Digital Literacy Programme (“NDLP”) for our schools and Institutes of Higher
-Learning to help students strengthen their digital literacy. One of the
-components of the NDLP is the introduction of the Personalised Digital
-Learning Programme (“PDLP”) for all secondary school students, whereby
-every secondary school student will own a school-prescribed Personal Learning
-Device (“PLD”).&nbsp;This webpage provides important information about
-how you can purchase the PLD for your child/ward as well as about the accompanying
-applications that the school may be rolling out as part of the NDLP.</p>
-<p><strong>Intended Outcomes of the PLD Initiative</strong>
+<p>In March 2020, during MOE's Committee of Supply Debate, the Ministry of
+Education introduced the National Digital Literacy Programme (NDLP) to
+enhance digital literacy for students in schools and Institutes of Higher
+Learning. A key aspect of the NDLP is the Personalized Digital Learning
+Programme (PDLP), which ensures that all secondary school students are
+provided with a school-approved Personal Learning Device (PLD).</p>
+<p>Singapore citizens will be able to utilize the funds in their Edusave
+account to&nbsp;offset the cost&nbsp;for their Personal Learning Device.
+Students who are Singapore citizens from lower-income families will enjoy
+further subsidies for the purchase.&nbsp;</p>
+<p><strong>Home Internet Broadband Assistance</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDLP/11-aim-pdlp.png">
-</div>
-<p><strong>PLD Information for Parents</strong>
-</p>
-<p>Please click <a href="/files/Infographic_on_the_PLD_Initiative_2024_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-PLD Initiative Infographic.</p>
+<p>Students who need assistance with home broadband connectivity can apply
+for the Home Access program at&nbsp;&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.sg</a>.</p>
