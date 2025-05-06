@@ -65,4 +65,20 @@ for Education.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Device Insurance and Warranty</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Insurance_and_waranty_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Insurance_and_waranty_2.png">
+</div>
+<h4><strong>PLD Routines</strong></h4>
+<p>In our classrooms, students follow clear PLD (Personal Learning Device)
+routines to create a focused and effective classroom learning environment.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PLD_Routines.png">
+</div>
 <p></p>
