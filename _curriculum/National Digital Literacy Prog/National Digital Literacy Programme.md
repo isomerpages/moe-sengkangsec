@@ -15,7 +15,6 @@ provided with a school-approved Personal Learning Device (PLD).</p>
 account to&nbsp;offset the cost&nbsp;for their Personal Learning Device.
 Students who are Singapore citizens from lower-income families will enjoy
 further subsidies for the purchase.&nbsp;</p>
-<p><strong>Home Internet Broadband Assistance</strong>
-</p>
+<h4><strong>Home Internet Broadband Assistance</strong></h4>
 <p>Students who need assistance with home broadband connectivity can apply
 for the Home Access program at&nbsp;&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.digitalaccess.gov.sg</a>.</p>
