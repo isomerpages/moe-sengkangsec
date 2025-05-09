@@ -7,8 +7,8 @@ variant: tiptap
 ---
 <h4><strong>Direct School Admission - Secondary 1 (2026) Intake</strong></h4>
 <p>Primary 6 students with interest and talent in sports can apply for Direct
-School Admission to be part of the Student-Athlete Programme offered at
-Seng Kang Secondary School.</p>
+School Admission to the Student-Athlete Programme offered at Seng Kang
+Secondary School.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SKSS_SAP.jpg">
 </div>
@@ -35,8 +35,8 @@ Seng Kang Secondary School.</p>
 providing a supportive ecosystem for students to develop holistically in
 sports, academic learning and other domains of growth.</p>
 <p>Beyond playing the sport, as part of Educational Career Guidance, students
-are also exposed to sports related knowledge, post-secondary courses and
-career pathways.</p>
+will be also exposed to sports-related knowledge, post-secondary courses
+and career pathways.</p>
 <p>Students can also consider opting for Exercise &amp; Sports Science as
 a subject in their upper secondary years.</p>
 <div class="isomer-image-wrapper">
