@@ -29,7 +29,7 @@ variant: markdown
 | 2-1 |  Ms Jasmine Ngoh Xin Rong        |       Mr Chua Wei Jian                  |
 | 2-2 | Ms Wang Jia Ning Jenny       | Mr Lim Bao Luo Paul           |
 | 2-3 | Mdm Wee Shen Sze |     Ms Nur Amirah Binte Rosman               |
-| 2-4 | Mdm Rekhvinder Kaur Gill     | Ms Sam Li Ying        |
+| 2-4 | Mdm Rekhvinder Kaur Gill     | Ms Radiah Mohamed Rasol A     |
 | 2-5 | Mr Low Young Kwang | Ms Rafiqah Dewi Bte Aziz      |
 | 2-6 | Mdm Siti Zawiah Bte Abd Malek  | Mr Danial Iylia Bin Roslin   |
 | 2-7 |     Ms Sharie Ong Minyu   |  Mdm Deenadayalan Jothibai   |
