@@ -70,9 +70,121 @@ CCA or external competition, which may include:</p>
 <p>*Do note that meeting the selection criteria does not guarantee that the
 applicant will be shortlisted/given an offer.</p>
 <h4><strong>Selection Process &amp; Key Dates</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/selection_process_key_dates_final.png">
-</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>APPLICATION</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>7 May 2025 -</strong>
+</p>
+<p><strong>3 Jun 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applications open for P6 students, Returning Singaporeans, Permanent Residents,
+and Foreign Students via the DSA-Sec Portal.</p>
+<p>&nbsp;</p>
+<p>Application is free and available from 7 May (11am) to 3 June (3pm). For
+more details, visit MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SELECTION</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Trials</strong>
+</p>
+</li>
+<li>
+<p><strong>Interviews</strong>
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>30 Jun 2025</strong>
+</p>
+<p><strong>-</strong>
+</p>
+<p><strong>4 Sep 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted applicants will be notified by 11 July 2025 to attend trials.</p>
+<p>&nbsp;</p>
+<p>Selection involves two stages:</p>
+<p>Stage 1: Face-to-face sports trials.</p>
+<p>Stage 2: Interviews for students shortlisted from trials.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>OUTCOME</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>25 Aug 2025 -</strong>
+</p>
+<p><strong>4 Sep 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All applicants will receive their outcomes between 25 August and 4 September
+2025.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SCHOOL PREFERENCE SUBMISSION</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>27 Oct 2025 -</strong>
+</p>
+<p><strong>31 Oct 2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students who receive an offer will receive an email and SMS notification
+on the school preference submission.</p>
+<p>Parents must log in to the DSA-Sec Portal using SingPass to submit up
+to three school preferences. Those needing assistance can approach their
+child’s primary school.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>RESULT RELEASE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Late Nov</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will receive their DSA-Sec results together with their PSLE results
+by end-Nov.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Advisory to Parents &amp; Students</strong></h4>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
@@ -86,7 +198,7 @@ related to their selected talent area throughout their years at the school.</p>
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a><strong> &nbsp;</strong>
 </p>
-<p><strong>DSA-Sec SchoolFinder</strong>
+<p><strong>DSA-Sec School Finder</strong>
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
 </p>
