@@ -85,7 +85,7 @@ applicant will be shortlisted/given an offer.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>7 May 2025 </strong>
+<p><strong>7 May 2025</strong>
 </p>
 <p><strong>to</strong>
 </p>
@@ -136,7 +136,7 @@ more details, visit MOE website – <a href="https://www.moe.gov.sg/secondary/ds
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>25 Aug 2025 </strong>
+<p><strong>25 Aug 2025</strong>
 </p>
 <p><strong>to</strong>
 </p>
@@ -156,7 +156,7 @@ more details, visit MOE website – <a href="https://www.moe.gov.sg/secondary/ds
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>27 Oct 2025 </strong>
+<p><strong>27 Oct 2025</strong>
 </p>
 <p><strong>to</strong>
 </p>
