@@ -85,19 +85,19 @@ applicant will be shortlisted/given an offer.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>7 May 2025 -</strong>
+<p><strong>7 May 2025</strong>
 </p>
-<p><strong>3 Jun 2025</strong>
+<p><strong>to</strong>
+</p>
+<p><strong>3 June 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applications open for P6 students, Returning Singaporeans, Permanent Residents,
 and Foreign Students via the DSA-Sec Portal.</p>
-<p>&nbsp;</p>
 <p>Application is free and available from 7 May (11am) to 3 June (3pm). For
-more details, visit MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
+more details, visit MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">DSA</a>
 </p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -116,16 +116,15 @@ more details, visit MOE website – <a rel="noopener noreferrer nofollow" target
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>30 Jun 2025</strong>
+<p><strong>30 June 2025</strong>
 </p>
-<p><strong>-</strong>
+<p><strong>to</strong>
 </p>
 <p><strong>4 Sep 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted applicants will be notified by 11 July 2025 to attend trials.</p>
-<p>&nbsp;</p>
 <p>Selection involves two stages:</p>
 <p>Stage 1: Face-to-face sports trials.</p>
 <p>Stage 2: Interviews for students shortlisted from trials.</p>
@@ -137,7 +136,9 @@ more details, visit MOE website – <a rel="noopener noreferrer nofollow" target
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>25 Aug 2025 -</strong>
+<p><strong>25 Aug 2025</strong>
+</p>
+<p><strong>to</strong>
 </p>
 <p><strong>4 Sep 2025</strong>
 </p>
@@ -155,7 +156,9 @@ more details, visit MOE website – <a rel="noopener noreferrer nofollow" target
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>27 Oct 2025 -</strong>
+<p><strong>27 Oct 2025</strong>
+</p>
+<p><strong>to</strong>
 </p>
 <p><strong>31 Oct 2025</strong>
 </p>
@@ -166,7 +169,6 @@ on the school preference submission.</p>
 <p>Parents must log in to the DSA-Sec Portal using SingPass to submit up
 to three school preferences. Those needing assistance can approach their
 child’s primary school.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -196,15 +198,16 @@ related to their selected talent area throughout their years at the school.</p>
 <h4><strong>Helpful Weblinks</strong></h4>
 <p><strong>DSA-Sec Main Webpage:</strong>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a><strong> &nbsp;</strong>
+<p><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <p><strong>DSA-Sec School Finder</strong>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
+<p><a href="https://www.moe.gov.sg/schoolfinder?journey=Secondary%20school" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
 </p>
 <p><strong>DSA-Sec iFAQs</strong>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
+<p><a href="https://www.moe.gov.sg/faq?categoryid=FD36A5CE93E74E11B907D5EB5954E676" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/faq?categoryid=FD36A5CE93E74E11B907D5EB5954E676</a>
 </p>
+<p></p>
 <hr>
 <p></p>
