@@ -1,4 +1,5 @@
 collections:
   nsg-2025:
     output: true
-    order: []
+    order:
+      - Nsg 2025.md
