@@ -1,10 +1,10 @@
 logo: /images/Sengkang sec logo.png
 links:
   - title: About SKSS
-    url: /example-title/
+    url: /about-skss/school-histor
     sublinks:
       - title: School History
-        url: /about-skss/school-history
+        url: /example-title/
       - title: Vision, Mission and Values
         url: /about-skss/vision-mission-and-values
       - title: School Song
