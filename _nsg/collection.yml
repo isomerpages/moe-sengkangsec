@@ -1,5 +1,0 @@
-collections:
-  nsg:
-    output: true
-    order:
-      - Photos.md
