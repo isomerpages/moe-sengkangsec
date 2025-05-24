@@ -1,4 +1,5 @@
 collections:
   skss05:
     output: true
-    order: []
+    order:
+      - SKSS05.md
