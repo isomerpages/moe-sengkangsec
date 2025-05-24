@@ -1,4 +1,5 @@
 collections:
   nsg:
     output: true
-    order: []
+    order:
+      - Photos.md
