@@ -5,6 +5,24 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>2025</strong></h3>
+<p></p>
+<p><strong><u>NSG 2025 B Division</u></strong>
+</p>
+<p>We are proud to announce that the B Division SKY Footballers have enjoyed
+an outstanding season, marked by exceptional performance both on and off
+the pitch.</p>
+<p>Guided by a strong footballing culture, resilient character, and unwavering
+determination, the team achieved a significant milestone—clinching 2nd
+place in League 2 this year.</p>
+<p>Our heartfelt appreciation goes out to the Coaches, Teachers, and School
+Leaders whose dedication, guidance, and belief in the team have been key
+to this success.</p>
+<p>As we celebrate this achievement, let it fuel our drive for greater heights
+ahead. Majulah Seng Kang! Stay humble, stay hungry.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Our Breakthrough/WhatsApp_Image_2025_05_23_at_1_29_46_PM.jpg">
+</div>
 <p><strong><u>SKSS Symphonic Band Achieves SYF (Certificate of Accomplishment).</u></strong>
 </p>
 <p>Congratulations to our SKSS Symphonic Band for attaining the Certificate
