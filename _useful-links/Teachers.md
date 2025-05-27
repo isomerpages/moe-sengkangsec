@@ -62,11 +62,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/64ec1a81962d32001288e56c" rel="noopener noreferrer nofollow" target="_blank">Media Club Service Request Form</a>
+<p><a href="https://form.gov.sg/683532f6727032ecb53ac77d" rel="noopener nofollow" target="_blank">Media Club Request Form</a>
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/6503b930e3fae00011d5c486" rel="noopener noreferrer nofollow" target="_blank">Fault Report Form</a>
+<p><a href="https://form.gov.sg/683534b56f838064b3faca06" rel="noopener nofollow" target="_blank">Faulting Reporting Form</a>
 </p>
 </li>
 <li>
