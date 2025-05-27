@@ -24,7 +24,7 @@ that best fits the needs of your child/ward.</p>
 your child/ward's changing needs and demonstrated responsibility with digital
 devices. The default sleep time after school hours is set to 10pm.</p>
 <p>Parents who would like to change the DMA option of their child may do
-so. Click&nbsp;<a href="https://go.gov.sg/skssdmachange" rel="noopener noreferrer nofollow" target="_blank">here</a>
+so. Click&nbsp;<a href="https://form.gov.sg/68352ea0be3be6bf715ffc08" rel="noopener nofollow" target="_blank">Here</a>
 </p>
 <h4><strong>Parents Opting for Option A</strong></h4>
 <p>Parents will receive a notification through Parent Gateway once the DMA
