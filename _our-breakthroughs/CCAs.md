@@ -22,8 +22,9 @@ for their resilience, tenacity and effort!</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Our Breakthrough/WhatsApp_Image_2025_05_23_at_1_29_46_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_06_03_at_5_14_58_PM.jpg">
 </div>
 <p><strong><u>SKSS Symphonic Band Achieves SYF (Certificate of Accomplishment).</u></strong>
 </p>
