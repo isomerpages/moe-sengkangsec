@@ -7,23 +7,27 @@ variant: tiptap
 ---
 <h4>2025 Class Timetable</h4>
 <p>Click on the respective levels to access the&nbsp; 2025 Class Timetable:</p>
-<p><strong>SEMESTER 1, TERM 1, Week 3 to Week 10</strong>
+<p><strong>SEMESTER 2, TERM 3, Week 1 to Week 10</strong>
 </p>
 <ul>
 <li>
-<p><a href="https://drive.google.com/file/d/1c26CMiEU6VJKIRMDKp9p5VdEBr5s0YFY/view?usp=drive_link" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec One</u></a>
+<p><a href="https://drive.google.com/file/d/1_kcTZ189K4sayr1b0_nip2_j54rQlw5e/view?usp=sharing" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec One</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1UX-v_n6RfWk3xQAvdgD4VSgEhjRJSpM4/view?usp=drive_link" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec Two</u></a>
+<p><a href="https://drive.google.com/file/d/1IMj9yU-AVJ3SCCf2OpKb5GjBb64uym0C/view?usp=sharing" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec Two</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1iGpz7GY4IccDEanSx2Ko13yKbIeY-E8O/view?usp=drive_link" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec Three</u></a>
+<p><a href="https://drive.google.com/file/d/191Wq6Uet9rGA83gWC3IIJWwgHmiFrNh9/view?usp=sharing" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec Three</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1jzs9BPfDF_lgOgyoqStpJ6unTBZZPXFS/view?usp=drive_link" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec Four &amp; Five</u></a>
+<p><a href="https://drive.google.com/file/d/17oIKtLNc4ogsjDvQ6eBvQaBbtGyVuiiH/view?usp=sharing" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec Four</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://drive.google.com/file/d/14sQ4rlt91fCJslA9d4OPHd6qSPvh_9np/view?usp=sharing" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec Five</u></a>
 </p>
 </li>
 </ul>
