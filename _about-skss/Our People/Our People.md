@@ -41,7 +41,7 @@ variant: markdown
 |-----|--------------------------|---------------------------|
 | 3-A | Ms Sazryna Lee Samsudin     |   Mr Tham Zi Cong | Mdm. Charis Tham              |
 | 3-B |    Mr Tan Bing Dun                 |    Ms Toh Xuan Hui      |  
-| 3-c |    Mr Sng Kai Rong, Jerome  |   Mdm Uma Maheshwari Ravisankar                       |
+| 3-C |    Mr Sng Kai Rong, Jerome  |   Mdm Uma Maheshwari Ravisankar                       |
 | 3-D |    Ms Chua Yingying Joyce   |    Mr Mohammad Zulkiffli Bin Abu Bakar                     |
 | 3-E |    Ms Chung See Yee, Cherie Sara  |        Mdm Liyana Binte Mohamed Ali        |
 | 3-F |  Mr.Joe Tan                  |       Mrs Quek Soo Kim          |
