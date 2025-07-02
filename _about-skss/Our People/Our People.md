@@ -45,7 +45,7 @@ variant: markdown
 | 3-D |    Ms Chua Yingying Joyce   |    Mr Mohammad Zulkiffli Bin Abu Bakar                     |
 | 3-E |    Ms Chung See Yee, Cherie Sara  |        Mdm Liyana Binte Mohamed Ali        |
 | 3-F |  Mr.Joe Tan                  |       Mrs Quek Soo Kim          |
-| 3-G |      Ms Chin Yee Lee          |    Mdm. Melisa ko            |
+| 3-G |      Ms Chin Yee Lee          |    Mdm. Ko Zen Rae Melisa           |
 | 3-H |  Ms J. Thivyadarishini           |   Mr.  Tay Beng Chai Steven        |          |               
 
 **<font size="4">Secondary 4/5 Year Head: Ms Lee Zihui Amanda </font>**
