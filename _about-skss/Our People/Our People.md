@@ -39,14 +39,14 @@ variant: markdown
 
 |     | FT                       | FT                        |
 |-----|--------------------------|---------------------------|
-| 3-1 | Ms Sazryna Lee Samsudin   |   Mr Tay Beng Chai Steven                   |
-| 3-2 |    Ms Chua Yingying Joyce     |    Mr Tham Zi Cong      |
-| 3-3 |    Mr Sng Kai Rong, Jerome       |   Mdm Uma Maheshwari Ravisankar                       |
-| 3-4 |   Mr Mohammad Zulkiffli Bin Abu Bakar     |   Mrs Quek Soo Kim                     |
-| 3-5 |    Ms J. Thivyadarishini      |      Ms Su Xiao Min        |
-| 3-6 |     Mdm Liyana Binte Mohamed Ali        |       Ms Toh Xuan Hui                  |
-| 3-7 |      Ms Chin Yee Lee          |  Mr Tan Bing Dun               |
-| 3-8 |  Mr Tan Tai Ngah             |   Ms Chung See Yee, Cherie Sara           |          |               
+| 3-A | Ms Sazryna Lee Samsudin  |   Mr Tham Zi Cong | Mdm. Charis Tham              |
+| 3-B |    Mr Tan Bing Dun             |    Ms Toh Xuan Hui      |  
+| 3-c |    Mr Sng Kai Rong, Jerome  |   Mdm Uma Maheshwari Ravisankar                       |
+| 3-D |    Ms Chua Yingying Joyce   |    Mr Mohammad Zulkiffli Bin Abu Bakar                     |
+| 3-E |    Ms Chung See Yee, Cherie Sara  |        Mdm Liyana Binte Mohamed Ali        |
+| 3-F |  Mr.Joe Tan                  |       Mrs Quek Soo Kim          |
+| 3-G |      Ms Chin Yee Lee          |    Mdm. Melisa ko            |
+| 3-H |  Ms J. Thivyadarishini           |   Mr.  Tay Beng Chai Steven        |          |               
 
 **<font size="4">Secondary 4/5 Year Head: Ms Lee Zihui Amanda </font>**
 
