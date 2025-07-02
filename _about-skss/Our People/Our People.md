@@ -39,7 +39,7 @@ variant: markdown
 
 |     | FT                       | FT                        |
 |-----|--------------------------|---------------------------|
-| 3-A | Ms Sazryna Lee Samsudin    |   Mr Tham Zi Cong | Mdm. Charis Tham              |
+| 3-A | Ms Sazryna Lee Samsudin     |   Mr Tham Zi Cong | Mdm. Charis Tham              |
 | 3-B |    Mr Tan Bing Dun                 |    Ms Toh Xuan Hui      |  
 | 3-c |    Mr Sng Kai Rong, Jerome  |   Mdm Uma Maheshwari Ravisankar                       |
 | 3-D |    Ms Chua Yingying Joyce   |    Mr Mohammad Zulkiffli Bin Abu Bakar                     |
