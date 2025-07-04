@@ -42,7 +42,7 @@ variant: markdown
 | 3-A | Ms Sazryna Lee Samsudin     |   Mr Tham Zi Cong |          |
 | 3-B |    Mr Tan Bing Dun                 |    Ms Toh Xuan Hui      |  
 | 3-C |    Mr Sng Kai Rong, Jerome  |   Mdm Uma Maheshwari Ravisankar   |Mdm Su Xiao Min
-| 3-D |    Ms Chua Yingying Joyce   |    Mr Mohammad Zulkiffli Bin Abu Bakar    |Mr Brillionne Wong
+| 3-D |    Ms Chua Yingying Joyce   |    Mr Mohammad Zulkiffli Bin Abu Bakar    |Ms Brillionne Wong
 | 3-E |    Ms Chung See Yee, Cherie Sara  |        Mdm Liyana Binte Mohamed Ali        |
 | 3-F |  Mr.Tan Tai Ngah                |       Mrs Low Soo Kim          |
 | 3-G |      Ms Chin Yee Lee          |    Mdm. Ko Zen Rae Melisa           |
@@ -62,4 +62,3 @@ variant: markdown
 | 4-8 |  Ms Loh Yoke Ling    |  Mr Sivakumar Duraisamy    |Mdm.Azrina Bte Md Salleh
 | 4-9 |   Mdm Nora Bte Hirin   |   Mr Ong Zhi Xiang   |Mr Hisham Bin Zainal
 | 5-1 |  Mr Khyber Singh  |            | Mdm Norafizah Shariff
-
