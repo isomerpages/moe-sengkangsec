@@ -28,8 +28,8 @@ variant: markdown
 |-----|-------------------------|--------------------------|
 | 2-1 |  Ms Jasmine Ngoh Xin Rong        |       Mr Chua Wei Jian                  |
 | 2-2 | Ms Wang Jia Ning Jenny       | Mr Lim Bao Luo Paul           |
-| 2-3 | Mdm Wee Shen Sze |     Ms Nur Amirah Binte Rosman               |Mr.Leong Kai Xin
-| 2-4 | Mdm Rekhvinder Kaur Gill     | Ms Radiah Mohamed Rasol A     |
+| 2-3 | Mdm Wee Shen Sze |     Ms Nur Amirah Binte Rosman               |
+| 2-4 | Mdm Rekhvinder Kaur Gill     | Ms Radiah Mohamed Rasol A     |Ms Leong kai Xin
 | 2-5 | Mr Low Young Kwang | Ms Rafiqah Dewi Bte Aziz      |Mr.Daniel Leong
 | 2-6 | Mdm Siti Zawiah Bte Abd Malek  | Mr Danial Iylia Bin Roslin   | Mr Clement Tan
 | 2-7 |     Ms Sharie Ong Minyu   |  Mdm Deenadayalan Jothibai   |
@@ -44,9 +44,9 @@ variant: markdown
 | 3-C |    Mr Sng Kai Rong, Jerome  |   Mdm Uma Maheshwari Ravisankar   |Mdm Su Xiao Min
 | 3-D |    Ms Chua Yingying Joyce   |    Mr Mohammad Zulkiffli Bin Abu Bakar    |Ms Brillionne Wong
 | 3-E |    Ms Chung See Yee, Cherie Sara  |        Mdm Liyana Binte Mohamed Ali        |
-| 3-F |  Mr.Tan Tai Ngah                |       Mrs Low Soo Kim          |
-| 3-G |      Ms Chin Yee Lee          |    Mdm. Ko Zen Rae Melisa           |
-| 3-H |  Ms J. Thivyadarishini           |   Mr.  Tay Beng Chai Steven        |          |               
+| 3-F |  Mr Tan Tai Ngah                |       Mrs Low Soo Kim          |
+| 3-G |      Ms Chin Yee Lee          |    Mdm Ko Zen Rae Melisa           |
+| 3-H |  Ms J Thivyadarishini           |   Mr  Tay Beng Chai Steven        |          |               
 
 **<font size="4">Secondary 4/5 Year Head: Ms Lee Zihui Amanda </font>**
 
@@ -59,6 +59,6 @@ variant: markdown
 | 4-5 |  Ms Lim Siew Khim     |           |Mr Tan Caiyu Sam
 | 4-6 |  Mr Leong Soo Ching   |      |Mr Mohd Shahrom Bin Mohd Taha
 | 4-7 | Mr Mohamad Hakim Bin Mohamad Zainal Abiddin   |  Mr David Vai  |Mdm Serene Loh Swan Shya
-| 4-8 |  Ms Loh Yoke Ling    |  Mr Sivakumar Duraisamy    |Mdm.Azrina Bte Md Salleh
+| 4-8 |  Ms Loh Yoke Ling    |  Mr Sivakumar Duraisamy    |Mdm Azrina Bte Md Salleh
 | 4-9 |   Mdm Nora Bte Hirin   |   Mr Ong Zhi Xiang   |Mr Hisham Bin Zainal
 | 5-1 |  Mr Khyber Singh  |            | Mdm Norafizah Shariff
