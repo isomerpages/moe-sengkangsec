@@ -32,16 +32,18 @@ variant: tiptap
 </li>
 </ul>
 <h4>2025 Internal Assessments</h4>
-<p><strong>TERM 2 Weighted &amp; Milestone Assessments</strong>
+<p><strong>TERM 3 WA Schedule&amp; Assessment Information</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.sengkangsec.moe.edu.sg/files/WA%20&amp;%20MA/2025/2025_Term_2_Assessment_Schedule__All_Levels_.pdf" rel="noopener nofollow" target="_blank">Assessment Schedule (All Levels) – Overview of assessment timeline files for each level.</a>
+<p><a href="https://docs.google.com/document/d/1H6pVB5AGlmdqhrurwylBjz5ivFstBN5P/edit?usp=drive_link&amp;ouid=102535492392452145389&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">2025 Term 3 Assessment Information (Sec 1 - 3)</a>
 </p>
+<p></p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1ffTJ0AHGVfAjMtE3oNnuCdhe_XBDY_EA/view?usp=drive_link" rel="noopener nofollow" target="_blank">Assessment Information (All Levels_ - Details on assessment format, scope and expectations for each level.</a>
+<p><a href="https://docs.google.com/document/d/1LsNHrsqR0dEr5b7WqtNfmWxY8BDpz_JZ/edit?usp=drive_link&amp;ouid=102535492392452145389&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">2025 Term 3 Assessment Schedule (Sec 1-3)</a>
 </p>
+<p></p>
 <h4>2025 SEC 4&amp;5 PRELIM SCHEDULE</h4>
 </li>
 </ul>
