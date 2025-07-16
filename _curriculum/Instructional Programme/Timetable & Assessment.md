@@ -32,7 +32,7 @@ variant: tiptap
 </li>
 </ul>
 <h4>2025 Internal Assessments</h4>
-<p><strong>TERM 3 WA Schedule&amp; Assessment Information</strong>
+<p><strong>TERM 3 WA Schedule &amp; Assessment Information</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
