@@ -32,7 +32,7 @@ variant: tiptap
 </li>
 </ul>
 <h4>2025 Internal Assessments</h4>
-<p><strong>Sec 1-3 TERM 3 Weignted &amp; Assessment (WA)</strong>
+<p><strong>Sec 1-3 TERM 3 Weighted &amp; Assessment (WA)</strong>
 </p>
 <p><strong>Sec 4 &amp; 5 PRELIMINARY EXAM</strong>
 </p>
