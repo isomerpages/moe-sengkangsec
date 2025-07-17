@@ -38,12 +38,12 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://docs.google.com/document/d/1LsNHrsqR0dEr5b7WqtNfmWxY8BDpz_JZ/edit?usp=drive_link&amp;ouid=102535492392452145389&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Term 3 WA Schedule </a>
+<p><a href="https://docs.google.com/document/d/1LsNHrsqR0dEr5b7WqtNfmWxY8BDpz_JZ/edit?usp=drive_link&amp;ouid=102535492392452145389&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Term 3 WA Schedule</a>
 </p>
 <p></p>
 </li>
 <li>
-<p><a href="https://docs.google.com/document/d/1H6pVB5AGlmdqhrurwylBjz5ivFstBN5P/edit?usp=drive_link&amp;ouid=102535492392452145389&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Term 3 WA Assessment  Information</a>
+<p><a href="https://docs.google.com/document/d/1H6pVB5AGlmdqhrurwylBjz5ivFstBN5P/edit?usp=drive_link&amp;ouid=102535492392452145389&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Term 3 WA Assessment Information</a>
 </p>
 <p></p>
 </li>
