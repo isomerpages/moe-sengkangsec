@@ -53,8 +53,10 @@ links:
       - title: Student Management
         url: /co-curriculum/student-management
   - title: Useful Links
-    url: /useful-links-1/parenting-resources
+    url: /school-calendar/
     sublinks:
+      - title: School Calendar
+        url: /school-calendar/
       - title: Admissions
         url: https://www.sengkangsec.moe.edu.sg/appeal-for-transfer-after-secondary-one-posting/
       - title: Financial Assistance Form 2025
@@ -67,7 +69,5 @@ links:
         url: https://www.sengkangsec.moe.edu.sg/announcements/
       - title: Frequently Asked Questions
         url: /useful-links-1/frequently-asked-questions-faq
-      - title: Calendar
-        url: /useful-links-1/calendar
       - title: School Canteen Advertisement
         url: /school-canteen-advertisement/
