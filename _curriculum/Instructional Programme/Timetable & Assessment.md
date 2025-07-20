@@ -31,11 +31,8 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<h4>2025 Internal Assessments</h4>
-<p>click on the links to acess the assessment details:</p>
-<p><strong>Sec 1-3 TERM 3 Weighted &amp; Assessment</strong>
-</p>
-<p><strong>(WA)</strong>
+<h4><strong>2025 Internal Assessments</strong><br><sup>Click on the links to access the assessment details:</sup></h4>
+<p><strong>SEC 1-3 TERM 3 Weighted Assessment (WA)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,9 +46,13 @@ variant: tiptap
 <p></p>
 </li>
 </ul>
-<p><strong>Sec 4 &amp; 5 PRELIMINARY EXAM</strong>
+<p><strong>SEC 4 &amp; 5 Preliminary Exam</strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Exam Rules &amp; Regulations</p>
+<p></p>
+</li>
 <li>
 <p><a href="https://docs.google.com/document/d/1gnMpWrKWc2CysSBHO7s_yG-dDo2Xr1C4/edit?usp=drive_link&amp;ouid=102535492392452145389&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Preliminary Exam Schedule</a>
 </p>
