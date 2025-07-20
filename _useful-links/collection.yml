@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Calendar.md
       - Admissions/.keep
       - Admissions/Appeal for Transfer (2025 Sec 1).md
       - School Calendar.md
