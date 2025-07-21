@@ -50,7 +50,8 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Exam Rules &amp; Regulations</p>
+<p><a href="https://drive.google.com/file/d/1lY7TzHR0YBEm7lh1CEyHDAs8VP6_vjlv/view?usp=drive_link" rel="noopener nofollow" target="_blank">Exam Rules &amp; Regulations</a>
+</p>
 <p></p>
 </li>
 <li>
