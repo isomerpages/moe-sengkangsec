@@ -4,10 +4,10 @@ title: Home
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Teachers' Day well-wishes
 sections:
   - hero:
-      background: /images/2023-2024 website banner_v2.png
+      background: /images/SKSS_Teachers__Day_2025.jpg
       variant: image
       backgroundColor: gray
       alignment: left
