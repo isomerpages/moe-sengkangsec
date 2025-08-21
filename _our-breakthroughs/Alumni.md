@@ -4,6 +4,14 @@ permalink: /alumni/
 variant: tiptap
 description: ""
 ---
+<p><strong>Healthcare Scholarship</strong>
+</p>
+<p>Congratulations to our alumnus, Kent Chu Yong Kang (Class of 2019), on
+receiving the prestigious Ministry of Health Scholarship!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kent_Chu_Yong_Kang_Class_2019.jpg">
+</div>
 <p><strong>Temasek Polytechnic Engineering Scholarship</strong>
 </p>
 <p>Congratulations to our alumnus, Chang Kai Hong (Class of 2023), on receiving
