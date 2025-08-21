@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Teachers_day.png
+      background: /images/blank.png
       variant: floating
       backgroundColor: white
       alignment: left
