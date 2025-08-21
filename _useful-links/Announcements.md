@@ -4,6 +4,24 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<p><strong>Teachers’ Day 2025</strong>
+</p>
+<p>Dear SKSS Alumni,</p>
+<p>As we prepare to celebrate Teachers' Day, we would like to inform you
+that our teachers will be leaving school early after participating in a
+special appreciation programme in the morning. Whilst we deeply value your
+thoughtful intention to visit your former teachers, they will unfortunately
+be unavailable to receive visitors on this day. Do look forward to an Alumni
+Day in 2026.</p>
+<p>We’ve set up a special online platform for you to leave your Teachers’
+Day well-wishes and messages. Whether it’s a heartfelt thank you, a memorable
+classroom moment, or a simple note to say you remember them - your words
+will mean the world to our teachers. <strong>Leave your message here: </strong>
+<a href="https://go.gov.sg/skssalumnimessage" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/skssalumnimessage</a>
+</p>
+<p>Let’s come together as a SKSS family to honour the educators who’ve made
+a difference in our lives. We appreciate your continued support and connection
+with our teachers and school community.</p>
 <p><strong><u>2025 JC / Polytechnics Open House</u></strong>
 <br><a href="/files/JC_and_Poly_Open_House_2025.pdf" rel="noopener nofollow" target="_blank">Click here for the schedule</a>
 </p>
