@@ -4,10 +4,10 @@ title: Home
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Teachers' Day 2025
 sections:
   - hero:
-      background: /images/SKSS_Teachers__Day_2025.jpg
+      background: /images/Teachers_day_updated.png
       variant: image
       backgroundColor: gray
       alignment: left
@@ -19,6 +19,8 @@ sections:
         - title: Direct School Admission (DSA)
           description: for 2026 Sec 1 intake
           url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
+      button: Send your wishes
+      url: https://go.gov.sg/skssalumnimessage
   - infopic:
       title: SKSS Story
       subtitle: SENG KANG SECONDARY SCHOOL
