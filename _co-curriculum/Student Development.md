@@ -15,13 +15,10 @@ empathy and social awareness but also actively contribute to building an
 inclusive society. This approach is closely aligned with the vision of
 Forward Singapore, which aspires towards a vibrant, fair, and united nation
 where everyone is valued and respected.</p>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ForwardSG.png">
 </div>
 <h4><strong>Some key disability sport experiences over the years</strong></h4>
-<p></p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -148,7 +145,6 @@ where everyone is valued and respected.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Para_shuttlers_Playbuddy.png">
 </div>
