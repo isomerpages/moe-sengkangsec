@@ -123,7 +123,7 @@ where everyone is valued and respected.</p>
 <p>Play Buddy Engagement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024&amp;2025</p>
+<p>2024 &amp; 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Independent Initiative</p>
@@ -152,4 +152,16 @@ where everyone is valued and respected.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Para_shuttlers_Playbuddy.png">
 </div>
+<p>Seng Kang Secondary is well-positioned to deliver such meaningful community
+involvement because of the positive circumstances and strong school-based
+structures in place. One key enabler is the school’s Values-in-Action (VIA)
+programme, which is coordinated by the CCA groups. This structure naturally
+brings together students with similar sporting interests, making it easier
+to plan and execute initiatives that are both passion-driven and impactful.
+By aligning community service opportunities with students’ existing strengths
+and interests, the school fosters higher engagement, sustained commitment,
+and a sense of shared purpose. This synergy between structured platforms
+and authentic interest not only enhances the quality of the initiatives
+but also ensures that students experience service as a fulfilling and integral
+part of their school life.</p>
 <p></p>
