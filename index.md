@@ -7,9 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/blank.png
-      variant: floating
-      backgroundColor: white
+      background: /images/Website Banner Design 2.png
+      variant: image
+      backgroundColor: gray
       alignment: left
       size: md
       key_highlights:
