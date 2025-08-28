@@ -3,37 +3,262 @@ title: School Management Committee
 permalink: /about-skss/our-people/steering-committee/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-| Key Personnel                |                                |
-|------------------------------|--------------------------------|
-| Mr N Sivarajan               | Principal                      |
-| Mr Lak Yau Hui         | Vice-Principal                 |
-| Mr Ng Cheng Song Jeremy           | Vice-Principal                 |
-| Ms Ong Yen Ping Cheryl       | Sch Staff Developer            |
-| Mr Sam Tan Caiyu             | HOD Learning Science                  |
-| Mdm Koh Yoke Peng Eunice     | HOD Design and Aesthetics      |
-| Mr Mohd Shahrom Bin Mohd Taha            | HOD Humanities                 |
-| Mdm Zurinawati Jumahat       | HOD Guidance                     |
-| Mdm Azrina Bte Md Salleh            | HOD English                    |
-| Ms Serene Loh Swan Shya      | HOD Mathematics                |
-| Mdm Norafizah Bte Shariff             | HOD Mother Tongue Language     |
-| Mr Hisham Bin Zainal    | HOD Science       |
-| Mr Wu Yongwei, Bernard     | HOD PE and CCA  (Covering)                   | 
-| Mr Low Young Kwang   | HOD ICT (Covering)       |
-| Mr Ng Ching Enn      | Year Head Upper Secondary      |
-| Dr Lim Yian Hoon     | Year Head Lower Secondary    |
-| Ms Lee Zihui, Amanda | Asst Year Head Upper Secondary |
-| Ms Nivashini D/O Mohandasan   | Asst Year Head Lower Secondary   |
-| Ms Norzahidah Binte Ma'az               | SH Student Leadership (Internal)          |
-| Ms Sharie Ong Minyu           | SH Media & Info Literacy                      |
-| Mdm Wee Shen Sze          | SH Partnerships                      |
-| Ms Siti Zawiah Bte Abd Malek | SH English                     |            
-| Ms Oon Tze Ying                 | SH Mathematics                 |
-| Mdm Lim Siew Khim            | SH CL                          |
-| Mdm Rabiaton Laili           | SH CCE                          |
-| Ms Nursimah Binte Mokhtar            | SH Nutrition and Food Science (Internal)  |
-| Mr Lishanth Thangavelu   | SH Student Management |
-| Ms Maureen Pang Thien May    | Administration Manager         |
-| Mr Vincent Lee Khai Cheong   | Operational Manager            |
-| Mr Anbalagan Jayaraman  | Operational Manager            |
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Key Personnel</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr N Sivarajan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lak Yau Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Cheng Song Jeremy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Yen Ping Cheryl</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sch Staff Developer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sam Tan Caiyu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Learning Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Koh Yoke Peng Eunice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Design and Aesthetics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Shahrom Bin Mohd Taha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Humanities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zurinawati Jumahat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Guidance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Azrina Bte Md Salleh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Serene Loh Swan Shya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Norafizah Bte Shariff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Mother Tongue Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Hisham Bin Zainal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wu Yongwei, Bernard</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD PE and CCA (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Low Young Kwang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD ICT (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Ching Enn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head Upper Secondary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Lim Yian Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head Lower Secondary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Zihui, Amanda</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head Upper Secondary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nivashini D/O Mohandasan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head Lower Secondary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Norzahidah Binte Ma'az</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Student Leadership (Internal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sharie Ong Minyu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Media &amp; Info Literacy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wee Shen Sze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Partnerships</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Zawiah Bte Abd Malek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Oon Tze Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Siew Khim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH CL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Rabiaton Laili</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH CCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nursimah Binte Mokhtar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Nutrition and Food Science (Internal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lishanth Thangavelu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Student Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Maureen Pang Thien May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Elaine Lau Kheng Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Vincent Lee Khai Cheong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operational Manager</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
