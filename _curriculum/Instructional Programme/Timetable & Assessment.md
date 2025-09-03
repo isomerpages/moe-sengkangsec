@@ -46,25 +46,12 @@ variant: tiptap
 <li>
 <p><a href="https://docs.google.com/document/d/1ffIclbbvSph5ApgL84ry8aOPyb9Q4SXNAUkmxUhGN2s/edit?tab=t.0#heading=h.9b8776vy4pcs" rel="noopener nofollow" target="_blank">Sec 3 EYE Assessment Information</a>
 </p>
-<p></p>
-</li>
-</ul>
-<p><strong>Sec 4 &amp; 5 Preliminary Exam</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://drive.google.com/file/d/1lY7TzHR0YBEm7lh1CEyHDAs8VP6_vjlv/view?usp=drive_link" rel="noopener nofollow" target="_blank">Exam Rules &amp; Regulations</a>
-</p>
-<p></p>
 </li>
 <li>
-<p><a href="https://docs.google.com/document/d/1gnMpWrKWc2CysSBHO7s_yG-dDo2Xr1C4/edit?usp=drive_link&amp;ouid=102535492392452145389&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Preliminary Exam Schedule</a>
+<p><a href="/files/WA &amp; MA/2025/SKSS_Exam_Rules___Regulations.pdf" rel="noopener nofollow" target="_blank">Exam Rules &amp; Regulations</a>
 </p>
 <p></p>
-</li>
-<li>
-<p><a href="https://docs.google.com/document/d/1FXsSs9oWHpnK1nyGO0gSi1h5SsQkI1V4/edit?usp=drive_link&amp;ouid=102535492392452145389&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 Preliminary Examination Information</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p></p>
