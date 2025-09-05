@@ -5,7 +5,32 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>2025</strong></h3>
-<p><strong>SKSS Guzheng Ensemble achieves SYF (Certificate of Distinctions)</strong>
+<p><strong><u>AMPLIFY achieved SYF 2025 (Certificate of Distinction)</u></strong>
+</p>
+<p>Our dancers lit up the stage with Summertime Groove! From painting our
+own surfboards to performing together, we wowed both the judges and the
+crowd!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Syf_dance.jpg">
+</div>
+<p></p>
+<p><strong><u>Drama achieved SYF 2025 (Certificate of Accomplishments)</u></strong>
+</p>
+<p>Our Drama performed a piece titled, ‘The Book Riot’, captivating the audience
+with their strong and passionate performance.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_drama_2025.jpg">
+</div>
+<p></p>
+<p><strong><u>Symphonic Band achieved SYF 2025 (Certificate of Accomplishments)</u></strong>
+</p>
+<p>Our Band displayed their musical excellence and hard work, and we are
+proud of their achievement.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_Band_2025.jpg">
+</div>
+<p></p>
+<p><strong><u>Guzheng Ensemble achieves SYF (Certificate of Distinctions)</u></strong>
 </p>
 <p>Our team has displayed their hard work, dedication and passion for the
 art of guzheng, attaining the highest award.</p>
@@ -14,7 +39,7 @@ art of guzheng, attaining the highest award.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/SYF_GZ_2025.jpg">
 </div>
 <p></p>
-<p><strong><u>SKSS Choir achieves SYF (Certificate of Accomplishments)</u></strong>
+<p><strong><u>Choir achieves SYF (Certificate of Accomplishments)</u></strong>
 </p>
 <p>Our Choir performed with confidence and focus, displaying strong teamwork
 and musical sensitivity, earning recognition for their performance.</p>
