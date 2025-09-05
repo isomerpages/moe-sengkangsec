@@ -5,7 +5,23 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>2025</strong></h3>
+<p><strong>SKSS Guzheng Ensemble achieves SYF (Certificate of Distinctions)</strong>
+</p>
+<p>Our team has displayed their hard work, dedication and passion for the
+art of guzheng, attaining the highest award.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/SYF_GZ_2025.jpg">
+</div>
+<p></p>
+<p><strong><u>SKSS Choir achieves SYF (Certificate of Accomplishments)</u></strong>
+</p>
+<p>Our Choir performed with confidence and focus, displaying strong teamwork
+and musical sensitivity, earning recognition for their performance.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SYF_Choir_2025.jpg">
+</div>
 <p><strong><u>NSG 2025 B Division</u></strong>
 </p>
 <table style="minWidth: 25px">
