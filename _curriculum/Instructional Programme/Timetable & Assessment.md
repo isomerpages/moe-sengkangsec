@@ -46,10 +46,7 @@ variant: tiptap
 <li>
 <p><a href="https://docs.google.com/document/d/1ffIclbbvSph5ApgL84ry8aOPyb9Q4SXNAUkmxUhGN2s/edit?tab=t.0#heading=h.9b8776vy4pcs" rel="noopener nofollow" target="_blank">Sec 3 EYE Assessment Information</a>
 </p>
-</li>
-<li>
-<p><a href="/files/WA &amp; MA/2025/SKSS_Exam_Rules___Regulations.pdf" rel="noopener nofollow" target="_blank">Exam Rules &amp; Regulations</a>
-</p>
+<p></p>
 <p></p>
 <p></p>
 </li>
