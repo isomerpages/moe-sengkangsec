@@ -36,22 +36,15 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://docs.google.com/document/d/11I_BmGH0YWcFzYrLsJ9EZQhMdWm_gUU4ZPOWxJFkf_M/edit?tab=t.0#heading=h.vajyvsgbu8yz" rel="noopener nofollow" target="_blank">Sec 1 EYE Assessment Information</a>
-</p>
-</li>
-<li>
-<p><a href="https://docs.google.com/document/d/1u2SfZKQf45uc4_UGkOXfuSirlvTSxpQIeIVz_ttJthY/edit?tab=t.0#heading=h.iuhw32v5cfx5" rel="noopener nofollow" target="_blank">Sec 2 EYE Assessment Information</a>
-</p>
-</li>
-<li>
-<p><a href="https://docs.google.com/document/d/1ffIclbbvSph5ApgL84ry8aOPyb9Q4SXNAUkmxUhGN2s/edit?tab=t.0#heading=h.9b8776vy4pcs" rel="noopener nofollow" target="_blank">Sec 3 EYE Assessment Information</a>
-</p>
-</li>
-<li>
-<p></p>
-</li>
-<li>
 <p><a href="/files/WA &amp; MA/2025/2025_Sec_1_EYE_Assessment_Information.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 EYE Assessment Information</a>
+</p>
+</li>
+<li>
+<p><a href="/files/WA &amp; MA/2025/2025_Sec_2_EYE_Assessment_Information.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 EYE Assessment Information</a>
+</p>
+</li>
+<li>
+<p><a href="/files/WA &amp; MA/2025/2025_Sec_3_EYE_Assessment_Information.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 EYE Assessment Information</a>
 </p>
 <p></p>
 <p></p>
