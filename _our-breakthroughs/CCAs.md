@@ -5,6 +5,36 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>2025</strong></h3>
+<p><strong><u>National School Games (NSG) C Division Boys - League 1, 4th Place</u></strong>
+</p>
+<p>The NSG C Division Boys team put up a commendable fight, securing 4th
+place in League 1 after a series of spirited matches. They showed determination,
+and teamwork in the face of challenging fights. Special thanks to Coach
+Ali and Coach Baqir for their unwavering support and guidance.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey_c_div_boys_1.jpg">
+</div>
+<p></p>
+<p><strong><u>National School Games (NSG) B Division Boys - League 1 3rd Place</u></strong>
+</p>
+<p>The Hockey B Division Boys team rose to the occasion with an excellent
+performance, clinching a hard-fought 3rd place victory in League 1. They
+displayed great sportsmanship throughout the tournament. Heartfelt thanks
+to Coach Ali and Coach Baqir for their guidance and mentorship of the boys’
+team.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey_b_div_boys.jpg">
+</div>
+<p><strong><u>SKSS NSG C Division Basketball Boys Tournament (League 5) - Champions</u></strong>
+<br>
+<br>Our C Division Basketball boys had a great season, managing a double promotion
+moving up from Tier 6 to League 5 and eventually emerging as champions
+of the league. A heartfelt thanks to Coach Alfi for guiding the players.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_2025.jpg">
+</div>
 <p><strong><u>AMPLIFY achieved SYF 2025 (Certificate of Distinction)</u></strong>
 </p>
 <p>Our dancers lit up the stage with Summertime Groove! From painting our
