@@ -5,6 +5,15 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>2025</strong></h3>
+<p><strong><u>National School Games (NSG) C Division Boys - League 1, 4th Place</u></strong>
+</p>
+<p>The NSG C Division Boys team put up a commendable fight, securing 4th
+place in League 1 after a series of spirited matches. They showed determination,
+and teamwork in the face of challenging fights. Special thanks to Coach
+Ali and Coach Baqir for their unwavering support and guidance.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hockey_c_div_boys_1.jpg">
+</div>
 <p></p>
 <p><strong><u>National School Games (NSG) B Division Boys - League 1 3rd Place</u></strong>
 </p>
