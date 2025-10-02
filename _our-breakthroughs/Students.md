@@ -5,6 +5,24 @@ variant: tiptap
 description: ""
 ---
 <h4></h4>
+<h4><strong>🏆 CL Unit Double Success! 🏆</strong></h4>
+<p>Commendation Award in National Newspaper Competition &amp; Bronze Award
+in National Text Recital Competition. Congratulations to all our students
+and Ms Wan Kuan Yi &amp; Ms Jasmine Ngoh!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_unit_National_Competition.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Newspaper_article.png">
+</div>
+<h4><strong>🏆 ML Unit shines at N1 Cluster e-Newspaper Competition! 🏆</strong></h4>
+<p>1st Prize (Lower Sec) &amp; Consolation Prize (Upper Sec) - congratulations
+to all our talented students and mentors Mdm Liyana &amp; Mdm Zahidah!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ML_unit_National_Competition.png">
+</div>
 <h4><strong>2025 North Zone Schools Chinese Speech Competition</strong></h4>
 <p>Gao Qi (1-7) has clinched the Potential Award (潜力奖) at the 2025 North
 Zone Schools Chinese Speech Competition! Her speech, themed “责任在心 未来同行”
