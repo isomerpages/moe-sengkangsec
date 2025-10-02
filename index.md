@@ -27,11 +27,4 @@ sections:
       alt: Image alt text
       button: CLICK HERE TO WATCH
       url: https://www.sengkangsec.moe.edu.sg/about-skss/skss-story/
-  - infopic:
-      title: Teachers' Day 2025
-      id: infopic
-      button: Send your wishes
-      url: https://go.gov.sg/skssalumnimessage
-      image: /images/Teachers_day_updated.png
-      alt: Image alt text
 ---
