@@ -19,7 +19,7 @@ qualities through their behaviour and actions.
 <br>
 <br>If you would like to nominate a student for ECHA, kindly fill up the nomination
 form <a href="https://form.gov.sg/68e36bd2dd1c6f34a8216601" rel="noopener nofollow" target="_blank">here</a> by
-15 October 2024 5 p.m.
+17 October 2024 5 p.m.
 <br>
 <br>Please visit the <a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards" rel="noopener nofollow" target="_blank">MOE website</a> if
 you would like more information on Edusave awards and scholarships.</p>
