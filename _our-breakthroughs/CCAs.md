@@ -97,24 +97,6 @@ for their resilience, tenacity and effort!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2025_06_03_at_5_14_58_PM.jpg">
 </div>
-<p><strong><u>SKSS Symphonic Band Achieves SYF (Certificate of Accomplishment).</u></strong>
-</p>
-<p>Congratulations to our SKSS Symphonic Band for attaining the Certificate
-of Accomplishment at the 2025 Singapore Youth Festival Arts Presentation.
-We are proud of our students' musical excellence and commend their hard
-work. Special thanks to our band conductor and teachers for their dedicated
-guidance.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Band.jpg">
-</div>
-<p><strong><u>SKSS Guzheng Ensemble Achieves SYF (Certificate of Distinction).</u></strong>
-</p>
-<p>The Sengkang Secondary Guzheng Ensemble is proud to have been awarded
-the Certificate of Distinction at the Singapore Youth Festival (SYF) Arts
-Presentation 2025. This achievement is a testament to our students’ hard
-work, dedication, and passion for the art of guzheng. We extend our heartfelt
-gratitude to our instructors, school leaders, and supporters for their
-unwavering encouragement throughout this journey.</p>
 <p><strong><u>National Schools Games Hockey Championships</u></strong>
 </p>
 <p>National School Games (NSG) B division girls - League 1 3rd Place</p>

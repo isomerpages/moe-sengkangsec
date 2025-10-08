@@ -4,6 +4,29 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<p><strong><u>2025 Edusave Character Award (ECHA)</u></strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Edusave Character Award (ECHA) was introduced in 2012 and recognises
+students who have demonstrated exemplary character and outstanding personal
+qualities through their behaviour and actions.
+<br>
+<br>If you would like to nominate a student for ECHA, kindly fill up the nomination
+form <a href="https://form.gov.sg/68e36bd2dd1c6f34a8216601" rel="noopener nofollow" target="_blank">here</a> by
+17 October 2024 5 p.m.
+<br>
+<br>Please visit the <a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards" rel="noopener nofollow" target="_blank">MOE website</a> if
+you would like more information on Edusave awards and scholarships.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>2025 JC / Polytechnics Open House</u></strong>
 <br><a href="/files/JC_and_Poly_Open_House_2025.pdf" rel="noopener nofollow" target="_blank">Click here for the schedule</a>
 </p>
