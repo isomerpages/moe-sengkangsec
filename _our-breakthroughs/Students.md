@@ -6,10 +6,18 @@ description: ""
 ---
 <h4></h4>
 <h4><strong>🏆 CL Unit Double Success! 🏆</strong></h4>
-<p>Commendation Award in National Newspaper Competition &amp; Bronze Award
-in National Text Recital Competition. Congratulations to all our students
-and Ms Wan Kuan Yi &amp; Ms Jasmine Ngoh!</p>
-<p></p>
+<p>SKSS is proud to announce that our students have achieved outstanding
+results in two national-level Chinese competitions.</p>
+<p>In the National Create Your Own Newspaper Competition 2025 （全国中学编采比赛）,
+Tan Qiqi (3B), Tiffanie Tan Jin Xuan (3F), and Cefin Than Si Ying (3B)
+were awarded the Commendation Award in the Upper Secondary category(高年级：表扬奖)
+&nbsp;for their creativity and teamwork in producing an impressive newspaper
+article on an antique shop in Chinatown.</p>
+<p>Also, in the National Text Recital Competition （全国课文朗诵比赛）, Song Yachao
+(1-1) and Kineta Felicia Tan (1-5) earned the Bronze Award (铜奖) for their
+expressive and articulate performances.</p>
+<p>Congratulations to all our students for their dedication, talent, and
+well-deserved success.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_unit_National_Competition.png">
 </div>
