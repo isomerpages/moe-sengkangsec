@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 <ul>
 <li>
-<p><a href="/files/Class Timetable/2025_Sec_1_EYE_Assessment_Information.pdf" rel="noopener nofollow" target="_blank">Sec One</a>
+<p><a href="/files/SEC_1_EOY_SCRIPT_CHECK_2025.pdf" rel="noopener nofollow" target="_blank">Sec One</a>
 </p>
 </li>
 <li>
