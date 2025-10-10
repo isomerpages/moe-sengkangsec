@@ -15,11 +15,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/SEC_2_EOY_SCRIPT_CHECK_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+<p><a href="/files/SEC_2_EOY_SCRIPT_CHECK_2025.pdf" rel="noopener nofollow" target="_blank">Sec Two</a>
 </p>
 </li>
 <li>
-<p><a href="/files/SEC_3_EOY_SCRIPT_CHECK_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
+<p><a href="/files/SEC_3_EOY_SCRIPT_CHECK_2025.pdf" rel="noopener nofollow" target="_blank">Sec Three</a>
 </p>
 <p></p>
 </li>
