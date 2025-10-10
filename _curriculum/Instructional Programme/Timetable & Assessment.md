@@ -7,28 +7,21 @@ variant: tiptap
 ---
 <h4>2025 Class Timetable</h4>
 <p>Click on the respective levels to access the&nbsp; 2025 Class Timetable:</p>
-<p><strong>TERM 3, Week 1 to Week 10</strong>
+<p><strong>TERM 4</strong>
 </p>
 <ul>
 <li>
-<p><a href="https://drive.google.com/file/d/1_kcTZ189K4sayr1b0_nip2_j54rQlw5e/view?usp=sharing" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec One</u></a>
+<p><a href="/files/Class Timetable/2025_Sec_1_EYE_Assessment_Information.pdf" rel="noopener nofollow" target="_blank">Sec One</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1IMj9yU-AVJ3SCCf2OpKb5GjBb64uym0C/view?usp=sharing" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec Two</u></a>
+<p><a href="/files/SEC_2_EOY_SCRIPT_CHECK_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/191Wq6Uet9rGA83gWC3IIJWwgHmiFrNh9/view?usp=sharing" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec Three</u></a>
+<p><a href="/files/SEC_3_EOY_SCRIPT_CHECK_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
-</li>
-<li>
-<p><a href="https://drive.google.com/file/d/17oIKtLNc4ogsjDvQ6eBvQaBbtGyVuiiH/view?usp=sharing" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec Four</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://drive.google.com/file/d/14sQ4rlt91fCJslA9d4OPHd6qSPvh_9np/view?usp=sharing" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>Sec Five</u></a>
-</p>
+<p></p>
 </li>
 </ul>
 <h4><strong>2025 Internal Assessments</strong><br><sup>Click on the links to access the assessment details:</sup></h4>
