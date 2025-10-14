@@ -16,8 +16,8 @@ sections:
         - title: Announcement
           description: ""
           url: https://www.sengkangsec.moe.edu.sg/announcements/
-        - title: Direct School Admission (DSA)
-          description: for 2026 Sec 1 intake
+        - title: Open House
+          description: 15 November 2025 8am to 12pm
           url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
   - infopic:
       title: SKSS Story
