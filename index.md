@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website Banner Design 2.png
+      background: /images/Open_House_Banner_for_website_2025.png
       variant: center
       backgroundColor: gray
       alignment: left
