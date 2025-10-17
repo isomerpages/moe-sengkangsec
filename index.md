@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Open_House_Banner_for_website_2025.png
+      background: /images/Website Banner Design 2.png
       variant: center
       backgroundColor: gray
       alignment: left
@@ -16,8 +16,8 @@ sections:
         - title: Announcement
           description: ""
           url: https://www.sengkangsec.moe.edu.sg/announcements/
-        - title: Open House
-          description: 15 November 2025 8am to 12pm
+        - title: DIRECT SCHOOL ADMISSION (DSA)
+          description: for 2026 Sec 1 intake
           url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
   - infopic:
       title: SKSS Story
