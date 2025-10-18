@@ -32,7 +32,7 @@ sections:
       subtitle: Welcome
       id: infopic
       button: Click here for program schedule
-      url: https://www.sengkangsec.moe.edu.sg/about-skss/open-house-2025
+      url: https://www.sengkangsec.moe.edu.sg/open-house-2025
       image: /images/Open_House_Banner_for_website_2025.png
       alt: Image alt text
 ---
