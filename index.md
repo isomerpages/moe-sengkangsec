@@ -27,4 +27,12 @@ sections:
       alt: Image alt text
       button: CLICK HERE TO WATCH
       url: https://www.sengkangsec.moe.edu.sg/about-skss/skss-story/
+  - infopic:
+      title: Open House 2025
+      subtitle: Welcome
+      id: infopic
+      button: Click here for program schedule
+      url: https://www.sengkangsec.moe.edu.sg/about-skss/open-house-2025
+      image: /images/Open_House_Banner_for_website_2025.png
+      alt: Image alt text
 ---
