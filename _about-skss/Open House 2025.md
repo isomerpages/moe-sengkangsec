@@ -4,7 +4,7 @@ permalink: /open-house-2025/
 variant: tiptap
 description: ""
 ---
-<p>Welcome to Seng Kang Secondary School Open House 2025</p>
+<h2>Welcome to Seng Kang Secondary School Open House 2025</h2>
 <h3>Program Schedule 15 November (8am to 12:00pm)</h3>
 <p></p>
 <p></p>
