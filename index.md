@@ -16,7 +16,7 @@ sections:
         - title: Announcement
           description: ""
           url: https://www.sengkangsec.moe.edu.sg/announcements/
-        - title: Direct School Admission (DSA)
+        - title: DIRECT SCHOOL ADMISSION (DSA)
           description: for 2026 Sec 1 intake
           url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
   - infopic:
@@ -27,4 +27,12 @@ sections:
       alt: Image alt text
       button: CLICK HERE TO WATCH
       url: https://www.sengkangsec.moe.edu.sg/about-skss/skss-story/
+  - infopic:
+      title: Open House 2025
+      subtitle: Welcome
+      id: infopic
+      button: Click here for program schedule
+      url: /about-skss/open-house-2025
+      image: /images/Open_House_Banner_for_website_2025.png
+      alt: Image alt text
 ---
