@@ -23,14 +23,6 @@ sections:
           description: November 15 (8am - 12pm)
           url: /about-skss/open-house-2025/
   - infopic:
-      title: SKSS Story
-      subtitle: SENG KANG SECONDARY SCHOOL
-      id: infopic
-      image: /images/ABOUT SKSS/Banner_for_Corporate_video.jpg
-      alt: Image alt text
-      button: CLICK HERE TO WATCH
-      url: https://www.sengkangsec.moe.edu.sg/about-skss/skss-story/
-  - infopic:
       title: Open House 2025
       subtitle: Welcome
       id: infopic
@@ -38,4 +30,12 @@ sections:
       url: /about-skss/open-house-2025
       image: /images/Open_House_Banner_for_website_2025.png
       alt: Image alt text
+  - infopic:
+      title: SKSS Story
+      subtitle: SENG KANG SECONDARY SCHOOL
+      id: infopic
+      image: /images/ABOUT SKSS/Banner_for_Corporate_video.jpg
+      alt: Image alt text
+      button: CLICK HERE TO WATCH
+      url: https://www.sengkangsec.moe.edu.sg/about-skss/skss-story/
 ---
