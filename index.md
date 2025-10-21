@@ -19,6 +19,9 @@ sections:
         - title: DIRECT SCHOOL ADMISSION (DSA)
           description: for 2026 Sec 1 intake
           url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
+        - title: Open House 2025
+          description: November 15 (8am - 12pm)
+          url: /about-skss/open-house-2025/
   - infopic:
       title: SKSS Story
       subtitle: SENG KANG SECONDARY SCHOOL
