@@ -12,9 +12,11 @@ variant: tiptap
 <p><strong>Quick Links</strong> 
 <br>
 </p>
+<ol data-tight="true" class="tight">
+<li>
 <p><a href="https://www.healthhub.sg/programmes/170/StayWell" rel="noopener noreferrer nofollow" target="_blank">Stay Well to Stay Strong: A Resource Portal on Mental and Physical Health for Parents and Students</a>
 </p>
-<ol data-tight="true" class="tight">
+</li>
 <li>
 <p><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">MOE Parent Kit</a>
 </p>
