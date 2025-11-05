@@ -9,7 +9,7 @@ variant: tiptap
 <br><a href="/files/Secondary_2_Textbook___Stationery_List.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Textbook &amp; Stationery List</a>
 <br><a href="/files/Secondary_4_Textbook___Stationery_List.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Textbook &amp; Stationery List</a>
 </p>
-<p><strong>Quick Links</strong> 
+<p><strong>Quick Links</strong>
 <br>
 </p>
 <ol data-tight="true" class="tight">
