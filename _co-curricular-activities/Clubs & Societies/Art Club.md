@@ -23,14 +23,17 @@ outside of their regular curriculum.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2022 Singapore Youth Festival (SYF) - Certificate of Recognition x 2</p>
+<p>2025 LiveOn Design Competition - Merit Award</p>
 </li>
 <li>
-<p>2022 Singapore Youth Festival (SYF) – Certificate of Recognition on-site
-exhibition at National Museum Singapore</p>
+<p>2025 LiveOn Design Competition - Distinction Award</p>
 </li>
 <li>
-<p>2023 – Secondary 1 &amp; 2 Art x Wellness Programme National Gallery Singapore</p>
+<p>2025 Yellowren Inter-School Canvas Art Competition - Honourable Mention</p>
+</li>
+<li>
+<p>2025 Canvas of Tomorrow organised by Kranji Secondary School - 2nd Place
+(Art for a Sustainable Future)</p>
 </li>
 <li>
 <p>2024 Singapore Youth Festival (SYF) - Certificate of Recognition x 3</p>
@@ -38,11 +41,23 @@ exhibition at National Museum Singapore</p>
 <li>
 <p>2024 Singapore Youth Festival (SYF) – Certificate of Recognition on-site
 exhibition at National Gallery Singapore</p>
+</li>
+<li>
+<p>2023 – Secondary 1 &amp; 2 Art x Wellness Programme National Gallery Singapore</p>
+</li>
+<li>
+<p>2022 Singapore Youth Festival (SYF) - Certificate of Recognition x 2</p>
+</li>
+<li>
+<p>2022 Singapore Youth Festival (SYF) – Certificate of Recognition on-site
+exhibition at National Museum Singapore</p>
 <p></p>
 </li>
 </ul>
 <p><strong>CCA Training Sessions</strong> 
-<br>Every Wednesdays 3.00pm to 5.30pm</p>
+<br>Every Wednesdays 3.00pm to 5.30pm
+<br>Every Fridays 1.30pm to 3.00pm</p>
+<p></p>
 <p><strong>Teachers-in-charge</strong>
 </p>
 <table style="minWidth: 50px">
