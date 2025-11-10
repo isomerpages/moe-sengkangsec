@@ -14,3 +14,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_Program_2025.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SKSS School Tour" src="/images/SKSS_School_Tour_4_Nov_25.png">
+</div>
+<p></p>
