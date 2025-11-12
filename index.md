@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main Page/Website Banner Design 2.png
+      background: /images/Website Banner Design 2.png
       variant: center
       backgroundColor: gray
       alignment: left
