@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main
-        Page/1280x640_top_BlueBG_SKSS_2025_Welcome_Banner__version_4g____for_website_v2.png
+      background: /images/Main Page/Website Banner Design 2.png
       variant: image
       backgroundColor: gray
       alignment: left
