@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Main Page/Website Banner Design 2.png
-      variant: image
+      variant: center
       backgroundColor: gray
       alignment: left
       size: md
