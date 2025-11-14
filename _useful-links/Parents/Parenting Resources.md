@@ -7,9 +7,11 @@ variant: tiptap
 ---
 <p><strong>Secondary 2 and Secondary 4 Booklist 2026 + Uniform Sale</strong>
 <br><a href="/files/Secondary_2_Textbook___Stationery_List.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Textbook &amp; Stationery List</a>
+<br><a href="/files/Resources for parents/Textbook sch uniform/Secondary_3_Textbook___Stationery_List.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Textbook &amp; Stationery List</a>
 <br><a href="/files/Secondary_4_Textbook___Stationery_List.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Textbook &amp; Stationery List</a>
 <br><a href="/files/Resources for parents/Textbook sch uniform/Sale_of_School_Uniforms.pdf" rel="noopener nofollow" target="_blank">Sale of Uniform</a>
 </p>
+<p></p>
 <p><strong>Quick Links</strong>
 <br>
 </p>
