@@ -4,7 +4,60 @@ permalink: /students/
 variant: tiptap
 description: ""
 ---
-<h4></h4>
+<h4><strong>LLP T.R.E.K. Program</strong></h4>
+<p>As a culmination of Seng Kang’s LLP T.R.E.K. Program, 19 student leaders
+embarked on the 2025 Breakthrough Trek, conquering Hong Kong’s top four
+peaks — Dragon’s Back, Lantau Peak, Sunset Peak and Tai Mo Shan . They
+covered 35km and 20 hours of climbing in just three days, a powerful testament
+to the grit and resilience of Seng Kang Youths as they chart their next
+adventure.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Our Breakthrough/LLP_Trek_2025_6.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Our Breakthrough/LLP_Trek_2025_5.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Our Breakthrough/LLP_Trek_2025_4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Our Breakthrough/LLP_Trek_2025_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Our Breakthrough/LLP_Trek_2025_1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>🏆 CL Unit Double Success! 🏆</strong></h4>
 <p>SKSS is proud to announce that our students have achieved outstanding
 results in two national-level Chinese competitions.</p>
