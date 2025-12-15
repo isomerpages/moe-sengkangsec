@@ -12,8 +12,8 @@ variant: tiptap
 to school at 1.15 p.m. and proceed to the school hall for a briefing followed
 by the collection of results.
 <br>
-<br>Students are to be properly attired in full school uniform.
-<br>
+<br>Students are to be properly attired in full school uniform.</p>
+<p>
 <br>Thank you, and we look forward to seeing all students on the day.</p>
 <p></p>
 <p><strong><u>2025 JC / Polytechnics Open House</u></strong>
