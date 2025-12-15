@@ -25,7 +25,7 @@ sections:
           url: /about-skss/open-house-2025/
         - title: Release of GCE N-Level Examination Results
           description: December 18 at 1:15pm
-          url: ""
+          url: https://www.sengkangsec.moe.edu.sg/announcements/
   - infopic:
       title: Open House 2025
       subtitle: Welcome
