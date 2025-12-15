@@ -4,6 +4,18 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<p><strong><u>Release of GCE 'N' &amp; 'O' level Testimonials</u></strong>
+<br>
+<br>The GCE N-Level Examination Results will be released on Thursday, 18 December.
+<br>
+<br>All students who sat for the N-Level examinations are required to report
+to school at 1.15 p.m. and proceed to the school hall for a briefing followed
+by the collection of results.
+<br>
+<br>Students are to be properly attired in full school uniform.
+<br>
+<br>Thank you, and we look forward to seeing all students on the day.</p>
+<p></p>
 <p><strong><u>2025 JC / Polytechnics Open House</u></strong>
 <br><a href="/files/JC_and_Poly_Open_House_2025.pdf" rel="noopener nofollow" target="_blank">Click here for the schedule</a>
 </p>
