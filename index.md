@@ -23,9 +23,6 @@ sections:
         - title: Open House 2025
           description: November 15 (8am - 12pm)
           url: /about-skss/open-house-2025/
-        - title: Secondary One Welcome Tea
-          description: December 23
-          url: https://www.sengkangsec.moe.edu.sg/announcements/
   - infopic:
       title: Open House 2025
       subtitle: Welcome
