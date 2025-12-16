@@ -24,14 +24,6 @@ sections:
           description: 18 December 2025
           url: https://www.sengkangsec.moe.edu.sg/announcements/
   - infopic:
-      title: Open House 2025
-      subtitle: Welcome
-      id: infopic
-      button: Click here for program schedule
-      url: /about-skss/open-house-2025
-      image: /images/Open_House_Banner_for_website_2025.png
-      alt: Image alt text
-  - infopic:
       title: SKSS Story
       subtitle: SENG KANG SECONDARY SCHOOL
       id: infopic
