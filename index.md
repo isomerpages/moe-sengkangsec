@@ -22,7 +22,7 @@ sections:
           url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
         - title: Release of Result - GCE N-Level Examination (2025)
           description: 18 December 2025
-          url: ""
+          url: https://www.sengkangsec.moe.edu.sg/announcements/
   - infopic:
       title: Open House 2025
       subtitle: Welcome
