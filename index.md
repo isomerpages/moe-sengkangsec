@@ -25,7 +25,7 @@ sections:
           url: /announcements/
         - title: Welcome Tea & Info Session Secondary 1
           description: 23 December 2025
-          url: /admissions
+          url: /useful-links-1/admissions
   - infopic:
       title: SKSS Story
       subtitle: SENG KANG SECONDARY SCHOOL
