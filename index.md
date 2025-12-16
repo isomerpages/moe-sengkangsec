@@ -23,6 +23,9 @@ sections:
         - title: Release of Result - GCE N-Level Examination (2025)
           description: 18 December 2025
           url: /announcements/
+        - title: Welcome Tea & Info Session Secondary 1
+          description: 23 December 2025
+          url: /admissions
   - infopic:
       title: SKSS Story
       subtitle: SENG KANG SECONDARY SCHOOL
