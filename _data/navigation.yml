@@ -13,8 +13,6 @@ links:
         url: https://www.sengkangsec.moe.edu.sg/about-skss/skss-story/
       - title: Our People
         url: /about-skss/our-people
-      - title: Open House 2025
-        url: /about-skss/open-house-2025
       - title: Contact Us
         url: /about-skss/contact-us
   - title: Our Breakthroughs
@@ -68,7 +66,7 @@ links:
       - title: Teachers
         url: /useful-links-1/teachers
       - title: Announcement
-        url: https://www.sengkangsec.moe.edu.sg/announcements/
+        url: /announcements/
       - title: Frequently Asked Questions
         url: /useful-links-1/frequently-asked-questions-faq
       - title: School Canteen Advertisement
