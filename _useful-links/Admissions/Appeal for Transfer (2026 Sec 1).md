@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Admissions
 ---
-<h3><strong><u>Appeal for Transfer After Secondary 1 (2026) Posting</u></strong></h3>
+<h4><strong><u>Appeal for Transfer After Secondary 1 (2026) Posting</u></strong></h4>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
