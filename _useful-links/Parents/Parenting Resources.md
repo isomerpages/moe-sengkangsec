@@ -49,7 +49,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.sengkangsec.moe.edu.sg/curriculum/National-Digital-Literacy-Prog/DMA/" rel="noopener noreferrer nofollow" target="_blank">Device Management Application (DMA) for PLD</a>
+<p><a href="https://www.sengkangsec.moe.edu.sg/dma/" rel="noopener noreferrer nofollow" target="_blank">Device Management Application (DMA) for PLD</a>
 </p>
 </li>
 </ol>
