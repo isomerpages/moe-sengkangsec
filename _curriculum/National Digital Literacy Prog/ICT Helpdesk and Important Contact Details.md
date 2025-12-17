@@ -71,17 +71,6 @@ servicing.</p>
 <p></p>
 <p>ICT Manager (Mdm Linda Yong) <a href="mailto:yong_hua_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_hua_lian@schools.gov.sg</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
