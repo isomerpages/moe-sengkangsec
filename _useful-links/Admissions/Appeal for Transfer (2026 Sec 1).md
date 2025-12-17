@@ -29,6 +29,6 @@ not hear from the school by 2 January 2026.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_12_17_004600.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_12_17_004600.png">
 </div>
 <p></p>
