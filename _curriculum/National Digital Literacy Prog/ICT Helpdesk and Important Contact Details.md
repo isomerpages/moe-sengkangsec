@@ -70,8 +70,8 @@ servicing.</p>
 <p>Subject Head ICT (Mr Low Young Kwang) <a rel="noopener noreferrer nofollow" target="_blank">Low_young_kwang@schools.gov.sg</a>
 </p>
 <p></p>
-<p>ICT Associate (Mdm Sajitha)</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Rangaswamy_Sajitha_A@schools.gov.sg</a>
+<p>ICT Manager (Mdm Yong)</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">yong_hua_lian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
