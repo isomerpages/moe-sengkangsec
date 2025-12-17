@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Admissions
 ---
-<h3><strong><u>Welcome Tea &amp; Info Session for Secondary 1</u></strong></h3>
+<h4><strong><u>Welcome Tea &amp; Info Session for Secondary 1</u></strong></h4>
 <h4>Tuesday, 23 December 2025, 2pm at School Hall</h4>
 <p>Congratulations on your posting to Seng Kang Secondary School!</p>
 <p>The following information will be shared with incoming students and parents
