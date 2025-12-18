@@ -56,9 +56,8 @@ servicing.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrations Manager (Ms Maureen)
-<br>Administrative Executive (Mdm Yap)
-<br>
-</p>
+<br>Administrative Executive (Mdm Yap)</p>
+<p></p>
 <p>6388 7258</p>
 </td>
 </tr>
@@ -67,11 +66,10 @@ servicing.</p>
 <p>PLD Matters and DMA Option enquiries</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head ICT (Mr Low Young Kwang) <a rel="noopener noreferrer nofollow" target="_blank">Low_young_kwang@schools.gov.sg</a>
+<p>Subject Head ICT (Mr Low Young Kwang) <a rel="noopener noreferrer nofollow" target="_blank">low_young_kwang@schools.gov.sg</a>
 </p>
 <p></p>
-<p>ICT Manager (Mdm Yong)</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">yong_hua_lian@schools.gov.sg</a>
+<p>ICT Manager (Mdm Linda Yong) <a href="mailto:yong_hua_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_hua_lian@schools.gov.sg</a>
 </p>
 </td>
 </tr>

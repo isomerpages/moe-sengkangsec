@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
-<h4><strong><u>Release of Result - GCE N-Level Examination (2025)</u></strong></h4>
+<h4><strong><u>Release of Results - GCE N-Level Examination (2025)</u></strong></h4>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
