@@ -69,7 +69,7 @@ servicing.</p>
 <p>Subject Head ICT (Mr Low Young Kwang) <a rel="noopener noreferrer nofollow" target="_blank">low_young_kwang@schools.gov.sg</a>
 </p>
 <p></p>
-<p>ICT Manager (Mdm Linda Yong) <a href="mailto:yong_hua_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_hua_lian@schools.gov.sg</a>
+<p>ICT Manager (Mdm Yong) <a href="mailto:yong_hua_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_hua_lian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
