@@ -45,7 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee Yu Zhen</p>
+<p>Dr Edward Tan Boon Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal (Administration)</p>
