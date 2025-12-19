@@ -29,7 +29,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lak Yau Hui</p>
+<p>Mr Ng Cheng Song Jeremy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
@@ -37,10 +37,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Cheng Song Jeremy</p>
+<p>Mrs Lee Yu Zhen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Edward Tan Boon Hwa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Administration)</p>
 </td>
 </tr>
 <tr>
