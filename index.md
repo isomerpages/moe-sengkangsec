@@ -15,13 +15,13 @@ sections:
       size: md
       key_highlights:
         - title: DIRECT SCHOOL ADMISSION (DSA)
-          description: for 2026 Sec 1 intake
+          description: for 2026 Secondary 1 intake
           url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
         - title: Welcome Tea & Info Session  Secondary 1 (2026)
           description: 23 December 2025
           url: /welcome-tea-info-session-for-secondary-1-2026/
         - title: Appeal for Transfer
-          description: (2026 Secondary 1)
+          description: for 2026 Secondary 1 intake
           url: /appeal-for-transfer-after-secondary-one-posting/
   - infopic:
       title: SKSS Story
