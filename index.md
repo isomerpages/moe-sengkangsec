@@ -19,7 +19,7 @@ sections:
         - title: Appeal for Transfer
           description: for 2026 Secondary 1 intake
           url: /appeal-for-transfer-after-secondary-one-posting/
-      subtitle: A Community of Global Citizens & Learners for Life
+      subtitle: ""
   - infopic:
       title: SKSS Story
       subtitle: SENG KANG SECONDARY SCHOOL
