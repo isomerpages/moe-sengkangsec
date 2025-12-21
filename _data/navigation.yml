@@ -53,10 +53,10 @@ links:
       - title: Student Management
         url: /co-curriculum/student-management
   - title: Useful Links
-    url: /school-calendar/
+    url: /usefullinks
     sublinks:
       - title: School Calendar
-        url: /school-calendar/
+        url: /usefullinks/school-calendar/
       - title: Admissions
         url: /appeal-for-transfer-after-secondary-one-posting/
       - title: Financial Assistance Form
