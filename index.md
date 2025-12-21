@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main
-        Page/SKSS_2025_Welcome_Banner__version_4h____for_website_v3.jpg
+      background: /images/Main Page/SKSS_2025_Welcome_Banner__version_4a__resize_ver_1.png
       variant: image
       backgroundColor: gray
       alignment: left
