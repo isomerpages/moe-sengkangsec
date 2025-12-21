@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Main
-        Page/SKSS_2025_Welcome_Banner__version_4h____for_website_v3_1440_by_720.png
+        Page/SKSS_2025_Welcome_Banner__version_4h____for_website_v3.jpg
       variant: image
       backgroundColor: gray
       alignment: left
