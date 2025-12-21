@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/ABOUT SKSS/SKSS_2025_Welcome_Banner__version_4h____test.png
-      variant: floating
+      variant: image
       backgroundColor: gray
       alignment: left
       size: sm
