@@ -1,9 +1,9 @@
 ---
-title: MOE Financial Assistance Application Form (eFAS) for 2025
+title: MOE Financial Assistance Application Form (eFAS)
 permalink: /moe-financial-assistance-application-form-efas-for-2025/
 variant: tiptap
 description: ""
-third_nav_title: Financial Assistance Form 2025
+third_nav_title: Financial Assistance Form
 ---
 <p><strong>FAS Application</strong>
 </p>

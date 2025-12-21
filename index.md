@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Main
         Page/SKSS_2025_Welcome_Banner__version_4h____for_website_v3.jpg
-      variant: image
+      variant: center
       backgroundColor: gray
       alignment: left
       size: md
