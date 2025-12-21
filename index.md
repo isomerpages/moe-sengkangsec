@@ -8,10 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/ABOUT SKSS/SKSS_2025_Welcome_Banner__version_4h____test.png
-      variant: side
+      variant: floating
       backgroundColor: gray
       alignment: left
-      size: md
+      size: sm
       key_highlights:
         - title: Welcome Tea & Info Session  Secondary 1 (2026)
           description: 23 December 2025
@@ -20,7 +20,7 @@ sections:
           description: for 2026 Secondary 1 intake
           url: /appeal-for-transfer-after-secondary-one-posting/
       title: Seng Kang Secondary School
-      subtitle: A community of Global Citizens & Learners for Life
+      subtitle: A Community of Global Citizens & Learners for Life
   - infopic:
       title: SKSS Story
       subtitle: SENG KANG SECONDARY SCHOOL
