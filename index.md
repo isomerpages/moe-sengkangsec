@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/ABOUT SKSS/SKSS_2025_Welcome_Banner__version_4h____test.png
-      variant: center
+      variant: side
       backgroundColor: gray
       alignment: left
       size: md
@@ -19,6 +19,8 @@ sections:
         - title: Appeal for Transfer
           description: for 2026 Secondary 1 intake
           url: /appeal-for-transfer-after-secondary-one-posting/
+      title: Seng Kang Secondary School
+      subtitle: A community of Global Citizens & Learners for Life
   - infopic:
       title: SKSS Story
       subtitle: SENG KANG SECONDARY SCHOOL
