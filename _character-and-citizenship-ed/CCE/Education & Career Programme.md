@@ -17,10 +17,9 @@ Other platforms to engage our students in exploring ECG included invitations
 to alumni, post-secondary institutional partners, parents and experiential
 learning from post-secondary orientation programmes and industrial visits.</p>
 <p><strong>ECG Year Plan</strong>
-<br>ECG Lessons Overview for 2019</p>
-<table style="minWidth: 150px">
+<br>ECG Plan for each level of students</p>
+<table style="minWidth: 125px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -29,252 +28,100 @@ learning from post-secondary orientation programmes and industrial visits.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="2" colspan="1">
-<p><strong>Level</strong>
-</p>
-</th>
-<th rowspan="1" colspan="4">
-<p><strong>Curriculum</strong>
-</p>
-</th>
-<th rowspan="2" colspan="1">
-<p><strong>Experiences</strong>
-</p>
-</th>
-</tr>
-<tr>
 <th rowspan="1" colspan="1">
-<p><strong>Lesson 1</strong>
-</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Lesson 2</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Lesson 3</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Lesson 4</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Sec 1</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SkillsFuture Awareness (20 min by ECG counsellor) Log in to the SkillsFuture
-Portal (ironing out of logging in issues)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SkillsFuture Portal Career Interests Inventory Interpretation of own RIASEC
-code
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Career Families (Understanding the different career clusters and the careers
-in each cluster)
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Invite PSG Parents to come and talk about their careers (4 parents, 15
-min each)
-<br>
-<br>
-</p>
-</td>
-<td rowspan="2" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 1NT</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1NTECG02 - I am Good at This!*#</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1NTECG03 - A World of Possibil-ITiEs*</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1NTECG06 - If It’s Worth Doing, It’s Worth Doing Well</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·Invite PSG Parents to come and talk about their careers (4 parents, 15
-min each)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·SkillsFuture Portal Career Interests Inventory (Include logging in issues)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·Interpretation of own RIASEC code ·Finding the relevant job information
-in SkillsFuture Portal (for example subjects related to the jobs)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>· Your Choice Matters (Making Sense of Subjects choice for streaming)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·Invite Alumni to come and share about how they chose their post-secondary
-options (backtrack through sec 2) and how their choices affect the rest.
-(Hold it either in March or September/ October) *ECG counsellor as standby</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>· ECG Symposium · ITE Experience (for NT)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 2NT</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2NTECG02 - Knowing about Jobs*#</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2NTECG03 - Different Strokes for Different Folks # · SkillsFuture Portal
-Inventory on Career Interests</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2NTECG05 - My Choice Matters*</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·Invite Alumni to come and share about how they chose their post-secondary
-options (backtrack through sec 2) and how their choices affect the rest.
-(Hold it either in March or September/ October) *ECG counsellor as standby</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
+<p>Sec 2</p>
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>Sec 3</strong>
 </p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Sec 4/5</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level Theme</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·Education Landscape (in preparation for poly open house) *Do reflection
-using Google Form after the visit ·Learning Styles Inventory</p>
+<p>Discovering Self &amp; Personal Strengths</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·Interpretation of Learning Styles Inventory</p>
+<p>Deepening Positive Relationships &amp; Exploring Personal Interests</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·SkillsFuture Portal Career Interests Inventory (Include logging in issues)
-·Interpretation of own RIASEC code</p>
+<p>Developing Resilience &amp; a Growth Mindset</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·SkillsFuture Portal Skills Confidence Inventory ·Interpretation of Skills
-Confidence Inventory</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>· Poly Open House · Career Fair · AEM (Express) · EM (NA and NT) · Work
-Attachment · ITE Experience for 3NA · EAE/PFP Talk by NYP (Post Exam)</p>
+<p>Determining Purpose &amp; Pathways Beyond School</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 3NT</strong>
+<p><strong>ECG Focus</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3NTECG04- Using the ITE Course Information cards</p>
+<p>Exploration and Know Yourself ( V.I.P.S. and Career Interests) and Transition
+to Sec 1</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3NTECG04- Exploring the DefinITEly website*</p>
+<p>Knowing Post-sec pathway options &amp; using ECG to guide decision of
+subject combination choices</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3NTECG05- Many Pathways of Learning*</p>
+<p>Exploration of interests and strengths and consider opportunties in PSEIs
+and industries. Portfolio building and goal setting to work toward aspirations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3NTECG06 - Different Paths – some life stories*</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·Education Landscape (in preparation for poly open house) *Do reflection
-using Google Form after the visit ·Learning Styles Inventory</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·Interpretation of Learning Styles Inventory ·SkillsFuture Portal Career
-Skills Confidence Inventory (Includes logging in issues) (to link strengths
-and interests) ·Work Values Inventory (to be completed after Skills Confidence
-Inventory) (if cannot finish, do as homework)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>· Interpretation of Skills Confidence and Work Values Inventories</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·EAE/PFP Preparation Talk by NYP (preparation of portfolio and write-up)
-(tentatively in April)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>· Poly Open House ·Learning Journey (Industrial Visit) ·Course Advising
-(March holidays 18 March, TBC with IP Heads)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 4NT</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·Education Landscape (in preparation for poly open house) (focus on poly
-after ITE) done by ITE personnel ** School – based resources as standby</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·SkillsFuture Portal Career Skills Confidence Inventory (Includes logging
-in issues) (to link strengths and interests)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·Interpretation of Skills Confidence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·Invite Alumni to speak to students (from ITE to higher tertiary)</p>
-</td>
-<td rowspan="1" colspan="1">
+<p>~PSEI Engagement &amp; Information sessions on EAE, DSA, PFP and DPP</p>
+<p>~Targeted support in early admissions excercise:Preparatory workshops
+on EAE write-up preparing a portfolio, interview skills</p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 5</strong>
+<p><strong>Cohort-Specific Student Development Experiences</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·Education Landscape (in preparation for poly open house) *Do reflection
-using Google Form after the visit · Learning Styles Inventory</p>
+<p>1. Self-discovery of V.I.P.S (RIASEC)</p>
+<p>2. Introduction &amp; onboarding of MySkillsFuture portal</p>
+<p>3.Introduction to ECG resources</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>· Interpretation of Learning Styles Inventory ·SkillsFuture Portal Career
-Skills Confidence Inventory (Includes logging in issues) (to link strengths
-and interests) ·Work Values Inventory (to be completed after Skills Confidence
-Inventory) (if cannot finish, do as homework)</p>
+<p>1. Clarify V.I.P.S</p>
+<p>2. Subject Combination Choices &amp; Implications</p>
+<p>3 Target and Goal Setting (SMART Goals- Plan, Review, Reflect, Refine)</p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>· Interpretation of Skills Confidence and Work Values Inventories</p>
+<p>1. Exploration of Interests &amp; Strengths</p>
+<p>2. Discovery Week 1 ECG Segment</p>
+<p>3. Discovery Week 2 ECG Segment</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>EAE/PFP Preparation Talk by NYP (preparation of portfolio and write-up)
-(tentatively in April)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>· Poly Open House · Learning Journey (Industrial Visit) · Course Advising</p>
+<p>1. Understanding post-secondary pathways and admission excercises</p>
+<p>2. Discovery Week 1 ECG Segment 3. PSEI Roadshow &amp; talks (during PEN)</p>
+<p>4. ITE info-session by ITE College</p>
+<p>5. Preparatory workshops on</p>
+<p>EAE &amp; DSA</p>
 </td>
 </tr>
 </tbody>
