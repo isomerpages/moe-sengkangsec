@@ -35,4 +35,11 @@ during the session:</p>
 <p>Sale of books and uniform will <strong>only</strong> start after the session.</p>
 <p>Please look out for details in the Parents Gateway message from Friday,
 19 December onwards.</p>
+<p><a href="/files/Admission/2026_Sec_1_Welcome_Tea__Briefing_for_Parents_.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 1 Welcome Tea Briefing for Parents</a>
+</p>
+<p><a href="/files/Admission/2026_Sec_1_Booklist.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 1 Booklist</a>
+</p>
+<p><a href="/files/Admission/2026_Sec_1_Uniform.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 1 Uniform</a>
+</p>
+<p></p>
 <p></p>
