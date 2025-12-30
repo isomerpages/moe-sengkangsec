@@ -3,62 +3,458 @@ title: Our People
 permalink: /about-skss/our-people/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-**<font size="5">Form Teachers</font>**
-
-**<font size="4">Secondary 1 Year Head: Dr Lim Yian Hoon</font>**
-
-|     | FT                                  | FT                       |
-|-----|-------------------------------------|--------------------------|
-| 1-1 | Mr Chan Jit Ming Aaron           |    Ms Kho Hui Han | Ms Bethany Toong
-| 1-2 | Mr Lee Chee Yeon            |   Ms Nuurulhuda Binte Hasbolah
-| 1-3 | Mdm Rabiaton Binte Laili   | Ms Chua Bee Hua, Millicent
-| 1-4 |  Mr Lim Zhao Chern Joshua |     Ms Tham Si Hui Charis        
-| 1-5 |  Mrs Tan Meow Choon        |    Ms Jolyne Tan Hwee Ling|Mr Heng Si Yuan Clement
-| 1-6 |  Mdm Norzahidah Binte Ma'az               |   Mr Ng Hak Meng Clarence    |
-| 1-7 |    Ms Lim Suet Rui Sarah            | Mdm Rengasamy Manonmani       |
-| 1-8 | Dr Raman Vimalan |   Ms Chew Jing Qi, Selina   |
-
-
-
-**<font size="4">Secondary 2 Year Head: Ms Nivashini D/O Mohandasan </font>**
-
-|     | FT                        | FT                |
-|-----|-------------------------|--------------------------|
-| 2-1 |  Ms Jasmine Ngoh Xin Rong        |       Mr Chua Wei Jian                  |
-| 2-2 | Ms Wang Jia Ning Jenny       | Mr Lim Bao Luo Paul           |
-| 2-3 | Mdm Wee Shen Sze |     Ms Nur Amirah Binte Rosman               |
-| 2-4 | Mdm Rekhvinder Kaur Gill     | Ms Radiah Mohamed Rasol A     |Ms Leong kai Xin
-| 2-5 | Mr Low Young Kwang | Ms Rafiqah Dewi Bte Aziz      |Mr.Daniel Leong
-| 2-6 | Mdm Siti Zawiah Bte Abd Malek  | Mr Danial Iylia Bin Roslin   | Mr Clement Tan
-| 2-7 |     Ms Sharie Ong Minyu   |  Mdm Deenadayalan Jothibai   |
-| 2-8 | Mdm Gan Wei Chin Debbie  | Ms Wan Kuan Yi |
-
-**<font size="4">Secondary 3 Year Head: Ng Ching Enn Stephen </font>**
-
-|     | FT                       | FT                        |
-|-----|--------------------------|---------------------------|
-| 3-A | Ms Sazryna Lee Samsudin     |   Mr Tham Zi Cong |          |
-| 3-B |    Mr Tan Bing Dun                 |    Ms Toh Xuan Hui      |  
-| 3-C |    Mr Sng Kai Rong, Jerome  |   Mdm Uma Maheshwari Ravisankar   |Mdm Su Xiao Min
-| 3-D |    Ms Chua Yingying Joyce   |    Mr Mohammad Zulkiffli Bin Abu Bakar    |Ms Brillionne Wong
-| 3-E |    Ms Chung See Yee, Cherie Sara  |        Mdm Liyana Binte Mohamed Ali        |
-| 3-F |  Mr Tan Tai Ngah                |       Mrs Low Soo Kim          |
-| 3-G |      Ms Chin Yee Lee          |    Mdm Ko Zen Rae Melisa           |
-| 3-H |  Ms J Thivyadarishini           |   Mr  Tay Beng Chai Steven        |          |               
-
-**<font size="4">Secondary 4/5 Year Head: Ms Lee Zihui Amanda </font>**
-
-|     | FT                           | FT                     |
-|-----|---------------------------|------------------------|
-| 4-1 | Mrs Joel Tan Tze Ying  |           |Mr Ong Yen Ping
-| 4-2 |  Ms Kwok Honey             |     |Mr Poon Lee Wang
-| 4-3 |  Ms Nursimah Binte Mokhtar  |  Mr Lak Lucas  | Mdm Zurinawati Bte Jumahat
-| 4-4 |  Ms Tan Ying Rui           |         |Mr Koh Yoke Peng Eunice
-| 4-5 |  Ms Lim Siew Khim     |           |Mr Tan Caiyu Sam
-| 4-6 |  Mr Leong Soo Ching   |      |Mr Mohd Shahrom Bin Mohd Taha
-| 4-7 | Mr Mohamad Hakim Bin Mohamad Zainal Abiddin   |  Mr David Vai  |Mdm Serene Loh Swan Shya
-| 4-8 |  Ms Loh Yoke Ling    |  Mr Sivakumar Duraisamy    |Mdm Azrina Bte Md Salleh
-| 4-9 |   Mdm Nora Bte Hirin   |   Mr Ong Zhi Xiang   |Mr Hisham Bin Zainal
-| 5-1 |  Mr Khyber Singh  |            | Mdm Norafizah Shariff
+<h4><strong>2026 - Form Teachers &amp; Year Head</strong></h4>
+<p><strong>Secondary 1 Year Head: Ms Lee Zihui Amanda</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>FT</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>FT</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sivakumar Duraisamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wang Jia Ning Jenny</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Deenadayalan Jothibai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Loh Yoke Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Mateen Bin Noor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Khyber Singh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kwok Honey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Leow Zi Qing Trevor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Siew Khim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Amirah Binte Rosman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jasmine Ngoh Xin Rong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamad Hakim Bin Mohamad Zainal Abiddin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Leong Soo Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wan Kuan Yi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Nevin Ho Jun Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nora Bte Hirin</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Secondary 2 Year Head: Dr Lim Yian Hoon</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>FT</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>FT</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Jit Ming Aaron</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Edwin Quek</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Chee Yeon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nuurulhuda Binte Hasbolah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Bee Hua, Millicent</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rabiaton Binte Laili</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Poon Lee Wang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tham Si Hui Charis</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan Meow Choon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Zenne Tan Chen Pei Yuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Hak Meng Clarence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norzahidah Binte Ma'az</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Suet Rui Sarah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rengasamy Manonmani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Pang Cai Feng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Raman Vimalan</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Secondary 3 Year Head: Ms Nivashini D/O Mohandasan</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>FT</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>FT</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Heng Si Yuan Clement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Ying Rui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Daniel Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Zawiah Bte Abd Malek</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Zhi Xiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wee Shen Sze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr David Vai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Rafiqah Dewi Bte Aziz</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Gan Wei Chin Debbie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Bao Luo Paul</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Danial Iylia Bin Roslin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sharie Ong Minyu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cheong Hwee Shann Constance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Joel Oon Tze Ying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-H</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jenny Shea Ka Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nursimah Binte Mokhtar</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Secondary 4/5 Year Head: Mr Ng Ching Enn Stephen</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>FT</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>FT</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sazryna Lee Samsudin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tham Zi Cong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Bing Dun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Toh Xuan Hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sng Kai Rong, Jerome</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Uma Maheshwari Ravisankar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Yingying Joyce</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammad Zulkiffli Bin Abu Bakar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chung See Yee, Cherie Sara</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Liyana Binte Mohamed Ali</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4-6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Quek Soo Kim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Tai Ngah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chin Yee Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ko Zen Rae Melisa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms J. Thivyadarishini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Beng Chai Steven</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rekhvinder Kaur Gill</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
