@@ -169,8 +169,6 @@ originality.</p>
 <p>We are happy to share that our team of Chinese Language students who participated
 in the National News Reporting Competition organised by Mediacorp won both
 Best Reporter and Reporter News Awards categories on 30th July 2022.&nbsp;</p>
-<p>Read more on 8World online site,&nbsp;&nbsp;<a href="https://www.8world.com/so-young/young-reporter-news-challenge-fresh-news-sengkang-secondary-school-1869996" rel="noopener noreferrer nofollow" target="_blank">Young Reporter News Challenge 2022</a>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/Young%20reporters%20news%20challenge%2022.png">
 </div>
