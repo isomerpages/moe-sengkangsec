@@ -17,10 +17,6 @@ variant: tiptap
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://www.healthhub.sg/programmes/170/StayWell" rel="noopener noreferrer nofollow" target="_blank">Stay Well to Stay Strong: A Resource Portal on Mental and Physical Health for Parents and Students</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">MOE Parent Kit</a>
 </p>
 </li>
@@ -34,10 +30,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://sites.google.com/moe.edu.sg/skss-student-ict/home" rel="noopener noreferrer nofollow" target="_blank">Student ICT site</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Group Personal Accident Insurance for Students</a>
 </p>
 </li>
 <li>
