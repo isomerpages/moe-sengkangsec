@@ -248,7 +248,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-A</p>
+<p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Heng Si Yuan Clement</p>
@@ -259,7 +259,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-B</p>
+<p>3B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Daniel Leong</p>
@@ -270,7 +270,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-C</p>
+<p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ong Zhi Xiang</p>
@@ -281,7 +281,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-D</p>
+<p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr David Vai</p>
@@ -292,7 +292,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-E</p>
+<p>3E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Gan Wei Chin Debbie</p>
@@ -303,7 +303,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-F</p>
+<p>3F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Danial Iylia Bin Roslin</p>
@@ -314,7 +314,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-G</p>
+<p>3G</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cheong Hwee Shann Constance</p>
@@ -325,7 +325,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3-H</p>
+<p>3H</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jenny Shea Ka Yan</p>
@@ -358,7 +358,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-1</p>
+<p>4A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sazryna Lee Samsudin</p>
@@ -369,7 +369,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-2</p>
+<p>4B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Bing Dun</p>
@@ -380,7 +380,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-3</p>
+<p>4C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sng Kai Rong, Jerome</p>
@@ -391,7 +391,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-4</p>
+<p>4D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chua Yingying Joyce</p>
@@ -402,7 +402,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-5</p>
+<p>4E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chung See Yee, Cherie Sara</p>
@@ -413,7 +413,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-6</p>
+<p>4F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Quek Soo Kim</p>
@@ -424,7 +424,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-7</p>
+<p>4G</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chin Yee Lee</p>
@@ -435,7 +435,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4-8</p>
+<p>4H</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms J. Thivyadarishini</p>
@@ -446,7 +446,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5-1</p>
+<p>5A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rekhvinder Kaur Gill</p>
