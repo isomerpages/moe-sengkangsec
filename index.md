@@ -20,6 +20,9 @@ sections:
         - title: Appeal for Transfer
           description: for 2026 Secondary 1 intake
           url: /appeal-for-transfer-after-secondary-one-posting/
+        - title: Release of Results - GCE O-Level Examination (2025)
+          description: 14 January 2026
+          url: /announcements/
   - infopic:
       title: SKSS Story
       subtitle: SENG KANG SECONDARY SCHOOL
