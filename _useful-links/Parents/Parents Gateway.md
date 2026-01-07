@@ -26,7 +26,7 @@ in the app.
 <br>
 <br><strong>Please click on the link to view pdf</strong>
 </p>
-<p><strong><a href="/files/Resources%20for%20parents/Instructions_for_Travel_Declaration_on_PG.pdf" rel="noopener noreferrer nofollow" target="_blank">Travel Declaration via PG</a></strong>
+<p><a href="/files/Resources%20for%20parents/Instructions_for_Travel_Declaration_on_PG.pdf" rel="noopener noreferrer nofollow" target="_blank">Travel Declaration via PG</a>
 <br><a href="/files/Parents%20Gateway/Annex%20A%20-%20One-Time%20Onboarding.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A - One-Time Onboarding.pdf</a> 
 <br><a href="/files/Parents%20Gateway/User%20Guide%20for%20Parents%20-%20Aug%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">User Guide for Parents - Aug 2020.pdf</a> 
 <br><a href="/files/Parents%20Gateway/Frequently%20Asked%20Questions%20For%20Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions For Parents.pdf</a> 
