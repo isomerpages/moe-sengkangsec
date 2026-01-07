@@ -69,9 +69,5 @@ variant: tiptap
 <p><a href="https://form.gov.sg/683534b56f838064b3faca06" rel="noopener nofollow" target="_blank">Faulting Reporting Form</a>
 </p>
 </li>
-<li>
-<p><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident (GPA)</a>
-</p>
-</li>
 </ol>
 <p></p>
