@@ -33,10 +33,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/SKSS%20Bulletin%20Special%20Edition%2027%20July%202021.pdf" rel="noopener noreferrer nofollow" target="_blank">Bulletin Special Edition</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Lost%20and%20Found%20Information.pdf" rel="noopener noreferrer nofollow" target="_blank">Lost and Found Information</a>
 </p>
 </li>
