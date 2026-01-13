@@ -64,7 +64,7 @@ variant: tiptap
 <p>Mr Sam Tan Caiyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Learning Science</p>
+<p>HOD Student Management</p>
 </td>
 </tr>
 <tr>
@@ -136,7 +136,7 @@ variant: tiptap
 <p>Mr Wu Yongwei, Bernard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD PE and CCA (Covering)</p>
+<p>HOD PE and CCA</p>
 </td>
 </tr>
 <tr>
@@ -144,7 +144,7 @@ variant: tiptap
 <p>Mr Low Young Kwang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD ICT (Covering)</p>
+<p>HOD ICT</p>
 </td>
 </tr>
 <tr>
@@ -184,7 +184,7 @@ variant: tiptap
 <p>Ms Norzahidah Binte Ma'az</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Student Leadership (Internal)</p>
+<p>SH Student Leadership</p>
 </td>
 </tr>
 <tr>
@@ -245,10 +245,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lishanth Thangavelu</p>
+<p>Ms Pang Cai Feng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Student Management</p>
+<p>SH Student Well-Being</p>
 </td>
 </tr>
 <tr>

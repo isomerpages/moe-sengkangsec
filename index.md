@@ -17,18 +17,13 @@ sections:
         - title: Welcome Tea & Info Session  Secondary 1 (2026)
           description: 23 December 2025
           url: /welcome-tea-info-session-for-secondary-1-2026/
-        - title: Appeal for Transfer
-          description: for 2026 Secondary 1 intake
-          url: /appeal-for-transfer-after-secondary-one-posting/
         - title: Release of Results - GCE O-Level Examination (2025)
           description: 14 January 2026
           url: /announcements/
-  - infopic:
+  - infobar:
       title: SKSS Story
-      subtitle: SENG KANG SECONDARY SCHOOL
-      id: infopic
-      image: /images/ABOUT SKSS/Banner_for_Corporate_video.jpg
-      alt: Image alt text
+      subtitle: SENG kANG sECONDARY
+      id: infobar
       button: CLICK HERE TO WATCH
-      url: https://www.sengkangsec.moe.edu.sg/about-skss/skss-story/
+      url: /about-skss/skss-story/
 ---
