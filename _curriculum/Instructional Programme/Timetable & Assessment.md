@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Instructional Programme
 variant: tiptap
 ---
-<h4>2026 Class Timetable</h4>
+<h4><strong>2026 Class Timetable</strong></h4>
 <p>Click on the respective levels to access the&nbsp;2026 Class Timetable:</p>
 <p><strong>TERM 1</strong>
 </p>
