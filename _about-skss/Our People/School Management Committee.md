@@ -184,7 +184,7 @@ variant: tiptap
 <p>Ms Norzahidah Binte Ma'az</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Student Leadership (Internal)</p>
+<p>SH Student Leadership</p>
 </td>
 </tr>
 <tr>
