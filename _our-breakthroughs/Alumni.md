@@ -4,6 +4,7 @@ permalink: /alumni/
 variant: tiptap
 description: ""
 ---
+<h2>2025</h2>
 <p><strong>Healthcare Scholarship</strong>
 </p>
 <p>Congratulations to our alumnus, Kent Chu Yong Kang (Class of 2019), on
@@ -23,7 +24,7 @@ the prestigious Temasek Polytechnic Engineering Scholarship!</p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
+<h2>2024</h2>
 <p><strong>Goh Chok Tong Enable Awards (GCTEA) 2024 Awards<br><br></strong>Congratulations
 to our alumni, Sim Yu Xiang and Maximillian Tan for their outstanding contributions
 to the society.</p>
