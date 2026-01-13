@@ -5,21 +5,25 @@ description: ""
 third_nav_title: Instructional Programme
 variant: tiptap
 ---
-<h4>2025 Class Timetable</h4>
-<p>Click on the respective levels to access the&nbsp; 2025 Class Timetable:</p>
-<p><strong>TERM 4</strong>
+<h4>2026 Class Timetable</h4>
+<p>Click on the respective levels to access the&nbsp;2026 Class Timetable:</p>
+<p><strong>TERM 1</strong>
 </p>
 <ul>
 <li>
-<p><a href="/files/SEC_1_EOY_SCRIPT_CHECK_2025.pdf" rel="noopener nofollow" target="_blank">Sec One</a>
+<p><a href="/files/SEC_1_EOY_SCRIPT_CHECK_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/SEC_2_EOY_SCRIPT_CHECK_2025.pdf" rel="noopener nofollow" target="_blank">Sec Two</a>
+<p><a href="/files/SEC_2_EOY_SCRIPT_CHECK_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/SEC_3_EOY_SCRIPT_CHECK_2025.pdf" rel="noopener nofollow" target="_blank">Sec Three</a>
+<p><a href="/files/SEC_3_EOY_SCRIPT_CHECK_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026_T1W1_Sec_4_5.pdf" rel="noopener nofollow" target="_blank">Sec 4/5</a>
 </p>
 <p></p>
 </li>
