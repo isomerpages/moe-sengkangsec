@@ -240,7 +240,7 @@ variant: tiptap
 <p>Ms Nursimah Binte Mokhtar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Nutrition and Food Science (Internal)</p>
+<p>SH Nutrition and Food Science</p>
 </td>
 </tr>
 <tr>
