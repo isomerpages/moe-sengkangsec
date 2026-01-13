@@ -25,5 +25,5 @@ sections:
       subtitle: SENG kANG sECONDARY
       id: infobar
       button: CLICK HERE TO WATCH
-      url: /skss-story/
+      url: /about-skss/skss-story/
 ---
