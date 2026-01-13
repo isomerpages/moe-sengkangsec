@@ -20,12 +20,10 @@ sections:
         - title: Release of Results - GCE O-Level Examination (2025)
           description: 14 January 2026
           url: /announcements/
-  - infopic:
+  - infobar:
       title: SKSS Story
-      subtitle: SENG KANG SECONDARY SCHOOL
-      id: infopic
-      image: /images/ABOUT SKSS/Banner_for_Corporate_video.jpg
-      alt: Image alt text
+      subtitle: SENG kANG sECONDARY
+      id: infobar
       button: CLICK HERE TO WATCH
-      url: https://www.sengkangsec.moe.edu.sg/about-skss/skss-story/
+      url: /skss-story/
 ---
