@@ -2,7 +2,7 @@ title: Home
 url: https://www.sengkangsec.moe.edu.sg
 favicon: /images/Sengkang sec logo.png
 colors:
-  primary-color: "#283361"
+  primary-color: "#075968"
   secondary-color: "#075968"
   media-colors:
     - title: media-color-one
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: assessment-information
+google_analytics_ga4: ""
