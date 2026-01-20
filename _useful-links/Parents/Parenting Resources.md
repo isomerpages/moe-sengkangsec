@@ -29,7 +29,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/skss-student-ict/home" rel="noopener noreferrer nofollow" target="_blank">Student ICT site</a>
+<p><a href="https://sites.google.com/moe.edu.sg/skss-student-ict/home" rel="noopener noreferrer nofollow" target="_blank">Student Resource site</a>
 </p>
 </li>
 <li>
