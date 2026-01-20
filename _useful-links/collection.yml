@@ -2,8 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Students/Resources.md
-      - Students/.keep
       - Students.md
       - Admissions/.keep
       - Admissions/Welcome Tea & Info Session for Secondary 1 (2026).md
