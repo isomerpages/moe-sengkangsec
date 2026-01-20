@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Students.md
       - Admissions/.keep
       - Admissions/Welcome Tea & Info Session for Secondary 1 (2026).md
       - Admissions/Appeal for Transfer (2026 Secondary 1).md
@@ -14,6 +13,7 @@ collections:
       - Parents/Group Personal Accident Insurance Plan for Student.md
       - Parents/Parents Gateway.md
       - Parents/Parenting Resources.md
+      - Students.md
       - Teachers.md
       - Announcements.md
       - Frequently Asked Questions (FAQ).md
