@@ -74,14 +74,119 @@ ability to act responsibly.&nbsp; Given the pressures faced by the middle
 adolescent from within themselves and from peers, it is important to build
 a strong sense of self-worth, personal conviction and an understanding
 of the possible consequences of sexual behaviour.</p>
-<p>&nbsp;</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality
+<p>&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality
 Education lessons, secondary students will have the opportunity to develop
 a positive self-esteem, develop their character, and expand their understanding
 and repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
+<p><strong>&nbsp;At Seng Kang Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>: </strong>Please
+click<strong> </strong><a href="/files/CCE/2026_Info_on_SEd_taught_in_SKSS.pdf" rel="noopener nofollow" target="_blank">here</a> to
+view the Lesson package.</p>
+<p>&nbsp;<strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a
+programme that was developed by Health Promotion Board, in collaboration
+with the Ministry of Education, to provide Secondary 3 students with accurate
+information on STIs, HIV and protection from a health perspective. With
+the formation of the Communicable Diseases Agency (CDA) on 1 April 2025,
+the programme would now be managed by CDA’s Training and Education Division
+instead of HPB. <em>eTeens</em> is conducted in two segments – a mass talk
+segment and a classroom-based programme. The desired outcome of the <em>eTeens</em> programme
+is that students are empowered to make wise, informed and sensible decisions
+to protect themselves from sexually transmitted infectious diseases.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught
+skills such as decision-making, assertiveness and negotiation to say “no”
+to sex and negative peer pressure. They also learn that the impact of STIs/HIV
+extends beyond themselves and involves their family, and the importance
+of responsible decision-making and seeking help. Abstinence and upholding
+family values are the key messages.</p>
+<p><strong>At Seng Kang Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
+</p>
 <p><strong>&nbsp;</strong>
 </p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Topics/Lessons</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programme Learning Objectives</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time Period</strong>
+</p>
+<p><strong>(e.g. Term 3 Week 9)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mass Talk delivered through a pre-recorded video</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and
+provide knowledge on:</p>
+<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+what it is, how it spreads, how to prevent infection mainly through ABC
+(abstinence, being faithful, correct, and consistent condom use), consequences
+and impact</p>
+<p>&nbsp;</p>
+<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)</p>
+<p>&nbsp;</p>
+<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
+way, including avenues for help-seeking.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Classroom-based Lesson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to negotiate their
+way out of a risky situation by applying skills of assertiveness and responsible
+decision-making</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 9</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong><br>Information for Parents</strong></h4>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
+out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary
+sexuality education programmes by MOE-approved external providers.</p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
+children out of the <strong>Sexuality Education lessons</strong> need to
+complete an opt-out form. This form will be communicated to parents at
+the start of the year and is also available (please upload parents opt-out
+form found in <strong>Annex</strong>  <strong>A</strong> and insert a hyperlink
+for parents to access the form). The completed form is to be submitted
+by 04/02/2026.</p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
+children out of the <strong><em>eTeens</em> programme</strong> need to complete
+an opt-out form. This form will be communicated to parents at the start
+of the year and is also available <u>here</u> (please upload parents opt-out
+form found in <strong>Annex</strong>  <strong>B</strong> and insert a hyperlink
+for parents to access the form). &nbsp;The completed form is to be submitted
+by 04/02/2026.</p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
+at <a href="mailto:skss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">skss@moe.edu.sg</a> or
+6388 7258 for discussion or to seek clarification about the school’s Sexuality
+Education programme.</p>
 <p>==========================</p>
 <p><strong>Moe Sexuality Education in Schools</strong>&nbsp;</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
