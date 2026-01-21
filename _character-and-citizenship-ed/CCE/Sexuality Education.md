@@ -179,11 +179,11 @@ by 04/02/2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong><em>eTeens</em> programme</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also available <u>here</u> (please upload parents opt-out
-form found in <strong>Annex</strong>  <strong>B</strong> and insert a hyperlink
-for parents to access the form). &nbsp;The completed form is to be submitted
-by 04/02/2026.</p>
-<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
+of the year and is also available here <a href="/files/CCE/2026_Communicable_Diseases_Agency_on_SEd_for_school_website_Annex_B.pdf" rel="noopener nofollow" target="_blank">Annex B</a>(please
+upload parents opt-out form found in <strong>Annex</strong>  <strong>B</strong> and
+insert a hyperlink for parents to access the form). &nbsp;The completed
+form is to be submitted by 04/02/2026.</p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the Mdm Neewyn
 at <a href="mailto:skss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">skss@moe.edu.sg</a> or
 6388 7258 for discussion or to seek clarification about the school’s Sexuality
 Education programme.</p>
