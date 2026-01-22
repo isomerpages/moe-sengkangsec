@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<h4>Moe Sexuality Education in Schools</h4>
+<h4>MOE Sexuality Education in Schools</h4>
 <p>&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 (SEd) in schools aims to enable students to understand the physiological,
 social and emotional changes they experience as they mature, develop healthy
@@ -172,17 +172,15 @@ sexuality education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong>Sexuality Education lessons</strong> need to
 complete an opt-out form. This form will be communicated to parents at
-the start of the year and is also available (please upload parents opt-out
-form found in <strong>Annex</strong>  <strong>A</strong> and insert a hyperlink
-for parents to access the form). The completed form is to be submitted
-by 04/02/2026.</p>
+the start of the year and is also available <a href="https://form.gov.sg/69707436abdb094b31d1c4c2" rel="noopener nofollow" target="_blank">here</a>. The completed
+form is to be submitted by 04/02/2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong><em>eTeens</em> programme</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
 of the year and is also available here <a href="/files/CCE/2026_Communicable_Diseases_Agency_on_SEd_for_school_website_Annex_B.pdf" rel="noopener nofollow" target="_blank">Annex B</a>.
 &nbsp;The completed form is to be submitted by 04/02/2026.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the Mdm Neewyn
-at <a href="mailto:skss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">skss@moe.edu.sg</a> or
+Neo at <a href="mailto:skss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">skss@moe.edu.sg</a> or
 6388 7258 for discussion or to seek clarification about the school’s Sexuality
 Education programme.</p>
 <p></p>
