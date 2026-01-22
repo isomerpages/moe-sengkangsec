@@ -41,12 +41,9 @@ decisions for yourself, your family and society; and</p>
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
 marriage is the best protection against STIs/HIV and unintended pregnancies.
 Casual sex can harm and hurt you and your loved ones.</p>
-<p>&nbsp;</p>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on MOE Sexuality Education.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Overview of SENG KANG Secondary School’s Sexuality Education Programme for 2026</strong>
+<p>&nbsp;You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information
+on MOE Sexuality Education.</p>
+<p><strong>&nbsp;Overview of SENG KANG Secondary School’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
 is delivered in a holistic manner through the school curriculum. The content
@@ -165,7 +162,7 @@ decision-making</p>
 </tr>
 </tbody>
 </table>
-<h4><strong><br>Information for Parents</strong></h4>
+<h4><strong>Information for Parents</strong></h4>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
 out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary
 sexuality education programmes by MOE-approved external providers.</p>
