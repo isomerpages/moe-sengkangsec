@@ -31,6 +31,7 @@ variant: tiptap
 <h4><strong>2026 Internal Assessments</strong><br><sup>Click on the links to access the assessment details:</sup></h4>
 <p><strong>Sec 1 - 5 Weighted Assessments / Milestone Assessments 1 Information</strong>
 </p>
+<p></p>
 <p><a href="/files/WA &amp; MA/2025/2025_Sec_1_EYE_Assessment_Information.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 EYE Assessment Information</a>
 </p>
 <ul data-tight="true" class="tight">
@@ -45,7 +46,7 @@ variant: tiptap
 <p></p>
 </li>
 </ul>
-<p><strong>Sec 1 - 5 Weighted Assessments / Milestone Assessments 1 Schedule </strong>
+<p><strong>Sec 1 - 5 Weighted Assessments / Milestone Assessments 1 Schedule</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
