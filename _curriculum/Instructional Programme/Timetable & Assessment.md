@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Instructional Programme
 variant: tiptap
 ---
-<h4><strong>2026 Class Timetable</strong></h4>
-<p>Click on the respective levels to access the&nbsp;2026 Class Timetable:</p>
+<h4><strong>2026 Class Timetable</strong><br><sup>Click on the respective levels to access the 2026 Class Timetable:</sup></h4>
 <p><strong>TERM 1</strong>
 </p>
 <ul>
@@ -28,7 +27,7 @@ variant: tiptap
 <p></p>
 </li>
 </ul>
-<h4><strong>2026 Internal Assessments</strong><br><sup>Click on the links to access the assessment details:</sup></h4>
+<h4><strong>2026 Internal Assessments</strong><br><sup>Click on the respective link to access the assessment details:</sup></h4>
 <p><strong>Sec 1 - 5 Weighted Assessments 1 / Milestone Assessments 1 Information</strong>
 </p>
 <ul data-tight="true" class="tight">
