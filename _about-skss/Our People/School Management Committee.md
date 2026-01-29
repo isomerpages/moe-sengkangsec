@@ -168,7 +168,7 @@ variant: tiptap
 <p>Ms Lee Zihui, Amanda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asst Year Head Upper Secondary</p>
+<p>Asst Year Head Lower Secondary</p>
 </td>
 </tr>
 <tr>
@@ -176,7 +176,7 @@ variant: tiptap
 <p>Ms Nivashini D/O Mohandasan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asst Year Head Lower Secondary</p>
+<p>Asst Year Head Upper Secondary</p>
 </td>
 </tr>
 <tr>
