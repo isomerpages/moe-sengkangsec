@@ -22,7 +22,7 @@ sections:
           url: /announcements/
   - infobar:
       title: SKSS Story
-      subtitle: SENG kANG sECONDARY
+      subtitle: SENG KANG SECONDARY
       id: infobar
       button: CLICK HERE TO WATCH
       url: /about-skss/skss-story/
