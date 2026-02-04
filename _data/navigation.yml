@@ -44,6 +44,8 @@ links:
   - title: Student Development
     url: /co-curriculum/co-curricular-activities-cca
     sublinks:
+      - title: Student Handbook
+        url: /permalink
       - title: Co-Curricular Activities
         url: /co-curriculum/co-curricular-activities-cca
       - title: Character & Citizenship Ed
@@ -52,8 +54,6 @@ links:
         url: /co-curriculum/student-leadership-development
       - title: Student Management
         url: /co-curriculum/student-management
-      - title: Student Handbook
-        url: /permalink
   - title: Useful Links
     url: /school-calendar/
     sublinks:
