@@ -30,7 +30,7 @@ links:
         url: /staff/
       - title: School
         url: /school/
-  - title: Curriculum
+  - title: Academic Curriculum
     url: /curriculum/curriculum
     sublinks:
       - title: Instructional Programme
@@ -41,9 +41,11 @@ links:
         url: /curriculum/learning-for-life-programme-llp
       - title: National Digital Literacy Prog
         url: /curriculum/NDLP
-  - title: Co-Curriculum
+  - title: Student Development
     url: /co-curriculum/co-curricular-activities-cca
     sublinks:
+      - title: Student Handbook
+        url: /student-handbook/
       - title: Co-Curricular Activities
         url: /co-curriculum/co-curricular-activities-cca
       - title: Character & Citizenship Ed

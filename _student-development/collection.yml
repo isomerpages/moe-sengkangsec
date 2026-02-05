@@ -1,7 +1,8 @@
 collections:
-  co-curriculum:
+  student-development:
     output: true
     order:
+      - Student Handbook.md
       - CCA/.keep
       - CCA/Co Curricular Activities (CCA).md
       - Student Development.md
