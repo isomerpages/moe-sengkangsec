@@ -1,5 +1,5 @@
 collections:
-  curriculum:
+  academic-curriculum:
     output: true
     order:
       - Curriculum.md
