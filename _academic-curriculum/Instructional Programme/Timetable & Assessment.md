@@ -44,7 +44,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/WA &amp; MA/2026/2026_MA1_Assessment_Information___Sec_45_r28Jan26.pdf" rel="noopener nofollow" target="_blank">Sec 4/5 MA1 Assessment Information</a>
+<p><a href="/files/WA &amp; MA/2026/2026_MA1_Assessment_Information___Sec_45_r6Feb26.pdf" rel="noopener nofollow" target="_blank">Sec 4/5 MA1 Assessment Information</a>
 </p>
 </li>
 </ul>
