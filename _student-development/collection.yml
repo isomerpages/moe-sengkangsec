@@ -2,7 +2,7 @@ collections:
   student-development:
     output: true
     order:
-      - Student Handbook.md
+      - Code of Conduct.md
       - CCA/.keep
       - CCA/Co Curricular Activities (CCA).md
       - Student Development.md
