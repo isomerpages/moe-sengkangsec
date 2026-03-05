@@ -40,5 +40,9 @@ variant: tiptap
 <p><a href="https://www.sengkangsec.moe.edu.sg/dma/" rel="noopener noreferrer nofollow" target="_blank">Device Management Application (DMA) for PLD</a>
 </p>
 </li>
+<li>
+<p><a href="https://go.gov.sg/sksscycletoschool" rel="noopener nofollow" target="_blank">Application for Student Bicycle Parking Permission</a>
+</p>
+</li>
 </ol>
 <p></p>
