@@ -1,6 +1,6 @@
 ---
 title: Students
-permalink: /school-calendar/
+permalink: /useful-links-1/school-calendar/
 variant: tiptap
 description: ""
 ---
