@@ -48,15 +48,6 @@ to us.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent Kit on Cyber Wellness for Your Child</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a href="http://go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>MOE Cyber Wellness Programme.</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,15 +70,6 @@ to us.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://sure.nlb.gov.sg/resources/audience/teachers-and-students/secondary-level-cce" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TOUCH Community Services.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Click <a href="https://www.help123.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 </td>
 </tr>
