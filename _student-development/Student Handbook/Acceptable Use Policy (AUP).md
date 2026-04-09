@@ -5,15 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Student Handbook
 ---
-<p><strong>Purpose of the Acceptable Use Policy (AUP)</strong>
+<h4><strong>Purpose of the Acceptable Use Policy (AUP)</strong></h4>
+<h4>Technology is an essential part of learning in today’s world.</h4>
+<p><strong>This Acceptable Use Policy (AUP) establishes guidelines on the appropriate use of EdTech resources to help you understand how to use these resources safely and responsibly, in line with efforts to develop your digital literacies and growth as digitally responsible citizens.</strong>
 </p>
-<p>Technology is an essential part of learning in today’s world.</p>
-<p>&nbsp;</p>
-<p>This Acceptable Use Policy (AUP) establishes guidelines on the appropriate
-use of EdTech resources to help you understand how to use these resources
-safely and responsibly, in line with efforts to develop your digital literacies
-and growth as digitally responsible citizens.</p>
-<p>&nbsp;</p>
 <p>EdTech resources include the following, but are not limited to:</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning devices
 (e.g. Personal Learning Devices (PLDs), school devices)</p>
