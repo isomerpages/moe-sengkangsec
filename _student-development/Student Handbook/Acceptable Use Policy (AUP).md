@@ -23,8 +23,7 @@ third_nav_title: Student Handbook
 <p>Student Kit on Cyber Wellness and Learning with a Personal Learning Device
 (Secondary) – <a href="https://go.gov.sg/cw-studentkit" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cw-studentkit</a>
 </p>
-<p><strong>General</strong>
-</p>
+<h4><strong>General</strong></h4>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You should not attempt to access data,
 system and information that you are not authorised to.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You are reminded that the use of learning
@@ -50,8 +49,7 @@ You should not attempt to bypass the DMA.</p>
 up your learning materials in your PLD to prevent data loss. Learn more
 from the SLS lesson <a href="https://go.gov.sg/sls-dlts-8" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
-<p><strong>Being a Responsible Digital Citizen</strong>
-</p>
+<h4><strong>Being a Responsible Digital Citizen</strong></h4>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You should interact with others in a
 respectful and responsible way. You should not post online remarks that
 are</p>
@@ -69,15 +67,13 @@ or embarrassment, impersonate or intimidate others.</p>
 any commercial activities (e.g. buying and selling of goods and services).</p>
 <p>Non-compliance with the above will lead to disciplinary action in accordance
 with the school’s discipline policy.</p>
-<p><strong>Respecting Copyright</strong>
-</p>
+<h4><strong>Respecting Copyright</strong></h4>
 <p>11.&nbsp; You are reminded to obtain explicit permission from the content
 owner(s) before downloading, copying or sharing any copyrighted materials
 (e.g. pictures, videos, music).</p>
 <p>12.&nbsp; &nbsp;You should not use, copy, edit or share digital files
 in an unauthorised or illegal manner.</p>
-<p><strong>Using Artificial Intelligence (AI)</strong>
-</p>
+<h4><strong>Using Artificial Intelligence (AI)</strong></h4>
 <p>13.&nbsp; You must ensure that you meet the minimum age requirement specified
 in each AI tool's age restrictions before using it.</p>
 <p>14.&nbsp; If the use of AI is permitted, you should acknowledge the use
@@ -85,8 +81,7 @@ of AI in weighted assessments and homework as required.</p>
 <p>15.&nbsp; You are to practice academic integrity and be responsible for
 your own learning when using AI. Understand that you are ultimately short-changing
 yourself if you pass off other’s work as your own.</p>
-<p><strong>Staying Safe and Secure online</strong>
-</p>
+<h4><strong>Staying Safe and Secure online</strong></h4>
 <p>16.&nbsp; You should report any incidents (e.g. unusual device behaviour
 or inappropriate use of devices), to the school (Form Teachers or ICT Helpdesk).</p>
 <p>17.&nbsp; You are reminded to develop online safety habits. This includes
@@ -99,8 +94,7 @@ by not engaging with strangers.</p>
 <p>18.&nbsp; You should exercise caution regarding the limitations of AI
 tools, including potential inaccuracies / fabricated responses, inherent
 biases and outdated information.</p>
-<p><strong>Digital Wellbeing and Balance</strong>
-</p>
+<h4><strong>Digital Wellbeing and Balance</strong></h4>
 <p>19.&nbsp; You are reminded to balance screentime with other activities
 including physical exercise and face-to-face social interactions.</p>
 <p>20.&nbsp; You should avoid excessive use of your devices outside learning
