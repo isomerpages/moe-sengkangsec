@@ -17,7 +17,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/WA &amp; MA/2026/2026_WA2_Assessment_Information___Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA2 Assessment Information</a>
+<p><a href="/files/WA &amp; MA/2026/2026_WA2_Assessment_Information___Sec_1_v2.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA2 Assessment Information</a>
 </p>
 </li>
 <li>
@@ -29,7 +29,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/WA &amp; MA/2026/2026_MA2_Assessment_Information___Sec_4_5.pdf" rel="noopener nofollow" target="_blank">Sec 4/5 MA2 Assessment Information</a>
+<p><a href="/files/WA &amp; MA/2026/2026_MA2_Assessment_Information___Sec_4_5_v2.pdf" rel="noopener nofollow" target="_blank">Sec 4/5 MA2 Assessment Information</a>
 </p>
 </li>
 </ul>
@@ -38,7 +38,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/WA &amp; MA/2026/2026_WA2_Schedule___Sec1.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA2 Schedule</a>
+<p><a href="/files/WA &amp; MA/2026/2026_WA2_Schedule___Sec1_v2.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA2 Schedule</a>
 </p>
 </li>
 <li>
