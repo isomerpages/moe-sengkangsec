@@ -144,7 +144,7 @@ variant: tiptap
 <p>Mr Chan Jit Ming Aaron</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Edwin Quek</p>
+<p>Mdm Rekhvinder Kaur Gill</p>
 </td>
 </tr>
 <tr>
