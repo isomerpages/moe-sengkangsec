@@ -5,32 +5,47 @@ description: ""
 third_nav_title: Admissions
 variant: tiptap
 ---
-<h4><strong>Direct School Admission - Secondary 1 (2026) Intake</strong></h4>
-<p>Primary 6 students with interest and talent in sports can apply for Direct
-School Admission to the Student-Athlete Programme offered at Seng Kang
-Secondary School.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SKSS_SAP.jpg">
-</div>
-<h4><strong>DSA Talent Areas Offered</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Basketball (Boys &amp; Girls)</p>
-</li>
-<li>
-<p>Badminton (Boys &amp; Girls)</p>
-</li>
-<li>
-<p>Hockey (Boys &amp; Girls)</p>
-</li>
-<li>
-<p>Football (Boys)</p>
-</li>
-<li>
-<p>Netall(Girls)</p>
-</li>
-</ul>
-<h4><strong>Student-Athlete Programme</strong></h4>
+<h4><strong>Direct School Admission - Secondary 1 (2027) Intake</strong></h4>
+<p>Primary 6 students with an interest and talent in (A) Sports and (B) Science,
+Technology, Engineering &amp; Mathematics (STEM) areas can apply for Direct
+School Admission (DSA) to Secondary 1 (2027) via the DSA exercise this
+year.</p>
+<p><strong>DSA Talent Areas Offered</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>(A)&nbsp;&nbsp; Sports</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>(B)&nbsp;&nbsp; Science, Technology, Engineering &amp; Mathematics (STEM)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basketball (Boys &amp; Girls)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Badminton (Boys &amp; Girls)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hockey (Boys &amp; Girls)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Football (Boys)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Netball (Girls)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; STEM</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>(A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPORTS</strong>
+</p>
+<p><strong><u>Student-Athlete Programme</u></strong>
+</p>
 <p>The SKSS Student-Athlete Programme adopts a 6-prong approach aimed at
 providing a supportive ecosystem for students to develop holistically in
 sports, academic learning and other domains of growth.</p>
@@ -42,33 +57,30 @@ a subject in their upper secondary years.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SKSS_Student_Athlete_Programme.png">
 </div>
-<h4><strong>Selection Criteria</strong></h4>
+<p><strong><u>Selection Criteria for Sports Talent Areas</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SKSS_SAP.jpg">
+</div>
 <p>Applicants should demonstrate a keen interest in sports but need not necessarily
 have prior experience in the specific talent area they are applying for.
 The school will assess applicants based on the following selection criteria*:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>General sports-related fitness and physical ability</p>
-</li>
-<li>
-<p>Sport-specific technical skills</p>
-</li>
-<li>
-<p>Personal qualities</p>
-</li>
-</ul>
-<p>Applicants are encouraged to include any participation in relevant Sports
-CCA or external competition, which may include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>representation in zonal or national competitions</p>
-</li>
-<li>
-<p>being a member of the school team or Junior Sports Academy (JSA)</p>
-</li>
-</ul>
-<p>*Do note that meeting the selection criteria does not guarantee that the
-applicant will be shortlisted/given an offer.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Possesses general sports-related
+fitness and physical ability</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrates Sport-specific technical
+skills</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exhibits good personal qualities</p>
+<p>&nbsp;</p>
+<p>Applicants are encouraged to include any participation in relevant CCAs
+or external competition, which may include:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; representation in zonal or national
+competitions</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; being a member of the school team
+or Junior Sports Academy (JSA)</p>
+<p><strong>(B) &nbsp;&nbsp; STEM</strong>
+</p>
+<p><strong><u>SKYentist Programme</u></strong>
+</p>
 <h4><strong>Selection Process &amp; Key Dates</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
