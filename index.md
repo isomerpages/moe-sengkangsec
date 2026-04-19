@@ -14,9 +14,9 @@ sections:
       alignment: left
       size: md
       key_highlights:
-        - title: Welcome Tea & Info Session  Secondary 1 (2026)
-          description: 23 December 2025
-          url: /welcome-tea-info-session-for-secondary-1-2026/
+        - title: Direct School Admission - Sec 1 Intake
+          description: "2027"
+          url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
         - title: Release of Results - GCE O-Level Examination (2025)
           description: 14 January 2026
           url: /announcements/
