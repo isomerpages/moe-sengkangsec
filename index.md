@@ -14,8 +14,8 @@ sections:
       alignment: left
       size: md
       key_highlights:
-        - title: Direct School Admission - Sec 1 Intake 2027
-          description: ""
+        - title: Direct School Admission - Sec 1 Intake
+          description: "2027"
           url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
         - title: Release of Results - GCE O-Level Examination (2025)
           description: 14 January 2026
