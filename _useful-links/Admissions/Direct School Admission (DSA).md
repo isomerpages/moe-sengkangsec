@@ -18,30 +18,45 @@ year.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>(A)&nbsp;&nbsp; Sports</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
+<p>(A) Sports</p>
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>(B)&nbsp;&nbsp; Science, Technology, Engineering &amp; Mathematics (STEM)</strong>
 </p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basketball (Boys &amp; Girls)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Badminton (Boys &amp; Girls)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hockey (Boys &amp; Girls)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Football (Boys)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Netball (Girls)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Basketball (Boys &amp; Girls)</p>
+</li>
+<li>
+<p>Badminton (Boys &amp; Girls)</p>
+</li>
+<li>
+<p>Hockey (Boys &amp; Girls)</p>
+</li>
+<li>
+<p>Football (Boys)</p>
+</li>
+<li>
+<p>Netball (Girls)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; STEM</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>STEM</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>(A)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPORTS</strong></h4>
+<h3><strong>(A) Sports</strong></h3>
 <p><strong><u>Student-Athlete Programme</u></strong>
 </p>
 <p>The SKSS Student-Athlete Programme adopts a 6-prong approach aimed at
@@ -63,20 +78,29 @@ a subject in their upper secondary years.</p>
 <p>Applicants should demonstrate a keen interest in sports but need not necessarily
 have prior experience in the specific talent area they are applying for.
 The school will assess applicants based on the following selection criteria*:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Possesses general sports-related
-fitness and physical ability</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrates Sport-specific technical
-skills</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exhibits good personal qualities</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Possesses general sports-related fitness and physical ability</p>
+</li>
+<li>
+<p>Demonstrates Sport-specific technical skills</p>
+</li>
+<li>
+<p>Demonstrates Sport-specific technical skills</p>
+</li>
+</ul>
 <p>Applicants are encouraged to include any participation in relevant CCAs
 or external competition, which may include:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; representation in zonal or national
-competitions</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; being a member of the school team
-or Junior Sports Academy (JSA)</p>
-<h4><strong>(B) &nbsp;&nbsp; STEM</strong></h4>
-<p><strong><u>SKYentist Programme<br></u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>representation in zonal or national competitions</p>
+</li>
+<li>
+<p>being a member of the school team or Junior Sports Academy (JSA)</p>
+</li>
+</ul>
+<h3><strong>(B) STEM</strong></h3>
+<p><strong>SKYentist Programme</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2027_STEM.png">
@@ -105,23 +129,28 @@ and career pursuits.</p>
 need not necessarily have prior experience in the specific talent area
 they are applying for. The school will assess applicants based on the following
 selection criteria*:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrates strong interest in
-STEM subjects</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrates critical, problem-solving
-and creative thinking.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exhibits good personal qualities</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrates strong interest in STEM subjects</p>
+</li>
+<li>
+<p>Demonstrates critical, problem-solving and creative thinking</p>
+</li>
+<li>
+<p>Exhibits good personal qualities</p>
+</li>
+</ul>
 <p>Applicants are encouraged to include any participation in relevant CCAs
 or external competition, which may include:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; representation in STEM projects
-and/or competitions, and/or participation in STEM activities and interest
-groups</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>representation in STEM projects and/or competitions, and/or participation
+in STEM activities and interest groups</p>
+</li>
+</ul>
 <p>*Do note that meeting the selection criteria does not guarantee that the
 applicant will be shortlisted/given an offer.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<h4><strong>Selection Process &amp; Key Dates</strong></h4>
+<h4><strong>&nbsp;Selection Process &amp; Key Dates</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -137,31 +166,34 @@ applicant will be shortlisted/given an offer.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>6 May 2026</strong>
+<p><strong>6 May 2026 </strong>
 </p>
-<p><strong>–</strong>
-</p>
+<p>-</p>
 <p><strong>2 Jun 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applications open for P6 students, Returning Singaporeans, Permanent Residents,
 and Foreign Students via the DSA-Sec Portal.</p>
-<p>&nbsp;</p>
 <p>Application is free and available from 6 May (11am) to 2 June (4.30pm).
 For more details, visit MOE website – <a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>SELECTION</strong>
 </p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Trials</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Trials</strong>
 </p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Interviews</strong>
+</li>
+<li>
+<p><strong>Interviews</strong>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>29 Jun 2026</strong>
@@ -173,13 +205,15 @@ For more details, visit MOE website – <a href="http://www.moe.gov.sg/dsa-sec" 
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted applicants will be notified by 10 July 2026 to attend trials.</p>
-<p>&nbsp;</p>
-<p>Selection involves two stages:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stage 1: Face-to-face (sports) trials
-/ (STEM) task</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stage 2: Interviews for students
-shortlisted from Stage 1</p>
-<p>&nbsp;</p>
+<p>&nbsp;Selection involves two stages:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Stage 1: Face-to-face (sports) trials / (STEM) task</p>
+</li>
+<li>
+<p>Stage 2: Interviews for students shortlisted from Stage 1</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -220,8 +254,7 @@ shortlisted from Stage 1</p>
 on the school preference submission.</p>
 <p>Parents must log in to the DSA-Sec Portal using SingPass to submit up
 to three school preferences. Those needing assistance can approach their
-child’s primary school.</p>
-<p>&nbsp;</p>
+child’s primary school.&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -235,15 +268,12 @@ child’s primary school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will receive their DSA-Sec results together with their PSLE results
-by end-Nov.</p>
-<p>&nbsp;</p>
+by end-Nov.&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>Advisory to Parents &amp; Students</strong>
-</p>
+<h4><strong>Advisory to Parents &amp; Students</strong></h4>
 <p>Parents and students are encouraged to choose schools thoughtfully, considering
 the student's aptitudes and strengths alongside each school's academic
 and non-academic requirements and the programmes available to develop their
@@ -255,7 +285,7 @@ related to their selected talent area throughout their years at the school.</p>
 </p>
 <p><strong>DSA-Sec Main Webpage:</strong>
 </p>
-<p><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a><strong>&nbsp;</strong>
+<p><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 <p><strong>Direct to DSA-Sec Portal (Mainstream Students) - Only from 6 May 2026, 11am</strong>
 </p>
