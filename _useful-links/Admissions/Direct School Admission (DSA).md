@@ -166,7 +166,7 @@ applicant will be shortlisted/given an offer.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>6 May 2026 </strong>
+<p><strong>6 May 2026</strong>
 </p>
 <p>-</p>
 <p><strong>2 Jun 2026</strong>
