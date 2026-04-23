@@ -4,6 +4,30 @@ permalink: /ccas/
 variant: tiptap
 description: ""
 ---
+<h3><strong>2026</strong></h3>
+<p><strong><u>National School Games (NSG) ‘B’ Division Boys – League 1 2<sup>nd</sup> Place</u></strong>
+</p>
+<p>Our B Division Boys Hockey team achieved a remarkable second-place finish
+at the National School Games 2026, showcasing exceptional skill and determination
+on the national stage. Throughout the tournament, the squad demonstrated
+rigorous tactical discipline and unwavering team spirit to secure their
+hard-earned silver medals. We congratulate the players on this significant
+milestone and commend them for representing our school with such exemplary
+grit and sportsmanship.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG___Hockey_Boys_2026.jpg">
+</div>
+<p><strong><u>National School Games (NSG) ‘B’ Division Girls – League 1 3<sup>rd</sup> Place</u></strong>
+</p>
+<p>Our B Division Girls Hockey team secured a commendable 3rd place finish
+at the National School Games 2026, demonstrating immense skill and persistence
+throughout the competition. This bronze-medal achievement reflects the
+team's significant growth and their ability to perform under pressure against
+the nation's top programs. We celebrate their hard-earned success and commend
+the players for their exemplary dedication and school spirit.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG___Hockey_Girls_2026.jpg">
+</div>
 <h3><strong>2025</strong></h3>
 <p><strong><u>National School Games (NSG) C Division Boys - League 1, 4th Place</u></strong>
 </p>
