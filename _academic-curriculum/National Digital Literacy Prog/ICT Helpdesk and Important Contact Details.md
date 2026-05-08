@@ -8,7 +8,7 @@ third_nav_title: National Digital Literacy Prog
 <h4><strong>ICT Helpdesk Office</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT_Team.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT_Helpdesk_Personnel.jpg">
 </div>
 <p>Students experiencing hardware problems with their PLDs can visit the
 ICT Helpdesk for support. The team will help identify the issue and, if
