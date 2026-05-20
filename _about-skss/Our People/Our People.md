@@ -284,9 +284,8 @@ variant: tiptap
 </table>
 <p><strong>Secondary 3 Year Head: Ms Nivashini D/O Mohandasan</strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -295,9 +294,6 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>FT</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>FT</p>
@@ -316,9 +312,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Tan Ying Rui</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -330,16 +323,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Zawiah Bte Abd Malek</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>3C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Zhi Xiang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wee Shen Sze</p>
@@ -358,9 +345,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Rafiqah Dewi Bte Aziz</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -371,9 +355,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Bao Luo Paul</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -386,9 +367,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Sharie Ong Minyu</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -400,9 +378,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Joel Oon Tze Ying</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -413,9 +388,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nursimah Binte Mokhtar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
