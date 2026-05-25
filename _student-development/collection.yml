@@ -4,6 +4,7 @@ collections:
     order:
       - Student Handbook/.keep
       - Student Handbook/Code of Conduct.md
+      - Student Handbook/School Rules.md
       - Student Handbook/Acceptable Use Policy (AUP).md
       - CCA/.keep
       - CCA/Co Curricular Activities (CCA).md
