@@ -29,13 +29,14 @@ third_nav_title: Student Handbook
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>A1</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><u>Students who are Singapore Citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.</u>
-</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students who are Singapore Citizens must sing the National Anthem and
+take the Pledge. Students will take the Pledge with the right fist placed
+over the heart.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -116,7 +117,8 @@ Student Handbook.</p>
 <p>C1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Students are to wear the prescribed school uniform and modification to the uniform is not allowed</u></strong>.&nbsp;</p>
+<p>Students are to wear the prescribed school uniform and modification to
+the uniform is not allowed.&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -458,7 +460,9 @@ them responsibly.</p>
 <p>I1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others</u></strong>.</p>
+<p>Students are not allowed to have in their possession any weapon. They
+are also not allowed to bring any weapon-like item which is used or intended
+to be used to cause harm to others.</p>
 </td>
 </tr>
 <tr>
