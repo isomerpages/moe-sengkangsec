@@ -23,6 +23,45 @@ that best fits the needs of your child/ward.</p>
 <p>The DMA options can be adjusted throughout the academic year based on
 your child/ward's changing needs and demonstrated responsibility with digital
 devices. The default sleep time after school hours is set to 10pm.</p>
+<p>To help you better understand the different DMA options and their features,
+we encourage you to review the following parent guides: &nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parent Guide for Option A:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://sgmoe.sharepoint.com/:b:/s/skss-allstaff/IQDuLJOZ4TkVRLyRu4tgLZTsAexk6nYWQUTW40e90QYS1II" rel="noopener noreferrer nofollow" target="_blank">ChromeOS DMA_Parent Option A.pdf</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parent Guide for Option B:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://sgmoe.sharepoint.com/:b:/s/skss-allstaff/IQDx3NEbg-T7QYma4mdympJKARhpy_vSzVIXR0R0BNN6dHI" rel="noopener noreferrer nofollow" target="_blank">ChromeOS DMA_Parent Option B.pdf</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parent Guide for Default Option :</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://sgmoe.sharepoint.com/:b:/s/skss-allstaff/IQAKxSH7upzLT6Szva2GgO1aAUr2FRcqPOQWnl6k3M4XqkE" rel="noopener noreferrer nofollow" target="_blank">ChromeOS DMA_Parent Default Option.pdf</a>​&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Please note: These guides contain detailed information about each option's
+features and instructions for managing your child's device settings through
+the Lightspeed&nbsp;portal.</p>
 <p>Parents who would like to change the DMA option of their child may do
 so. Click&nbsp;<a href="https://form.gov.sg/68352ea0be3be6bf715ffc08" rel="noopener nofollow" target="_blank">Here</a>
 </p>
