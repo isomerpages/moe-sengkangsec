@@ -1,12 +1,11 @@
 ---
 title: MOE Financial Assistance Application Form (eFAS)
-permalink: /moe-financial-assistance-application-form-efas-for-2025/
+permalink: /moe-financial-assistance-application-form-efas/
 variant: tiptap
 description: ""
-third_nav_title: Financial Assistance Form
+third_nav_title: Parents
 ---
-<p><strong>FAS Application</strong>
-</p>
+<h4><strong>FAS Application</strong></h4>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
@@ -26,5 +25,4 @@ please contact the school at :</p>
 </ul>
 </li>
 </ol>
-<p></p>
 <p></p>
