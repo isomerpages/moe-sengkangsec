@@ -2,13 +2,13 @@ collections:
   student-development:
     output: true
     order:
-      - Character And Citizenship Ed/Student Development.md
-      - Character And Citizenship Ed/.keep
       - Student Handbook/.keep
       - Student Handbook/Code of Conduct.md
       - Student Handbook/School Rules.md
       - Student Handbook/Acceptable Use Policy (AUP).md
       - CCA/.keep
       - CCA/Co Curricular Activities (CCA).md
+      - Character And Citizenship Ed/.keep
+      - Character And Citizenship Ed/Student Development.md
       - Student Leadership Development.md
       - Student Management.md
