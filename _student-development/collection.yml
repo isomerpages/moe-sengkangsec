@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Values in Actions.md
       - Student Handbook/.keep
       - Student Handbook/Code of Conduct.md
       - Student Handbook/School Rules.md
