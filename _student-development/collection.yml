@@ -2,19 +2,19 @@ collections:
   student-development:
     output: true
     order:
-      - Values in Actions/Student Development.md
-      - Values in Actions/.keep
       - Student Handbook/.keep
       - Student Handbook/Code of Conduct.md
       - Student Handbook/School Rules.md
       - Student Handbook/Acceptable Use Policy (AUP).md
       - CCA/.keep
       - CCA/Co Curricular Activities (CCA).md
+      - Character And Citizenship Ed/.keep
       - Character And Citizenship Ed/Character and Citizenship Education (CCE).md
       - Character And Citizenship Ed/National Education.md
       - Character And Citizenship Ed/Education & Career Programme.md
       - Character And Citizenship Ed/Sexuality Education.md
       - Character And Citizenship Ed/Cyber Wellness.md
-      - Character And Citizenship Ed/.keep
+      - Values in Actions/.keep
+      - Values in Actions/Student Development.md
       - Student Leadership Development.md
       - Student Management.md
