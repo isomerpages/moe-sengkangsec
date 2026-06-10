@@ -269,7 +269,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Vincent Lee Khai Cheong</p>
+<p>Mr Joseph Yuan Zhencheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operational Manager</p>
