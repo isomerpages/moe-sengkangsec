@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Student Development.md
       - Student Handbook/.keep
       - Student Handbook/Code of Conduct.md
       - Student Handbook/School Rules.md
@@ -19,5 +18,6 @@ collections:
       - Values in Actions/Values in Action.md
       - Values in Actions/VIA Programmes.md
       - Values in Actions/Sec 1 Service Learning.md
+      - Student Development.md
       - Student Leadership Development.md
       - Student Management.md
