@@ -42,18 +42,18 @@ links:
       - title: National Digital Literacy Prog
         url: /curriculum/NDLP
   - title: Student Development
-    url: /student-handbook/
+    url: /student-development/
     sublinks:
       - title: Student Handbook
-        url: /student-handbook/
+        url: /student-development/student-handbook/
       - title: Co-Curricular Activities
-        url: /co-curriculum/co-curricular-activities-cca
+        url: /student-development/co-curricular-activities-cca
       - title: Character & Citizenship Ed
         url: /student-development/character-and-citizenship-education-cce
       - title: Values in Actions
         url: /student-development/values-in-action
       - title: Student Leadership Development
-        url: /co-curriculum/student-leadership-development
+        url: /student-development/student-leadership-development
       - title: Student Management
         url: /student-development/student-management
       - title: Internationlisation Programme
