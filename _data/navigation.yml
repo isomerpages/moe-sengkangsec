@@ -42,10 +42,10 @@ links:
       - title: National Digital Literacy Prog
         url: /curriculum/NDLP
   - title: Student Development
-    url: student-development/student-handbook/code-of-conduct/
+    url: student-development/student-handbook/code-of-conduct
     sublinks:
       - title: Student Handbook
-        url: /student-development/student-handbook/code-of-conduct/
+        url: /student-development/student-handbook/code-of-conduct
       - title: Co-Curricular Activities
         url: /student-development/co-curricular-activities-cca
       - title: Character & Citizenship Ed
