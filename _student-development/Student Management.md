@@ -1,6 +1,6 @@
 ---
 title: Student Management
-permalink: /co-curriculum/student-management/
+permalink: /student-development/student-management/
 description: ""
 variant: markdown
 ---

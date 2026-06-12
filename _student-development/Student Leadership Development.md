@@ -1,10 +1,9 @@
 ---
 title: Student Leadership Development
-permalink: /co-curriculum/student-leadership-development/
+permalink: /student-development/student-leadership-development/
 description: ""
+variant: tiptap
 ---
-
-
 **Our Vision**<br>
 Student leaders aim to be the bridge for the student body, serving the school in the spirit of unity.
 

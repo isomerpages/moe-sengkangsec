@@ -1,6 +1,6 @@
 ---
 title: Code of Conduct
-permalink: /student-handbook/
+permalink: /student-development/student-handbook/code-of-conduct/
 variant: tiptap
 description: ""
 third_nav_title: Student Handbook

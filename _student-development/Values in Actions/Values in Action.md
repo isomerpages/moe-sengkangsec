@@ -1,20 +1,19 @@
 ---
 title: Values in Action
-permalink: /co-curriculum/character-and-citizenship-education-cce/values-in-action/
+permalink: /student-development/values-in-action/
 description: ""
-third_nav_title: Values in Action
+third_nav_title: Values in Actions
+variant: tiptap
 ---
-
-<img src="/images/CCE/Service%20Learning%20Framework.jpg"  
-     style="width:55%">
+<img src="/images/CCE/Service%20Learning%20Framework.jpg" style="width:55%">
 		 
 Service Learning forms a large part of the Values in Action Efforts at Seng Kang Secondary School.
 
-At the <u>end of the service learning programme</u>, students will
+At the&nbsp;<u>end of the service learning programme</u>, students will
 
 *   have a heightened sense of awareness of the needs of the community
 *   internalise the values of empathy and respect learnt through real life experiences
-*   acquire 21st century skills & competencies through the planning & implementing of the VIA
+*   acquire 21st century skills &amp; competencies through the planning &amp; implementing of the VIA
 
 The school embarks on both school wide and level-wide service learning projects to engage our students in authentic learning experiences that require them to:
 

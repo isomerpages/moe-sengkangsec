@@ -1,6 +1,6 @@
 ---
 title: Student Development
-permalink: /student-development/
+permalink: /student-development/student-development/
 variant: tiptap
 description: ""
 ---

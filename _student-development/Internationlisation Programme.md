@@ -1,8 +1,7 @@
 ---
 title: Internationlisation Programme
-permalink: /co-curriculum/character-and-citizenship-education-cce/internationlisation-programme/
+permalink: /student-development/internationalisation-programme/
 description: ""
-third_nav_title: Internationlisation Programme
 variant: tiptap
 ---
 <p><strong>Internationlisation Programme</strong>

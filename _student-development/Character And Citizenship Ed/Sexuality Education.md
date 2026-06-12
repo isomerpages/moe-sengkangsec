@@ -1,8 +1,8 @@
 ---
 title: Sexuality Education
-permalink: /co-curriculum/character-and-citizenship-education-cce/sexuality-education/
+permalink: /student-development/character-and-citizenship-education-cce/sexuality-education/
 description: ""
-third_nav_title: CCE
+third_nav_title: Character And Citizenship Ed
 variant: tiptap
 ---
 <h4><strong>MOE Sexuality Education in Schools</strong></h4>

@@ -1,6 +1,6 @@
 ---
 title: School Rules
-permalink: /school-rules/
+permalink: /student-development/student-handbook/school-rules/
 variant: tiptap
 description: ""
 third_nav_title: Student Handbook

@@ -1,10 +1,10 @@
 ---
 title: Character and Citizenship Education (CCE)
-permalink: /co-curriculum/character-and-citizenship-education-cce/
+permalink: /student-development/character-and-citizenship-education-cce/
 description: ""
-third_nav_title: CCE
+third_nav_title: Character And Citizenship Ed
+variant: tiptap
 ---
-
 **<font size="5">Beliefs</font>**<br>
 “The content of your character is your choice.&nbsp;<br>
 Day by day, what you think and what you do, is who you become”

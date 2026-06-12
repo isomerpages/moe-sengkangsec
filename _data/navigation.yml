@@ -42,23 +42,27 @@ links:
       - title: National Digital Literacy Prog
         url: /curriculum/NDLP
   - title: Student Development
-    url: /student-handbook/
+    url: /student-development/student-handbook/code-of-conduct
     sublinks:
       - title: Student Handbook
-        url: /student-handbook/
+        url: /student-development/student-handbook/code-of-conduct
       - title: Co-Curricular Activities
-        url: /co-curriculum/co-curricular-activities-cca
+        url: /student-development/co-curricular-activities-cca
       - title: Character & Citizenship Ed
-        url: /co-curriculum/character-and-citizenship-education-cce
+        url: /student-development/character-and-citizenship-education-cce
+      - title: Values in Actions
+        url: /student-development/values-in-action
+      - title: Internationlisation Programme
+        url: /student-development/internationalisation-programme/
+      - title: Student Development
+        url: /student-development/student-development
       - title: Student Leadership Development
-        url: /co-curriculum/student-leadership-development
+        url: /student-development/student-leadership-development
       - title: Student Management
-        url: /co-curriculum/student-management
+        url: /student-development/student-management
   - title: Useful Links
     url: /welcome-tea-info-session-for-secondary-1-2026/
     sublinks:
-      - title: School Calendar
-        url: /useful-links-1/school-calendar
       - title: Admissions
         url: /co-curriculum/co-curricular-activities-cca/direct-school-admission-dsa/
       - title: Students

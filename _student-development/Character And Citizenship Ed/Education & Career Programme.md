@@ -1,8 +1,8 @@
 ---
 title: Education & Career Programme
-permalink: /co-curriculum/character-and-citizenship-education-cce/education-n-career-programme/
+permalink: /student-development/character-and-citizenship-education-cce/education-n-career-programme/
 description: ""
-third_nav_title: CCE
+third_nav_title: Character And Citizenship Ed
 variant: tiptap
 ---
 <p>The aim of Education and Career Guidance (ECG) is to equip our students
