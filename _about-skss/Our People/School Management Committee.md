@@ -272,7 +272,7 @@ variant: tiptap
 <p>Mr Joseph Yuan Zhencheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operational Manager</p>
+<p>Operations Manager</p>
 </td>
 </tr>
 </tbody>
