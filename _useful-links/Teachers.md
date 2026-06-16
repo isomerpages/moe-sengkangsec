@@ -66,7 +66,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/683534b56f838064b3faca06" rel="noopener nofollow" target="_blank">Faulting Reporting Form</a>
+<p><a href="https://form.gov.sg/683534b56f838064b3faca06" rel="noopener nofollow" target="_blank">Fault Reporting Form</a>
 </p>
 </li>
 </ol>
