@@ -5,12 +5,9 @@ description: ""
 third_nav_title: Instructional Programme
 variant: tiptap
 ---
-<h4><strong>2026 Class Timetable</strong><br><sup>Click on the respective levels to access the 2026 Class Timetable:</sup></h4>
-<p><strong>TERM 2</strong>
-</p>
-<p><strong>Please refer to the link below.</strong>
-</p>
-<p><a href="https://sites.google.com/moe.edu.sg/skss-student-ict/timetables" rel="noopener nofollow" target="_blank">Term 2 Timetable</a>
+<h4><strong>2026 Class Timetable</strong></h4>
+<p>Please refer to the link below.</p>
+<p><a href="https://drive.google.com/file/d/1WX0UZopL-aFcJtq52_fTzAsVuP77kpm7/view" rel="noopener nofollow" target="_blank">Term 3 Timetable</a>
 </p>
 <h4><strong>2026 Internal Assessments</strong><br><sup>Click on the respective link to access the assessment details:</sup></h4>
 <p><strong>Sec 1 - 5 Weighted Assessments 2 / Milestone Assessments 2 Information</strong>
