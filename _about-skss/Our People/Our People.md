@@ -63,10 +63,10 @@ variant: tiptap
 <p>1-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Mateen Bin Noor</p>
+<p>Mr Khyber Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Khyber Singh</p>
+<p>Ms Sarah Goh Qin Ning</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -122,7 +122,7 @@ variant: tiptap
 <p>Mr Leong Soo Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wan Kuan Yi</p>
+<p>Ms Hamsavallii D/O Sodimani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -146,9 +146,8 @@ variant: tiptap
 </table>
 <p><strong>Secondary 2 Year Head: Dr Lim Yian Hoon</strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -157,9 +156,6 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>FT</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>FT</p>
@@ -176,10 +172,7 @@ variant: tiptap
 <p>Mr Chan Jit Ming Aaron</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rekhvinder Kaur Gill</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ashley Phui</p>
+<p>Mr Edwin Quek</p>
 </td>
 </tr>
 <tr>
@@ -192,9 +185,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Nuurulhuda Binte Hasbolah</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -206,22 +196,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Rabiaton Binte Laili</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Poon Lee Wang</p>
+<p>Mr Russell Ng Poh Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tham Si Hui Charis</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -234,9 +218,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Zenne Tan Chen Pei Yuan</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -247,9 +228,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norzahidah Binte Ma'az</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -262,9 +240,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Rengasamy Manonmani</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -275,9 +250,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Raman Vimalan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -365,7 +337,7 @@ variant: tiptap
 <p>Mr Danial Iylia Bin Roslin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sharie Ong Minyu</p>
+<p>Ms Rathna Raghesh</p>
 </td>
 </tr>
 <tr>
