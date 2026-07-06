@@ -10,6 +10,14 @@ variant: tiptap
 <p><a href="https://drive.google.com/file/d/1WX0UZopL-aFcJtq52_fTzAsVuP77kpm7/view" rel="noopener nofollow" target="_blank">Term 3 Timetable</a>
 </p>
 <h4><strong>2026 Internal Assessments</strong><br><sup>Click on the respective link to access the assessment details:</sup></h4>
+<p><strong>Sec 4 &amp; Sec 5 Preliminary Examination assessment information</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+<p></p>
 <p><strong>Sec 1 - 5 Weighted Assessments 2 / Milestone Assessments 2 Information</strong>
 </p>
 <ul data-tight="true" class="tight">
