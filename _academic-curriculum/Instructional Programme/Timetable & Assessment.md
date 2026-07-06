@@ -10,6 +10,39 @@ variant: tiptap
 <p><a href="https://drive.google.com/file/d/1WX0UZopL-aFcJtq52_fTzAsVuP77kpm7/view" rel="noopener nofollow" target="_blank">Term 3 Timetable</a>
 </p>
 <h4><strong>2026 Internal Assessments</strong><br><sup>Click on the respective link to access the assessment details:</sup></h4>
+<p><strong>Sec 4 &amp; Sec 5 Preliminary Examination Assessment Information</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/WA &amp; MA/2026/2026_Prelim_Exam_Assessment_Info___Sec_4E5N.pdf" rel="noopener nofollow" target="_blank">Sec 4E &amp; Sec 5N</a>
+</p>
+</li>
+<li>
+<p><a href="/files/WA &amp; MA/2026/2026_Prelim_Exam_Assessment_Info___Sec_4NA.pdf" rel="noopener nofollow" target="_blank">Sec 4NA</a>
+</p>
+</li>
+<li>
+<p><a href="/files/WA &amp; MA/2026/2026_Prelim_Exam_Assessment_Info___Sec_4NT.pdf" rel="noopener nofollow" target="_blank">Sec 4NT</a>
+</p>
+</li>
+</ul>
+<p><strong>Sec 4 &amp; Sec 5 Preliminary Examination Assessment Schedule</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/WA &amp; MA/2026/2026_SKSS_Sec_4E5N_Prelim_Exam_Schedule_final.pdf" rel="noopener nofollow" target="_blank">Sec 4E &amp; Sec 5N</a>
+</p>
+</li>
+<li>
+<p><a href="/files/WA &amp; MA/2026/2026_SKSS_Sec_4NA_Prelim_Exam_Schedule_final.pdf" rel="noopener nofollow" target="_blank">Sec 4NA</a>
+</p>
+</li>
+<li>
+<p><a href="/files/WA &amp; MA/2026/2026_SKSS_Sec_4NT_Prelim_Exam_Schedule_final.pdf" rel="noopener nofollow" target="_blank">Sec 4NT</a>
+</p>
+</li>
+</ul>
+<p></p>
 <p><strong>Sec 1 - 5 Weighted Assessments 2 / Milestone Assessments 2 Information</strong>
 </p>
 <ul data-tight="true" class="tight">
