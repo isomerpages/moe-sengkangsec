@@ -4,6 +4,11 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<h4><strong><u>Collection of ‘N’ &amp; ‘O’ level Testimonials</u></strong></h4>
+<p><strong><u>&nbsp;</u></strong>Graduated students who wish to collect their
+testimonials may do so from the school.</p>
+<p>To arrange for collection, please call the school at <strong>6388 7258</strong> to
+make an appointment before coming down. Collection time is 9am to 4pm.</p>
 <h4><strong><u>Release of Results - GCE O-Level Examination (2025)</u></strong></h4>
 <p><strong>&nbsp;</strong>
 </p>
