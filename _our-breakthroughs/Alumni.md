@@ -4,6 +4,199 @@ permalink: /alumni/
 variant: tiptap
 description: ""
 ---
+<h2>2026</h2>
+<p><strong>Ngee Ann Polytechnic</strong>
+</p>
+<p>Congratulations to our alumnus, <strong>Erfe Cyren Dahone Velasco</strong>,
+on receiving Diploma with Merit in Diploma in Early Childhood Development
+&amp; Education with Minor in Applied Psychology.</p>
+<p><strong>Republic Polytechnic</strong>
+</p>
+<p>Congratulations to our alumni who have achieved the Director’s Roll of
+Honour for AY2025 Semester 2, an award for students with a GPA in the top
+10% of their diploma cohort.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programme Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Admit Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year of Study as at AY2025 Semester 2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P. PRASIDDHA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Business Information Systems</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SIM WEI EN AMOS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Infocomm Security Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN LE JIE ADELLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Biotechnology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM RAYANNE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Health Services Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZENG YONGHUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Environmental &amp; Marine Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ADDISON TAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Environmental &amp; Marine Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOY XUE LIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Biological Sciences</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KOLLANOOR RANJITH ANDREW THOMAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Aerospace Engineering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD RAFIEQI HAQ BIN MOHAMAD RIZAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Pharmaceutical Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KEW JUN NING ZORENA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Hotel &amp; Leisure Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN LOK HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diploma in Business Process &amp; Engineering Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>2025</h2>
 <p><strong>Healthcare Scholarship</strong>
 </p>
