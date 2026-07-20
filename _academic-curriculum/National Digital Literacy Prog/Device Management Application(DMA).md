@@ -36,7 +36,7 @@ we encourage you to review the following parent guides: &nbsp;</p>
 <p>Parent Guide for Option A:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sgmoe.sharepoint.com/:b:/s/skss-allstaff/IQDuLJOZ4TkVRLyRu4tgLZTsAexk6nYWQUTW40e90QYS1II" rel="noopener noreferrer nofollow" target="_blank">ChromeOS DMA_Parent Option A.pdf</a>
+<p><a href="https://drive.google.com/file/d/18tWVTK0XGFZPH9pdCGfjkrI5Sx3H4Gdq/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">ChromeOS DMA_Parent Option A.pdf</a>
 </p>
 </td>
 </tr>
@@ -45,7 +45,7 @@ we encourage you to review the following parent guides: &nbsp;</p>
 <p>Parent Guide for Option B:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sgmoe.sharepoint.com/:b:/s/skss-allstaff/IQDx3NEbg-T7QYma4mdympJKARhpy_vSzVIXR0R0BNN6dHI" rel="noopener noreferrer nofollow" target="_blank">ChromeOS DMA_Parent Option B.pdf</a>
+<p><a href="https://drive.google.com/file/d/1CtbQru7HzeMvKVuCf4CLUv4qOZunZY0W/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">ChromeOS DMA_Parent Option B.pdf</a>
 </p>
 </td>
 </tr>
@@ -54,7 +54,7 @@ we encourage you to review the following parent guides: &nbsp;</p>
 <p>Parent Guide for Default Option :</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sgmoe.sharepoint.com/:b:/s/skss-allstaff/IQAKxSH7upzLT6Szva2GgO1aAUr2FRcqPOQWnl6k3M4XqkE" rel="noopener noreferrer nofollow" target="_blank">ChromeOS DMA_Parent Default Option.pdf</a>​&nbsp;</p>
+<p><a href="https://drive.google.com/file/d/1P7zhehHpisikdqafZ7Dy2BYxZBYbsOqY/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">ChromeOS DMA_Parent Default Option.pdf</a>​&nbsp;</p>
 </td>
 </tr>
 </tbody>
