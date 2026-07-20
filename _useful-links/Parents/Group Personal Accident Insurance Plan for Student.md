@@ -21,5 +21,5 @@ to the policy terms and conditions.</p>
 coverage details, online claim procedures, and important terms and conditions.</p>
 <p><a href="/files/Resources for parents/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">Detailed Factsheet on coverage</a>
 </p>
-<p>Submit insurance claims online at <a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
+<p>Submit insurance claims online at <a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">Student GPA Claims Portal</a>
 </p>
