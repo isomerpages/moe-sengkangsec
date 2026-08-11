@@ -30,7 +30,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/WA &amp; MA/2026/2026_SKSS_Sec_4E5N_Prelim_Exam_Schedule_final.pdf" rel="noopener nofollow" target="_blank">Sec 4E &amp; Sec 5N</a>
+<p><a href="/files/WA &amp; MA/2026/2026_SKSS_Sec_4E5N_Prelim_Exam_Schedule_rfinal.pdf" rel="noopener nofollow" target="_blank">Sec 4E &amp; Sec 5N</a>
 </p>
 </li>
 <li>
